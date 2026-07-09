@@ -1,0 +1,24 @@
+{
+    "run_id":  "2026-07-09-biweekly-review-analysis",
+    "title":  "2026-07-09 双周周会差评分析",
+    "date":  "2026-07-09",
+    "period":  "2026 双周周会",
+    "report_type":  "biweekly",
+    "platforms":  [
+                      "THD",
+                      "Lowes"
+                  ],
+    "totalReviews":  1292,
+    "lowStarReviews":  383,
+    "lowStarRate":  0.2964,
+    "strongNegativeReviews":  285,
+    "p0Count":  12,
+    "topThemes":  [
+                      "动力故障 104",
+                      "履约 35",
+                      "耐久 31"
+                  ],
+    "topRiskSku":  "THD WB53CULT",
+    "reportUrl":  "reports/2026-07-09-biweekly-review-analysis.html",
+    "notes":  "首期归档：THD & Lowes Top 10 / 核心新品差评分析"
+}
