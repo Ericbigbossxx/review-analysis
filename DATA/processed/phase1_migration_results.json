@@ -1,0 +1,33 @@
+{
+  "source_listing_records": 35,
+  "listing_migrated": 35,
+  "listing_skipped": 0,
+  "listing_duplicate_candidates": 0,
+  "source_review_records": 436,
+  "review_migrated": 436,
+  "review_duplicates": 0,
+  "review_unmatched": 0,
+  "review_missing_fields": 0,
+  "review_failed": 0,
+  "platform_url_mismatch": 0,
+  "needs_user_review": 0,
+  "schema_checksum": "90ff3e1dd4ba3aa8b868218f6c29678504626d26a8b671a4c93599f0bd0709ce",
+  "schema_tables": [
+    "collection_errors",
+    "collection_runs",
+    "evidence_files",
+    "listing_changes",
+    "listing_snapshots",
+    "products",
+    "ranking_snapshots",
+    "review_changes",
+    "review_snapshots",
+    "reviews",
+    "schema_migrations"
+  ],
+  "run_ids": [
+    "legacy-20260723-review-summary-lowes",
+    "legacy-20260723-review-summary-thd",
+    "legacy-20260723-review-summary-walmart"
+  ]
+}

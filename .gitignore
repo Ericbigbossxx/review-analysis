@@ -1,0 +1,31 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+browser_profile/
+*.cookie
+
+# Python and temporary files
+__pycache__/
+*.py[cod]
+*.tmp
+*.bak
+*.inspect.ndjson
+
+# Generated local operations data (retain directory placeholders)
+logs/*
+!logs/.gitkeep
+screenshots/*
+!screenshots/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
+database/*.db
+backups/
+
+# Quarantined legacy files may contain historical access parameters
+legacy/review_required/
+
+# Spreadsheet render/inspection artifacts
+config/*.xlsx.png
+config/*.xlsx.inspect.ndjson
+scripts/node_modules/

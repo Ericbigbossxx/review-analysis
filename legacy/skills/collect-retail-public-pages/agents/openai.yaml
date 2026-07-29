@@ -1,0 +1,4 @@
+interface:
+  display_name: "Retail Public-Page Collection"
+  short_description: "Audited retail search and product-page collection"
+  default_prompt: "Use $collect-retail-public-pages to collect public retail search results and validate exact product-detail URLs without bypassing access controls."

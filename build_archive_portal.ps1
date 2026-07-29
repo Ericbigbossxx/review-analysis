@@ -1,0 +1,101 @@
+﻿$ErrorActionPreference = 'Stop'
+
+function Html([object]$value) {
+  if ($null -eq $value) { return '' }
+  return [System.Net.WebUtility]::HtmlEncode([string]$value)
+}
+
+function Pct([double]$value) {
+  if ([double]::IsNaN($value) -or [double]::IsInfinity($value)) { return '0.0%' }
+  return ('{0:P1}' -f $value)
+}
+
+function Num([object]$value) {
+  if ($null -eq $value) { return '0' }
+  return ('{0:N0}' -f [double]$value)
+}
+
+$runId = '2026-07-09-biweekly-review-analysis'
+$reportTitle = '2026-07-09 双周周会差评分析'
+$reportType = 'biweekly'
+$reportUrl = "reports/$runId.html"
+
+$summary = @(Get-Content -LiteralPath '.\review_summary.json' -Encoding UTF8 -Raw | ConvertFrom-Json | ForEach-Object { $_ })
+$platforms = @($summary | Select-Object -ExpandProperty platform -Unique)
+
+foreach ($item in $summary) {
+  $low = [int]$item.rating1 + [int]$item.rating2 + [int]$item.rating3
+  $item | Add-Member -NotePropertyName lowStarReviews -NotePropertyValue $low -Force
+  $item | Add-Member -NotePropertyName lowStarRate -NotePropertyValue $(if ([int]$item.totalReviews -gt 0) { $low / [double]$item.totalReviews } else { 0 }) -Force
+}
+
+$totalReviews = ($summary | Measure-Object -Property totalReviews -Sum).Sum
+$lowStarReviews = ($summary | Measure-Object -Property lowStarReviews -Sum).Sum
+$lowStarRate = if ($totalReviews -gt 0) { $lowStarReviews / [double]$totalReviews } else { 0 }
+$strongNegative = ($summary | Measure-Object -Property negativeReviews -Sum).Sum
+$p0Count = @($summary | Where-Object { $_.urgency -match '^P0' }).Count
+$topRisk = $summary | Sort-Object @{ Expression = 'lowStarRate'; Descending = $true }, @{ Expression = 'lowStarReviews'; Descending = $true } | Select-Object -First 1
+
+$themeCounts = @{}
+foreach ($item in $summary) {
+  if ([string]::IsNullOrWhiteSpace($item.topThemes)) { continue }
+  foreach ($part in ([string]$item.topThemes).Split('/')) {
+    $trimmed = $part.Trim()
+    if ($trimmed -match '^(.*?)\s+(\d+)$') {
+      $theme = $Matches[1].Trim()
+      if (-not $themeCounts.ContainsKey($theme)) { $themeCounts[$theme] = 0 }
+      $themeCounts[$theme] += [int]$Matches[2]
+    }
+  }
+}
+$topThemes = @($themeCounts.GetEnumerator() | Sort-Object Value -Descending | Select-Object -First 3 | ForEach-Object { "$($_.Key) $($_.Value)" })
+
+New-Item -ItemType Directory -Force -Path '.\reports' | Out-Null
+Copy-Item -LiteralPath '.\pages_index.html' -Destination ".\reports\$runId.html" -Force
+
+$record = [ordered]@{
+  run_id = $runId
+  title = $reportTitle
+  date = '2026-07-09'
+  period = '2026 双周周会'
+  report_type = $reportType
+  platforms = $platforms
+  totalReviews = [int]$totalReviews
+  lowStarReviews = [int]$lowStarReviews
+  lowStarRate = [math]::Round([double]$lowStarRate, 4)
+  strongNegativeReviews = [int]$strongNegative
+  p0Count = [int]$p0Count
+  topThemes = $topThemes
+  topRiskSku = "$($topRisk.platform) $($topRisk.sku)"
+  reportUrl = $reportUrl
+  notes = '首期归档：THD & Lowes Top 10 / 核心新品差评分析'
+}
+
+$manifestPath = '.\archive_manifest.json'
+if (Test-Path -LiteralPath $manifestPath) {
+  $existing = @(Get-Content -LiteralPath $manifestPath -Encoding UTF8 -Raw | ConvertFrom-Json | ForEach-Object { $_ })
+  $existing = @($existing | Where-Object { $_.run_id -ne $runId })
+  $records = @($record) + $existing
+} else {
+  $records = @($record)
+}
+$records | ConvertTo-Json -Depth 8 | Set-Content -LiteralPath $manifestPath -Encoding UTF8
+
+$rows = New-Object System.Text.StringBuilder
+$cards = New-Object System.Text.StringBuilder
+foreach ($r in ($records | Sort-Object date -Descending)) {
+  $platformText = ($r.platforms -join ', ')
+  $themeText = ($r.topThemes -join ' / ')
+  [void]$cards.AppendLine('<article class="run" data-type="' + (Html $r.report_type) + '" data-platforms="' + (Html $platformText) + '" data-date="' + (Html $r.date) + '"><div class="run-top"><span class="badge">' + (Html $r.report_type) + '</span><span>' + (Html $r.date) + '</span></div><h2>' + (Html $r.title) + '</h2><p>' + (Html $r.notes) + '</p><div class="metrics"><b>' + (Num $r.lowStarReviews) + '</b><span>1-3星</span><b>' + (Pct ([double]$r.lowStarRate)) + '</b><span>低分率</span><b>' + $r.p0Count + '</b><span>P0</span></div><a href="' + (Html $r.reportUrl) + '">打开报告</a></article>')
+  [void]$rows.AppendLine('<tr data-type="' + (Html $r.report_type) + '" data-platforms="' + (Html $platformText) + '" data-date="' + (Html $r.date) + '"><td>' + (Html $r.date) + '</td><td><a href="' + (Html $r.reportUrl) + '">' + (Html $r.title) + '</a></td><td>' + (Html $r.report_type) + '</td><td>' + (Html $platformText) + '</td><td data-sort="' + $r.totalReviews + '">' + (Num $r.totalReviews) + '</td><td data-sort="' + $r.lowStarReviews + '">' + (Num $r.lowStarReviews) + '</td><td data-sort="' + $r.lowStarRate + '">' + (Pct ([double]$r.lowStarRate)) + '</td><td data-sort="' + $r.p0Count + '">' + $r.p0Count + '</td><td>' + (Html $r.topRiskSku) + '</td><td>' + (Html $themeText) + '</td></tr>')
+}
+
+$portal = @"
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Review Analysis Archive</title>
+<style>body{margin:0;background:#f4f7f6;color:#17212b;font-family:Arial,"Microsoft YaHei",sans-serif}header{background:#fff;border-bottom:1px solid #dbe3e8;padding:30px 42px}main{padding:24px 42px 48px}.sub{color:#66737f;line-height:1.6}.filters{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}.filters input,.filters select{border:1px solid #cbd6dd;border-radius:8px;padding:10px 12px;background:#fff}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}.run{background:#fff;border:1px solid #dbe3e8;border-radius:8px;padding:16px}.run-top{display:flex;justify-content:space-between;color:#66737f;font-size:13px}.badge{background:#edf5f2;color:#216653;border-radius:999px;padding:3px 8px;font-weight:800}.metrics{display:grid;grid-template-columns:repeat(3,auto 1fr);gap:4px 8px;margin:14px 0}.metrics b{font-size:22px}.metrics span{color:#66737f;font-size:12px;align-self:end}.run a{font-weight:800;color:#246b5a}section{margin-bottom:20px}.card{background:#fff;border:1px solid #dbe3e8;border-radius:8px;padding:18px}table{width:100%;border-collapse:separate;border-spacing:0;font-size:13px}th,td{border-bottom:1px solid #e1e8ed;padding:10px 8px;text-align:left;vertical-align:top}th{background:#f8fafb;position:sticky;top:0}.tablewrap{max-height:560px;overflow:auto;border:1px solid #dbe3e8;border-radius:8px}@media(max-width:800px){header,main{padding-left:18px;padding-right:18px}.metrics{grid-template-columns:repeat(3,1fr)}}</style></head><body>
+<header><h1>Review Analysis Archive</h1><div class="sub">长期存档页：每次差评分析都保存为独立报告，可按日期、期数/类型、平台筛选，并用于双周周会对比。</div><div class="filters"><input id="q" placeholder="搜索日期/标题/SKU/主题"><select id="type"><option value="">全部类型</option><option value="biweekly">双周周会</option><option value="ad_hoc">日常分析</option></select><select id="platform"><option value="">全部平台</option><option>THD</option><option>Lowes</option></select></div></header>
+<main><section class="grid" id="cards">$cards</section><section class="card"><h2>跨期对比</h2><div class="tablewrap"><table><thead><tr><th>日期</th><th>期数/标题</th><th>类型</th><th>平台</th><th>Review</th><th>1-3星</th><th>1-3星率</th><th>P0</th><th>Top风险SKU</th><th>Top主题</th></tr></thead><tbody id="rows">$rows</tbody></table></div></section></main>
+<script>const q=document.querySelector('#q'),type=document.querySelector('#type'),platform=document.querySelector('#platform'),items=[...document.querySelectorAll('[data-type]')];function apply(){const s=q.value.toLowerCase(),t=type.value,p=platform.value;items.forEach(el=>{const text=el.innerText.toLowerCase(),ok=(!s||text.includes(s))&&(!t||el.dataset.type===t)&&(!p||el.dataset.platforms.includes(p));el.style.display=ok?'':'none'})}q.oninput=type.onchange=platform.onchange=apply;</script></body></html>
+"@
+[System.IO.File]::WriteAllText((Join-Path (Get-Location) 'index.html'), $portal, [System.Text.UTF8Encoding]::new($true))
+Write-Host "Archive portal ready: index.html + reports/$runId.html + archive_manifest.json"

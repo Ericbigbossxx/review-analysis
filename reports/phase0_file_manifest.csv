@@ -1,0 +1,51 @@
+path,file_type,purpose,reusable,proposed_action,target_path,risk,notes
+DATA/Top10listing&新品 差评分析.xlsx,xlsx,Original Listing workbook,yes,KEEP,data/history/source_workbooks,medium,Read-only source; map only after approval
+listing_sources.json,json,Earlier THD and Lowes Listing extraction,yes,REVIEW_REQUIRED,data/history/listing_sources,medium,Uses legacy platform naming and no record_id
+review_summary.json,json,Legacy review aggregate copy,conditional,REVIEW_REQUIRED,data/history/legacy_root,medium,Retain until dated run reconciliation
+negative_reviews.json,json,Legacy review-detail copy,conditional,REVIEW_REQUIRED,data/history/legacy_root,high,No confirmed universal source review key
+archive_manifest.json,json,Published report archive index,yes,KEEP,archive_manifest.json,medium,Root Pages dependency
+index.html,html,Published archive portal,yes,KEEP,index.html,high,Do not move without Pages regression verification
+pages_index.html,html,Legacy dashboard artifact,conditional,DEPRECATE,reports/legacy,medium,Keep for reproducibility only
+publish_index.html,html,Legacy dashboard artifact,conditional,DEPRECATE,reports/legacy,medium,Keep for reproducibility only
+thd_lowes_review_dashboard.html,html,Legacy THD and Lowes dashboard,conditional,DEPRECATE,reports/legacy,medium,Keep for reproducibility only
+reports/2026-07-09-biweekly-review-analysis.html,html,Historical report,yes,KEEP,reports/2026-07-09-biweekly-review-analysis.html,high,Immutable published history
+reports/2026-07-23-biweekly-review-analysis.html,html,Historical report,yes,KEEP,reports/2026-07-23-biweekly-review-analysis.html,high,Immutable published history
+build_biweekly_report_data.ps1,powershell,Review aggregation and theme logic,yes,REFACTOR,modules/review_tracker,medium,Extract tested generic functions after approval
+build_review_dashboard.ps1,powershell,Legacy collection and dashboard builder,partial,REVIEW_REQUIRED,modules/review_tracker,high,Contains hard-coded third-party access parameters
+build_visual_dashboard.ps1,powershell,Report presentation builder,yes,REFACTOR,scripts/reporting,medium,Separate rendering from collection
+build_pages_dashboard.ps1,powershell,Older Pages dashboard builder,partial,DEPRECATE,scripts/legacy,medium,Duplicate presentation path
+build_static_dashboard.ps1,powershell,Older static dashboard builder,partial,DEPRECATE,scripts/legacy,medium,Duplicate presentation path
+build_archive_portal.ps1,powershell,Older archive portal builder,partial,DEPRECATE,scripts/legacy,medium,Superseded by update script
+update_archive_portal.ps1,powershell,Archive portal update builder,yes,REFACTOR,scripts/reporting,medium,Parameterize and regression-test first
+build_archive_portal.ps1,powershell,Archive portal generator,partial,DEPRECATE,scripts/legacy,medium,Retain without deletion
+.nojekyll,config,GitHub Pages control file,yes,KEEP,.nojekyll,high,Published-site dependency
+runs/2026-07-23-biweekly-review-analysis/review_summary.json,json,Dated review aggregate,yes,KEEP,data/history/2026-07-23,high,Approved copy only
+runs/2026-07-23-biweekly-review-analysis/low_star_reviews.json,json,Dated readable low-star reviews,yes,KEEP,data/history/2026-07-23,high,Approved copy only
+runs/2026-07-23-biweekly-review-analysis/qa_report.json,json,Data QA evidence,yes,KEEP,data/history/2026-07-23,medium,Retain with source data
+runs/2026-07-23-biweekly-review-analysis/listing_sources.json,json,Dated Listing source map,yes,KEEP,data/history/2026-07-23,medium,Input to record_id mapping
+runs/2026-07-23-biweekly-review-analysis/listing_sources_bv.json,json,Bazaarvoice source map,conditional,KEEP,data/history/2026-07-23,medium,Technical evidence only
+runs/2026-07-23-biweekly-review-analysis/listing_sources_walmart.json,json,Walmart source map,conditional,KEEP,data/history/2026-07-23,medium,Technical evidence only
+runs/2026-07-23-biweekly-review-analysis/review_summary_bv.json,json,Bazaarvoice intermediate aggregate,conditional,KEEP,data/history/2026-07-23,medium,Technical evidence only
+runs/2026-07-23-biweekly-review-analysis/low_star_reviews_bv.json,json,Bazaarvoice intermediate reviews,conditional,KEEP,data/history/2026-07-23,high,Review identity gate applies
+runs/2026-07-23-biweekly-review-analysis/walmart_raw.json,json,Walmart raw response evidence,conditional,KEEP,data/history/2026-07-23,high,No reuse without rules review
+runs/2026-07-23-biweekly-review-analysis/walmart_api_probe.json,json,Walmart API probe evidence,no,REVIEW_REQUIRED,data/history/2026-07-23,high,Do not treat as approved adapter
+runs/2026-07-23-biweekly-review-analysis/walmart_script_matches.json,json,Walmart script analysis evidence,no,REVIEW_REQUIRED,data/history/2026-07-23,high,Do not treat as approved adapter
+runs/2026-07-23-biweekly-review-analysis/walmart_script_urls.json,json,Walmart script URL evidence,no,REVIEW_REQUIRED,data/history/2026-07-23,high,Do not treat as approved adapter
+runs/2026-07-23-biweekly-review-analysis/walmart_build_manifest.js,javascript,Captured storefront build artifact,no,KEEP,data/history/2026-07-23,high,Immutable technical evidence
+runs/2026-07-23-biweekly-review-analysis/walmart_ip_page_chunk.js,javascript,Captured storefront artifact,no,KEEP,data/history/2026-07-23,high,Immutable technical evidence
+runs/2026-07-23-biweekly-review-analysis/pages_reviews_product_[id]-ca631406f3b0e336.js,javascript,Captured storefront artifact,no,KEEP,data/history/2026-07-23,high,Immutable technical evidence
+runs/2026-07-23-biweekly-review-analysis/bv_collection_preview.html,html,Bazaarvoice collection preview,conditional,KEEP,data/history/2026-07-23,high,Technical evidence only
+runs/2026-07-23-biweekly-review-analysis/*.js,javascript,Captured platform build chunks,conditional,KEEP,data/history/2026-07-23,high,12 additional immutable artifacts; do not execute
+config/listing_master.xlsx,xlsx,New unified blank Listing Master,yes,KEEP,config/listing_master.xlsx,low,Phase 0 template with no fabricated Listings
+database/schema.sql,sql,Canonical target SQLite DDL,yes,KEEP,database/schema.sql,low,Data-free schema
+database/migrations/0001_initial_schema.sql,sql,Initial migration metadata,yes,KEEP,database/migrations/0001_initial_schema.sql,low,Apply canonical schema in controlled session
+scripts/apply_initial_schema.py,python,Approval-gated SQLite schema initializer,yes,KEEP,scripts/apply_initial_schema.py,low,Does not collect or migrate business data
+scripts/create_listing_master.mjs,javascript,Reproducible blank Listing Master template builder,yes,KEEP,scripts/create_listing_master.mjs,low,No Listing values are embedded
+AGENTS.md,markdown,Project governance rules,yes,KEEP,AGENTS.md,low,Phase 0 control document
+docs/platform_collection_rules.md,markdown,Platform compliance rules,yes,KEEP,docs/platform_collection_rules.md,low,Applies to both modules
+docs/data_dictionary.md,markdown,Field and entity definitions,yes,KEEP,docs/data_dictionary.md,low,Schema companion
+modules/,directory,New module boundary,no,KEEP,modules/,low,Placeholders only in Phase 0
+platforms/,directory,New platform-adapter boundary,no,KEEP,platforms/,low,Placeholders only in Phase 0
+shared/,directory,New shared-service boundary,no,KEEP,shared/,low,Placeholders only in Phase 0
+data/,directory,New governed data boundary,no,KEEP,data/,low,No historical file moved
+screenshots/,logs/,tests/,directory,Future operations and validation paths,no,KEEP,screenshots/ logs/ tests/,low,Placeholders only in Phase 0
