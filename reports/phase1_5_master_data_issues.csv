@@ -1,0 +1,107 @@
+issue_id,severity,record_id,platform,field,issue_type,current_value,recommended_action,blocking_phase2,notes
+ISS-001,MEDIUM,THD_WBP31BCF,THD,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-002,HIGH,THD_WBP31BCF,THD,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-003,MEDIUM,THD_WBP31BCF,THD,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-004,MEDIUM,THD_WBP52BCI,THD,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-005,HIGH,THD_WBP52BCI,THD,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-006,MEDIUM,THD_WBP52BCI,THD,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-007,MEDIUM,THD_WBPMT26TS,THD,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-008,HIGH,THD_WBPMT26TS,THD,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-009,MEDIUM,THD_WBPMT26TS,THD,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-010,MEDIUM,THD_WBP31TS,THD,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-011,HIGH,THD_WBP31TS,THD,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-012,MEDIUM,THD_WBP31TS,THD,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-013,MEDIUM,THD_WB26GTC,THD,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-014,HIGH,THD_WB26GTC,THD,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-015,MEDIUM,THD_WB26GTC,THD,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-016,MEDIUM,THD_WBBPBL43,THD,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-017,HIGH,THD_WBBPBL43,THD,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-018,MEDIUM,THD_WBBPBL43,THD,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-019,MEDIUM,THD_WB53CULT,THD,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-020,HIGH,THD_WB53CULT,THD,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-021,MEDIUM,THD_WB53CULT,THD,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-022,MEDIUM,THD_WB52CCBPB,THD,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-023,HIGH,THD_WB52CCBPB,THD,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-024,MEDIUM,THD_WB52CCBPB,THD,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-025,MEDIUM,THD_SKRMS4,THD,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-026,HIGH,THD_SKRMS4,THD,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-027,MEDIUM,THD_SKRMS4,THD,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-028,MEDIUM,THD_WBP52TS,THD,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-029,HIGH,THD_WBP52TS,THD,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-030,MEDIUM,THD_WBP52TS,THD,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-031,MEDIUM,LOWES_ORIONX7,LOWES,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-032,HIGH,LOWES_ORIONX7,LOWES,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-033,MEDIUM,LOWES_ORIONX7,LOWES,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-034,MEDIUM,LOWES_RMA1202L20VU,LOWES,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-035,HIGH,LOWES_RMA1202L20VU,LOWES,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-036,MEDIUM,LOWES_RMA1202L20VU,LOWES,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-037,MEDIUM,LOWES_WB20V16LM,LOWES,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-038,HIGH,LOWES_WB20V16LM,LOWES,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-039,MEDIUM,LOWES_WB20V16LM,LOWES,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-040,MEDIUM,LOWES_SKRMV3,LOWES,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-041,HIGH,LOWES_SKRMV3,LOWES,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-042,MEDIUM,LOWES_SKRMV3,LOWES,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-043,MEDIUM,LOWES_WB40V18PLM,LOWES,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-044,HIGH,LOWES_WB40V18PLM,LOWES,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-045,MEDIUM,LOWES_WB40V18PLM,LOWES,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-046,MEDIUM,LOWES_SKRMX3PLUS,LOWES,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-047,HIGH,LOWES_SKRMX3PLUS,LOWES,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-048,MEDIUM,LOWES_SKRMX3PLUS,LOWES,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-049,MEDIUM,LOWES_WB40V14PLM,LOWES,product_name,IDENTITY_UNCERTAIN,[blank],Confirm the product name from retained source or manual page review; do not infer it.,FALSE,Historical source contains no product name.
+ISS-050,MEDIUM,LOWES_WB40V14PLM,LOWES,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-051,HIGH,LOWES_WB40V14PLM,LOWES,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-052,MEDIUM,LOWES_WB40V14PLM,LOWES,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-053,MEDIUM,LOWES_WB20VTRSBL,LOWES,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-054,HIGH,LOWES_WB20VTRSBL,LOWES,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-055,MEDIUM,LOWES_WB20VTRSBL,LOWES,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-056,MEDIUM,LOWES_WB20VPS,LOWES,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-057,HIGH,LOWES_WB20VPS,LOWES,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-058,MEDIUM,LOWES_WB20VPS,LOWES,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-059,MEDIUM,LOWES_WB20VTAB,LOWES,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-060,HIGH,LOWES_WB20VTAB,LOWES,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-061,MEDIUM,LOWES_WB20VTAB,LOWES,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-062,MEDIUM,WALMART_WB20VTAB,WALMART,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-063,HIGH,WALMART_WB20VTAB,WALMART,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-064,MEDIUM,WALMART_WB20VTAB,WALMART,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-065,MEDIUM,WALMART_WB20V16LM,WALMART,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-066,HIGH,WALMART_WB20V16LM,WALMART,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-067,MEDIUM,WALMART_WB20V16LM,WALMART,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-068,MEDIUM,WALMART_WB20VCOMBODP,WALMART,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-069,HIGH,WALMART_WB20VCOMBODP,WALMART,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-070,MEDIUM,WALMART_WB20VCOMBODP,WALMART,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-071,MEDIUM,WALMART_WB40V18PLM,WALMART,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-072,HIGH,WALMART_WB40V18PLM,WALMART,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-073,MEDIUM,WALMART_WB40V18PLM,WALMART,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-074,MEDIUM,WALMART_WB40V14PLM,WALMART,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-075,HIGH,WALMART_WB40V14PLM,WALMART,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-076,MEDIUM,WALMART_WB40V14PLM,WALMART,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-077,MEDIUM,WALMART_WB53CULT,WALMART,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-078,HIGH,WALMART_WB53CULT,WALMART,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-079,MEDIUM,WALMART_WB53CULT,WALMART,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-080,MEDIUM,WALMART_WB40VCOMBO,WALMART,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-081,HIGH,WALMART_WB40VCOMBO,WALMART,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-082,MEDIUM,WALMART_WB40VCOMBO,WALMART,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-083,MEDIUM,WALMART_WBPMT26P,WALMART,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-084,HIGH,WALMART_WBPMT26P,WALMART,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-085,MEDIUM,WALMART_WBPMT26P,WALMART,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-086,MEDIUM,WALMART_WB26MTSE,WALMART,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-087,HIGH,WALMART_WB26MTSE,WALMART,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-088,MEDIUM,WALMART_WB26MTSE,WALMART,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-089,MEDIUM,WALMART_WB40VTBCC,WALMART,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-090,HIGH,WALMART_WB40VTBCC,WALMART,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-091,MEDIUM,WALMART_WB40VTBCC,WALMART,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-092,MEDIUM,WALMART_SKRMX5,WALMART,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-093,HIGH,WALMART_SKRMX5,WALMART,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-094,MEDIUM,WALMART_SKRMX5,WALMART,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-095,MEDIUM,WALMART_SKRMX3PLUS,WALMART,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-096,HIGH,WALMART_SKRMX3PLUS,WALMART,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-097,MEDIUM,WALMART_SKRMX3PLUS,WALMART,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-098,MEDIUM,WALMART_ORIONX7,WALMART,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-099,HIGH,WALMART_ORIONX7,WALMART,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-100,MEDIUM,WALMART_ORIONX7,WALMART,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-101,MEDIUM,WALMART_SKRMS4,WALMART,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-102,HIGH,WALMART_SKRMS4,WALMART,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-103,MEDIUM,WALMART_SKRMS4,WALMART,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
+ISS-104,MEDIUM,WALMART_SKRMV3,WALMART,model,MISSING_MODEL,[blank],User to confirm product model before Phase 2 selection.,FALSE,No model was inferred from product name.
+ISS-105,HIGH,WALMART_SKRMV3,WALMART,primary_keyword,MISSING_PRIMARY_KEYWORD,[blank],User to provide the intended primary keyword; do not infer it.,FALSE,Blocks rank-monitor scope approval only.
+ISS-106,MEDIUM,WALMART_SKRMV3,WALMART,zip_code,INVALID_ZIP_CODE,[blank],User to provide a five-digit US ZIP if rank monitoring is requested.,FALSE,ZIP is required only for applicable location-sensitive rank scope.
