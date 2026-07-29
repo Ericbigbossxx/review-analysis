@@ -88,8 +88,9 @@ def migrate(database_path: Path) -> dict:
     duplicate_candidates = len(record_ids) - len(set(record_ids))
     results = {
         "source_listing_records": len(summaries), "listing_migrated": 0, "listing_skipped": 0,
+        "listing_existing": 0,
         "listing_duplicate_candidates": duplicate_candidates, "source_review_records": len(reviews),
-        "review_migrated": 0, "review_duplicates": 0, "review_unmatched": 0, "review_missing_fields": 0,
+        "review_migrated": 0, "review_existing": 0, "review_duplicates": 0, "review_unmatched": 0, "review_missing_fields": 0,
         "review_failed": 0, "platform_url_mismatch": sum(row["migration_status"] == "PLATFORM_URL_MISMATCH" for row in drafts),
         "needs_user_review": sum(row["migration_status"] != "READY_FOR_USER_REVIEW" for row in drafts),
         "schema_checksum": "", "schema_tables": [], "run_ids": [],
@@ -108,6 +109,11 @@ def migrate(database_path: Path) -> dict:
                 )
                 results["run_ids"].append(run_id)
             for item, draft in zip(summaries, drafts):
+                existing_product = connection.execute("SELECT 1 FROM products WHERE record_id=?", (draft["record_id"],)).fetchone()
+                if existing_product:
+                    results["listing_existing"] += 1
+                else:
+                    results["listing_migrated"] += 1
                 upsert_product(connection, {
                     "record_id": draft["record_id"], "active": 0, "platform": draft["platform"], "brand": draft["brand"] or None,
                     "product_line": draft["product_line"] or None, "internal_sku": draft["internal_sku"], "model": None,
@@ -118,7 +124,6 @@ def migrate(database_path: Path) -> dict:
                     "source_row_number": draft["source_row"], "source_hash": None, "identity_status": "NEEDS_USER_CONFIRMATION" if draft["migration_status"] != "READY_FOR_USER_REVIEW" else "CONFIRMED_FROM_SOURCE",
                     "legacy_source": "review_summary.json", "migrated_at": datetime.now(timezone.utc).isoformat(),
                 })
-                results["listing_migrated"] += 1
                 connection.execute(
                     "INSERT INTO review_snapshots (run_id,record_id,observed_at,source_system,capture_status,average_rating,total_review_count,rating_1_count,rating_2_count,rating_3_count,rating_4_count,rating_5_count,readable_review_count,raw_evidence_path) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?) ON CONFLICT(run_id,record_id) DO UPDATE SET average_rating=excluded.average_rating,total_review_count=excluded.total_review_count,rating_1_count=excluded.rating_1_count,rating_2_count=excluded.rating_2_count,rating_3_count=excluded.rating_3_count,rating_4_count=excluded.rating_4_count,rating_5_count=excluded.rating_5_count,readable_review_count=excluded.readable_review_count",
                     (run_id_for(draft["platform"]), draft["record_id"], item.get("lastReview") or "2026-07-23T00:00:00+00:00", "legacy_review_summary_json", "CAPTURED", item.get("avgRating"), item.get("totalReviews"), item.get("rating1"), item.get("rating2"), item.get("rating3"), item.get("rating4"), item.get("rating5"), item.get("textNegativeReviews"), draft["source_file"]),
@@ -142,6 +147,7 @@ def migrate(database_path: Path) -> dict:
                 seen_keys.add(pair)
                 exists = connection.execute("SELECT 1 FROM reviews WHERE record_id=? AND legacy_review_key=?", pair).fetchone()
                 if exists:
+                    results["review_existing"] += 1
                     continue
                 connection.execute(
                     "INSERT INTO reviews (record_id,first_seen_run_id,last_seen_run_id,source_system,source_review_id,platform_review_id,review_id_source,legacy_review_key,identity_confidence,rating,review_date,title,review_text,verified_purchase,syndicated,raw_evidence_path,source_file,source_row,migrated_at) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",

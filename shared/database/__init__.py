@@ -32,14 +32,26 @@ def apply_initial_schema(connection: sqlite3.Connection, schema_path: Path | str
 
 @contextmanager
 def transaction(connection: sqlite3.Connection) -> Iterator[sqlite3.Connection]:
+    nested = connection.in_transaction
+    savepoint = "controlled_transaction"
     try:
-        connection.execute("BEGIN")
+        if nested:
+            connection.execute(f"SAVEPOINT {savepoint}")
+        else:
+            connection.execute("BEGIN")
         yield connection
     except Exception:
-        connection.rollback()
+        if nested:
+            connection.execute(f"ROLLBACK TO {savepoint}")
+            connection.execute(f"RELEASE {savepoint}")
+        else:
+            connection.rollback()
         raise
     else:
-        connection.commit()
+        if nested:
+            connection.execute(f"RELEASE {savepoint}")
+        else:
+            connection.commit()
 
 
 def upsert_product(connection: sqlite3.Connection, row: dict[str, object]) -> None:

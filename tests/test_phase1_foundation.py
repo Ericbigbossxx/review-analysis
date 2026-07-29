@@ -3,6 +3,7 @@ from __future__ import annotations
 import sqlite3
 import tempfile
 import unittest
+import csv
 from pathlib import Path
 
 from shared.database import apply_initial_schema, connect, transaction
@@ -31,6 +32,7 @@ class Phase1FoundationTests(unittest.TestCase):
             apply_initial_schema(connection, ROOT / "database" / "schema.sql")
             with self.assertRaises(sqlite3.IntegrityError):
                 connection.execute("INSERT INTO listing_snapshots (run_id, record_id, observed_at, source_system, capture_status) VALUES ('missing','missing','2026-07-23T00:00:00Z','test','CAPTURED')")
+            connection.rollback()
             with self.assertRaises(RuntimeError):
                 with transaction(connection):
                     connection.execute("INSERT INTO collection_runs (run_id,module_name,platform,run_mode,started_at,status,capture_status,source_system) VALUES ('rollback','review_tracker','THD','migration','2026-07-23T00:00:00Z','RUNNING','NOT_STARTED','test')")
@@ -47,6 +49,14 @@ class Phase1FoundationTests(unittest.TestCase):
 
     def test_sensitive_logging_redaction(self) -> None:
         self.assertEqual({"token": "[REDACTED]", "nested": {"api_key": "[REDACTED]", "safe": "ok"}}, redact({"token": "secret", "nested": {"api_key": "secret", "safe": "ok"}}))
+
+    def test_backup_manifest_is_complete(self) -> None:
+        backups = sorted((ROOT / "backups").glob("phase1_pre_migration_*"))
+        self.assertTrue(backups)
+        with (backups[-1] / "manifest.csv").open(encoding="utf-8-sig", newline="") as handle:
+            rows = list(csv.DictReader(handle))
+        self.assertEqual(79, sum(row["backup_status"] == "VERIFIED" for row in rows))
+        self.assertEqual(1, sum(row["backup_status"] == "DIRECTORY_BACKED_UP" for row in rows))
 
 
 if __name__ == "__main__":
