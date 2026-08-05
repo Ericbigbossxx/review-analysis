@@ -1,4 +1,29 @@
-[
+﻿[
+    {
+        "run_id":  "2026-08-06-biweekly-review-analysis",
+        "title":  "2026-08-06 THD / Lowe\u0027s / Walmart Top 10 \u0026 核心新品差评分析",
+        "date":  "2026-08-06",
+        "period":  "2026 双周周会",
+        "report_type":  "biweekly",
+        "platforms":  [
+                          "THD",
+                          "Lowes",
+                          "Walmart"
+                      ],
+        "totalReviews":  2182,
+        "lowStarReviews":  570,
+        "lowStarRate":  0.2612,
+        "strongNegativeReviews":  419,
+        "p0Count":  16,
+        "topThemes":  [
+                          "启动/动力故障 151",
+                          "客服/履约 62",
+                          "电池/充电 61"
+                      ],
+        "topRiskSku":  "THD WBP52BCI",
+        "reportUrl":  "reports/2026-08-06-biweekly-review-analysis.html",
+        "notes":  "THD / Lowe\u0027s / Walmart Top 10 与核心新品；34/35 Listing 当前可用，WB40VCOMBO 页面失效未计入总量"
+    },
     {
         "run_id":  "2026-07-23-biweekly-review-analysis",
         "title":  "2026-07-23 双周周会差评分析",
