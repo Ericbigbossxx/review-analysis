@@ -10,11 +10,11 @@
                           "THD",
                           "Walmart"
                       ],
-        "totalReviews":  1845,
-        "lowStarReviews":  458,
-        "lowStarRate":  0.2482,
-        "strongNegativeReviews":  337,
-        "p0Count":  21,
+        "totalReviews":  2067,
+        "lowStarReviews":  527,
+        "lowStarRate":  0.255,
+        "strongNegativeReviews":  388,
+        "p0Count":  12,
         "topThemes":  [
                           "启动/动力故障 153",
                           "客服/履约 62",
@@ -22,7 +22,7 @@
                       ],
         "topRiskSku":  "THD WBP52BCI",
         "reportUrl":  "reports/2026-08-14-weekly-review-analysis.html",
-        "notes":  "Walmart/THD/Lowes Top 清单周度差评分析(35 SKU;Walmart storefront 5/15 人工验证,10 个 VERIFICATION_REQUIRED)"
+        "notes":  "Walmart/THD/Lowes 34/35 SKU 周度差评分析;Walmart storefront 5/15 验证,9 SKU 用本期辅助 feed 统计,WB40VCOMBO 不可用"
     },
     {
         "run_id":  "2026-08-06-biweekly-review-analysis",
