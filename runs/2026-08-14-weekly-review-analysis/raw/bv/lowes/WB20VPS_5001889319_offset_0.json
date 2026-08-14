@@ -1,0 +1,1213 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 15,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "255168873",
+      "CID": "e2540cc4-5af0-5380-be8f-36b035ac585f",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-07-30T00:00:59.000+00:00",
+      "LastModificationTime": "2026-07-30T00:00:59.000+00:00",
+      "ProductId": "5001889319",
+      "OriginalProductName": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+      "CampaignId": "PPE_LARP_Store_ereceipt_Touch1_20260729_0459",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "0fdd9669-1a10-4b20-88fa-9dee8b32f647",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_28__1785368765kURLApJp",
+      "SubmissionTime": "2026-07-29T23:45:45.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "ReviewText": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Title": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "254351187",
+      "CID": "ded641a5-20d3-5189-b3a9-14efa5e542f5",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-07-25T19:45:46.000+00:00",
+      "LastModificationTime": "2026-07-25T19:45:46.000+00:00",
+      "ProductId": "5001889319",
+      "OriginalProductName": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+      "CampaignId": "PPE_LARP_Online_Touch1_20260718",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV",
+        "ReceivedFreeProduct"
+      ],
+      "AuthorId": "f4d7faaf-4c74-46f8-a7f0-a5cd80014dc1",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_26__17850077FdrlxS5f7D",
+      "SubmissionTime": "2026-07-25T19:29:37.000+00:00",
+      "ReviewText": "Ordered the Badger pole saw around the first of July to maintain trees.  Trees had been \"topped\" and trimmed Fall of 2025. As new branches began to emerge, I needed a tool to remove them. I've only used it once so far. It was fairly easy to assemble and operate. However, it was a little heavier than I expected. The included shoulder harness helps though. It would also be nice to include a starter bottle of oil with tool. I had to purchase a bottle of oil that will probably take some time to use based on my limited use of saw.",
+      "Title": "Sturdy little saw. Great price! Worth a try.",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "ReceivedFreeProduct": {
+          "Value": "Yes",
+          "Id": "ReceivedFreeProduct"
+        },
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "252691538",
+      "CID": "9d0f2db2-a2ed-5337-8d9f-6f337c3ccc03",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-07-10T15:15:21.000+00:00",
+      "LastModificationTime": "2026-08-05T14:23:32.000+00:00",
+      "ProductId": "5001889319",
+      "OriginalProductName": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+      "CampaignId": "PPE_LARP_Online_Touch2_20260709",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV",
+        "ReceivedFreeProduct"
+      ],
+      "AuthorId": "c329980b-e274-449b-b8bf-45132358fba8",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_27__17836953z20PxPJ3xT",
+      "SubmissionTime": "2026-07-10T14:56:36.000+00:00",
+      "ReviewText": "Was easy to put together.. not to heavy.. did great job cutting..",
+      "Title": "I was expecting chain .. doesn't come with it",
+      "UserNickname": "Roll Out",
+      "ContextDataValues": {
+        "ReceivedFreeProduct": {
+          "Value": "Yes",
+          "Id": "ReceivedFreeProduct"
+        },
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "247449031",
+      "CID": "a9a5097f-04ef-586c-a236-917841ff7e57",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-01-14T03:45:10.000+00:00",
+      "LastModificationTime": "2026-06-04T17:23:54.000+00:00",
+      "ProductId": "5001889319",
+      "OriginalProductName": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+      "CampaignId": "orderhistory_desktop",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "80ecd583-7b16-4011-b812-6a6ce1df5367",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zhwtp91zdgmlm3brac9r57nqny",
+          "SubmissionTime": "2026-07-13T21:16:38.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17683612D0baYWYle2",
+      "SubmissionTime": "2026-01-14T03:27:31.000+00:00",
+      "ReviewText": "I bought the pole saw to cut my tree branches, several of my neighbors borrowed it and loved it so much that they went and bought one for themselves, I had my son cut some large branches off the stupid cotton trees and really liked the pole saw, so I'm giving him one for his birthday, the saw is very easy to use, has good balance and cuts a lot on 1 charge.",
+      "Title": "works great",
+      "UserNickname": "Littlecolt",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "245994943",
+      "CID": "00c6446f-74ab-520d-8760-bf7e5f91683c",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-11-19T16:45:07.000+00:00",
+      "LastModificationTime": "2026-08-05T14:23:57.000+00:00",
+      "ProductId": "5001889319",
+      "OriginalProductName": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+      "CampaignId": "PPE_MPS_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "3a6c69bf-a4f5-485d-aa79-06ab2305c776",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 7,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 7,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17635695FikIGV7OMS",
+      "SubmissionTime": "2025-11-19T16:26:38.000+00:00",
+      "ReviewText": "Great pole saw. Does not come with chain oil",
+      "Title": "Pole Saw",
+      "UserNickname": "Johnny5",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "245448927",
+      "CID": "ed5f7c7d-18e5-5683-b70c-f76fb963159f",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-10-25T23:45:05.000+00:00",
+      "LastModificationTime": "2026-02-10T21:31:27.000+00:00",
+      "ProductId": "5001889319",
+      "OriginalProductName": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "8c18264e09c2607b527610e340718b13617072696c73686f7765727331303440676d61696c2e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17614358mtkvqJ5pc8",
+      "SubmissionTime": "2025-10-25T23:43:24.000+00:00",
+      "Title": "Very good product. It works great",
+      "UserNickname": "Marcia",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "ReviewText": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "241711127",
+      "CID": "da0310fe-9641-5dad-9083-3de605303099",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-05-03T20:15:09.000+00:00",
+      "LastModificationTime": "2026-06-04T17:24:04.000+00:00",
+      "ProductId": "5001889319",
+      "OriginalProductName": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+      "CampaignId": "orderdetails_desktop",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "86c20e1e-0290-436a-8832-5d1a621c9b42",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.7142860293388367,
+      "TotalFeedbackCount": 7,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 5,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17463021ordaSVqieD",
+      "SubmissionTime": "2025-05-03T19:55:02.000+00:00",
+      "ReviewText": "Works good",
+      "UserNickname": "Linda",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Title": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "241271905",
+      "CID": "a8035371-ecbc-55eb-b006-8e243d219e5c",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-04-13T21:15:08.000+00:00",
+      "LastModificationTime": "2026-06-04T17:24:10.000+00:00",
+      "ProductId": "5001889319",
+      "OriginalProductName": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+      "CampaignId": "orderdetails_desktop",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "c1d74ae2-1a42-47a0-a425-124e33322868",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.7142860293388367,
+      "TotalFeedbackCount": 7,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 5,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17445776B0zbtyf0Qf",
+      "SubmissionTime": "2025-04-13T20:54:11.000+00:00",
+      "ReviewText": "works great...",
+      "Title": "Smooth",
+      "UserNickname": "dude",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "230580082",
+      "CID": "b742172d-bc28-5403-b7d0-a24fe541b35d",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-12-27T23:15:11.000+00:00",
+      "LastModificationTime": "2026-06-04T17:24:19.000+00:00",
+      "ProductId": "5001889319",
+      "OriginalProductName": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+      "CampaignId": "PPE_LARP_Online_App_Touch2_20231227",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV",
+        "ReceivedFreeProduct"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHello, We are glad you had no trouble putting together the pole saw. Thanks for the feedback!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-02-05T21:09:38.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "8dbab661-db28-438e-82b6-beaf8c68859a",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 6,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_27__17037173k5j5MiT2HL",
+      "SubmissionTime": "2023-12-27T22:49:09.000+00:00",
+      "ReviewText": "Easy to put together and as described. Easy to use and handle.",
+      "Title": "Great tool",
+      "UserNickname": "HeyAndi",
+      "ContextDataValues": {
+        "ReceivedFreeProduct": {
+          "Value": "Yes",
+          "Id": "ReceivedFreeProduct"
+        },
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "218127244",
+      "CID": "8458bdba-8288-5a55-b9b4-d60b5b4c8fe7",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-07-06T02:00:05.000+00:00",
+      "LastModificationTime": "2026-06-04T17:24:51.000+00:00",
+      "ProductId": "5001889319",
+      "OriginalProductName": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "ea932b0f-f228-4342-956c-4a2ba78642d8",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.4000000059604645,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 3,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__16570710uIyFb7zhf2",
+      "SubmissionTime": "2022-07-06T01:30:16.000+00:00",
+      "ReviewText": "It was very easy to put together.  Haven’t been able to play with it yet.",
+      "Title": "Wish would just be able to use the saw W/o extensi",
+      "UserNickname": "Shebusxxo3256",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "215594047",
+      "CID": "63510404-3016-5a97-bbcb-d28ef6e36f93",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-07-13T18:30:07.000+00:00",
+      "LastModificationTime": "2026-06-02T01:24:56.000+00:00",
+      "ProductId": "5001889319",
+      "OriginalProductName": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "b2fd0a14-e41b-4bad-a661-7e76cea8bb1b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zp5ok5gmo6oj1v3fpst3l9j64y",
+          "SubmissionTime": "2022-07-13T18:29:52.000+00:00"
+        },
+        {
+          "AuthorId": "z9h7aib28e2xx9mpo38uepqzq9",
+          "SubmissionTime": "2022-06-22T11:03:07.000+00:00"
+        },
+        {
+          "AuthorId": "zpakkcxh5r1gyeaeha6l6190q8",
+          "SubmissionTime": "2022-06-18T17:20:49.000+00:00"
+        },
+        {
+          "AuthorId": "z2vxxi846pxy6czq852y4tlp7d",
+          "SubmissionTime": "2022-06-01T15:21:37.000+00:00"
+        },
+        {
+          "AuthorId": "Guest",
+          "SubmissionTime": "2022-04-12T18:02:21.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 5,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.2857140004634857,
+      "TotalFeedbackCount": 21,
+      "TotalNegativeFeedbackCount": 15,
+      "TotalPositiveFeedbackCount": 6,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__16474647mRjk81sRxN",
+      "SubmissionTime": "2022-03-16T21:06:05.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "ReviewText": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Title": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "211497276",
+      "CID": "c2027f35-ebd7-5b4f-8947-d0fc94911f84",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-07-27T20:45:07.000+00:00",
+      "LastModificationTime": "2025-11-28T17:35:15.000+00:00",
+      "ProductId": "5001889319",
+      "OriginalProductName": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+      "CampaignId": "PPE_online_PEN_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "a0a86443-70b1-4372-9354-2881c3538758",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zhc39zziqyakqe6duc8gjfq789",
+          "SubmissionTime": "2026-05-25T15:41:59.000+00:00"
+        },
+        {
+          "AuthorId": "zlmyc5xutke9u4a28e4jo0vwzq",
+          "SubmissionTime": "2023-03-02T00:08:44.000+00:00"
+        },
+        {
+          "AuthorId": "z33efethq72ke7bg39dhy9qp6i",
+          "SubmissionTime": "2022-07-27T20:39:24.000+00:00"
+        },
+        {
+          "AuthorId": "zlw76ysqmk233t4mkb4zvxqc1o",
+          "SubmissionTime": "2022-06-18T17:20:43.000+00:00"
+        },
+        {
+          "AuthorId": "zmk80814cmbi0w0g6j79qht9t5",
+          "SubmissionTime": "2022-05-20T01:21:38.000+00:00"
+        },
+        {
+          "AuthorId": "zbc65u5oecqowdqqm99a86m9r5",
+          "SubmissionTime": "2022-05-03T16:21:27.000+00:00"
+        },
+        {
+          "AuthorId": "zeiay287julh6974xf82wfev5k",
+          "SubmissionTime": "2021-11-09T17:43:20.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 7,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": true,
+      "IsRecommended": false,
+      "Helpfulness": 0.26315799355506897,
+      "TotalFeedbackCount": 19,
+      "TotalNegativeFeedbackCount": 14,
+      "TotalPositiveFeedbackCount": 5,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__16347904r2fOtcrLxb",
+      "SubmissionTime": "2021-10-21T04:27:25.000+00:00",
+      "UserNickname": "Bsm68",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "ReviewText": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Title": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "210157950",
+      "CID": "d748e66e-53b2-5d41-84e4-43c4ce0f45ec",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-08-22T11:15:09.000+00:00",
+      "LastModificationTime": "2026-02-10T21:32:27.000+00:00",
+      "ProductId": "5001889319",
+      "OriginalProductName": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "4aa93e63-9779-4de8-93d2-c668ae715384",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z2ldnqyj2kv5en5nihp95x56no",
+          "SubmissionTime": "2022-05-18T13:38:18.000+00:00"
+        },
+        {
+          "AuthorId": "zejcaaprjhomdu2x195gcq522d",
+          "SubmissionTime": "2021-11-09T17:43:13.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "IsRecommended": true,
+      "Helpfulness": 0.2857140004634857,
+      "TotalFeedbackCount": 14,
+      "TotalNegativeFeedbackCount": 10,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16296300Wcx6AI8CNB",
+      "SubmissionTime": "2021-08-22T11:00:49.000+00:00",
+      "UserNickname": "walt",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "ReviewText": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Title": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "209022888",
+      "CID": "b0286ba8-2a49-5919-9b49-f8f89965c872",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-07-02T21:45:06.000+00:00",
+      "LastModificationTime": "2026-06-14T16:55:27.000+00:00",
+      "ProductId": "5001889319",
+      "OriginalProductName": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+      "CampaignId": "PPE_MPS_online_DT_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "0e6acf51-2197-4ceb-b4e3-691bb5500fbc",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z5t5jzwbykfky78rjriic0npq5",
+          "SubmissionTime": "2024-09-14T15:39:51.000+00:00"
+        },
+        {
+          "AuthorId": "zp0087pbyduxhvk63sjphgnaae",
+          "SubmissionTime": "2022-06-21T11:41:56.000+00:00"
+        },
+        {
+          "AuthorId": "z2ziqjvs1arxvf7tbwblimja75",
+          "SubmissionTime": "2022-06-16T06:08:07.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 3,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 22,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 22,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__16252607pFl3RRjAV1",
+      "SubmissionTime": "2021-07-02T21:19:33.000+00:00",
+      "ReviewText": "it was not easy to put together, took some doing. It cuts but don't try to cut anything bigger than your thumb. Over head cuts are hard to leverage a lot of play in the shaft.",
+      "Title": "Make Sure",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "208818235",
+      "CID": "33f08664-cd1e-5a91-9c00-710df20529e1",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-11-03T06:15:03.000+00:00",
+      "LastModificationTime": "2026-02-10T21:33:40.000+00:00",
+      "ProductId": "5001889319",
+      "OriginalProductName": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+      "CampaignId": "PPE_MPS_online_DT_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "364379f9-a347-424c-9762-a4f0239b407d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z5qzwft5iy9q25pryn0l5h2qoo",
+          "SubmissionTime": "2025-11-03T06:04:58.000+00:00"
+        },
+        {
+          "AuthorId": "zee1skyoinld6mhujj18wpo16k",
+          "SubmissionTime": "2025-04-22T19:27:55.000+00:00"
+        },
+        {
+          "AuthorId": "ztjw2vrsqp4fa958954wji1569",
+          "SubmissionTime": "2023-03-02T00:08:44.000+00:00"
+        },
+        {
+          "AuthorId": "ztv3lpwcg2lgribiz82cgsk7cj",
+          "SubmissionTime": "2022-06-24T16:33:32.000+00:00"
+        },
+        {
+          "AuthorId": "z65tk51i1wzrq5jpi0yn7swpzu",
+          "SubmissionTime": "2022-06-16T06:08:13.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 5,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "IsRecommended": true,
+      "Helpfulness": 0.2777779996395111,
+      "TotalFeedbackCount": 18,
+      "TotalNegativeFeedbackCount": 13,
+      "TotalPositiveFeedbackCount": 5,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__162457159NaqCl7Ga1",
+      "SubmissionTime": "2021-06-24T21:51:56.000+00:00",
+      "UserNickname": "Ness",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "ReviewText": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Title": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "5001889319": {
+        "FamilyIds": [
+          "3808310"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "3808310",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "21230",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "3808310",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "239",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:3808310",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "3808310",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "510531",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00854641007726",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "854641007726"
+        ],
+        "Name": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included",
+        "ModelNumbers": [
+          "WB20VPS"
+        ],
+        "Description": "CAPACITY: 8-inch bar and chain - Note: Guide bar may be Oregon or Wild Badger branded OILER: Automatically applies oil to bar and chain TELESCOPING: Extends up to 7 feet for a 12-foot total reach and has an adjustable head up to 30 degrees ERGONOMICS: Cushioned with an overmold grip for comfortability 20 VOLT SYSTEM: Wild Badger Power 20 Volt Battery System is only compatible with our 20 Volt tool product line",
+        "ManufacturerPartNumbers": [
+          "3808310-108792-WB20VPS"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/1de7e607-3375-4a4e-bd5d-7dba136ed653/70657356.jpeg",
+        "Id": "5001889319",
+        "CategoryId": "111",
+        "BrandExternalId": "Wild Badger Power",
+        "Brand": {
+          "Id": "Wild Badger Power",
+          "Name": "Wild Badger Power"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Badger-20-Volt-Lithium-Ion-Pole-Saw-Extendable-to-Over-6-ft-with-2-0-Ah-Battery-and-Charger/5001889319",
+        "Disabled": false,
+        "QuestionIds": [],
+        "StoryIds": [],
+        "ISBNs": [],
+        "EANs": [],
+        "ReviewIds": [],
+        "ReviewStatistics": {
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaserCDV"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaserCDV": {
+              "Id": "VerifiedPurchaserCDV",
+              "Values": [
+                {
+                  "Count": 15,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "RecommendedCount": 11,
+          "HelpfulVoteCount": 75,
+          "TotalVideoCount": 0,
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 10
+            },
+            {
+              "RatingValue": 3,
+              "Count": 2
+            },
+            {
+              "RatingValue": 4,
+              "Count": 2
+            },
+            {
+              "RatingValue": 1,
+              "Count": 1
+            }
+          ],
+          "TotalPhotoCount": 0,
+          "AverageOverallRating": 4.333333333333333,
+          "NotHelpfulVoteCount": 59,
+          "FirstSubmissionTime": "2021-06-24T21:51:56.000+00:00",
+          "LastSubmissionTime": "2026-07-29T23:45:45.000+00:00",
+          "NotRecommendedCount": 2,
+          "TotalReviewCount": 15,
+          "FeaturedReviewCount": 0,
+          "RatingsOnlyReviewCount": 4,
+          "TotalMediaCount": 0,
+          "SecondaryRatingsAveragesOrder": [],
+          "TagDistributionOrder": [],
+          "OverallRatingRange": 5,
+          "SecondaryRatingsAverages": {},
+          "TagDistribution": {},
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 15
+      }
+    },
+    "ProductsOrder": [
+      "5001889319"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

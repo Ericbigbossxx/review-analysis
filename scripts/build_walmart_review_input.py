@@ -94,10 +94,12 @@ def build_rows(storefront: dict[str, Any], bazaarvoice: list[dict[str, Any]], pr
                 "passed": False,
             }
 
-        previous_total = int(previous["stats"]["totalReviewCount"]) if previous else None
+        previous_total = int(previous["stats"]["totalReviewCount"]) if previous and previous["stats"].get("totalReviewCount") is not None else None
         previous_low = (
             sum(int(previous["stats"]["ratings"][name]) for name in ("one", "two", "three"))
             if previous
+            and previous["stats"].get("ratings")
+            and all(previous["stats"]["ratings"].get(name) is not None for name in ("one", "two", "three"))
             else None
         )
         current_low = (

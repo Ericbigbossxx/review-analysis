@@ -1,0 +1,467 @@
+﻿[
+    {
+        "platform":  "Lowes",
+        "sku":  "ORIONX7",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  6,
+        "ratingSum":  6,
+        "textReviews":  6,
+        "readableLowStarReviews":  2,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "Lowes",
+        "sku":  "RMA1202L20VU",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  5,
+        "ratingSum":  5,
+        "textReviews":  5,
+        "readableLowStarReviews":  1,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "Lowes",
+        "sku":  "SKRMV3",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  1,
+        "ratingSum":  1,
+        "textReviews":  0,
+        "readableLowStarReviews":  0,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "Lowes",
+        "sku":  "SKRMX3PLUS",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  4,
+        "ratingSum":  4,
+        "textReviews":  3,
+        "readableLowStarReviews":  1,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "Lowes",
+        "sku":  "WB20V16LM",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  128,
+        "ratingSum":  128,
+        "textReviews":  128,
+        "readableLowStarReviews":  28,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "Lowes",
+        "sku":  "WB20VPS",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  15,
+        "ratingSum":  15,
+        "textReviews":  11,
+        "readableLowStarReviews":  1,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "Lowes",
+        "sku":  "WB20VTAB",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  42,
+        "ratingSum":  42,
+        "textReviews":  37,
+        "readableLowStarReviews":  12,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "Lowes",
+        "sku":  "WB20VTRSBL",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  18,
+        "ratingSum":  18,
+        "textReviews":  18,
+        "readableLowStarReviews":  3,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "Lowes",
+        "sku":  "WB40V14PLM",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  0,
+        "ratingSum":  0,
+        "textReviews":  0,
+        "readableLowStarReviews":  0,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "Lowes",
+        "sku":  "WB40V18PLM",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  128,
+        "ratingSum":  128,
+        "textReviews":  128,
+        "readableLowStarReviews":  28,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "THD",
+        "sku":  "SKRMS4",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  2,
+        "ratingSum":  2,
+        "textReviews":  1,
+        "readableLowStarReviews":  0,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "THD",
+        "sku":  "WB26GTC",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  4,
+        "ratingSum":  4,
+        "textReviews":  4,
+        "readableLowStarReviews":  2,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "THD",
+        "sku":  "WB52CCBPB",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  9,
+        "ratingSum":  9,
+        "textReviews":  6,
+        "readableLowStarReviews":  2,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "THD",
+        "sku":  "WB53CULT",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  5,
+        "ratingSum":  5,
+        "textReviews":  3,
+        "readableLowStarReviews":  2,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "THD",
+        "sku":  "WBBPBL43",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  228,
+        "ratingSum":  228,
+        "textReviews":  185,
+        "readableLowStarReviews":  68,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "THD",
+        "sku":  "WBP31BCF",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  316,
+        "ratingSum":  316,
+        "textReviews":  227,
+        "readableLowStarReviews":  79,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "THD",
+        "sku":  "WBP31TS",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  13,
+        "ratingSum":  13,
+        "textReviews":  8,
+        "readableLowStarReviews":  4,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "THD",
+        "sku":  "WBP52BCI",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  407,
+        "ratingSum":  407,
+        "textReviews":  310,
+        "readableLowStarReviews":  107,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "THD",
+        "sku":  "WBP52TS",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  5,
+        "ratingSum":  5,
+        "textReviews":  5,
+        "readableLowStarReviews":  1,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "THD",
+        "sku":  "WBPMT26TS",
+        "source":  "Bazaarvoice",
+        "passed":  true,
+        "totalReviews":  5,
+        "ratingSum":  5,
+        "textReviews":  4,
+        "readableLowStarReviews":  1,
+        "warnings":  [
+
+                     ]
+    },
+    {
+        "platform":  "Walmart",
+        "sku":  "ORIONX7",
+        "source":  "Walmart storefront + Bazaarvoice auxiliary text",
+        "passed":  false,
+        "totalReviews":  21,
+        "ratingSum":  21,
+        "textReviews":  20,
+        "readableLowStarReviews":  1,
+        "warnings":  [
+                         "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+                     ]
+    },
+    {
+        "platform":  "Walmart",
+        "sku":  "SKRMS4",
+        "source":  "Walmart storefront + Bazaarvoice auxiliary text",
+        "passed":  false,
+        "totalReviews":  2,
+        "ratingSum":  2,
+        "textReviews":  2,
+        "readableLowStarReviews":  0,
+        "warnings":  [
+                         "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+                     ]
+    },
+    {
+        "platform":  "Walmart",
+        "sku":  "SKRMV3",
+        "source":  "Walmart storefront + Bazaarvoice auxiliary text",
+        "passed":  false,
+        "totalReviews":  33,
+        "ratingSum":  33,
+        "textReviews":  28,
+        "readableLowStarReviews":  7,
+        "warnings":  [
+                         "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+                     ]
+    },
+    {
+        "platform":  "Walmart",
+        "sku":  "WB20VTAB",
+        "source":  "Walmart storefront + Bazaarvoice auxiliary text",
+        "passed":  false,
+        "totalReviews":  329,
+        "ratingSum":  207,
+        "textReviews":  119,
+        "readableLowStarReviews":  36,
+        "warnings":  [
+                         "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+                     ]
+    },
+    {
+        "platform":  "Walmart",
+        "sku":  "WB26MTSE",
+        "source":  "Walmart storefront + Bazaarvoice auxiliary text",
+        "passed":  false,
+        "totalReviews":  119,
+        "ratingSum":  24,
+        "textReviews":  17,
+        "readableLowStarReviews":  3,
+        "warnings":  [
+                         "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+                     ]
+    },
+    {
+        "platform":  "Walmart",
+        "sku":  "SKRMX3PLUS",
+        "source":  "Walmart storefront + Bazaarvoice auxiliary text",
+        "passed":  false,
+        "totalReviews":  0,
+        "ratingSum":  0,
+        "textReviews":  0,
+        "readableLowStarReviews":  2,
+        "warnings":  [
+                         "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source.",
+                         "Current storefront data unavailable: VERIFICATION_REQUIRED"
+                     ]
+    },
+    {
+        "platform":  "Walmart",
+        "sku":  "SKRMX5",
+        "source":  "Walmart storefront + Bazaarvoice auxiliary text",
+        "passed":  false,
+        "totalReviews":  0,
+        "ratingSum":  0,
+        "textReviews":  0,
+        "readableLowStarReviews":  0,
+        "warnings":  [
+                         "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source.",
+                         "Current storefront data unavailable: VERIFICATION_REQUIRED"
+                     ]
+    },
+    {
+        "platform":  "Walmart",
+        "sku":  "WB20V16LM",
+        "source":  "Walmart storefront + Bazaarvoice auxiliary text",
+        "passed":  false,
+        "totalReviews":  0,
+        "ratingSum":  0,
+        "textReviews":  0,
+        "readableLowStarReviews":  9,
+        "warnings":  [
+                         "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source.",
+                         "Current storefront data unavailable: VERIFICATION_REQUIRED"
+                     ]
+    },
+    {
+        "platform":  "Walmart",
+        "sku":  "WB20VCOMBODP",
+        "source":  "Walmart storefront + Bazaarvoice auxiliary text",
+        "passed":  false,
+        "totalReviews":  0,
+        "ratingSum":  0,
+        "textReviews":  0,
+        "readableLowStarReviews":  0,
+        "warnings":  [
+                         "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source.",
+                         "Current storefront data unavailable: VERIFICATION_REQUIRED"
+                     ]
+    },
+    {
+        "platform":  "Walmart",
+        "sku":  "WB40V14PLM",
+        "source":  "Walmart storefront + Bazaarvoice auxiliary text",
+        "passed":  false,
+        "totalReviews":  0,
+        "ratingSum":  0,
+        "textReviews":  0,
+        "readableLowStarReviews":  1,
+        "warnings":  [
+                         "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source.",
+                         "Current storefront data unavailable: VERIFICATION_REQUIRED"
+                     ]
+    },
+    {
+        "platform":  "Walmart",
+        "sku":  "WB40V18PLM",
+        "source":  "Walmart storefront + Bazaarvoice auxiliary text",
+        "passed":  false,
+        "totalReviews":  0,
+        "ratingSum":  0,
+        "textReviews":  0,
+        "readableLowStarReviews":  10,
+        "warnings":  [
+                         "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source.",
+                         "Current storefront data unavailable: VERIFICATION_REQUIRED"
+                     ]
+    },
+    {
+        "platform":  "Walmart",
+        "sku":  "WB40VCOMBO",
+        "source":  "Walmart storefront + Bazaarvoice auxiliary text",
+        "passed":  false,
+        "totalReviews":  0,
+        "ratingSum":  0,
+        "textReviews":  0,
+        "readableLowStarReviews":  0,
+        "warnings":  [
+                         "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source.",
+                         "Current storefront data unavailable: VERIFICATION_REQUIRED"
+                     ]
+    },
+    {
+        "platform":  "Walmart",
+        "sku":  "WB40VTBCC",
+        "source":  "Walmart storefront + Bazaarvoice auxiliary text",
+        "passed":  false,
+        "totalReviews":  0,
+        "ratingSum":  0,
+        "textReviews":  0,
+        "readableLowStarReviews":  3,
+        "warnings":  [
+                         "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source.",
+                         "Current storefront data unavailable: VERIFICATION_REQUIRED"
+                     ]
+    },
+    {
+        "platform":  "Walmart",
+        "sku":  "WB53CULT",
+        "source":  "Walmart storefront + Bazaarvoice auxiliary text",
+        "passed":  false,
+        "totalReviews":  0,
+        "ratingSum":  0,
+        "textReviews":  0,
+        "readableLowStarReviews":  10,
+        "warnings":  [
+                         "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source.",
+                         "Current storefront data unavailable: VERIFICATION_REQUIRED"
+                     ]
+    },
+    {
+        "platform":  "Walmart",
+        "sku":  "WBPMT26P",
+        "source":  "Walmart storefront + Bazaarvoice auxiliary text",
+        "passed":  false,
+        "totalReviews":  0,
+        "ratingSum":  0,
+        "textReviews":  0,
+        "readableLowStarReviews":  21,
+        "warnings":  [
+                         "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source.",
+                         "Current storefront data unavailable: VERIFICATION_REQUIRED"
+                     ]
+    }
+]

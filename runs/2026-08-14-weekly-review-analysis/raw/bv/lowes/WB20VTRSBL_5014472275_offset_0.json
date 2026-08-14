@@ -1,0 +1,1319 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 18,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "254889585",
+      "CID": "e03f43c6-d8ed-53fb-8314-e5641597106e",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-07-29T00:01:12.000+00:00",
+      "LastModificationTime": "2026-07-29T00:01:12.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_LARP_Online_Touch2_20260728",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "f61fdb7b107e06d81e8e6899895382483935636f6c6c696e64656c656f6e40676d61696c2e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_27__17852830c5i7MFQLX4",
+      "SubmissionTime": "2026-07-28T23:57:22.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Photos": [],
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "ReviewText": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Title": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "252821113",
+      "CID": "fed1bec7-d2f4-5e16-aa70-bf26c24316ed",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-07-15T01:45:22.000+00:00",
+      "LastModificationTime": "2026-07-15T01:45:22.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_LARP_Online_Touch1_20260714",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "82393460-29b7-4f80-b5d4-2e2858cc3bc4",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_26__17840751rzbpKI97eM",
+      "SubmissionTime": "2026-07-15T00:25:27.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Photos": [],
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "ReviewText": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Title": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "252781139",
+      "CID": "e8778c30-8ea5-581f-8fdd-28b526558c98",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-07-13T23:15:21.000+00:00",
+      "LastModificationTime": "2026-07-13T23:15:21.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_LARP_Online_App_Touch2_20260712",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "78be6e83-73e0-4065-bc9e-abdcac5a00f7",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_27__17839798OnJv61Fg3S",
+      "SubmissionTime": "2026-07-13T21:57:23.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Photos": [],
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "ReviewText": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Title": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "252661728",
+      "CID": "96ad6241-465e-5b66-9feb-206fd7e0b55b",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-07-09T13:15:16.000+00:00",
+      "LastModificationTime": "2026-07-09T13:15:16.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_LARP_Online_Touch2_20260707",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "88df4c41-fe2c-45d1-a640-49d45d4e0b3c",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_27__17836027AkHcPBIO8k",
+      "SubmissionTime": "2026-07-09T13:12:59.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Photos": [],
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "ReviewText": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Title": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "250837209",
+      "CID": "cc9c8a4f-7f6f-5ef1-adbd-7e158b441138",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2026-05-22T14:45:12.000+00:00",
+      "LastModificationTime": "2026-08-03T05:34:22.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_Sweepstakes_Store_other_Touch1_0679",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "2d8924d6-779d-4483-8bc5-1f1cb8f0cd84",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16__1779459685sDoy9H8G",
+      "SubmissionTime": "2026-05-22T14:20:05.000+00:00",
+      "ReviewText": "it seems to be a great value",
+      "Title": "on line order only",
+      "UserNickname": "R Evans",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "250584298",
+      "CID": "e3304fc5-e053-5c18-9c62-16edaef5192c",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2026-05-14T16:30:09.000+00:00",
+      "LastModificationTime": "2026-05-20T14:36:24.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_Sweepstakes_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "53ddcde8-66ab-4d38-a04d-e639d7ab3119",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17787720UDRA2vtSFY",
+      "SubmissionTime": "2026-05-14T15:21:37.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Photos": [],
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "ReviewText": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Title": null,
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "250577800",
+      "CID": "659dd5ce-9202-5bc7-b3fa-1ba27ffa6bb1",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-05-15T14:30:13.000+00:00",
+      "LastModificationTime": "2026-07-22T00:29:59.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "AuthorId": "19cc3dbb-96a2-48ab-ace3-bab0aa2e6ae5",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b97a6dcc-cd30-545a-8595-a92a5b546301"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/49358898-e633-5d66-bf5c-4f269a251515"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ae98bc9d-ad0f-546f-9203-cb2d7212ca12"
+            }
+          },
+          "Id": "17249446",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.5,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17787595KTe4DA45Bs",
+      "SubmissionTime": "2026-05-14T11:52:04.000+00:00",
+      "ReviewText": "Brand unreliable. Bought the gas powered weed eater and the head snapped off after less than an hour of use. Warranty does not include \"ware\" parts. I would not recommend this brand to anyone.",
+      "Title": "Unreliable Product",
+      "UserNickname": "DisappointedCustomer",
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "ContextDataValuesOrder": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "ContextDataValues": {},
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "250533537",
+      "CID": "221d482b-8c33-5de4-91e6-7cba54bd1a6e",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2026-05-13T00:30:20.000+00:00",
+      "LastModificationTime": "2026-05-20T14:37:29.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_Sweepstakes_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "0956e33a-0614-4c9d-9f13-87b7a025048c",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17786309fT0esw3VtO",
+      "SubmissionTime": "2026-05-13T00:09:52.000+00:00",
+      "ReviewText": "About what i expected from a battery operated blower and string trimmer. I kust wish the trimmer was a dual line instead of a single line",
+      "Title": "Ok",
+      "UserNickname": "Mcg766",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "250270056",
+      "CID": "55d3bf94-59da-5538-a26c-39a6fd6c616d",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-05-04T18:15:11.000+00:00",
+      "LastModificationTime": "2026-07-17T19:12:11.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "WriteAReview_PDP_MOW",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nSend a copy of your receipt and your address to customersupport&#64;wildbadgerpower.com and we will send you a new battery.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2026-05-05T12:30:39.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "aeoyafql4ca3jppometd17c2l",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17779171freMErb7gR",
+      "SubmissionTime": "2026-05-04T17:52:08.000+00:00",
+      "ReviewText": "Battery lasts about 5 minutes of “blowing time” after Fully charged 🤷🏻‍♀️",
+      "Title": "The Leaf Blower (battery) lasts about 5 minutes…",
+      "UserNickname": "LABrooklyn",
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "ContextDataValuesOrder": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "ContextDataValues": {},
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "249650889",
+      "CID": "4327221a-9d40-5e0e-a170-7a6e5c5ae6e2",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-04-17T15:00:12.000+00:00",
+      "LastModificationTime": "2026-07-17T19:12:29.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "orderdetails_desktop",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "575942bf-701f-41ab-b4f3-caf87d8ef1f9",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17764368AcIAZHSiid",
+      "SubmissionTime": "2026-04-17T14:40:33.000+00:00",
+      "ReviewText": "Husband and I are very pleased with our purchase, The Lawn Mower was delivered directly to our front door and the pick up of the weedy and leaf blower was very easy, We recommend Lowes every single timeBagley Family",
+      "Title": "Exceptional",
+      "UserNickname": "Bagley",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "249570568",
+      "CID": "e229e6da-5ff3-56e8-94bf-cb0194e6cfb8",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2026-04-16T02:30:36.000+00:00",
+      "LastModificationTime": "2026-07-31T04:24:30.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_Sweepstakes_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "399995d8-f46c-49e4-8794-0812a7b6e74d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__177630046HReg2WQLc",
+      "SubmissionTime": "2026-04-16T00:47:42.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Photos": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "ReviewText": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Title": null,
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "248560909",
+      "CID": "509d358e-4425-5056-949e-b65d45c15e6b",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-03-05T11:45:08.000+00:00",
+      "LastModificationTime": "2026-07-31T04:24:33.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "orderdetails_desktop",
+      "AuthorId": "tljb2cn92ojvlqbngrwg6r0h2",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_1772709503EZdTCvFj",
+      "SubmissionTime": "2026-03-05T11:19:54.000+00:00",
+      "ReviewText": "GREAT PRODUCT FOR A GREAT PRICE",
+      "Title": "GREAT DEAL",
+      "UserNickname": "DAVE",
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "ContextDataValuesOrder": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "ContextDataValues": {},
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "247491956",
+      "CID": "e5fdd1de-712e-5beb-b3a3-76ddd7a715d4",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-01-16T02:15:15.000+00:00",
+      "LastModificationTime": "2026-07-31T04:24:27.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Store_other_Touch1_2527",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "e3fdacb3-a999-47f9-a892-96c2b0fea8a8",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16__17685294NTl2dlrEgy",
+      "SubmissionTime": "2026-01-16T02:11:37.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "ReviewText": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Title": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "244702473",
+      "CID": "ddc0f1e7-e7fd-536b-ae6d-9a37e76b357a",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-09-16T20:30:14.000+00:00",
+      "LastModificationTime": "2025-12-29T05:54:07.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "f38c7280e5917811efb63126aef0192570616d6b343440636f6d636173742e6e6574",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__175805027NiRlQNuES",
+      "SubmissionTime": "2025-09-16T19:18:03.000+00:00",
+      "ReviewText": "lightweight,no cord.",
+      "Title": "So easy to use.",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "244108530",
+      "CID": "afbefd16-cf0b-5c42-9792-d9b5f0707b1e",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-08-18T19:15:12.000+00:00",
+      "LastModificationTime": "2026-07-17T19:12:41.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "dd43e5ba-560f-4214-8d4c-bf65749b6c32",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17555433bF0VWQmVdA",
+      "SubmissionTime": "2025-08-18T18:56:03.000+00:00",
+      "ReviewText": "Light weight but does the job",
+      "Title": "Powerful and easy to use",
+      "UserNickname": "DCCA",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "243518251",
+      "CID": "0be68b26-3147-5d49-ab27-b5c0d4872bbe",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-07-25T20:15:10.000+00:00",
+      "LastModificationTime": "2026-07-17T19:12:48.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "orderdetails_mobile",
+      "AuthorId": "dzhetk1uoefskzmzzc2774dnd",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/27b1698e-dfa9-519d-a0e2-5b4533e7d95b"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/28d9db1d-d200-58fa-8c62-e5bb039165a1"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/aca604fe-f0ed-5aa9-9137-6e3ebbdf8170"
+            }
+          },
+          "Id": "14372594",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.5,
+      "TotalFeedbackCount": 10,
+      "TotalNegativeFeedbackCount": 5,
+      "TotalPositiveFeedbackCount": 5,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_1753391951V8RllinM",
+      "SubmissionTime": "2025-07-24T21:18:50.000+00:00",
+      "ReviewText": "wild badger power 20 Volt cordless battery string string trimmer and leaf blower and combo are have good quality! I like !",
+      "Title": "Good",
+      "UserNickname": "april",
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "ContextDataValuesOrder": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Videos": [],
+      "ContextDataValues": {},
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "242685500",
+      "CID": "3ebf9257-a998-5c71-bfbc-99aafba31ced",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-06-16T21:30:12.000+00:00",
+      "LastModificationTime": "2025-09-02T14:57:08.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "91d07be4-250e-4219-ba34-b211ba7ade52",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17501046scSbHpMKF6",
+      "SubmissionTime": "2025-06-16T20:10:44.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "ReviewText": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Title": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    },
+    {
+      "Id": "242378738",
+      "CID": "1f86070d-ddc9-52d3-a10b-41d7e3b3b631",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-06-03T20:00:20.000+00:00",
+      "LastModificationTime": "2026-07-31T04:25:35.000+00:00",
+      "ProductId": "5014472275",
+      "OriginalProductName": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "515b856b-19eb-4f07-86a2-d4441d7dab55",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.4000000059604645,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 3,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17489800OPJhV1Vqmi",
+      "SubmissionTime": "2025-06-03T19:47:06.000+00:00",
+      "Title": "It only has one string to trim with it's slow",
+      "UserNickname": "Earl",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "ClientResponses": [],
+      "ProductRecommendationIds": [],
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Photos": [],
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "ReviewText": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "UserLocation": null,
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "IsSyndicated": false
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "5014472275": {
+        "FamilyIds": [
+          "5395238"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "5395238",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "32516",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "5395238",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "239",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:5395238",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "5395238",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "510533",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850046351433",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850046351433"
+        ],
+        "Name": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)",
+        "ModelNumbers": [
+          "WB20VTRSBL"
+        ],
+        "Description": "POWERFUL TRIMMER: Light weight, powerful trimmer cutting up to 10 inch swath FLOWER PROTECTOR: Make sure your flower beds are safe with the metal flower shield AUTO-FEED SPOOL SYSTEM: Innovative auto-feed spool system for instant line feeding ADJUST HIEGHT AND POSTURE: Telescopic trimmer shaft adjusts to users' height and posture LARGE AIR VOLUME: Sweeper blower has large capacity air volume fan technology (134 CFM) WHAT'S INCLUDED: Trimmer, sweeper blower, 20 Volt (2) 2.0Ah batteries, and charger 20 VOLT SYSTEM: Wild Badger Power 20 Volt Battery System is only compatible with our 20 Volt tool product line",
+        "ManufacturerPartNumbers": [
+          "5395238-108792-WB20VTRSBL"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/a2467f84-9fb3-4eff-8bf9-bcd9c2f1b467/70604983.jpeg",
+        "Id": "5014472275",
+        "CategoryId": "111",
+        "BrandExternalId": "Wild Badger Power",
+        "Brand": {
+          "Id": "Wild Badger Power",
+          "Name": "Wild Badger Power"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Wild-Badger-Power-20-Volt-2-Piece-20-volt-Cordless-Power-Equipment-Combo-Kit/5014472275",
+        "Disabled": false,
+        "QuestionIds": [],
+        "StoryIds": [],
+        "ISBNs": [],
+        "EANs": [],
+        "ReviewIds": [],
+        "ReviewStatistics": {
+          "TotalReviewCount": 18,
+          "TotalVideoCount": 0,
+          "TotalPhotoCount": 2,
+          "NotHelpfulVoteCount": 11,
+          "FirstSubmissionTime": "2025-06-03T19:47:06.000+00:00",
+          "LastSubmissionTime": "2026-07-28T23:57:22.000+00:00",
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 14
+            },
+            {
+              "RatingValue": 1,
+              "Count": 3
+            },
+            {
+              "RatingValue": 4,
+              "Count": 1
+            }
+          ],
+          "HelpfulVoteCount": 21,
+          "AverageOverallRating": 4.277777777777778,
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaserCDV"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaserCDV": {
+              "Id": "VerifiedPurchaserCDV",
+              "Values": [
+                {
+                  "Count": 14,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "RatingsOnlyReviewCount": 0,
+          "NotRecommendedCount": 3,
+          "FeaturedReviewCount": 0,
+          "RecommendedCount": 7,
+          "TotalMediaCount": 2,
+          "SecondaryRatingsAveragesOrder": [],
+          "TagDistributionOrder": [],
+          "OverallRatingRange": 5,
+          "SecondaryRatingsAverages": {},
+          "TagDistribution": {},
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 18
+      }
+    },
+    "ProductsOrder": [
+      "5014472275"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}
