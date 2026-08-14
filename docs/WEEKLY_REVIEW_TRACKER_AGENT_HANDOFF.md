@@ -60,10 +60,13 @@ Windows Scheduler: NOT REGISTERED
 Hermes Kanban Task: review_tracker_weekly NOT PRESENT
 Hermes Weekly Production: NOT ACTIVE
 Automation Status: CLOSED / DEFERRED
-Current Worktree: DIRTY
+Weekly Review Workflow: VERSIONED IN GIT (39dcae5 on master, 2026-08-14)
+Remaining Worktree Changes: other workflows only (Listing Monitor / archive / reports)
 ```
 
 Handoff status: `READY_FOR_MANUAL_WEEKLY_OPERATION`. This is a manual operating handoff, not production or automation readiness.
+
+Git status note (2026-08-14): the Weekly Review workflow assets described in this handoff (handoff document, `modules/review_tracker/`, workflow scripts, tests, policy, schema, Listing Master, historical run evidence, and the published 08-06 report) are now committed to the repository as `39dcae5` on `master`. Committing the workflow does not authorize collection, DB writes, publication, or automation; those remain approval-gated as documented below. The remaining uncommitted working-tree changes belong to other workflows (Listing Monitor, archive portal, phase reports) and are intentionally left untouched.
 
 The last successful published Review run is `runs/2026-08-06-biweekly-review-analysis`. It is historical evidence, not proof of current platform state. That run covered 35 Listings, obtained usable current data for 34, recorded one Walmart `LISTING_PAGE_NOT_FOUND`, performed no DB writes, and published a report.
 
@@ -527,6 +530,7 @@ The current collector outputs do not uniformly emit every canonical status above
 - Historical 436-row low-star Review migration with approved legacy identity.
 - Aggregate Review QA, theme classification, local report-data generation, and period comparison.
 - A protected supervised dry run that invoked no production side effects.
+- Version-controlled Weekly Review workflow assets (commit `39dcae5` on `master`, 2026-08-14): handoff, module, scripts, tests, policy, schema, Listing Master, and historical run evidence are now tracked in git.
 
 ## Not completed or not production validated
 
@@ -840,5 +844,6 @@ Do not proceed unless all conditions are met:
 6. Surface new, low-star, and actionable Reviews only when identity and evidence support the claim.
 7. Preserve raw evidence, scope, hashes, statuses, and platform limitations.
 8. Do not touch automation unless the user explicitly reopens it.
+9. The workflow assets are now version-controlled in git. When the user authorizes a workflow update, commit the bounded change with a clear message and do not sweep unrelated working-tree changes (other workflows, archive portal, phase reports) into the same commit. Git publication still requires explicit user authorization per Step 0 and Guardrail 15.
 
 > Prefer the simplest reliable weekly workflow over rebuilding automation.
