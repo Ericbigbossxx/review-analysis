@@ -1,0 +1,132 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>2026-08-14 周度差评分析</title><style>
+body{margin:0;background:#f4f7f6;color:#17212b;font-family:Arial,"Microsoft YaHei",sans-serif;letter-spacing:0}
+header{background:#fff;border-bottom:1px solid #dbe3e8;padding:26px 42px}
+.head{display:flex;justify-content:space-between;gap:20px;align-items:flex-start;max-width:1000px;margin:0 auto}
+header h1{margin:0;font-size:24px}
+header .sub{color:#66737f;font-size:13px;margin-top:6px}
+.back{color:#246b5a;font-weight:800;text-decoration:none;white-space:nowrap}
+main{padding:30px 42px 56px;max-width:1000px;margin:0 auto}
+h1{font-size:26px;border-bottom:2px solid #246b5a;padding-bottom:10px}
+h2{font-size:20px;margin:34px 0 12px;color:#17212b;border-left:4px solid #246b5a;padding-left:10px}
+h3{font-size:16px;margin:22px 0 8px}
+p,li{line-height:1.75;font-size:14.5px}
+blockquote{background:#edf5f2;border-left:4px solid #246b5a;margin:14px 0;padding:12px 16px;color:#33424c;font-size:13.5px}
+blockquote p{margin:2px 0}
+table{width:100%;border-collapse:separate;border-spacing:0;font-size:13px;margin:14px 0;background:#fff}
+th,td{border-bottom:1px solid #e1e8ed;padding:9px 10px;text-align:left;vertical-align:top}
+th{background:#f8fafb;color:#33424c;font-weight:700}
+code{background:#eef2f4;border-radius:4px;padding:1px 5px;font-size:12.5px}
+hr{border:none;border-top:1px solid #dbe3e8;margin:28px 0}
+@media(max-width:800px){header,main{padding-left:18px;padding-right:18px}}
+</style></head><body>
+<header><div class="head"><div><h1>Weekly Review Result — 2026-08-14</h1><div class="sub">US Local Channel Listing Tracker · Walmart / THD / Lowe's · 受控手动链路</div></div><a class="back" href="../index.html">← 返回存档</a></div></header>
+<main><h1>WEEKLY REVIEW RESULT — 2026-08-14</h1>
+<blockquote>
+<p>运行模式: MANUAL_WEEKLY_OPERATION（受控手动链路，Step 0-6）
+仅本地分析：无 DB 写入、无归档发布、无 Git 发布、无通知（Step 7 门禁未授权）</p>
+</blockquote>
+<h2>Overview</h2>
+<ul>
+<li><strong>Scope</strong>: 35 Listings（Walmart 15 / THD 10 / Lowe's 10），与 Listing Master 实时解析一致；与上一成功 run（2026-08-06）scope 完全一致（0 新增 / 0 移除 / 0 链接变更 / 0 身份变更）</li>
+<li><strong>成功检查</strong>: THD 10/10 ✅、Lowe's 10/10 ✅、Walmart 辅助 feed 15/15 ✅；Walmart storefront <strong>人工验证 5/15 通过</strong>（ORIONX7、SKRMS4、SKRMV3、WB20VTAB、WB26MTSE，均为真实商品页读取、零拦截）</li>
+<li><strong>平台限制</strong>: Walmart storefront 剩余 10 个 Listing 被 Robot Check 拦截（"Robot or human?" 验证页），按规则立即停止，未绕过、未重试；即使人工验证通过后快速连续导航仍会重新触发。受控 profile <code>browser_profile/walmart</code>（08-04 起用）已被 Walmart 风控标记（10/10 全拦截），已停用。Walmart 侧结论基于<strong>本期实采的辅助 Bazaarvoice feed</strong>（<code>walmart_bv_raw.json</code>，15/15 成功、470 条评论 / 103 条低星）+ 5 个已验证 storefront 统计；未验证的 10 个 SKU 标记 <code>VERIFICATION_REQUIRED</code>（stats 不伪造，回退辅助 feed 数据）</li>
+<li><strong>New Reviews（身份级反查）</strong>: THD/Lowe's 6 条新身份（3 条可读 + 3 条 ratings-only）；Walmart 2 条新身份（1 条可读 + 1 条旧评论差异）</li>
+<li><strong>New low-star Reviews（可读）</strong>: 4 条（3 条 1★ + 1 条 3★）</li>
+<li><strong>Critical issues</strong>: 无 P0 级新证据；Walmart 10 个 Listing storefront 仍不可验证是本期最大限制</li>
+</ul>
+<h2>新增可读低星评论（身份反查，证据齐全）</h2>
+<h3>THD</h3>
+<table>
+<thead>
+<tr>
+<th>SKU</th>
+<th>Rating</th>
+<th>Review date</th>
+<th>Key complaint</th>
+<th>Severity</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>WBP31BCF</td>
+<td>1★</td>
+<td>2026-08-10</td>
+<td>"Waste of money"：商用草坪维护从业者，使用一次后线轴间歇性出线异常；"$100 plus to trim my home one time"</td>
+<td>P1（单条，启动/动力故障）</td>
+<td>THD 311424784, reviewId 305582246</td>
+</tr>
+<tr>
+<td>WBP52TS</td>
+<td>1★</td>
+<td>2026-08-10</td>
+<td>"No spark after 6 months of use"：使用数月后无火花，被评价为质量/耐久问题，建议改买电动</td>
+<td>P1（单条，质量/耐久）</td>
+<td>THD 342971888, reviewId 305591869</td>
+</tr>
+<tr>
+<td>WBP31TS</td>
+<td>2★</td>
+<td>2026-08-05</td>
+<td>"Has difficulty starting"：多次尝试无法启动，次日才启动成功</td>
+<td>P2（单条，启动/动力故障）</td>
+<td>THD 342971818, reviewId 305283160</td>
+</tr>
+</tbody>
+</table>
+<p><em>另 3 条新身份为 ratings-only（无文字）：WBBPBL43 ×2（1★，08-12）、SKRMS4（3★，08-13）——仅评分无文本，不作评论分析。</em></p>
+<h3>Walmart（辅助 feed）</h3>
+<table>
+<thead>
+<tr>
+<th>SKU</th>
+<th>Rating</th>
+<th>Review date</th>
+<th>Key complaint</th>
+<th>Severity</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SKRMX3PLUS</td>
+<td>3★</td>
+<td>2026-08-10</td>
+<td>"to much to change blades that often"——刀片更换频率过高</td>
+<td>P2（单条，割草/修剪效果）</td>
+<td>Walmart id 435989008</td>
+</tr>
+<tr>
+<td>WB20V16LM</td>
+<td>1★</td>
+<td>2025-06-29</td>
+<td>西语评论（电池掉电快、噪音大、割草差、想退货）——<strong>旧评论，上期采集遗漏</strong>，非本期新增</td>
+<td>P2（历史差异）</td>
+<td>Walmart id 419980860</td>
+</tr>
+</tbody>
+</table>
+<h3>Lowe's</h3>
+<p>本期无新可读低星身份（86 条低星全部与上期身份一致或为既有评论）。</p>
+<h2>Cross-platform Themes（仅基于本期实际文本）</h2>
+<ul>
+<li><strong>启动/动力故障</strong>：THD WBP31BCF（无法启动/出线异常）、WBP31TS（启动困难）——与历史高频主题一致</li>
+<li><strong>质量/耐久</strong>：THD WBP52TS（6 个月无火花）——符合历史"早期失效"模式</li>
+<li><strong>割草/修剪效果</strong>：Walmart SKRMX3PLUS（刀片更换频繁）</li>
+<li>未发现新的跨平台主题</li>
+</ul>
+<h2>Recommended Follow-up（仅证据支持的）</h2>
+<ul>
+<li><strong>产品</strong>：核查 THD WBP31BCF 线轴供线机构与 WBP52TS 点火系统（均为 08-10 新证据，与历史启动/动力、质量主题叠加）</li>
+<li><strong>运营</strong>：Walmart 剩余 10 个 Listing 的 storefront 需人工低频补验证（Robot Check 解除后，每次间隔 ≥60s）；WB40VCOMBO 上期即 LISTING_PAGE_NOT_FOUND，本期未验证，需确认是否下架/迁移；受控 profile <code>browser_profile/walmart</code> 建议清除重建（已被风控标记）</li>
+<li><strong>内容</strong>：Walmart WB20V16LM 存在西语评论，页面可评估是否补充西语描述/FAQ</li>
+</ul>
+<h2>数据与证据</h2>
+<ul>
+<li>Run 目录: <code>runs/2026-08-14-weekly-review-analysis/</code>（含 scope 冻结、raw 证据、汇总、对比、去重）</li>
+<li>汇总: 35 rows / 1845 总评分 / 458 低星 / 低星率 24.8%（可比口径 25 listings：+91 总评 / -16 低星 / 低星率 -2.2pp；Walmart 10 个 VERIFICATION_REQUIRED 不纳入可比，不伪造）</li>
+<li>去重: THD/Lowe's <code>(sku, sourceReviewId)</code> 400 唯一；Walmart <code>(sku, id)</code> 103 唯一 → <strong>duplicate=0</strong> ✅</li>
+<li>Preflight: <code>PREFLIGHT_PASSED</code>（16/16 检查）；DB 未写入（reviews 436 / snapshots 35 / changes 0 不变）</li>
+<li>限制声明: 完整身份级 NEW/UPDATED/UNCHANGED 对比仅覆盖低星（1-3★）；Walmart 10 个 SKU storefront 交叉验证不可用（VERIFICATION_REQUIRED，辅助 feed 数据覆盖）；合并产物 Walmart 行不含 review id（沿用 raw feed 身份）；已验证 5 SKU 的 ratings 分布来自辅助 feed 交叉验证（页面仅确认总数）</li>
+</ul></main>
+</body></html>
