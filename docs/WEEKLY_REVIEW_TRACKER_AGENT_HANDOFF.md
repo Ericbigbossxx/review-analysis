@@ -68,6 +68,8 @@ Handoff status: `READY_FOR_MANUAL_WEEKLY_OPERATION`. This is a manual operating 
 
 Git status note (2026-08-14): the Weekly Review workflow assets described in this handoff (handoff document, `modules/review_tracker/`, workflow scripts, tests, policy, schema, Listing Master, historical run evidence, and the published 08-06 report) are now committed to the repository as `39dcae5` on `master`. Committing the workflow does not authorize collection, DB writes, publication, or automation; those remain approval-gated as documented below. The remaining uncommitted working-tree changes belong to other workflows (Listing Monitor, archive portal, phase reports) and are intentionally left untouched.
 
+Remote configuration (2026-08-14): `origin` = `https://github.com/Ericbigbossxx/review-analysis.git`. The local working repository lives on `master` and is pushed to `origin/master`. `origin/main` is the GitHub Pages publication branch (portal assets and reports only, unrelated history); it must not be overwritten by the working repository. Future workflow updates are committed on `master` and pushed to `origin/master`; Pages publication to `origin/main` remains separately approval-gated.
+
 The last successful published Review run is `runs/2026-08-06-biweekly-review-analysis`. It is historical evidence, not proof of current platform state. That run covered 35 Listings, obtained usable current data for 34, recorded one Walmart `LISTING_PAGE_NOT_FOUND`, performed no DB writes, and published a report.
 
 The later `runs/SUPERVISED_WEEKLY_DRY_RUN_20260812_HERMES_V1` completed only a protected dry run. It built and froze the 35-row scope and passed read-only preflight, but invoked no collector, report, archive, publish, notification, Scheduler, or DB write.
