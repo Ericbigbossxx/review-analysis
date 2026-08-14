@@ -3,6 +3,7 @@
 .env.*
 !.env.example
 browser_profile/
+runtime/
 *.cookie
 
 # Python and temporary files

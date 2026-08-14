@@ -1,0 +1,68 @@
+{
+  "capturedAt": "2026-08-05T05:39:41.475Z",
+  "status": "WAITING_FOR_WALMART_USER_VERIFICATION",
+  "completed": 3,
+  "expected": 15,
+  "results": [
+    {
+      "platform": "Walmart",
+      "sku": "WB20VTAB",
+      "brand": "WILD BADGER POWER",
+      "category": "String Trimmer",
+      "url": "http://www.walmart.com/ip/WILD-BADGER-POWER-20V-Cordless-String-Trimmer-With-blower-Combo-Set-Weed-Eater-Leaf-Blower/864525478",
+      "itemId": "864525478",
+      "productName": "Wild Badger Power 20V Weed Eater & Trimmer Set, 2×2.0Ah Batteries, Cordless Lightweight Grass Trimmer for Small Yards, Fence Lines & Easy Lawn Care",
+      "totalReviewCount": 329,
+      "reviewsWithTextCount": 116,
+      "averageOverallRating": 4.2,
+      "ratings": {"one": 36, "two": 7, "three": 22, "four": 52, "five": 212},
+      "starSum": 329,
+      "qaPassed": true,
+      "sourceTitle": "WILD BADGER POWER, Weed Eater and Trimmer Set, Blue, 20V, 2 Batteries - Walmart.com",
+      "finalUrl": "https://www.walmart.com/ip/WILD-BADGER-POWER-20V-Cordless-String-Trimmer-With-blower-Combo-Set-Weed-Eater-Leaf-Blower/864525478",
+      "evidence": {"kind": "browser_dom_snapshot", "length": 134984, "sha256": "2a0d109bde05df328a230ca5f55821ad624e0fff1bda1beb19f02494882b646a"}
+    },
+    {
+      "platform": "Walmart",
+      "sku": "WB20V16LM",
+      "brand": "WILD BADGER POWER",
+      "category": "Lawn Mower",
+      "url": "http://www.walmart.com/ip/WILD-BADGER-POWER-40V-16-Cordless-Brushless-Lawn-Mower-5-Cutting-Height-Adjustments-Electric-Quickly-Folding-Within-5-s-20V-2-4-0AH-Battery-Super-Cha/13660751856",
+      "itemId": "13660751856",
+      "productName": "Wild Badger Power 40V 16″ Cordless Lawn Mower Brushless, 1,900 sq ft/0.044 ac,1×4.0Ah Battery & Fast Charger, 5-Position Height,for Small Residential Lawns",
+      "totalReviewCount": 97,
+      "reviewsWithTextCount": 39,
+      "averageOverallRating": 4.2,
+      "ratings": {"one": 8, "two": 4, "three": 8, "four": 17, "five": 60},
+      "starSum": 97,
+      "qaPassed": true,
+      "sourceTitle": "WILD BADGER POWER, Lawn Mower, 40V 16\" Cordless Brushless, Blue - Walmart.com",
+      "finalUrl": "https://www.walmart.com/ip/WILD-BADGER-POWER-40V-16-Cordless-Brushless-Lawn-Mower-5-Cutting-Height-Adjustments-Electric-Quickly-Folding-Within-5-s-20V-2-4-0AH-Battery-Super-Cha/13660751856",
+      "evidence": {"kind": "browser_dom_snapshot", "length": 85502, "sha256": "e9e0b59e8354c82c4f0974a09dac9b6a89cccc9d5a21cbb0edd6b96ebcd26ed2"}
+    },
+    {
+      "platform": "Walmart",
+      "sku": "WB20VCOMBODP",
+      "brand": "WILD BADGER POWER",
+      "category": "String Trimmer",
+      "url": "http://www.walmart.com/ip/40V-Cordless-Weed-Wacker-String-Trimmer-Edger-Hedge-Trimmer-Brush-Cutter-Blade-Pole-Saw-Attachment-Capable-4-in-1-Multi-Tool-Kit-2-20V-4Ah-Battery-1/16104323450",
+      "itemId": "16104323450",
+      "productName": "Wild Badger 40V Cordless String Trimmer with Pole Saw, Hedge Trimmer & Brush Cutter Attachments, 4-Tool Kit, 2 Batteries & Charger Included",
+      "totalReviewCount": 7,
+      "reviewsWithTextCount": 5,
+      "averageOverallRating": 4.3,
+      "ratings": {"one": 1, "two": 0, "three": 0, "four": 1, "five": 5},
+      "starSum": 7,
+      "qaPassed": true,
+      "sourceTitle": "WILD BADGER POWER, Outdoor Power Tool Kit, 40V, 4-Tool with Batteries - Walmart.com",
+      "finalUrl": "https://www.walmart.com/ip/40V-Cordless-Weed-Wacker-String-Trimmer-Edger-Hedge-Trimmer-Brush-Cutter-Blade-Pole-Saw-Attachment-Capable-4-in-1-Multi-Tool-Kit-2-20V-4Ah-Battery-1/16104323450",
+      "evidence": {"kind": "browser_dom_snapshot", "length": 91872, "sha256": "b49801b1a9c69ac50acab96c49828faff1501f4aa615c3f0ad05f283f7d01b3b"}
+    }
+  ],
+  "blocked": {
+    "sku": "WB40V18PLM",
+    "status": "VERIFICATION_REQUIRED",
+    "title": "Robot or human?",
+    "action": "Human verification required in the existing Edge session. Automated retry stopped."
+  }
+}

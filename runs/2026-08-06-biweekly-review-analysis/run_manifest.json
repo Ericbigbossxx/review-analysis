@@ -1,0 +1,37 @@
+﻿{
+    "run_id":  "2026-08-06-biweekly-review-analysis",
+    "report_date":  "2026-08-06",
+    "started_at":  "2026-08-05T13:15:47+08:00",
+    "report_type":  "biweekly",
+    "status":  "REPORT_PUBLISHED",
+    "scope_source":  "2026-07-23 approved 35-listing scope",
+    "scope_counts":  {
+                         "THD":  10,
+                         "LOWES":  10,
+                         "WALMART":  15
+                     },
+    "listing_sources_sha256":  "4c2343675c9398df2e8e8ea18b148479106cd8a1514e0a5903a8fe6152a89e37",
+    "database_writes":  false,
+    "feishu_send":  false,
+    "listing_tracker_invoked":  false,
+    "collection_progress":  {
+                                 "THD":  "10/10 BV COMPLETE",
+                                 "LOWES":  "10/10 BV COMPLETE",
+                                 "WALMART_BV_AUXILIARY":  "15/15 COMPLETE",
+                                 "WALMART_STOREFRONT":  "14/15 AVAILABLE; WB40VCOMBO LISTING_PAGE_NOT_FOUND"
+                             },
+    "report_generated":  true,
+    "archive_updated":  true,
+    "github_published":  true,
+    "published_url":  "https://ericbigbossxx.github.io/review-analysis/reports/2026-08-06-biweekly-review-analysis.html",
+    "report_path":  "reports/2026-08-06-biweekly-review-analysis.html",
+    "final_metrics":  {
+                           "available_listings":  34,
+                           "expected_listings":  35,
+                           "total_reviews":  2182,
+                           "low_star_reviews_1_to_3":  570,
+                           "readable_low_star_reviews":  440,
+                           "comparable_review_delta_vs_2026_07_23":  38,
+                           "comparable_low_star_delta_vs_2026_07_23":  11
+                       }
+}

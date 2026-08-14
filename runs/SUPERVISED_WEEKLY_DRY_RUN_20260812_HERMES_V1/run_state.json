@@ -1,0 +1,88 @@
+{
+  "run_id": "SUPERVISED_WEEKLY_DRY_RUN_20260812_HERMES_V1",
+  "report_date": "2026-08-13",
+  "report_type": "WEEKLY_REVIEW",
+  "mode": "DRY_RUN",
+  "state": "SUPERVISED_DRY_RUN_COMPLETE",
+  "created_at": "2026-08-12T09:29:25.885495+00:00",
+  "updated_at": "2026-08-12T09:29:26.971925+00:00",
+  "required_owner": "HERMES",
+  "reason": "No collection, archive, publish, notification or database write was invoked.",
+  "checkpoints": {
+    "scope": {
+      "status": "COMPLETED",
+      "completed_at": "2026-08-12T09:29:26.738719+00:00",
+      "detail": {
+        "count": 35,
+        "previous_run": "2026-08-06-biweekly-review-analysis"
+      }
+    },
+    "backup": {
+      "status": "COMPLETED",
+      "completed_at": "2026-08-12T09:29:26.832161+00:00",
+      "detail": {
+        "run_id": "SUPERVISED_WEEKLY_DRY_RUN_20260812_HERMES_V1",
+        "created_at": "2026-08-12T09:29:26.832161+00:00",
+        "files": [
+          {
+            "source": "C:\\Users\\admin\\Documents\\Weekly review analysis\\database\\tracker.db",
+            "backup": "C:\\Users\\admin\\Documents\\Weekly review analysis\\backups\\review_tracker_weekly_pre_run\\SUPERVISED_WEEKLY_DRY_RUN_20260812_HERMES_V1\\tracker.db",
+            "sha256": "ef625f444f523b4e315e6b1d4285448c0a559d6eadd26f453d59aee22f9c6e3a",
+            "verified": true
+          },
+          {
+            "source": "C:\\Users\\admin\\Documents\\Weekly review analysis\\config\\listing_master.xlsx",
+            "backup": "C:\\Users\\admin\\Documents\\Weekly review analysis\\backups\\review_tracker_weekly_pre_run\\SUPERVISED_WEEKLY_DRY_RUN_20260812_HERMES_V1\\listing_master.xlsx",
+            "sha256": "637787b6dab4b44250c500a248c2bb9b47bef8943aa9306cef3301bb98f9648a",
+            "verified": true
+          },
+          {
+            "source": "C:\\Users\\admin\\Documents\\Weekly review analysis\\config\\review_tracker_policy.json",
+            "backup": "C:\\Users\\admin\\Documents\\Weekly review analysis\\backups\\review_tracker_weekly_pre_run\\SUPERVISED_WEEKLY_DRY_RUN_20260812_HERMES_V1\\review_tracker_policy.json",
+            "sha256": "e820261277350bc153cc4de2d21cd5b2306b0bf3b827dbc0b4a1e8ba8d223765",
+            "verified": true
+          }
+        ]
+      }
+    },
+    "preflight": {
+      "status": "COMPLETED",
+      "completed_at": "2026-08-12T09:29:26.877129+00:00",
+      "detail": {
+        "status": "PREFLIGHT_PASSED"
+      }
+    },
+    "dry_run": {
+      "status": "COMPLETED",
+      "completed_at": "2026-08-12T09:29:26.970924+00:00",
+      "detail": {
+        "audit": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\SUPERVISED_WEEKLY_DRY_RUN_20260812_HERMES_V1\\supervised_weekly_dry_run_audit.json"
+      }
+    }
+  },
+  "history": [
+    {
+      "state": "RUN_INITIALIZED",
+      "at": "2026-08-12T09:29:25.885495+00:00",
+      "reason": "run state created"
+    },
+    {
+      "state": "SCOPE_BUILT",
+      "at": "2026-08-12T09:29:26.739805+00:00",
+      "reason": null,
+      "owner": "HERMES"
+    },
+    {
+      "state": "PREFLIGHT_PASSED",
+      "at": "2026-08-12T09:29:26.878220+00:00",
+      "reason": null,
+      "owner": "HERMES"
+    },
+    {
+      "state": "SUPERVISED_DRY_RUN_COMPLETE",
+      "at": "2026-08-12T09:29:26.971925+00:00",
+      "reason": "No collection, archive, publish, notification or database write was invoked.",
+      "owner": "HERMES"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 1,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "387445115",
+      "CID": "8643ca04-aa8f-53d1-b5c7-b96591fff064",
+      "SourceClient": "sunseeker",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-05-17T01:46:06.000+00:00",
+      "LastModificationTime": "2026-05-17T01:46:06.000+00:00",
+      "ProductId": "5016678667",
+      "OriginalProductName": "V3 Wireless AI Robot Lawn Mower for Small Yards | 0.15 Acre | ReadyGo™",
+      "AuthorId": "10106232963389",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "IsSyndicated": true,
+      "SyndicationSource": {
+        "ClientId": null,
+        "LogoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/a15a3c93-3b04-42ad-8ff8-e2595c323f1d",
+        "ContentLink": null,
+        "Name": "shopsunseekertech.com"
+      },
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": true,
+      "ModerationStatus": "APPROVED",
+      "SubmissionTime": "2026-05-17T01:42:13.000+00:00",
+      "UserNickname": null,
+      "CampaignId": null,
+      "SubmissionId": null,
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "Videos": [],
+      "IsRecommended": null,
+      "TagDimensions": {},
+      "ContextDataValuesOrder": [],
+      "AdditionalFieldsOrder": [],
+      "ContextDataValues": {},
+      "AdditionalFields": {},
+      "Cons": null,
+      "TotalNegativeFeedbackCount": 0,
+      "ReviewText": null,
+      "RatingRange": 5,
+      "Title": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "TotalPositiveFeedbackCount": 0,
+      "ClientResponses": [],
+      "TotalFeedbackCount": 0,
+      "Helpfulness": null,
+      "CommentIds": [],
+      "UserLocation": null
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "5016678667": {
+        "FamilyIds": [
+          "7196962"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "7196962",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "12740",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "7196962",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "238",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:7196962",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "7196962",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "510535",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850060195211",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850060195211"
+        ],
+        "Name": "V3 Robotic Lawn Mower with GPS Assisted Navigation (Up to 1_SLASH_8 acre)",
+        "ModelNumbers": [
+          "SKRMV3"
+        ],
+        "Description": "EFFORTLESS ONE-TOUCH START: In just 3 minutes, your Sunseeker V3 begins mowing, giving you more time to enjoy your lawn and less time fiddling with complicated installations ViSION VI: Equipped with the ViSION VI dual-eye system, the V3 recognizes over 160+ obstacles in 3D, allowing it to navigate your yard intelligently and safely ADAPTS TO COMPLEX TERRAIN & PRECISE EDGE CUTTING: The V3 easily handles 22° steep slopes and complex terrain, using Vision AI to cut clean edges along paths, and has an 8-inch cutting width and adjustable height (1.57-3.2 inches) for a neat, even lawn PET-FRIENDLY DESIGN WITH LOW NOISE: Operating at an ultra-quiet 55dB, it's safe and comfortable for pets—perfect for peaceful mowing in the early morning or late evening. MULTI-ZONE NAVIGATION & BOUNDARY MANAGEMENT: Navigate multiple garden zones with ease using magnetic tags and strips, enabling seamless transitions and reliable virtual boundaries for complete lawn coverage. AUTO RECHARGE & RAIN DETECTION SYSTEM: Automatically returns to charge or pause in rain, with IPX5 waterproofing for durability, easy cleaning, and reliable all-weather performance. SMART APP CONTROL & OTA UPGRADES: Easily schedule, adjust, and monitor mowing through the intuitive app, with Over-the-Air upgrades keeping your mower always up-to-date for a fully automated, personalized lawn care experience. CUSTOMER LOCAL SUPPORT: Get peace of mind with dedicated EU based support, offering expert advice, troubleshooting, and assistance whenever you need it.",
+        "ManufacturerPartNumbers": [
+          "7196962-108792-SKRMV3"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/4bfe49a5-6262-4f35-8b87-c33744eff625/89124711.jpeg",
+        "Id": "5016678667",
+        "CategoryId": "101750",
+        "BrandExternalId": "Sunseeker",
+        "Brand": {
+          "Id": "Sunseeker",
+          "Name": "Sunseeker"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Sunseeker-V3-Robotic-Lawn-Mower-with-GPS-Assisted-Navigation-Up-to-1-8-acre/5016678667",
+        "Disabled": false,
+        "StoryIds": [],
+        "ISBNs": [],
+        "EANs": [],
+        "QuestionIds": [],
+        "ReviewIds": [],
+        "ReviewStatistics": {
+          "TotalPhotoCount": 0,
+          "RecommendedCount": 0,
+          "NotRecommendedCount": 0,
+          "TotalReviewCount": 1,
+          "RatingDistribution": [
+            {
+              "RatingValue": 4,
+              "Count": 1
+            }
+          ],
+          "FirstSubmissionTime": "2026-05-17T01:42:13.000+00:00",
+          "LastSubmissionTime": "2026-05-17T01:42:13.000+00:00",
+          "AverageOverallRating": 4.0,
+          "TotalVideoCount": 0,
+          "RatingsOnlyReviewCount": 1,
+          "FeaturedReviewCount": 0,
+          "ContextDataDistribution": {},
+          "ContextDataDistributionOrder": [],
+          "TotalMediaCount": 0,
+          "TagDistribution": {},
+          "SecondaryRatingsAverages": {},
+          "TagDistributionOrder": [],
+          "NotHelpfulVoteCount": 0,
+          "SecondaryRatingsAveragesOrder": [],
+          "OverallRatingRange": 5,
+          "HelpfulVoteCount": 0,
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 1
+      }
+    },
+    "ProductsOrder": [
+      "5016678667"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

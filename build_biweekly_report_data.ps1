@@ -90,21 +90,46 @@ foreach ($source in $bvSummary) {
   $source.actionItems = @(Get-Actions $themeNames ([bool]$source.coreNew))
   $source | Add-Member -NotePropertyName sourceSystem -NotePropertyValue 'Bazaarvoice' -Force
   $source | Add-Member -NotePropertyName qaPassed -NotePropertyValue $true -Force
+  $source | Add-Member -NotePropertyName dataAvailable -NotePropertyValue $true -Force
+  $source | Add-Member -NotePropertyName availabilityStatus -NotePropertyValue 'AVAILABLE' -Force
   $summaries.Add($source)
 }
 
 foreach ($item in $walmart) {
   $stats = $item.stats
-  $r1 = [int]$stats.ratings.one; $r2 = [int]$stats.ratings.two; $r3 = [int]$stats.ratings.three
-  $r4 = [int]$stats.ratings.four; $r5 = [int]$stats.ratings.five
-  $total = [int]$stats.totalReviewCount; $textTotal = [int]$stats.reviewsWithTextCount
-  $low = $r1 + $r2 + $r3; $rate = if ($total -gt 0) { $low / [double]$total } else { 0 }
+  $available = if ($null -ne $item.dataAvailable) { [bool]$item.dataAvailable } else { $true }
   $coreNew = ([string]$item.brand -eq 'SUNSEEKER') -or ([string]$item.category -match 'Robot')
   $skuRows = @($reviewRows | Where-Object { $_.platform -eq 'Walmart' -and $_.sku -eq $item.sku })
   $skuThemes = @($skuRows | Group-Object theme | Sort-Object Count -Descending)
   $themeNames = @($skuThemes | Select-Object -First 3 -ExpandProperty Name)
   $themeText = ($skuThemes | Select-Object -First 3 | ForEach-Object { "$($_.Name) $($_.Count)" }) -join ' / '
   $warnings = @($item.errors | Where-Object { -not [string]::IsNullOrWhiteSpace([string]$_) })
+  if (-not $available) {
+    $summaries.Add([pscustomobject]@{
+      platform = 'Walmart'; sku = $item.sku; brand = $item.brand; category = $item.category
+      productId = $item.itemId; productName = $item.productName; url = $item.url
+      totalReviews = $null; avgRating = $null
+      rating1 = $null; rating2 = $null; rating3 = $null; rating4 = $null; rating5 = $null
+      negativeReviews = $null; neutralReviews = $null; negativeRate = $null
+      textNegativeReviews = $null; textNeutralReviews = $null; ratingsOnlyReviews = $null
+      ratingDistributionSum = $null; endpointAllReviews = $null; endpointTextReviews = $null; expectedTextReviews = $null
+      textCoverage = $null; negativeTextCoverage = $null
+      ratingCheck = 'UNAVAILABLE'; endpointCheck = 'UNAVAILABLE'; textCheck = 'UNAVAILABLE'
+      qaStatus = '当前页面不可用'; qaPassed = $false; qaWarnings = $warnings
+      topThemes = $themeText; urgency = 'P0 Listing 失效'
+      reviewPlan = '当前页面不可用，不制定导评数量；先确认下架、URL 迁移或替代 Listing。'
+      actionItems = @('渠道：确认 Listing 是否下架、迁移或替换；更新监控 URL 后重新建立评分基线。')
+      firstReview = $null; lastReview = $null; coreNew = $coreNew
+      sourceSystem = 'Walmart storefront + Bazaarvoice auxiliary text'
+      dataAvailable = $false; availabilityStatus = [string]$item.availabilityStatus
+      comparison = $item.comparison
+    })
+    continue
+  }
+  $r1 = [int]$stats.ratings.one; $r2 = [int]$stats.ratings.two; $r3 = [int]$stats.ratings.three
+  $r4 = [int]$stats.ratings.four; $r5 = [int]$stats.ratings.five
+  $total = [int]$stats.totalReviewCount; $textTotal = [int]$stats.reviewsWithTextCount
+  $low = $r1 + $r2 + $r3; $rate = if ($total -gt 0) { $low / [double]$total } else { 0 }
   $summaries.Add([pscustomobject]@{
     platform = 'Walmart'; sku = $item.sku; brand = $item.brand; category = $item.category
     productId = $item.itemId; productName = $item.productName; url = $item.url
@@ -129,7 +154,9 @@ foreach ($item in $walmart) {
     reviewPlan = Get-ReviewPlan $total $low $rate $coreNew
     actionItems = @(Get-Actions $themeNames $coreNew)
     firstReview = $null; lastReview = $null; coreNew = $coreNew
-    sourceSystem = 'Walmart page structured review data'
+    sourceSystem = 'Walmart storefront + Bazaarvoice auxiliary text'
+    dataAvailable = $true; availabilityStatus = [string]$item.availabilityStatus
+    comparison = $item.comparison
   })
 }
 

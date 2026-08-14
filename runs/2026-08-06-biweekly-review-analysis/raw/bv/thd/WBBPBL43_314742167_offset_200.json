@@ -1,0 +1,3443 @@
+{
+  "Limit": 100,
+  "Offset": 200,
+  "TotalResults": 225,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "238970911",
+      "CID": "82851052-3bc3-5635-a3af-19a088f609c0",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "pro": {
+          "ContentType": "REVIEW",
+          "Id": "pro",
+          "BadgeType": "Custom"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "pro",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-02-13T22:15:10.000+00:00",
+      "LastModificationTime": "2024-07-09T18:10:21.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "bvsampling_november_2020_major_seeds_campaign_2020113",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nWe appreciate your feedback seeds member. It would seem that your concern over a 4\" hose clamp which is used to fasten the lower tube onto the flex out tube of the blower may be insufficient to rate the entire tool 2 stars. Also the housings or \"plastic parts\" as you refer to it is glass filled nylon, the same stuff football helmets are made of. the tubes are made of a different material but that is needed for flexibility and weight saving. While you are certainly entitled to your opinion the 2 star rating seems a bit harsh for a tool that you say is \"light weight\" and \"easy to start\". Also you forgot to mention the 6 Year Homeowner warranty that the comes standard with this product. Again appreciate the feedback, have a great day.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\"\n         style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\"/>\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2020-11-23T19:33:06.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "UserLocation": "Sapphire, NC",
+      "AuthorId": "0313D223B6F29AA30S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zii3kymn50zv1qa0u13es8ty56",
+          "SubmissionTime": "2024-02-13T21:48:15.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/a1dc4efc-34fb-52e8-9d94-0df1fbdaa8a1"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/84ae5564-676a-53a9-b98d-5df701185de2"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/9cf87432-424d-53ec-a59d-7cc1a245f3af"
+            }
+          },
+          "Id": "6219693",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/b6d8d094-65a4-52c7-8b2c-679d0d13ecd7"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/28ec5bd8-f708-58fc-8d4f-f73be0c45fb6"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/035bdd12-239a-58f4-abfd-58164a110977"
+            }
+          },
+          "Id": "6219694",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/704ee73f-1a7c-5028-8ddc-4ccd0aa4e501"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/443659e9-afc0-5c60-a50a-ef7d6a09d68e"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/5c02b3fb-56b9-56d3-bdf9-7bb807bed70c"
+            }
+          },
+          "Id": "6219695",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/6d52f51b-0446-5306-8eef-f88956911684"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/7c144147-4d29-57ff-930b-152d75165667"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/603af936-9317-55a0-bd86-fa78bdc0f4c2"
+            }
+          },
+          "Id": "6219696",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/a8b1da82-7838-567d-904c-ec5029c51efe"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/5d463a6d-d71f-5e16-b0be-c0a537f03ed1"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/aa38093f-fd90-558d-b9b2-545598683b96"
+            }
+          },
+          "Id": "6219697",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/77d3dda2-1931-5515-ad0b-1ef10bd7970a"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/8453ccfb-3971-5897-991b-346fd41e5f51"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/6f258ec9-b82c-5bb6-ae55-f9ed9bdc3aad"
+            }
+          },
+          "Id": "6219698",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 2,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.75,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999ps_16059093EBcKnrXmSu",
+      "SubmissionTime": "2020-11-20T22:19:00.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro",
+        "Con"
+      ],
+      "ReviewText": "The Badger Super - Duty 190 MPH rated 550 CFM 43cc gas full crank 2 cycle back pack leaf blower is light in weight , made of plastic components, with a 48\" reach of the blower tube. Easy to start, but the only drawback is the small clamp with spline, that connects to the blower tube, has a very small spline that will strip if not secured with the 3/16\" both that goes thru the clamp. Not a good fit, design, and surely will break once used several times. The owners manual is difficult to follow to put the tubes together. Other than that, the unit does have a good design and functional.",
+      "Title": "The Badger Super - Duty 190 MPH rated 550 CFM 43cc gas full crank 2 cycle back pack leaf blower i...",
+      "UserNickname": "JOE",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "55to64",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "Professional",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "TagDimensions": {
+        "Con": {
+          "Values": [
+            "Difficult to Install",
+            "Not Durable",
+            "poor directions",
+            "poorly designed clamp for hand throttle"
+          ],
+          "Id": "Con",
+          "Label": null
+        },
+        "Pro": {
+          "Values": [
+            "Easy to Use",
+            "Good Size & Weight"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": []
+    },
+    {
+      "Id": "238960437",
+      "CID": "c6086707-d0b2-5033-a08b-c503ba33ce1c",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-11-20T15:00:10.000+00:00",
+      "LastModificationTime": "2020-11-20T19:02:57.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201112_PPC_PR2_IN_ONLINE_CNTRL_3727627_RMForm_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nWe are trying to reach you please contact us at CUSTOMERSUPPORT@WildBadgerPower.com so we can get this situation fixed for you. We look forward to serving you.<br /><br />Best!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\"\n         style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\"/>\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2020-11-20T19:02:57.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "041ADA45BAC1B4290S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_16058834PBOQa6chzO",
+      "SubmissionTime": "2020-11-20T14:44:07.000+00:00",
+      "ReviewText": "Takes 20 - 25 pulls to start. Does not stay running",
+      "Title": "Takes 20 - 25 pulls to start. Does not stay...",
+      "UserNickname": "Brimas",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238899105",
+      "CID": "1f367e82-c31e-53a5-843f-97a84d38ed0e",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "dIY": {
+          "ContentType": "REVIEW",
+          "Id": "dIY",
+          "BadgeType": "Custom"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "dIY",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2020-11-18T19:15:04.000+00:00",
+      "LastModificationTime": "2021-12-01T20:12:18.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "bvsampling_november_2020_major_seeds_campaign_2020113",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nWe are very delighted to hear about your experiences! Thank you for your sharing them.If you have any questions, please contact us at CustomerSupport&#64;Wildbadgerpower.com. We are always here!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\"\n         style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\"/>\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2021-02-15T21:48:12.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "UserLocation": "Kentucky",
+      "AuthorId": "0311280CAFFDA74B0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/36678aa5-8eac-5fc2-a66c-98a5de1ef34e"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/40a63945-3f8c-5839-a577-2f2fed243574"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/c0dbe2d6-a435-5e7e-abef-bff6eda51520"
+            }
+          },
+          "Id": "6210580",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Comfortable"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/5788fecb-ccc2-5177-8a23-c473ca0cf175"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/aa1ea1cd-d455-5c31-b3dd-57ba1e169e12"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/ab8b14d6-c081-5e6c-82c5-3990e22769dd"
+            }
+          },
+          "Id": "6210581",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "well built"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/44129c09-656a-524c-bf8c-91ea96b8a997"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/ede18014-42ea-5b63-8d77-f3c5f1b3fce8"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/7b7db89e-3f65-5cff-8ed4-9d4262e7f35d"
+            }
+          },
+          "Id": "6210582",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Sturdy"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/a1fd3f63-d436-5b05-8a5a-15f437d8f166"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/542c4cac-cfdf-5e43-abdb-9a531f779835"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/509db3c6-b4bd-5b79-b122-3cff9f04694f"
+            }
+          },
+          "Id": "6210583",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Powerful"
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Quality"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999ps_1605636889Dl41E4P9",
+      "SubmissionTime": "2020-11-17T18:25:41.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro",
+        "Con"
+      ],
+      "ReviewText": "If you have a lot of leaves to clear out of your yard, this tool will definitely get it done for you,550 CFM from the 43 CC gas full crank 2 cycle blower by Badger. The air wand is a little over 5 ft long and gets right down to the job the hand throttle along with the backpack is just over 17 lbs. which makes it comfortable and easy to use. The engine is set in shock absorbers so there is little vibration. I have owned electric blowers, but this \"beast\" gets the job done and gets it done quickly!",
+      "Title": "If you have a lot of leaves to clear out of your yard, this tool will definitely get it done for ...",
+      "UserNickname": "CHARLES",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "65orOver",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "DIYer",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "TagDimensions": {
+        "Con": {
+          "Values": [
+            "n/a"
+          ],
+          "Id": "Con",
+          "Label": null
+        },
+        "Pro": {
+          "Values": [
+            "Durable",
+            "Easy to Use",
+            "Good Size & Weight",
+            "High Quality",
+            "Lots of Features",
+            "Nice Design",
+            "Sturdy"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "SecondaryRatings": {
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null
+        }
+      },
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238897219",
+      "CID": "5b68aa0d-0fa9-5a53-9cbf-b0268a1e1701",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "dIY": {
+          "ContentType": "REVIEW",
+          "Id": "dIY",
+          "BadgeType": "Custom"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "dIY",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2020-11-18T08:45:04.000+00:00",
+      "LastModificationTime": "2022-02-02T14:08:58.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "bvsampling_november_2020_major_seeds_campaign_2020113",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nThank you for the review we appreciate the feedback. We have already put forward the feedback on the parts having numbers placed on them to make assembly easier. As far as longevity this tool is a full crank shaft engine and is backed by a 6 Year Warranty for Homeowners and 3 years for commercial users. Please contact us at CustomerSupport@wildbadgerpower.com if you have any further questions. Thanks again.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\"\n         style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\"/>\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2020-11-18T20:18:36.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "tthyvwohz008kkflsr43wk2km",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/abe1852e-8feb-5023-bded-20cedfe0e220"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/6816e83a-3fae-5ddc-a07d-232f91cc6ad6"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/f9140040-772c-50a9-aba9-552253de333d"
+            }
+          },
+          "Id": "6210195",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/b3d3ff33-3071-5a61-bb06-611a3f26cb9a"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/bcf9b2b1-cbc8-589d-8ca6-039ab266cec6"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/10203357-755f-5e49-8879-991d13c5ae38"
+            }
+          },
+          "Id": "6210196",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/bd113bb1-a874-5b77-a9c5-ff0607617158"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/ba371995-bbbe-5408-9361-18d159e977cc"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/cd9773ff-4c9b-5623-a3ae-584c33c2f60c"
+            }
+          },
+          "Id": "6210197",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/52ddf8bf-f9f3-5d25-91a7-39bd9f5a8aea"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/9fbd57ee-51f4-53fe-a6f9-26ca72f6df63"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/1cb19b5b-f903-51f4-bf35-4c08f81cb288"
+            }
+          },
+          "Id": "6210198",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 3,
+      "SecondaryRatingsOrder": [
+        "Quality"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 5,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999ps_16056311Cod9ochJi3",
+      "SubmissionTime": "2020-11-17T16:46:18.000+00:00",
+      "ReviewText": "This blower packs a lot of power. We have a bigger backpack blower but it is heavy and not easy to walk up and down hills. The Badger backpack is compact and easier to walk around with. It has excellent power and a strong blowing speed. It had an easy first start. The instructions were not clear for first timers, but those with mechanical knowledge could easily figure it out. The manual contained no part numbers, not good if you need a replacement part. This is a good running blower but I am not sure of durability over time. I recommend it if you are looking for a good economy back pack blower.",
+      "Title": "This blower packs a lot of power. We have a bigger backpack blower but it is heavy and not easy ...",
+      "UserNickname": "Ann",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "35to44",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Female",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "DIYer",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "SecondaryRatings": {
+        "Quality": {
+          "Value": 3,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null
+        }
+      },
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238890986",
+      "CID": "e79861a4-f333-55ab-b5d5-0ba4630dd4a8",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-11-17T07:15:05.000+00:00",
+      "LastModificationTime": "2021-02-15T22:18:31.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201112_PPC_PR2_IN_ONLINE_CNTRL_3727627_DA_LP_Mobile_DA_MW",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nThank you very much for your review. Please contact us at CustomerSupport&#64;wildbadgerpower.com if you have any further questions.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\"\n         style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\"/>\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2021-02-15T22:18:31.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "051C71E6273301E30S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_16055964j62htPMoii",
+      "SubmissionTime": "2020-11-17T07:01:33.000+00:00",
+      "ReviewText": "Rating provided by a verified purchaser",
+      "Title": "Rating provided by a verified purchaser...",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238805168",
+      "CID": "2e8a40ba-4667-5ea2-87c4-c400ca8a47ee",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "dIY": {
+          "ContentType": "REVIEW",
+          "Id": "dIY",
+          "BadgeType": "Custom"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "dIY",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2020-11-15T20:15:04.000+00:00",
+      "LastModificationTime": "2021-05-08T03:11:24.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "bvsampling_november_2020_major_seeds_campaign_2020113",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nThank you very much for your feedback. We love to hear more about your experiences. If you have any questions and concerns, please don&#39;t hesitate to reach out to us on https://wildbadgerpower.com/ and contact us, or go to the Home Depot customer service.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\"\n         style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\"/>\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2021-02-09T17:48:32.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "UserLocation": "Blue Ridge, GA",
+      "AuthorId": "0311C052BF0E27B50S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/d5ce2f65-210a-5fc5-a630-e8492055c374"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/b568b722-a97f-55c2-a107-29fb61874e6d"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/a90d6f4e-610c-5f71-b7c3-48cc4aca348c"
+            }
+          },
+          "Id": "6197779",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Unassembled blower and parts"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/76dee4df-c2aa-5a08-934e-e479a01a27bd"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/a72c2ddc-7ea8-531c-a93c-71f0c0f95421"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/250b523a-3e78-5731-ace6-6e91942a6e18"
+            }
+          },
+          "Id": "6197780",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Assembled blower"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/e5027cc2-d2da-5ee3-ba16-3939f41ff4dd"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/4f617a03-13c3-5110-8098-e9953f5e402b"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/55055158-8a7d-5a34-b88d-5783101c96f2"
+            }
+          },
+          "Id": "6197781",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Operator's Manual Pictures"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/b4043373-31a3-59e3-b0a6-393bd23e63b7"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/3ddcc819-94a2-56f7-9f1d-7ed466ab3245"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/ed816825-d8dd-574a-b15e-65138ea47081"
+            }
+          },
+          "Id": "6197782",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Operator's Manual Assembly Instructions"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/1e70bee9-e199-5475-8578-cbae13c6f41c"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/f565fbad-54db-5e19-b327-4591e2d751db"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/2b345fdf-6302-55cf-8d40-8899995d15b1"
+            }
+          },
+          "Id": "6197783",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Badger Leaf Blower Operation"
+        }
+      ],
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "Quality"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999ps_16053068my1BEQVJJI",
+      "SubmissionTime": "2020-11-13T23:15:43.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro",
+        "Con"
+      ],
+      "ReviewText": "The Badger Super Duty Back Pack Leaf Blower is a welcomed addition to my inventory of home equipment. It arrived just a few days ago in time to handle leaf removal around my deck and driveway, and it lived up to expectations. It was easy to start and operate and it was not too heavy to carry on my back. I would recommend hearing protection (which I did not have) because the motor is rather noisy. I liked the control switch, and it was conveniently located above the blowpipe to control the blower speed. However, the blowpipe would not maintain a steady position and it sometimes became difficult to maneuver. The downside of the product is the Operator's Manual. It is small and has poorly produced pictures of the various unnamed parts on page 2, and the assembly instructions on page 11 reference back to the pictures. Both lacked sufficient detail to easily understand the assembly process. Also the pictures numbered the various parts but the parts themselves had no corresponding numbers and didn't look like the tiny pictures. Nevertheless, I was eventually able by trial and error to assemble the blower and operate it. I did like the fact that the product included all the tools needed to assemble and maintain the blower and they will come in handy in the future.",
+      "Title": "The Badger Super Duty Back Pack Leaf Blower is a welcomed addition to my inventory of home equipm...",
+      "UserNickname": "JOHN",
+      "Videos": [
+        {
+          "VideoId": "D9n1ll32DQM",
+          "VideoHost": "www.youtube.com",
+          "VideoThumbnailUrl": null,
+          "VideoIframeUrl": "https://www.youtube.com/embed/D9n1ll32DQM",
+          "Caption": "See it in Action - Badger Leaf Blower",
+          "VideoUrl": "https://www.youtube.com/watch?v=D9n1ll32DQM"
+        }
+      ],
+      "ContextDataValues": {
+        "Age": {
+          "Value": "65orOver",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "DIYer",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "TagDimensions": {
+        "Con": {
+          "Values": [
+            "vague assembly instructions"
+          ],
+          "Id": "Con",
+          "Label": null
+        },
+        "Pro": {
+          "Values": [
+            "Easy to Use",
+            "Good Size & Weight",
+            "Nice Design"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "SecondaryRatings": {
+        "Quality": {
+          "Value": 3,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null
+        }
+      },
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "CommentIds": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238786007",
+      "CID": "27bb2a48-4b7c-5efd-8eb7-3b59929f7354",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "dIY": {
+          "ContentType": "REVIEW",
+          "Id": "dIY",
+          "BadgeType": "Custom"
+        },
+        "top1000": {
+          "ContentType": "REVIEW",
+          "Id": "top1000",
+          "BadgeType": "Merit"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "dIY",
+        "top1000",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2020-11-15T14:15:08.000+00:00",
+      "LastModificationTime": "2022-03-25T14:02:22.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "bvsampling_november_2020_major_seeds_campaign_2020113",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHi, thank you very much for the feedback! We love to hear more about your experiences. If you have any questions and concerns, please don&#39;t hesitate to reach out to us on https://wildbadgerpower.com/ and contact us, or go to Home Depot customer service. We are always here to support!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\"\n         style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\"/>\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2021-02-09T18:03:23.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "UserLocation": "Pittsburgh Pa",
+      "AuthorId": "0200530DAD2335995S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/c0d42111-80b0-52f3-bcdc-fddac14f71d0"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/2c6c6607-568a-5638-acc3-0e7a906c6d2d"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/b2c42611-92d5-5589-90bd-06c8aef0a010"
+            }
+          },
+          "Id": "6196755",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/79842de2-722b-57f9-9c43-5aa3ab423a4a"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/063f89bf-b028-50e4-bb38-291cbab5522b"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/3c89c0b5-dd77-5ae1-87ce-d3e7c6117fc1"
+            }
+          },
+          "Id": "6196756",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/74c9e97a-4842-585a-8bf2-470ed1ef699f"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/809182eb-7b93-5cec-9aee-f5826deb3c18"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/3e809242-df88-5b23-a47b-ba4e01ffe396"
+            }
+          },
+          "Id": "6196757",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/cfbf7adf-21ab-5835-83c7-dca71acf71e1"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/de1e034e-2b41-5ac3-9bc0-43fa2ecb198c"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/899a05ac-f59a-57c1-a75f-4a94097783c6"
+            }
+          },
+          "Id": "6196758",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/e174da94-960f-54e6-b500-78df15850352"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/92870217-8e51-5df8-87e0-9ce2bf51b16e"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/e9c34668-66de-57d4-a143-b2cb2f201fe4"
+            }
+          },
+          "Id": "6196759",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "Quality"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 6,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999ps_16052868hFXSvjSuID",
+      "SubmissionTime": "2020-11-13T17:05:02.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "This is a solid home owner backpack blower. It obviously doesn't have the power of a more expensive, commerical blower but it is adequate for the average person. It puts out much more power than a handheld blower. Its smaller than 2nd blower but makes it much more usuable for smaller people. The directions are lacking but you can figure it out if you pay attention. You will have to make some adjustments to gap the spark plug as well as throttle adjustment but it does an excellent job and is a good value. Started on 3rd pull.",
+      "Title": "This is a solid home owner backpack blower. It obviously doesn't have the power of a more expensi...",
+      "UserNickname": "Mckain723",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "35to44",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "DIYer",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "Easy to Use",
+            "Good Size & Weight"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "SecondaryRatings": {
+        "Quality": {
+          "Value": 4,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null
+        }
+      },
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238783855",
+      "CID": "8dfbe3ab-bf2b-5a3e-ba67-41309d8349b2",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-11-13T17:00:09.000+00:00",
+      "LastModificationTime": "2020-11-13T17:00:09.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201113_PPC_PR2_OUT_ONLINE_CNTRL_3728063_RMForm_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03F3E94CAA8721B00S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_16052853Wzcw5djdBe",
+      "SubmissionTime": "2020-11-13T16:35:52.000+00:00",
+      "ReviewText": "Fast shipping, good product, very pleased with purchase.",
+      "Title": "Fast shipping, good product, very pleased with purchase....",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238746798",
+      "CID": "7457820a-ea0a-58e2-befc-90f26084559c",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-11-13T01:15:04.000+00:00",
+      "LastModificationTime": "2020-11-13T15:03:18.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201112_PPC_PR2_IN_ONLINE_CNTRL_3727627_RMForm_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nSach,<br /><br />We are trying to contact you please email us at CUSTOMERSUPPORT@WILDBADGERPOWER.COM so we can get this situation rectified. Sounds like the carb is out of adjustment.  Thanks!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\"\n         style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\"/>\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2020-11-13T15:03:18.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "0203406763A3DB81ES",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_160522838hW6wNuQ1d",
+      "SubmissionTime": "2020-11-13T00:45:56.000+00:00",
+      "ReviewText": "Doesn’t have and hold the power. Really disappointed. Returning soon!!",
+      "Title": "Doesn’t have and hold the power. Really disappointed. Returning soon!!...",
+      "UserNickname": "Sach",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238738285",
+      "CID": "4d2f0a45-bf11-5605-a5e8-47349b0634d7",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-11-12T23:15:08.000+00:00",
+      "LastModificationTime": "2020-11-12T23:15:08.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201112_PPC_PR2_IN_ONLINE_CNTRL_3727627_DA_LP_Mobile_RMForm",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "041739804285A2240S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_1605221960OWC7HnP4",
+      "SubmissionTime": "2020-11-12T22:58:54.000+00:00",
+      "ReviewText": "It was working great but after like the 8th use it refuses to rev up 100%\n\nHaven’t been able to fix it. Need to call their warranty department and see how that goes?",
+      "Title": "It was working great but after like the 8th use...",
+      "UserNickname": "David",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238683641",
+      "CID": "02ab3835-b9df-5f40-ac2e-c314818c4fe9",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "dIY": {
+          "ContentType": "REVIEW",
+          "Id": "dIY",
+          "BadgeType": "Custom"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "dIY",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2020-11-13T06:45:03.000+00:00",
+      "LastModificationTime": "2021-10-03T19:23:35.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "bvsampling_november_2020_major_seeds_campaign_2020113",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nThank you very much for the feedback! We are delighted to hear about your experiences! If you have any questions and concerns, please don&#39;t hesitate to reach out to us on https://wildbadgerpower.com/ and contact us, or go to Home Depot customer service. We are always here to support!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\"\n         style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\"/>\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2021-02-09T18:03:36.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "UserLocation": "Roscoe, Illinois",
+      "AuthorId": "03127FCE0685273F0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/3dcc5b16-00fb-57de-8c2a-b8e54f230ce3"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/cac05bbf-fcb9-5341-99f1-5af17fbc0440"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/33959857-ce99-5791-8a5b-72e3c53d8834"
+            }
+          },
+          "Id": "6192921",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/fdd3ebc0-78c2-55d5-b288-4fd2376f62a6"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/da0c9e36-7d73-5f1c-ac57-2b3e1820bc96"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/594c7a15-d20d-5539-accb-ff957797eea0"
+            }
+          },
+          "Id": "6192922",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/adc15b28-c638-54ca-a456-c50e025a289b"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/ca789e7b-ab58-5a34-947e-ff4bc579a9a3"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/003f6eee-ede8-5f00-8b1a-1006405c63b6"
+            }
+          },
+          "Id": "6192923",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/8a6cc986-a225-5a5c-9e78-f7ec081670b9"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/e8461968-cdb7-599a-85a8-9755564e8490"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/c0e13474-e38d-59ad-90b8-8363a0d9ab96"
+            }
+          },
+          "Id": "6192924",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/136479ba-f6c4-55e6-82bd-8ea0b9b9e7e5"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/c0b6bc05-1ca6-5da9-950d-0a4a4738a820"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/cc8142f6-fec1-5569-80f8-85712ce6a3ea"
+            }
+          },
+          "Id": "6192925",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/08a0ee49-5e7e-5a28-b77c-12e911366f2d"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/85d4ab73-f9ce-5d25-af6f-255b9d52afce"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/2196cb78-8829-5be8-b332-4417ec88a37d"
+            }
+          },
+          "Id": "6192926",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Quality"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999ps_16051601PlGd9iYvhD",
+      "SubmissionTime": "2020-11-12T06:03:40.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "Recieved this Badger blower today and was very impressed upon opening. Assembly couldn't be easier. The blower tube comes in sections and I opted to leave 1 section off as it was too long. The tubes twist together and has a set screw that keeps them locked together. Great idea. The shoulder straps are adjustable making it very simple to put on and take off. This blower requires a fuel mixture of 50-1 and Starts easily. The wind force is awesome and really moves the leaves. I love adjustable throttle that swivels with your movement. Definitely a must buy at a fraction of the cost of competitors.",
+      "Title": "Recieved this Badger blower today and was very impressed upon opening. Assembly couldn't be easi...",
+      "UserNickname": "DAVID",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "45to54",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "DIYer",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "Durable",
+            "Easy to Install",
+            "Easy to Use",
+            "Good Size & Weight",
+            "High Quality",
+            "Nice Design",
+            "Sturdy"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "SecondaryRatings": {
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null
+        }
+      },
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238658215",
+      "CID": "2d809e5b-dd44-579d-a215-99fa5a374350",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-11-11T21:30:09.000+00:00",
+      "LastModificationTime": "2021-02-09T18:18:18.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201110_PPC_PR1_ONLINE_CNTRL_3726119",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nThank you very much for the feedback! We love to hear more about your experiences. If you have any questions and concerns, please don&#39;t hesitate to reach out to us on https://wildbadgerpower.com/ and contact us, or go to Home Depot customer service. We are always here to support!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\"\n         style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\"/>\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2021-02-09T18:18:18.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "03ED11AEDE71AC600S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_160512823BSzN9Bk6a",
+      "SubmissionTime": "2020-11-11T21:00:32.000+00:00",
+      "ReviewText": "Starts easy and runs great for hours at a time.",
+      "Title": "Starts easy and runs great for hours at a time.",
+      "UserNickname": "Flagman",
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "ContextDataValuesOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "ContextDataValues": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238634218",
+      "CID": "7c64793b-8781-5b10-b5b3-2a79370fecfc",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "pro": {
+          "ContentType": "REVIEW",
+          "Id": "pro",
+          "BadgeType": "Custom"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "pro",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2020-11-12T16:45:08.000+00:00",
+      "LastModificationTime": "2021-10-03T19:24:10.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "bvsampling_resubmission",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "UserLocation": "Asheboro nc",
+      "AuthorId": "0418F8B92E07771D0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/57dce002-9133-55ef-b520-de8b594c2887"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/3f91d4fa-c061-5a1a-bfcc-1772373a94c1"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/1e470a0e-6426-5d19-b9ff-87ec8290d0f3"
+            }
+          },
+          "Id": "6190503",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/2400ea46-9d40-59ca-abea-d9b86e14e7fe"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/41b9e87d-49bd-5c35-af85-baea3d22d5ca"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/3f349c36-86c1-5b19-94a8-7212bf07894a"
+            }
+          },
+          "Id": "6190504",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/ef14bb49-ac9f-5b73-a7ad-c6b993b3b65b"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/14ae5513-938c-51c4-8513-6a29ed7f1329"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/b47c5b57-67a6-5507-89f6-32f2819dc57f"
+            }
+          },
+          "Id": "6190505",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 5,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999ps_16051046hkOYVbBbm4",
+      "SubmissionTime": "2020-11-11T14:31:20.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "Amazing power. This badger back pack leaf blower made blowing leaves a pleasure. Altho the wind was blowing hard when I cleared the leaves off my lawn and patio the badger came out ahead. The extra padding on the back rest is awesome. It's very comfortable and easy to carry. Assembly of the badger is a breeze. It took less than 15 minutes. All tools are included in the box. This in one of the best purchases I've made all year.",
+      "Title": "Amazing power. This badger back pack leaf blower made blowing leaves a pleasure. Altho the wind w...",
+      "UserNickname": "Web",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "55to64",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "Professional",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "Durable",
+            "Easy to Use",
+            "Good Size & Weight",
+            "High Quality",
+            "Nice Design"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238621631",
+      "CID": "f7ee693c-5b18-53ca-b3b1-8ca8d4c128ae",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-11-11T08:30:12.000+00:00",
+      "LastModificationTime": "2020-11-12T22:58:11.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201110_PPC_PR1_ONLINE_CNTRL_3726119_DA_LP_Mobile_DA_MW",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "116190773",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.5,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_16050829KDmw4RzxEe",
+      "SubmissionTime": "2020-11-11T08:21:49.000+00:00",
+      "ReviewText": "Rating provided by a verified purchaser",
+      "Title": "Rating provided by a verified purchaser...",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238614381",
+      "CID": "d267dddc-6cf6-5555-a49f-3476a4880161",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-11-11T07:45:13.000+00:00",
+      "LastModificationTime": "2020-11-12T22:58:06.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201110_PPC_PR1_ONLINE_CNTRL_3726192_DA_LP_Mobile_DA_MW",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "051C83893B0ECD4F0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.5,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_160508001lQX7UaUey",
+      "SubmissionTime": "2020-11-11T07:34:42.000+00:00",
+      "ReviewText": "Rating provided by a verified purchaser",
+      "Title": "Rating provided by a verified purchaser...",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238559394",
+      "CID": "de0b40e0-1979-566a-9104-9c72e3b85f9c",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "pro": {
+          "ContentType": "REVIEW",
+          "Id": "pro",
+          "BadgeType": "Custom"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "pro",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2020-12-06T16:45:05.000+00:00",
+      "LastModificationTime": "2020-12-06T16:45:05.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "bvsampling_november_2020_major_seeds_campaign_2020113",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "UserLocation": "Asheboro nc",
+      "AuthorId": "0418F8B92E07771D0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/439b4b0d-3a25-5656-97cd-1d5e184c263f"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/9fca47b4-1c6e-521e-af15-98e87f009a98"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/1a2cb8c8-5cea-5aca-ace4-ac03f0675be5"
+            }
+          },
+          "Id": "6188079",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/cdb8f5f0-24d4-5aa2-b78d-5129986f1b37"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/96df095e-4010-5bff-a535-be71e08076c9"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/55df5cd1-62b4-5d30-8940-292b4bb0c057"
+            }
+          },
+          "Id": "6188080",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/426d3d54-5920-5faa-89fd-5d14f1c2d959"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/18231451-c219-5005-a757-df153391de8c"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/d611857e-399a-5a64-be80-c6076ec46258"
+            }
+          },
+          "Id": "6188081",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/85fa64f2-7db5-5ce7-bbae-720abcbd77e2"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/70959c22-fa23-5657-93d2-03c78dba0be9"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/8126e4c3-9785-56a4-8fb7-ee7e0023f8e3"
+            }
+          },
+          "Id": "6188082",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/d69f672c-0903-5cad-a363-a09b0928a8d2"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/25c10391-ebed-5ecf-ba58-30dbf14d9919"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/6324704c-546e-55e1-8424-89ca6bddf533"
+            }
+          },
+          "Id": "6188083",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/deaf8809-f6f1-5692-8932-851c8aa10449"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/69025846-3a9d-589e-b811-c5ddd5992e1b"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/9bfe53bf-6b4d-5937-9ee4-c4e27e159f94"
+            }
+          },
+          "Id": "6188084",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999ps_16050352StRs2DrFTO",
+      "SubmissionTime": "2020-11-10T19:20:03.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "I was so happy to see the delivery truck today. I knew these aggrivating leaves would soon be gone from my patio and yard. What I didn't know was how quick they would be gone. I have owned a lot of leaf blowers over the years.some Hugh name brands. None would compare to the badger. It's a strong 190 mph. The wind was blowing hard today as I blew the leaves off but this badger won the fight. It's very easy to assemble. Took maybe 15 mins top. If your trying to decide about this machine. Buy it.its so comfortable on your back. Padded shoulder straps are awesome to.",
+      "Title": "I was so happy to see the delivery truck today. I knew these aggrivating leaves would soon be gon...",
+      "UserNickname": "Web",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "55to64",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "Professional",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "Durable",
+            "Easy to Use",
+            "Good Size & Weight",
+            "High Quality",
+            "Looks Great",
+            "Lots of Features",
+            "Nice Design",
+            "Sturdy"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238555472",
+      "CID": "a8aa7de3-5cb0-5edd-9cb4-afc506bdfa7a",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-11-10T19:31:07.000+00:00",
+      "LastModificationTime": "2020-11-12T22:57:58.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201110_PPC_PR1_ONLINE_CNTRL_3726192_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "041C9B207EC76A730S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_16050347LmP5MexC7b",
+      "SubmissionTime": "2020-11-10T18:58:37.000+00:00",
+      "ReviewText": "This blower Works fantastic. Its light and very comfortable to work with.",
+      "Title": "This blower Works fantastic. Its light and very comfortable to...",
+      "UserNickname": "SERGIO",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238548425",
+      "CID": "662772eb-d3e0-57cf-b281-bd342268fba9",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-11-10T19:01:14.000+00:00",
+      "LastModificationTime": "2020-11-12T22:57:51.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201110_PPC_PR1_ONLINE_CNTRL_3726192_RMForm_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03ED1ADEA2A1AF900S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_16050332GolJ1j90qW",
+      "SubmissionTime": "2020-11-10T18:34:10.000+00:00",
+      "ReviewText": "Can’t beat it at the price point. Will hold its own with any blower 2-3x the price. For something I only use a few times a year I’m not too worried about longevity",
+      "Title": "Can’t beat it at the price point. Will hold its...",
+      "UserNickname": "jeremy",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238540809",
+      "CID": "9afd1afc-a451-5856-b993-0a7ea96822cf",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-11-10T23:45:54.000+00:00",
+      "LastModificationTime": "2021-01-26T15:49:40.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201110_PPC_PR1_ONLINE_CNTRL_3726119_RMForm_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "04174854D062D1BD0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zozvpk7nj1wgpvzqxnzd1pj1n4",
+          "SubmissionTime": "2020-11-10T23:39:52.000+00:00",
+          "ReasonText": "No details completely useless review"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.16666699945926666,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 5,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_16050284NYltZ2tiNa",
+      "SubmissionTime": "2020-11-10T17:14:35.000+00:00",
+      "UserNickname": "CRAWFORD",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "ReviewText": null,
+      "TagDimensionsOrder": []
+    },
+    {
+      "Id": "238280375",
+      "CID": "3ca35df2-9ee5-54ec-af89-f700a4c4fb1c",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-10-30T14:30:09.000+00:00",
+      "LastModificationTime": "2020-11-12T22:57:41.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201023_PPC_PR1_ONLINE_CNTRL_3714930_RMForm_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03ED1092CA21AC600S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_16040665mRb7i2zn20",
+      "SubmissionTime": "2020-10-30T14:02:11.000+00:00",
+      "ReviewText": "Easy start and not too heavy. Has enough power to move the smaller branches and leaves that an electric can't. Very pleased with this blower.",
+      "Title": "Easy start and not too heavy. Has enough power to...",
+      "UserNickname": "TRAVIS",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238115970",
+      "CID": "7e0fe40b-a0e3-5da9-9479-2d2e86bc6051",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-10-24T07:00:11.000+00:00",
+      "LastModificationTime": "2020-11-12T22:57:29.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201023_PPC_PR1_ONLINE_CNTRL_3714930_DA_LP_DA_MW",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "266944440",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_16035224GTGko1qWlD",
+      "SubmissionTime": "2020-10-24T06:54:30.000+00:00",
+      "ReviewText": "Rating provided by a verified purchaser",
+      "Title": "Rating provided by a verified purchaser...",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238039466",
+      "CID": "41108194-63ec-5d9c-b39f-dd72b9d805a5",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-10-23T15:46:10.000+00:00",
+      "LastModificationTime": "2020-10-23T15:46:10.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201023_PPC_PR1_ONLINE_CNTRL_3714930_RMForm_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "041C1021C795B5FD0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_160346616Uoe72VTIj",
+      "SubmissionTime": "2020-10-23T15:15:48.000+00:00",
+      "ReviewText": "So far so good, starts right up blows good",
+      "Title": "So far so good, starts right up blows good...",
+      "UserNickname": "Shipwreck",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238032469",
+      "CID": "87ab02b9-075f-51d3-acd8-3706a29734ac",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-10-23T14:31:06.000+00:00",
+      "LastModificationTime": "2020-12-11T18:30:45.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201023_PPC_PR1_ONLINE_CNTRL_3714930_RMForm_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "121919418",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_16034618WXt4cJmJ6n",
+      "SubmissionTime": "2020-10-23T14:03:38.000+00:00",
+      "ReviewText": "Works great. Needs two-cycle fuel to operate properly but was well worth the purchase. This is a powerful blower at a great price. However, my blower came in a horribly mangled box, as if it had been attacked by a pack of wolves. Don’t know what happened there, but all the parts inside were intact and I’ve yet to run into any issues—blower works as advertised.",
+      "Title": "Works great. Needs two-cycle fuel to operate properly but was...",
+      "UserNickname": "SHANE",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238028624",
+      "CID": "9276fba6-3d74-53d9-9c50-f008b4c8d83c",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-10-23T13:46:02.000+00:00",
+      "LastModificationTime": "2020-10-23T13:46:02.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201023_PPC_PR1_ONLINE_CNTRL_3714861_RMForm_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "041B2983D11030D70S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_16034596eNUAByjGq7",
+      "SubmissionTime": "2020-10-23T13:28:19.000+00:00",
+      "ReviewText": "So far so good. Starts right up and lightweight",
+      "Title": "So far so good. Starts right up and lightweight...",
+      "UserNickname": "JAMES",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "238015270",
+      "CID": "9f63b1dd-7d5c-5c57-a474-bcd2f35f2668",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-10-23T11:45:07.000+00:00",
+      "LastModificationTime": "2020-10-23T11:45:07.000+00:00",
+      "ProductId": "314742167",
+      "OriginalProductName": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+      "CampaignId": "20201023_PPC_PR1_ONLINE_CNTRL_3714861_RMForm_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "04145D99EB8BB9DB0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_16034517CAVBQTvsIg",
+      "SubmissionTime": "2020-10-23T11:16:33.000+00:00",
+      "ReviewText": "Works great. Makes leaf blowing much easier.",
+      "Title": "Works great. Makes leaf blowing much easier....",
+      "UserNickname": "MARTIN",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "314742167": {
+        "AttributesOrder": [
+          "Category",
+          "Subclass",
+          "ChildSku",
+          "GLN",
+          "THDBrowseOnlinestatus",
+          "THDOnlineStatus",
+          "Department",
+          "IDMVendorAcctName",
+          "THDSubClass_name",
+          "THDClass_name",
+          "THDSubSubClass",
+          "GTIN14",
+          "THD_SubSubClass_name",
+          "THDDept_name",
+          "THDDotComOnlinestatus",
+          "THDSubClass",
+          "HDClass",
+          "THDDept",
+          "dcs_nbr",
+          "AVAILABILITY",
+          "Class",
+          "MFGModel"
+        ],
+        "Attributes": {
+          "Category": {
+            "Id": "Category",
+            "Values": [
+              {
+                "Value": "POWER> HANDHELD POWER> OTHER BLOWERS> GAS BLOWERS",
+                "Locale": null
+              }
+            ]
+          },
+          "Subclass": {
+            "Id": "Subclass",
+            "Values": [
+              {
+                "Value": "22",
+                "Locale": null
+              }
+            ]
+          },
+          "ChildSku": {
+            "Id": "ChildSku",
+            "Values": [
+              {
+                "Value": "314742167",
+                "Locale": null
+              }
+            ]
+          },
+          "GLN": {
+            "Id": "GLN",
+            "Values": [
+              {
+                "Value": "0854641007009",
+                "Locale": null
+              }
+            ]
+          },
+          "THDBrowseOnlinestatus": {
+            "Id": "THDBrowseOnlinestatus",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "THDOnlineStatus": {
+            "Id": "THDOnlineStatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "Department": {
+            "Id": "Department",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "IDMVendorAcctName": {
+            "Id": "IDMVendorAcctName",
+            "Values": [
+              {
+                "Value": "SUNSEEKER US INC",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass_name": {
+            "Id": "THDSubClass_name",
+            "Values": [
+              {
+                "Value": "OTHER BLOWERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDClass_name": {
+            "Id": "THDClass_name",
+            "Values": [
+              {
+                "Value": "HANDHELD POWER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubSubClass": {
+            "Id": "THDSubSubClass",
+            "Values": [
+              {
+                "Value": "102",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00854641007382",
+                "Locale": null
+              }
+            ]
+          },
+          "THD_SubSubClass_name": {
+            "Id": "THD_SubSubClass_name",
+            "Values": [
+              {
+                "Value": "GAS BLOWERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept_name": {
+            "Id": "THDDept_name",
+            "Values": [
+              {
+                "Value": "SEASONAL/GARDEN",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDotComOnlinestatus": {
+            "Id": "THDDotComOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass": {
+            "Id": "THDSubClass",
+            "Values": [
+              {
+                "Value": "22",
+                "Locale": null
+              }
+            ]
+          },
+          "HDClass": {
+            "Id": "HDClass",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept": {
+            "Id": "THDDept",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "dcs_nbr": {
+            "Id": "dcs_nbr",
+            "Values": [
+              {
+                "Value": "28-32-22",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "Class": {
+            "Id": "Class",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "MFGModel": {
+            "Id": "MFGModel",
+            "Values": [
+              {
+                "Value": "WBBPBL43",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "854641007382"
+        ],
+        "Description": "The Wild Badger Power 2-Cycle, Full Crank, 43cc Backpack Blower is ready to get the job done. Weighing in at only 17.4 lbs, this tool delivers a huge 650 CFM at 152 MPH. The backpack frame is made from high-impact nylon, keeping durability and comfort in the design. The engine is isolated on vibration killing shock absorbers while the durable frame has ballistic nylon, fully adjustable padded shoulder straps, and a cushioned back pad mounted to it. The air tube is just a touch over 5 feet, ensuring you can deliver that blast of air up close and personal while using your user adjustable throttle control.",
+        "ManufacturerPartNumbers": [
+          "WBBPBL43"
+        ],
+        "ImageUrl": "https://images.thdstatic.com/productImages/fcd152b6-2755-4df1-9d54-ab8ee2a2d734/svn/wild-badger-power-gas-leaf-blowers-wbbpbl43-64_1000.jpg",
+        "Name": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs.",
+        "Id": "314742167",
+        "CategoryId": "9b0f2e6a-55e7-4452-9c5a-99844f230429",
+        "BrandExternalId": "WILDBADGERPOWER",
+        "Brand": {
+          "Id": "WILDBADGERPOWER",
+          "Name": "WILD BADGER POWER"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.homedepot.com/p/WILD-BADGER-POWER-Leaf-Blower-Backpack-43cc-Gas-Strong-Air-Flow-650-CFM-152-MPH-Light-Weight-17-4-lbs-WBBPBL43/314742167",
+        "Disabled": false,
+        "QuestionIds": [],
+        "EANs": [],
+        "ModelNumbers": [],
+        "ISBNs": [],
+        "ReviewIds": [],
+        "StoryIds": [],
+        "FamilyIds": [],
+        "ReviewStatistics": {
+          "ContextDataDistributionOrder": [
+            "Age",
+            "Gender",
+            "HomeGoodsProfile",
+            "LengthOfOwnership",
+            "VerifiedPurchaser",
+            "FirstTime",
+            "ReadReviews",
+            "EarlyReviewerIncentive"
+          ],
+          "ContextDataDistribution": {
+            "Age": {
+              "Id": "Age",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "25to34"
+                },
+                {
+                  "Count": 2,
+                  "Value": "35to44"
+                },
+                {
+                  "Count": 2,
+                  "Value": "45to54"
+                },
+                {
+                  "Count": 4,
+                  "Value": "55to64"
+                },
+                {
+                  "Count": 4,
+                  "Value": "65orOver"
+                }
+              ]
+            },
+            "Gender": {
+              "Id": "Gender",
+              "Values": [
+                {
+                  "Count": 10,
+                  "Value": "Male"
+                },
+                {
+                  "Count": 3,
+                  "Value": "Female"
+                }
+              ]
+            },
+            "HomeGoodsProfile": {
+              "Id": "HomeGoodsProfile",
+              "Values": [
+                {
+                  "Count": 8,
+                  "Value": "DIYer"
+                },
+                {
+                  "Count": 4,
+                  "Value": "Professional"
+                }
+              ]
+            },
+            "LengthOfOwnership": {
+              "Id": "LengthOfOwnership",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "1year"
+                },
+                {
+                  "Count": 1,
+                  "Value": "1month"
+                },
+                {
+                  "Count": 7,
+                  "Value": "1week"
+                }
+              ]
+            },
+            "VerifiedPurchaser": {
+              "Id": "VerifiedPurchaser",
+              "Values": [
+                {
+                  "Count": 171,
+                  "Value": "True"
+                },
+                {
+                  "Count": 26,
+                  "Value": "False"
+                }
+              ]
+            },
+            "FirstTime": {
+              "Id": "FirstTime",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "No"
+                }
+              ]
+            },
+            "ReadReviews": {
+              "Id": "ReadReviews",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "No"
+                }
+              ]
+            },
+            "EarlyReviewerIncentive": {
+              "Id": "EarlyReviewerIncentive",
+              "Values": [
+                {
+                  "Count": 4,
+                  "Value": "True"
+                },
+                {
+                  "Count": 154,
+                  "Value": "False"
+                }
+              ]
+            }
+          },
+          "HelpfulVoteCount": 68,
+          "TotalVideoCount": 1,
+          "FirstSubmissionTime": "2020-10-23T11:16:33.000+00:00",
+          "LastSubmissionTime": "2026-06-25T00:53:40.000+00:00",
+          "TotalPhotoCount": 56,
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 104
+            },
+            {
+              "RatingValue": 1,
+              "Count": 46
+            },
+            {
+              "RatingValue": 4,
+              "Count": 45
+            },
+            {
+              "RatingValue": 3,
+              "Count": 19
+            },
+            {
+              "RatingValue": 2,
+              "Count": 11
+            }
+          ],
+          "AverageOverallRating": 3.6666666666666665,
+          "NotHelpfulVoteCount": 13,
+          "FeaturedReviewCount": 0,
+          "RecommendedCount": 29,
+          "SecondaryRatingsAveragesOrder": [
+            "Quality",
+            "Value"
+          ],
+          "SecondaryRatingsAverages": {
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 3.3181818181818183,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null,
+              "ValueRange": 5
+            },
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 2.875,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null,
+              "ValueRange": 5
+            }
+          },
+          "NotRecommendedCount": 16,
+          "RatingsOnlyReviewCount": 41,
+          "TotalReviewCount": 225,
+          "TotalMediaCount": 57,
+          "TagDistribution": {},
+          "TagDistributionOrder": [],
+          "OverallRatingRange": 5,
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 225
+      }
+    },
+    "ProductsOrder": [
+      "314742167"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

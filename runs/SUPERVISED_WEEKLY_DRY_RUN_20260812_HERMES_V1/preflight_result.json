@@ -1,0 +1,108 @@
+{
+  "status": "PREFLIGHT_PASSED",
+  "database_sha256_before": "ef625f444f523b4e315e6b1d4285448c0a559d6eadd26f453d59aee22f9c6e3a",
+  "database_sha256_after": "ef625f444f523b4e315e6b1d4285448c0a559d6eadd26f453d59aee22f9c6e3a",
+  "review_counts_before": {
+    "reviews": 436,
+    "review_snapshots": 35,
+    "review_changes": 0
+  },
+  "review_counts_after": {
+    "reviews": 436,
+    "review_snapshots": 35,
+    "review_changes": 0
+  },
+  "scope": {
+    "LOWES": 10,
+    "THD": 10,
+    "WALMART": 15
+  },
+  "scope_path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\SUPERVISED_WEEKLY_DRY_RUN_20260812_HERMES_V1\\listing_sources.json",
+  "checks": [
+    {
+      "name": "listing_master_readable",
+      "passed": true,
+      "detail": "C:\\Users\\admin\\Documents\\Weekly review analysis\\config\\listing_master.xlsx"
+    },
+    {
+      "name": "active_scope_non_empty",
+      "passed": true,
+      "detail": "rows=35"
+    },
+    {
+      "name": "frozen_scope_count",
+      "passed": true,
+      "detail": "rows=35"
+    },
+    {
+      "name": "frozen_scope_ids",
+      "passed": true,
+      "detail": "ids=35"
+    },
+    {
+      "name": "frozen_scope_hash",
+      "passed": true,
+      "detail": "30e4d969e8f515ad6964bd88be5a9d17f67683182c8cef02854018c512115d4e"
+    },
+    {
+      "name": "source_file_hash",
+      "passed": true,
+      "detail": "637787b6dab4b44250c500a248c2bb9b47bef8943aa9306cef3301bb98f9648a"
+    },
+    {
+      "name": "platform_counts",
+      "passed": true,
+      "detail": "{'LOWES': 10, 'THD': 10, 'WALMART': 15}"
+    },
+    {
+      "name": "protected_review_history",
+      "passed": true,
+      "detail": "reviews=436"
+    },
+    {
+      "name": "review_schema",
+      "passed": true,
+      "detail": "missing={}"
+    },
+    {
+      "name": "listing_review_writes",
+      "passed": true,
+      "detail": "rows=0"
+    },
+    {
+      "name": "database_integrity",
+      "passed": true,
+      "detail": "integrity_check=ok"
+    },
+    {
+      "name": "foreign_keys",
+      "passed": true,
+      "detail": "errors=0"
+    },
+    {
+      "name": "review_lock",
+      "passed": true,
+      "detail": "owner=SUPERVISED_WEEKLY_DRY_RUN_20260812_HERMES_V1"
+    },
+    {
+      "name": "lock_isolation",
+      "passed": true,
+      "detail": "review_tracker.lock is distinct from daily_tracker.lock"
+    },
+    {
+      "name": "database_unchanged",
+      "passed": true,
+      "detail": "ef625f444f523b4e315e6b1d4285448c0a559d6eadd26f453d59aee22f9c6e3a"
+    },
+    {
+      "name": "review_counts_unchanged",
+      "passed": true,
+      "detail": "{'reviews': 436, 'review_snapshots': 35, 'review_changes': 0}"
+    },
+    {
+      "name": "configuration_unchanged",
+      "passed": true,
+      "detail": "{'C:\\\\Users\\\\admin\\\\Documents\\\\Weekly review analysis\\\\config\\\\listing_master.xlsx': '637787b6dab4b44250c500a248c2bb9b47bef8943aa9306cef3301bb98f9648a', 'C:\\\\Users\\\\admin\\\\Documents\\\\Weekly review analysis\\\\config\\\\review_tracker_policy.json': 'e820261277350bc153cc4de2d21cd5b2306b0bf3b827dbc0b4a1e8ba8d223765'}"
+    }
+  ]
+}

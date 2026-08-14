@@ -1,0 +1,455 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 4,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "398379011",
+      "CID": "2bd28145-392b-5c95-95af-e1c0a36595ce",
+      "SourceClient": "sunseeker",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-07-20T07:15:27.000+00:00",
+      "LastModificationTime": "2026-07-20T07:15:27.000+00:00",
+      "ProductId": "5016678665",
+      "OriginalProductName": "X3 Plus Wireless AI Robot Lawn Mower l  0.3 Acre",
+      "AuthorId": "10322654626109",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "IsSyndicated": true,
+      "SyndicationSource": {
+        "ClientId": null,
+        "LogoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/a15a3c93-3b04-42ad-8ff8-e2595c323f1d",
+        "ContentLink": null,
+        "Name": "shopsunseekertech.com"
+      },
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": true,
+      "ModerationStatus": "APPROVED",
+      "SubmissionTime": "2026-07-20T07:07:42.000+00:00",
+      "UserNickname": null,
+      "RatingRange": 5,
+      "CampaignId": null,
+      "AdditionalFields": {},
+      "SecondaryRatings": {},
+      "TotalFeedbackCount": 0,
+      "Title": null,
+      "TotalPositiveFeedbackCount": 0,
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "SubmissionId": null,
+      "ContextDataValuesOrder": [],
+      "ProductRecommendationIds": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "ContextDataValues": {},
+      "InappropriateFeedbackList": [],
+      "ReviewText": null,
+      "CommentIds": [],
+      "TotalNegativeFeedbackCount": 0
+    },
+    {
+      "Id": "250828523",
+      "CID": "24b6e584-579c-5782-89b7-621239ee9814",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-05-22T04:30:04.000+00:00",
+      "LastModificationTime": "2026-06-17T08:26:24.000+00:00",
+      "ProductId": "5016678665",
+      "OriginalProductName": "X3 PLUS Robotic Lawn Mower with GPS Assisted Navigation (1_SLASH_4 to 1_SLASH_2 acre)",
+      "CampaignId": "android",
+      "AuthorId": "sg17osf0ep6yhmqoivyfhyclo",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.5,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17794227KQKwc3Coud",
+      "SubmissionTime": "2026-05-22T04:06:24.000+00:00",
+      "ReviewText": "Don't get if you have .3 acres or tough grass like clover it and keeps going around grass thinking it's an obstacle. Had an old worx that has no vision or anything could keep the grass perfect randomly mowing. This one gets behind the can't even mow 4 inch tall grass keeps leaving large patches.",
+      "Title": "thinks grass is an obstacle",
+      "UserNickname": "dustand",
+      "IsSyndicated": false,
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "SecondaryRatings": {},
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "ContextDataValuesOrder": [],
+      "ProductRecommendationIds": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "Pros": null,
+      "TagDimensions": {},
+      "ContextDataValues": {},
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "CommentIds": []
+    },
+    {
+      "Id": "244479223",
+      "CID": "236dc2ba-faaf-5d17-97e3-5b2afbce210e",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-09-05T18:45:14.000+00:00",
+      "LastModificationTime": "2026-05-25T02:40:26.000+00:00",
+      "ProductId": "5016678665",
+      "OriginalProductName": "X3 PLUS Robotic Lawn Mower with GPS Assisted Navigation (1_SLASH_4 to 1_SLASH_2 acre)",
+      "CampaignId": "PPE_MPS_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "8f64f88d-9498-41e4-9ea2-e16cac721d7c",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.6666669845581055,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17570968Jckt01wSy9",
+      "SubmissionTime": "2025-09-05T18:27:29.000+00:00",
+      "ReviewText": "I really enjoy hosting parties in my garden and inviting relatives and friends to share wonderful times together. The X3 Plus is like my secret weapon, keeping my lawn in the best condition at all times, making it perfect for parties.\n\nIt trims the lawn regularly according to the time I set, keeping the grass always looking lush and full of vitality. The auto - scheduling feature is really convenient. I don't have to worry about it at all, and I can spend more time preparing for the parties.\n\nMoreover, it operates very quietly. Even during the party, it won't cause any disturbance, and everyone can fully enjoy the happy atmosphere. Under its careful care, my garden always welcomes guests in its most beautiful state and leaves a deep impression on them every time. If you also enjoy hosting events in your garden, the X3 Plus is definitely an indispensable helper for you!",
+      "Title": "Amazing product",
+      "UserNickname": "Kevin",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "IsSyndicated": false,
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "SecondaryRatings": {},
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "ProductRecommendationIds": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "Pros": null,
+      "TagDimensions": {},
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "CommentIds": []
+    },
+    {
+      "Id": "243843810",
+      "CID": "360aa1da-0f3d-58ae-919f-41ec30b1d3e4",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-08-07T05:30:04.000+00:00",
+      "LastModificationTime": "2026-07-20T05:51:07.000+00:00",
+      "ProductId": "5016678665",
+      "OriginalProductName": "X3 PLUS Robotic Lawn Mower with GPS Assisted Navigation (1_SLASH_4 to 1_SLASH_2 acre)",
+      "CampaignId": "orderdetails_mobile",
+      "AuthorId": "2b26kt0mdhtg6lqlhg2ydcybp",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "ztp0hefou9u2vbt5blmyltzoq7",
+          "SubmissionTime": "2025-08-26T22:17:35.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.8333330154418945,
+      "TotalFeedbackCount": 12,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 10,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17545429CfmnJ39Lm5",
+      "SubmissionTime": "2025-08-07T05:01:58.000+00:00",
+      "ReviewText": "Weekends used to feel like a battlefield: one arm wrestling a gas mower, the other juggling the toddler, grass clippings stuck to my face. Now? Friday night I just lift the 22-lb X3 PLUS out of the trunk—lighter than the cat-litter I hauled last week—tap “Start” on my phone, and it hums a little tune while it maps the yard.\nBefore work the next morning I schedule the “night shift” for 8 p.m. When I get home, the lawn looks like a hotel carpet, even the tricky fence line razor-sharp. The neighbor’s golden retriever barks like crazy; the mower flicks its tail and glides around him, leaving the dog frozen mid-bark.\nAt 10 p.m. I can still let it run—the noise is quieter than our kitchen dishwasher. Best part? The second the first raindrop falls, it scoots back to its dock in 30 seconds. When the sun returns, it finishes the job—no soggy clippings anywhere. The time I saved? Enough to build an entire Lego set with my kid.\nBottom line: this thing is cheaper—and way more reliable—than hiring a lawn service.",
+      "Title": "Good product!",
+      "UserNickname": "Richard",
+      "IsSyndicated": false,
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "SecondaryRatings": {},
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "ContextDataValuesOrder": [],
+      "ProductRecommendationIds": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "Pros": null,
+      "TagDimensions": {},
+      "ContextDataValues": {},
+      "BadgesOrder": [],
+      "CommentIds": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "5016678665": {
+        "FamilyIds": [
+          "7196961"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "7196961",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "12740",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "7196961",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "238",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:7196961",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "7196961",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "510535",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850060195280",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850060195280"
+        ],
+        "Name": "X3 PLUS Robotic Lawn Mower with GPS Assisted Navigation (1_SLASH_4 to 1_SLASH_2 acre)",
+        "ModelNumbers": [
+          "SKRMX3PLUS"
+        ],
+        "Description": "No Installation Wires,zero Setup Stress: Say goodbye to buried boundary wires — just drop, map, and mow. Sees Obstacles Before They’re a Problem: Dual AI vision + RTK detects pets, furniture, and toys before collisions happen. Smarter Lawn Mapping: Cleaner Edges: Precision multi-zone coverage ensures every inch gets mowed, no dead zones. Whisper Quiet,Run It Anytime: Only 55dB,quieter than your dishwasher,mow at dawn or dusk without complaints. Mows Like You — But Better: Handles slopes, bumps, and curves just like a human — but never gets tired. Local Support – Real People, Ready to Help: Enjoy peace of mind with US-based customer support,our local service team is ready to assist you with expert advice, troubleshooting, and guidance whenever you need it.",
+        "ManufacturerPartNumbers": [
+          "7196961-108792-SKRMX3PLUS"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/85980845-6b95-421f-af75-c7409955a85b/89125001.jpeg",
+        "Id": "5016678665",
+        "CategoryId": "101750",
+        "BrandExternalId": "Sunseeker",
+        "Brand": {
+          "Id": "Sunseeker",
+          "Name": "Sunseeker"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Sunseeker-X3-PLUS-Robotic-Lawn-Mower-with-GPS-Assisted-Navigation-1-4-acre-to-1-2-acre/5016678665",
+        "Disabled": false,
+        "ISBNs": [],
+        "QuestionIds": [],
+        "EANs": [],
+        "ReviewIds": [],
+        "StoryIds": [],
+        "ReviewStatistics": {
+          "RatingDistribution": [
+            {
+              "RatingValue": 1,
+              "Count": 2
+            },
+            {
+              "RatingValue": 5,
+              "Count": 2
+            }
+          ],
+          "NotRecommendedCount": 1,
+          "TotalReviewCount": 4,
+          "FirstSubmissionTime": "2025-08-07T05:01:58.000+00:00",
+          "LastSubmissionTime": "2026-07-20T07:07:42.000+00:00",
+          "AverageOverallRating": 3.0,
+          "RecommendedCount": 2,
+          "FeaturedReviewCount": 0,
+          "TotalVideoCount": 0,
+          "RatingsOnlyReviewCount": 1,
+          "HelpfulVoteCount": 13,
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaserCDV"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaserCDV": {
+              "Id": "VerifiedPurchaserCDV",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "TotalPhotoCount": 0,
+          "NotHelpfulVoteCount": 4,
+          "TotalMediaCount": 0,
+          "TagDistribution": {},
+          "OverallRatingRange": 5,
+          "SecondaryRatingsAverages": {},
+          "SecondaryRatingsAveragesOrder": [],
+          "TagDistributionOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 4
+      }
+    },
+    "ProductsOrder": [
+      "5016678665"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

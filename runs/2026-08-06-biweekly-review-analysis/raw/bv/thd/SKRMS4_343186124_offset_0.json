@@ -1,0 +1,431 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 1,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "384657800",
+      "CID": "fc0e022a-4b02-5448-8865-56df175e642c",
+      "SourceClient": "sunseeker",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-04-17T22:31:07.000+00:00",
+      "LastModificationTime": "2026-06-08T10:04:44.000+00:00",
+      "ProductId": "343186124",
+      "OriginalProductName": "S4 Wireless AI Robot Lawn Mower | 0.25 Acre LiDAR",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender"
+      ],
+      "UserLocation": "Indiana",
+      "AuthorId": "10025232105789",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "IsSyndicated": true,
+      "SyndicationSource": {
+        "ClientId": null,
+        "LogoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/a15a3c93-3b04-42ad-8ff8-e2595c323f1d",
+        "ContentLink": null,
+        "Name": "shopsunseekertech.com"
+      },
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c3Vuc2Vla2Vy/a919c1a6-aed8-50e7-bb0f-4b297144fb26"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c3Vuc2Vla2Vy/3a2df2fa-1573-54b4-8245-7da66afa2096"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c3Vuc2Vla2Vy/902ab349-3916-54b7-9665-b1362dc68601"
+            }
+          },
+          "Id": "50416213",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "ModerationStatus": "APPROVED",
+      "SubmissionTime": "2026-04-15T20:07:42.000+00:00",
+      "ReviewText": "Sunseeker S4 has performed as advertised. It has managed to overcome the rough terrain of my yard and is doing a great job",
+      "Title": "Rough terrain",
+      "UserNickname": "Ralph",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "65orOver",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        }
+      },
+      "TagDimensions": {},
+      "TotalNegativeFeedbackCount": 0,
+      "Pros": null,
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null,
+      "CampaignId": null,
+      "ProductRecommendationIds": [],
+      "SubmissionId": null,
+      "TotalPositiveFeedbackCount": 0,
+      "TotalFeedbackCount": 0,
+      "AdditionalFields": {},
+      "TagDimensionsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "Videos": [],
+      "Cons": null,
+      "CommentIds": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "343186124": {
+        "AttributesOrder": [
+          "Category",
+          "Subclass",
+          "ChildSku",
+          "GLN",
+          "THDBrowseOnlinestatus",
+          "THDOnlineStatus",
+          "Department",
+          "IDMVendorAcctName",
+          "THDSubClass_name",
+          "THDClass_name",
+          "THDSubSubClass",
+          "GTIN14",
+          "THD_SubSubClass_name",
+          "THDDept_name",
+          "THDDotComOnlinestatus",
+          "THDSubClass",
+          "HDClass",
+          "THDDept",
+          "dcs_nbr",
+          "AVAILABILITY",
+          "Class",
+          "MFGModel"
+        ],
+        "Attributes": {
+          "Category": {
+            "Id": "Category",
+            "Values": [
+              {
+                "Value": "POWER> WALKS> ROBOTIC MOWER> OTHER",
+                "Locale": null
+              }
+            ]
+          },
+          "Subclass": {
+            "Id": "Subclass",
+            "Values": [
+              {
+                "Value": "24",
+                "Locale": null
+              }
+            ]
+          },
+          "ChildSku": {
+            "Id": "ChildSku",
+            "Values": [
+              {
+                "Value": "343186124",
+                "Locale": null
+              }
+            ]
+          },
+          "GLN": {
+            "Id": "GLN",
+            "Values": [
+              {
+                "Value": "0854641007009",
+                "Locale": null
+              }
+            ]
+          },
+          "THDBrowseOnlinestatus": {
+            "Id": "THDBrowseOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDOnlineStatus": {
+            "Id": "THDOnlineStatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "Department": {
+            "Id": "Department",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "IDMVendorAcctName": {
+            "Id": "IDMVendorAcctName",
+            "Values": [
+              {
+                "Value": "SUNSEEKER US INC",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass_name": {
+            "Id": "THDSubClass_name",
+            "Values": [
+              {
+                "Value": "ROBOTIC MOWER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDClass_name": {
+            "Id": "THDClass_name",
+            "Values": [
+              {
+                "Value": "WALKS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubSubClass": {
+            "Id": "THDSubSubClass",
+            "Values": [
+              {
+                "Value": "101",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850060195723",
+                "Locale": null
+              }
+            ]
+          },
+          "THD_SubSubClass_name": {
+            "Id": "THD_SubSubClass_name",
+            "Values": [
+              {
+                "Value": "OTHER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept_name": {
+            "Id": "THDDept_name",
+            "Values": [
+              {
+                "Value": "SEASONAL/GARDEN",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDotComOnlinestatus": {
+            "Id": "THDDotComOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass": {
+            "Id": "THDSubClass",
+            "Values": [
+              {
+                "Value": "24",
+                "Locale": null
+              }
+            ]
+          },
+          "HDClass": {
+            "Id": "HDClass",
+            "Values": [
+              {
+                "Value": "35",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept": {
+            "Id": "THDDept",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "dcs_nbr": {
+            "Id": "dcs_nbr",
+            "Values": [
+              {
+                "Value": "28-35-24",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "Class": {
+            "Id": "Class",
+            "Values": [
+              {
+                "Value": "35",
+                "Locale": null
+              }
+            ]
+          },
+          "MFGModel": {
+            "Id": "MFGModel",
+            "Values": [
+              {
+                "Value": "SKRMS4",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850060195723"
+        ],
+        "Description": "The SUNSEEKER S4 is a wireless robot lawn mower designed for lawns up to 0.25 acre, or approximately 10,750 sq. ft. A 360° 3D LiDAR system works with Vision AI and a 10 TOPS AI chip to build a detailed 3D lawn map, plan systematic mowing paths and respond to static and moving obstacles. Because navigation does not depend on RTK satellite positioning, S4 is well suited to yards with tree cover, tall eaves, narrow passages and other areas where satellite signals may be limited. S4 handles slopes up to 22° (about 40% grade) and uses a 7 in. cutting system with 3 height settings from 1.6 to 3.2 in. A 20V 4Ah battery provides up to 90 minutes of runtime and recharges in about 1.5 hours. Use the app to create virtual boundaries, set no-go areas and manage multiple zones. Quiet 60 dB(A) operation, IPX6/IP67 protection, rain and lift sensors support everyday use. Backed by 2 years of manufacturer support.",
+        "ManufacturerPartNumbers": [
+          "SKRMS4"
+        ],
+        "ImageUrl": "https://images.thdstatic.com/productImages/dfab53c2-9044-47c0-9da7-8d5d4f1a2834/svn/sunseeker-robotic-lawn-mowers-skrms4-64_1000.jpg",
+        "Name": "S4 LiDAR 7 in. Robot Lawn Mower for 0.25 Acre, Vision AI + 3D LiDAR Navigation, Wire-Free Boundary, App Control",
+        "Id": "343186124",
+        "CategoryId": "c0031913-cc2e-4ff4-afb7-3aa61129b726",
+        "BrandExternalId": "Sunseeker",
+        "Brand": {
+          "Id": "Sunseeker",
+          "Name": "SUNSEEKER"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.homedepot.com/p/SUNSEEKER-S4-LiDAR-7-in-Robot-Lawn-Mower-for-0-25-Acre-Vision-AI-3D-LiDAR-Navigation-Wire-Free-Boundary-App-Control-SKRMS4/343186124",
+        "Disabled": false,
+        "FamilyIds": [],
+        "EANs": [],
+        "ISBNs": [],
+        "ModelNumbers": [],
+        "ReviewIds": [],
+        "QuestionIds": [],
+        "StoryIds": [],
+        "ReviewStatistics": {
+          "ContextDataDistributionOrder": [
+            "Age",
+            "Gender",
+            "VerifiedPurchaser"
+          ],
+          "ContextDataDistribution": {
+            "Age": {
+              "Id": "Age",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "65orOver"
+                }
+              ]
+            },
+            "Gender": {
+              "Id": "Gender",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "Male"
+                }
+              ]
+            },
+            "VerifiedPurchaser": {
+              "Id": "VerifiedPurchaser",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "FeaturedReviewCount": 0,
+          "TotalReviewCount": 1,
+          "NotRecommendedCount": 0,
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 1
+            }
+          ],
+          "RecommendedCount": 1,
+          "FirstSubmissionTime": "2026-04-15T20:07:42.000+00:00",
+          "LastSubmissionTime": "2026-04-15T20:07:42.000+00:00",
+          "AverageOverallRating": 5.0,
+          "TotalVideoCount": 0,
+          "RatingsOnlyReviewCount": 0,
+          "TotalPhotoCount": 1,
+          "TotalMediaCount": 1,
+          "OverallRatingRange": 5,
+          "NotHelpfulVoteCount": 0,
+          "TagDistribution": {},
+          "SecondaryRatingsAverages": {},
+          "TagDistributionOrder": [],
+          "SecondaryRatingsAveragesOrder": [],
+          "HelpfulVoteCount": 0,
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 1
+      }
+    },
+    "ProductsOrder": [
+      "343186124"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

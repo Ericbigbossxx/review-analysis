@@ -1,0 +1,17 @@
+{
+  "schedule_timezone": "China Standard Time",
+  "schedule_weekday": "THURSDAY",
+  "schedule_time": "10:00",
+  "scope_change_review_ratio": 0.2,
+  "platform_zero_requires_review": true,
+  "record_identity_change_requires_review": true,
+  "collector_retry_count": 2,
+  "publish_retry_count": 2,
+  "database_incremental_write_enabled": false,
+  "protected_review_history_count": 436,
+  "review_count_drop_ratio_requires_review": 0.1,
+  "average_rating_change_requires_review": 0.75,
+  "weekly_report_type": "WEEKLY_REVIEW",
+  "scheduler_task_name": "Sunseeker Review Tracker Weekly",
+  "github_pages_base_url": "https://ericbigbossxx.github.io/review-analysis/"
+}

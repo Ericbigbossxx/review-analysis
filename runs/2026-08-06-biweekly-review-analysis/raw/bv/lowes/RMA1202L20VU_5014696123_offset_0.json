@@ -1,0 +1,607 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 5,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "255149786",
+      "CID": "18f17444-c811-5274-ab39-e5a22e7ca411",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-07-29T23:00:12.000+00:00",
+      "LastModificationTime": "2026-07-29T23:00:12.000+00:00",
+      "ProductId": "5014696123",
+      "OriginalProductName": "L22 Robotic Lawn Mower (1_SLASH_8 to 1_SLASH_4 acre)",
+      "CampaignId": "orderhistory_mobile",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "0cf96daf-fcbb-4a92-89bd-be88cc3f3bbc",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17853646uJq0kkIOVI",
+      "SubmissionTime": "2026-07-29T22:37:05.000+00:00",
+      "ReviewText": "I have recently had such a pleasant experience working with Sunseeker’s customer service that I have to leave this review. The machine works well once it’s set up properly. It is so nice not to have to manually mow! It needed some work and a new battery after having it for over a year, but they made it easy to get it taken care of under the warranty, so I am still quite happy with the purchase.",
+      "Title": "Good machine, great customer service",
+      "UserNickname": "EBrown",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "Cons": null,
+      "SecondaryRatings": {},
+      "TagDimensionsOrder": [],
+      "Badges": {},
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "SecondaryRatingsOrder": [],
+      "BadgesOrder": [],
+      "IsSyndicated": false,
+      "Photos": [],
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "UserLocation": null,
+      "Videos": [],
+      "AdditionalFieldsOrder": [],
+      "Helpfulness": null,
+      "Pros": null,
+      "CommentIds": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "244257719",
+      "CID": "3b94e59e-7c66-5545-b87f-bcd0dfd26732",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-08-25T15:15:12.000+00:00",
+      "LastModificationTime": "2025-08-25T15:15:12.000+00:00",
+      "ProductId": "5014696123",
+      "OriginalProductName": "L22 Robotic Lawn Mower (1_SLASH_8 to 1_SLASH_4 acre)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "f538e76e-f910-449e-841f-7768195ad9c2",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__175613024wfCoXnUn9",
+      "SubmissionTime": "2025-08-25T13:58:13.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "Cons": null,
+      "IsRecommended": null,
+      "SecondaryRatings": {},
+      "TagDimensionsOrder": [],
+      "Badges": {},
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "SecondaryRatingsOrder": [],
+      "BadgesOrder": [],
+      "IsSyndicated": false,
+      "Photos": [],
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "ReviewText": null,
+      "Title": null,
+      "UserLocation": null,
+      "Videos": [],
+      "AdditionalFieldsOrder": [],
+      "Helpfulness": null,
+      "Pros": null,
+      "CommentIds": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "241119287",
+      "CID": "c087ac47-8864-5309-b6f5-2bf5a6857f7a",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-04-08T15:00:11.000+00:00",
+      "LastModificationTime": "2026-05-20T21:58:28.000+00:00",
+      "ProductId": "5014696123",
+      "OriginalProductName": "L22 Robotic Lawn Mower (1_SLASH_8 to 1_SLASH_4 acre)",
+      "CampaignId": "WriteAReview_PDP_MOW",
+      "AuthorId": "ialuat05yajfx0ozqvyfq8g3v",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zivlvtitbmbzj8qlhsdamh875m",
+          "SubmissionTime": "2026-05-11T03:16:04.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/927c7913-d64d-59dc-a0a7-33a6e1587202"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/de5875be-7321-5d64-a82b-1a55251ca9c3"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ce41eb34-1ae0-500b-a39a-aa272bf5e6bc"
+            }
+          },
+          "Id": "13328578",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/737c6e30-075b-5b06-96ad-fa5d8f84569c"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/5ff299df-af29-5d8b-a5c3-0d7d53a66368"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/95572b84-d238-5af9-9775-d6074eb58c7a"
+            }
+          },
+          "Id": "13328579",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.9347829818725586,
+      "TotalFeedbackCount": 46,
+      "TotalNegativeFeedbackCount": 3,
+      "TotalPositiveFeedbackCount": 43,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17439815l6VEmAp9Dw",
+      "SubmissionTime": "2025-04-06T23:18:22.000+00:00",
+      "ReviewText": "Mower stops at any bump.  If your yard is bumpy, has tree roots the machine stops and will not go home. You have to pickup the unit and bring it back to the station.  Items like small branches, tufts of grass, and sweet gum balls cause a fault.  No help from customer service.  Emailed 6 times over 2 weeks and never got a response.",
+      "Title": "Won't cut without stopping.",
+      "UserNickname": "John",
+      "ContextDataValues": {},
+      "Cons": null,
+      "SecondaryRatings": {},
+      "TagDimensionsOrder": [],
+      "Badges": {},
+      "ContextDataValuesOrder": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "SecondaryRatingsOrder": [],
+      "BadgesOrder": [],
+      "IsSyndicated": false,
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "UserLocation": null,
+      "Videos": [],
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "233958320",
+      "CID": "f63a0d80-d5e3-542d-8586-8bc04eef650f",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-05-31T00:33:54.000+00:00",
+      "LastModificationTime": "2026-05-20T21:59:55.000+00:00",
+      "ProductId": "5014696123",
+      "OriginalProductName": "L22 Robotic Lawn Mower (1_SLASH_8 to 1_SLASH_4 acre)",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "AuthorId": "3c7pfdqb0clwfd4b6shp9c5f0",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "ziu2lr868pn0yh2rjhyfs1w2c3",
+          "SubmissionTime": "2024-10-14T13:00:25.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7dace854-9681-5aa5-9ae1-9f0dcfd2321e"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/864e0922-4740-516f-a3ef-842e1e661ab1"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/167f4f42-5846-5815-92cc-49c231b2d0c4"
+            }
+          },
+          "Id": "10550109",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.9696969985961914,
+      "TotalFeedbackCount": 33,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 32,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17170847umMN1RpG6V",
+      "SubmissionTime": "2024-05-30T15:58:33.000+00:00",
+      "ReviewText": "I  picked up this mower despite it not having very many reviews.  It has obstacle avoidance so it can navigate around objects in the yard but it will also go around tall weeds so just be aware of that limitation when first starting.\n\nAfter laying and staking the wire and following the mower around the yard to fix any wire placement issues, it's been working really well.  \n\nThe mower seems to bounce around randomly over the yard but after a few days of mowing it should have perfect coverage. My wife seems amused at the haphazard style but the mower is cheaper than paying someone to do it for a season and greatly reduces the need to be out mowing on a hot summer day. 0 emissions is a side benefit.\n\nThe mower will not 100% eliminate your need to mow, but it does greatly reduce the need to mow.  I have 1 section of my yard that the mower can't access due to a fence so I still need to mow it.  I'm already planning on running border wire across the driveway to mow the other side of my front yard which is not fenced further reducing my mowing effort.  I estimate that my personal mowing time will go from 1.5 hours to less than 30 mins.  Edging the lawn  is still required.",
+      "Title": "Working great. Boundary wire was easy to install",
+      "UserNickname": "pickandpray",
+      "ContextDataValues": {},
+      "Cons": null,
+      "SecondaryRatings": {},
+      "TagDimensionsOrder": [],
+      "Badges": {},
+      "ContextDataValuesOrder": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "SecondaryRatingsOrder": [],
+      "BadgesOrder": [],
+      "IsSyndicated": false,
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "UserLocation": null,
+      "Videos": [],
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "232877215",
+      "CID": "8a49d5da-4be0-5c69-8a19-f83d1d8f6d36",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-04-03T15:01:01.000+00:00",
+      "LastModificationTime": "2026-05-20T22:00:14.000+00:00",
+      "ProductId": "5014696123",
+      "OriginalProductName": "L22 Robotic Lawn Mower (1_SLASH_8 to 1_SLASH_4 acre)",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "AuthorId": "h6silz2hzhkwz2dx8dquhzpce",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z382k8t68rbgtydshj0ld95scx",
+          "SubmissionTime": "2025-08-03T11:15:59.000+00:00"
+        },
+        {
+          "AuthorId": "zf4ciuf44dnrtdbhh9b26p3hcc",
+          "SubmissionTime": "2024-05-10T17:12:47.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/bcac41a6-7854-5b89-9078-9fab5b8092b1"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/e68eb63c-ddbf-5999-8fa8-7302f7ba3933"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/5e6d2950-7dc5-5705-96c3-cba37e43c7b7"
+            }
+          },
+          "Id": "10108357",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.8399999737739563,
+      "TotalFeedbackCount": 50,
+      "TotalNegativeFeedbackCount": 8,
+      "TotalPositiveFeedbackCount": 42,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17121486cXKNhBDiva",
+      "SubmissionTime": "2024-04-03T12:50:46.000+00:00",
+      "ReviewText": "Saw the bigger version on the Price is Right and found that Sunseeker makes a smaller version which would be perfect for my .25 yard. I set it up over the weekend and it is super easy to install. I followed their youtube videos. I like that I get my 2 hours over the weekend back",
+      "Title": "Perfect for my yard",
+      "UserNickname": "Matthew",
+      "ContextDataValues": {},
+      "Cons": null,
+      "SecondaryRatings": {},
+      "TagDimensionsOrder": [],
+      "Badges": {},
+      "ContextDataValuesOrder": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "SecondaryRatingsOrder": [],
+      "BadgesOrder": [],
+      "IsSyndicated": false,
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "UserLocation": null,
+      "Videos": [],
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "CommentIds": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "5014696123": {
+        "FamilyIds": [
+          "5453693"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "5453693",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "12740",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "5453693",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "238",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:5453693",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "5453693",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "510535",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850046351006",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850046351006"
+        ],
+        "Name": "L22 Robotic Lawn Mower (1_SLASH_8 to 1_SLASH_4 acre)",
+        "ModelNumbers": [
+          "RMA1202L20VU"
+        ],
+        "Description": "QUICK CHARGE: Runtime is 2.5 hours on afull battery, recharge takes 1.5 hours EASY CONNECT: Connect through Bluetooth & WIFI APP INSTALL: Intuitive, easy app download (Apple & Google Store) APP FEATURES: Programmable schedule, multi-zone programming, edging only capabilities MOWER FEATURES: Float cutting-automatic height adjustment, anti-slip robust wheels, ultra-sonic obstacle detection and bumper sensors, automatic passage detection, rain sensor, headlight WASHABLE: On a light spray setting, hose down the robotic mower to clean off grass or debris clippings SAFETY: Mower includes a PIN Code security and Anti-Theft device for peace of mind WHAT’S INCLUDED: L22 Robotic Mower, base charge station, install wire, and all accessories needed for proper installation RELIABLE CUSTOMER SERVICE 2-YEAR WARRANTY: If you encounter any quality problems over the life cycle of our product, please contact us at 7046845590",
+        "ManufacturerPartNumbers": [
+          "5453693-108792-RMA1202L20VU"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/b3b5beca-828b-4728-93a2-26ec8f6317e8/69555494.jpeg",
+        "Id": "5014696123",
+        "CategoryId": "101750",
+        "BrandExternalId": "Sunseeker",
+        "Brand": {
+          "Id": "Sunseeker",
+          "Name": "Sunseeker"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Sunseeker-Robotic-Mower-Robotic-Lawn-Mower-Up-To-1-4-Acre/5014696123",
+        "Disabled": false,
+        "ReviewIds": [],
+        "QuestionIds": [],
+        "StoryIds": [],
+        "EANs": [],
+        "ISBNs": [],
+        "ReviewStatistics": {
+          "HelpfulVoteCount": 117,
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaserCDV"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaserCDV": {
+              "Id": "VerifiedPurchaserCDV",
+              "Values": [
+                {
+                  "Count": 2,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "TotalReviewCount": 5,
+          "AverageOverallRating": 4.2,
+          "RecommendedCount": 3,
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 4
+            },
+            {
+              "RatingValue": 1,
+              "Count": 1
+            }
+          ],
+          "NotRecommendedCount": 1,
+          "FirstSubmissionTime": "2024-04-03T12:50:46.000+00:00",
+          "LastSubmissionTime": "2026-07-29T22:37:05.000+00:00",
+          "FeaturedReviewCount": 0,
+          "TotalVideoCount": 0,
+          "RatingsOnlyReviewCount": 0,
+          "TotalPhotoCount": 4,
+          "NotHelpfulVoteCount": 12,
+          "TotalMediaCount": 4,
+          "OverallRatingRange": 5,
+          "TagDistribution": {},
+          "SecondaryRatingsAverages": {},
+          "SecondaryRatingsAveragesOrder": [],
+          "TagDistributionOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 5
+      }
+    },
+    "ProductsOrder": [
+      "5014696123"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

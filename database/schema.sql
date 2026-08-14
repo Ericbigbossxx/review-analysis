@@ -102,6 +102,8 @@ CREATE TABLE IF NOT EXISTS ranking_snapshots (
   result_position INTEGER,
   sponsored INTEGER CHECK (sponsored IN (0, 1)),
   raw_evidence_path TEXT,
+  recovery_test_only INTEGER NOT NULL DEFAULT 0 CHECK (recovery_test_only IN (0, 1)),
+  effective_for_daily_comparison INTEGER NOT NULL DEFAULT 1 CHECK (effective_for_daily_comparison IN (0, 1)),
   created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
   UNIQUE(run_id, record_id, keyword, rank_kind)
 );
@@ -168,6 +170,8 @@ CREATE TABLE IF NOT EXISTS listing_changes (
   current_value TEXT,
   detected_at TEXT NOT NULL,
   evidence_path TEXT,
+  effective_for_reporting INTEGER NOT NULL DEFAULT 1 CHECK (effective_for_reporting IN (0, 1)),
+  invalid_reason TEXT,
   created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
   UNIQUE(run_id, record_id, change_type, field_name)
 );
@@ -198,6 +202,24 @@ CREATE TABLE IF NOT EXISTS collection_errors (
   retryable INTEGER NOT NULL DEFAULT 0 CHECK (retryable IN (0, 1)),
   raw_evidence_path TEXT,
   created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS walmart_rank_recovery_runs (
+  run_id TEXT PRIMARY KEY REFERENCES collection_runs(run_id),
+  run_type TEXT NOT NULL,
+  effective_for_daily_comparison INTEGER NOT NULL DEFAULT 0 CHECK (effective_for_daily_comparison IN (0, 1)),
+  counts_toward_supervised_runs INTEGER NOT NULL DEFAULT 0 CHECK (counts_toward_supervised_runs IN (0, 1)),
+  platform TEXT NOT NULL CHECK (platform = 'WALMART'),
+  search_plan_count INTEGER NOT NULL,
+  target_listing_count INTEGER NOT NULL,
+  human_verification_required INTEGER NOT NULL DEFAULT 0 CHECK (human_verification_required IN (0, 1)),
+  human_verification_completed INTEGER NOT NULL DEFAULT 0 CHECK (human_verification_completed IN (0, 1)),
+  checkpoint_count INTEGER NOT NULL DEFAULT 0,
+  profile_path TEXT NOT NULL,
+  zip_status TEXT NOT NULL,
+  final_status TEXT NOT NULL,
+  created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
 CREATE INDEX IF NOT EXISTS idx_listing_snapshots_record_observed ON listing_snapshots(record_id, observed_at);

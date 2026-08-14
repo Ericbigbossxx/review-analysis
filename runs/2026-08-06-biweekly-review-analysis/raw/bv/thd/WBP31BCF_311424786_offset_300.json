@@ -1,0 +1,1483 @@
+{
+  "Limit": 100,
+  "Offset": 300,
+  "TotalResults": 315,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "233446433",
+      "CID": "b4537a07-9c82-550e-b63f-c4908800f242",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-06-10T17:15:06.000+00:00",
+      "LastModificationTime": "2020-09-06T23:54:38.000+00:00",
+      "ProductId": "311424786",
+      "OriginalProductName": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+      "CampaignId": "20200609_PPC_PR1_ONLINE_CNTRL_3629566_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "041B250180227B120S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.5,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_15918081mUostSegWJ",
+      "SubmissionTime": "2020-06-10T16:56:34.000+00:00",
+      "ReviewText": "The Beast",
+      "Title": "The Beast...",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "AdditionalFields": {},
+      "ClientResponses": [],
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatingsOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "233411264",
+      "CID": "0e71e4f6-196c-5684-a664-7f1726de8b73",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-06-10T07:15:08.000+00:00",
+      "LastModificationTime": "2020-08-26T16:01:51.000+00:00",
+      "ProductId": "311424786",
+      "OriginalProductName": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+      "CampaignId": "20200609_PPC_PR1_ONLINE_CNTRL_3629566_DA_LP_DA_MW",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03FB0B3DD4D047700S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_15917731Su4BTfy0Tz",
+      "SubmissionTime": "2020-06-10T07:12:41.000+00:00",
+      "ReviewText": "Rating provided by a verified purchaser",
+      "Title": "Rating provided by a verified purchaser...",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "AdditionalFields": {},
+      "ClientResponses": [],
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatingsOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "233351102",
+      "CID": "eca1161a-c8f0-50bb-a72a-4c2a391c5968",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-06-09T23:00:14.000+00:00",
+      "LastModificationTime": "2020-09-06T23:54:42.000+00:00",
+      "ProductId": "311424786",
+      "OriginalProductName": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+      "CampaignId": "20200609_PPC_PR1_ONLINE_CNTRL_3629521_RMForm_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "051B27BD75D556D50S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999aare_15917425V3k7dFVPnp",
+      "SubmissionTime": "2020-06-09T22:42:20.000+00:00",
+      "ReviewText": "Works great but little on the heavy side",
+      "Title": "Works great but little on the heavy side...",
+      "UserNickname": "CW",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "AdditionalFields": {},
+      "ClientResponses": [],
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatingsOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "232900134",
+      "CID": "f374efd7-c113-5a50-946c-81ac612db892",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2020-06-06T01:15:05.000+00:00",
+      "LastModificationTime": "2020-09-06T23:55:14.000+00:00",
+      "ProductId": "311424786",
+      "OriginalProductName": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+      "CampaignId": "MOBILE_APP_USER_REVIEW_SUBMIT_ANDROID",
+      "AuthorId": "041B32051F79B0D70S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999andr_15911445d1ICo6cfOk",
+      "SubmissionTime": "2020-06-03T00:35:12.000+00:00",
+      "ReviewText": "I just got this weed eater today by UPS. Just took about a week from a CPL states away. The only thing I didn't like or had a problem out of so far was, when I opened the box, the oil had leaked out of the motor all over the motor and motor shields. My opinion the should just send a bottle of oil with it instead of already in the motor. You know it gets shuffled and flipped around during transit. That's just my opinion, they may have a reason for it but, it made a mess! That end of the box where the motor sat was drenched with it. Anyway, I put it together easily, added more oil and gas, let it run for a bit to burn what oil I couldn't get to off then cut about 30 feet of weeds length wise, and it ran great! I also want to add, that it came with a nice shoulder harness and a 3 prong brushing cutting blade (untested as of now). All in all beside the leak, I'm one day completely satisfied right now! Thanks",
+      "Title": "So Far So Good",
+      "UserNickname": "Jamie40",
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "AdditionalFields": {},
+      "ClientResponses": [],
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatingsOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "Cons": null,
+      "ContextDataValuesOrder": [],
+      "BadgesOrder": [],
+      "Photos": [],
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "Badges": {},
+      "RatingRange": 5,
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "231263550",
+      "CID": "c97bd177-5953-5e4f-b9c1-3c3f48c4b6c8",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2020-04-22T20:45:05.000+00:00",
+      "LastModificationTime": "2020-08-26T16:03:11.000+00:00",
+      "ProductId": "311424786",
+      "OriginalProductName": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+      "CampaignId": "VOC_survey_Store_Review_DESKTOP",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nThanks for the feedback RDC, Badger is an American Co. based in Charlotte NC we of course source from around the globe like many of the larger brands but they don't offer a 6 YEAR warranty. All you need to do is contact us at WildBadgerPower.com or through HD Customer service and we will get you squared away with a replacement.  We apologize that you had a poor experience. <br /><br />                                                                                                                                    Stay Safe!\n<img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2020-05-12T14:02:27.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "6a1o40gt9l6r4cxqfwgu2oxbr",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "SecondaryRatingsOrder": [
+        "Features",
+        "Quality",
+        "Value"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.25,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 3,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "tt4m7sagbas5pa6r1fc5hb583",
+      "SubmissionTime": "2020-04-22T20:21:04.000+00:00",
+      "ReviewText": "Had product one day! Looked impressive in the box and put together. Assembled as per instructions, gas oil etc. Mowed my yard and was anxious to use the weed eater. It ran for about 10 minutes and died. Checked it over, fuel and oil and everything appeared fine. Went to restart after it had cooled off.\nAfter 30 or 40 pulls on the rope and a sore arm, not even a sputter or whimper. NOTHING! I'll be returning this tomorrow!\nBottom line is this. If you want good quality, buy AMERICAN!",
+      "Title": "Will not start after one use!",
+      "UserNickname": "RDC",
+      "SecondaryRatings": {
+        "Value": {
+          "Value": 1,
+          "Id": "Value",
+          "MinLabel": null,
+          "Label": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null
+        },
+        "Quality": {
+          "Value": 1,
+          "Id": "Quality",
+          "MinLabel": null,
+          "Label": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null
+        },
+        "Features": {
+          "Value": 1,
+          "Id": "Features",
+          "MinLabel": null,
+          "Label": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null
+        }
+      },
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "AdditionalFields": {},
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "Cons": null,
+      "ContextDataValuesOrder": [],
+      "BadgesOrder": [],
+      "Photos": [],
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "Badges": {},
+      "RatingRange": 5
+    },
+    {
+      "Id": "231177372",
+      "CID": "5213313c-a90e-5adc-a5a2-f2ed9ef0d70b",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-04-21T15:15:47.000+00:00",
+      "LastModificationTime": "2020-09-06T23:55:46.000+00:00",
+      "ProductId": "311424786",
+      "OriginalProductName": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+      "CampaignId": "20200421_PPC_PR1_ONLINE_CNTRL_3601275_RMForm_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "91967692",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "me3ee4pcl0tkfp3wy2ic1vj6a",
+      "SubmissionTime": "2020-04-21T14:41:09.000+00:00",
+      "ReviewText": "Very pleased with this trimmer. Priced right and seems to be of good quality.",
+      "Title": "Very pleased with this trimmer. Priced right and seems to...",
+      "UserNickname": "Dean",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "AdditionalFields": {},
+      "ClientResponses": [],
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatingsOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "230442022",
+      "CID": "d81d770b-509b-5569-994c-134c59f4465a",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2020-03-31T00:30:04.000+00:00",
+      "LastModificationTime": "2021-02-09T22:33:23.000+00:00",
+      "ProductId": "311424786",
+      "OriginalProductName": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+      "CampaignId": "BV_RATING_SUMMARY",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nI am very sorry that the product didn&#39;t meet your expectation. If you have any questions about the product, please don&#39;t hesitate to reach out to us on https://wildbadgerpower.com/ and contact us, or go to Home Depot customer service. We will try our best to walk you through the details and help you make it work more properly.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\"\n         style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\"/>\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2021-02-09T22:33:23.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "2o8dmmmr3dir4skngeu0pvqgk",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 2,
+      "SecondaryRatingsOrder": [
+        "Features",
+        "Quality",
+        "EaseOfUse",
+        "Value"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "6yxswuty7e2ixhh6nlle20dhg",
+      "SubmissionTime": "2020-03-31T00:00:22.000+00:00",
+      "ReviewText": "Trimmer starts easy enough. I bought the trimmers plus tiller attachment and it does work on this model. Seems to have plenty of power. It is a tad on the heavy side. My major complaint is that it’s leaking fuel everywhere. I assume there’s a seal missing in the cap. Given someone else complained about the same issue I’m guessing it’s not an isolated issue.",
+      "Title": "Trimmer starts easy enough. I bought the trimmers plus tiller attachment and it does work on thi...",
+      "UserNickname": "Possman",
+      "SecondaryRatings": {
+        "Value": {
+          "Value": 3,
+          "Id": "Value",
+          "MinLabel": null,
+          "Label": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null
+        },
+        "EaseOfUse": {
+          "Value": 3,
+          "Id": "EaseOfUse",
+          "MinLabel": null,
+          "Label": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null
+        },
+        "Quality": {
+          "Value": 2,
+          "Id": "Quality",
+          "MinLabel": null,
+          "Label": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null
+        },
+        "Features": {
+          "Value": 3,
+          "Id": "Features",
+          "MinLabel": null,
+          "Label": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null
+        }
+      },
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "AdditionalFields": {},
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "Cons": null,
+      "ContextDataValuesOrder": [],
+      "BadgesOrder": [],
+      "Photos": [],
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "Badges": {},
+      "RatingRange": 5
+    },
+    {
+      "Id": "229594845",
+      "CID": "080da012-120d-52cf-97de-6d959e7cfd07",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2020-02-25T11:45:06.000+00:00",
+      "LastModificationTime": "2020-08-26T16:04:09.000+00:00",
+      "ProductId": "311424786",
+      "OriginalProductName": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+      "CampaignId": "VOC_survey_Store_Review_DESKTOP",
+      "AuthorId": "eoq9u4b66051743sn2qcioimk",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "b63q6n3o7iidln2cfsh5em0ml",
+      "SubmissionTime": "2020-02-25T03:59:33.000+00:00",
+      "ReviewText": "I wanted the badger for filling some flower beds but they don't have one and customer service did not know if any other tiller attachments would work.!",
+      "Title": "Attachments",
+      "UserNickname": "Jjmac",
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "AdditionalFields": {},
+      "ClientResponses": [],
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatingsOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "Cons": null,
+      "ContextDataValuesOrder": [],
+      "BadgesOrder": [],
+      "Photos": [],
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "Badges": {},
+      "RatingRange": 5,
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "227918394",
+      "CID": "7741a376-8d9b-5ea9-9898-fd26903bc098",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-01-01T07:25:41.000+00:00",
+      "LastModificationTime": "2020-08-26T16:04:16.000+00:00",
+      "ProductId": "311424786",
+      "OriginalProductName": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+      "CampaignId": "20191231_PPC_PR1_ONLINE_CNTRL_3529055_DA_MW",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0300EF481CDC4CF92S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "6sl33k1z8yfkok0c68kf71e31",
+      "SubmissionTime": "2020-01-01T07:05:17.000+00:00",
+      "ReviewText": "Rating provided by a verified purchaser",
+      "Title": "Rating provided by a verified purchaser...",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "AdditionalFields": {},
+      "ClientResponses": [],
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatingsOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "227500362",
+      "CID": "b902a41e-ac63-539b-aa92-87e704f450e6",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-12-21T14:30:03.000+00:00",
+      "LastModificationTime": "2021-02-09T22:33:23.000+00:00",
+      "ProductId": "311424786",
+      "OriginalProductName": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+      "CampaignId": "20191217_PPC_PR1_ONLINE_CNTRL_3519744_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nI am very sorry that the product didn&#39;t meet your expectation. If you have any questions about the product, please don&#39;t hesitate to reach out to us on https://wildbadgerpower.com/ and contact us, or go to Home Depot customer service. We will try our best to walk you through the details and help you make it work more properly.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\"\n         style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\"/>\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2021-02-09T22:33:23.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "03FC52565D81B0500S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.6666669845581055,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "t6y2dlj3wvg7hfhkzxdffzwia",
+      "SubmissionTime": "2019-12-19T12:33:46.000+00:00",
+      "ReviewText": "Extremely heavy equipment. I'm assuming the reason it comes with a harness.  Not good at all for everyday yard work. Had motor issues on the second use. If you're going to spend 200 bucks, just add maybe another 100 and get the best brand. Terrible product",
+      "Title": "Extremely heavy equipment. I'm assuming the reason it comes with...",
+      "UserNickname": "Kareem",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "AdditionalFields": {},
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatingsOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "226810854",
+      "CID": "28cc4a8c-a637-5155-b6e1-de3c85a9c00c",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-12-10T17:00:41.000+00:00",
+      "LastModificationTime": "2021-02-09T22:33:24.000+00:00",
+      "ProductId": "311424786",
+      "OriginalProductName": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+      "CampaignId": "20191210_PPC_PR1_ONLINE_CNTRL_3514903_DA_LP",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nI am very sorry that the product didn&#39;t meet your expectation. If you have any questions about the product, please don&#39;t hesitate to reach out to us on https://wildbadgerpower.com/ and contact us, or go to Home Depot customer service. We will try our best to walk you through the details and help you make it work more properly.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\"\n         style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\"/>\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2021-02-09T22:33:24.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "03115B7FC27683470S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "mhcl85d9s55wblt4o47032ici",
+      "SubmissionTime": "2019-12-10T15:52:51.000+00:00",
+      "ReviewText": "I had really looked forward to this tool being a great help with my ranch work but it unfortunately, did not pan out.  My ranch hand took off to the field to cut brush and found the blade wasn't very effective and the badger leaked gasoline all over his shirt and pants...was it missing a seal?",
+      "Title": "I had really looked forward to this tool being a...",
+      "UserNickname": "CAROLYN",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "AdditionalFields": {},
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatingsOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "226470901",
+      "CID": "b7369d3f-5345-5263-8336-aa605d721141",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-11-27T07:15:11.000+00:00",
+      "LastModificationTime": "2020-08-26T16:04:52.000+00:00",
+      "ProductId": "311424786",
+      "OriginalProductName": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+      "CampaignId": "20191126_PPC_PR1_ONLINE_CNTRL_3504899_DA_MW",
+      "AuthorId": "04183A84A24256E80S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "qc19piz1i038ea9bhs3x89hab",
+      "SubmissionTime": "2019-11-27T07:03:47.000+00:00",
+      "ReviewText": "Rating provided by a verified purchaser",
+      "Title": "4 Star Review",
+      "UserNickname": "CMP",
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "AdditionalFields": {},
+      "ClientResponses": [],
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatingsOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "Cons": null,
+      "ContextDataValuesOrder": [],
+      "IsRecommended": null,
+      "Photos": [],
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "225939443",
+      "CID": "c256a6d3-134d-5d81-a3e2-c8a6c05a5d45",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2019-11-08T14:15:12.000+00:00",
+      "LastModificationTime": "2020-09-06T23:56:39.000+00:00",
+      "ProductId": "311424786",
+      "OriginalProductName": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+      "CampaignId": "myAccount",
+      "AuthorId": "041907C1BEA9A8C10S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Features",
+        "Quality",
+        "EaseOfUse",
+        "Value"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "mchbdm4ibuetsjb6lu2uk94yz",
+      "SubmissionTime": "2019-11-06T14:28:50.000+00:00",
+      "ReviewText": "The trimmer arrived 2 days faster than I expected and was in perfect condition when it arrived.  This Badger is very strong but very quiet.   It idles to where you can have a conversation with somebody 6 feet away.   It cuts through anything in its' path and that is with the string that came with it.   I haven't even tried the brush cutter.  \r\n\r\nIt was easy to put together and once I filled it with gas and oil and pumped the bulb (10x/instructions), it started on the 2nd pull.  I had to rev it up since it was running so quiet to make sure it was actually running properly.   It is pretty heavy but balanced pretty good but the harness will be your friend for cutting more than normal.   I've used it for a few days and it will start on the first pull when cold.  \r\n\r\nThe harness is fairly simple to figure out and I like the quick release feature where you can pull the red cord and release the trimmer just in case it catches fire or something.     \r\n\r\nOverall I like the quality, ease of use, and the warranty.  I bought the extra 2 years.",
+      "Title": "The trimmer arrived 2 days faster than I expected and was in perfect condition when it arrived.  ...",
+      "UserNickname": "Rob",
+      "SecondaryRatings": {
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "MinLabel": null,
+          "Label": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null
+        },
+        "EaseOfUse": {
+          "Value": 5,
+          "Id": "EaseOfUse",
+          "MinLabel": null,
+          "Label": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "MinLabel": null,
+          "Label": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null
+        },
+        "Features": {
+          "Value": 5,
+          "Id": "Features",
+          "MinLabel": null,
+          "Label": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null
+        }
+      },
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "AdditionalFields": {},
+      "ClientResponses": [],
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "Cons": null,
+      "ContextDataValuesOrder": [],
+      "BadgesOrder": [],
+      "Photos": [],
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "Badges": {},
+      "RatingRange": 5
+    },
+    {
+      "Id": "225892474",
+      "CID": "f48353e6-28f7-5a90-b61c-91a95c6b74ae",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-11-05T17:00:06.000+00:00",
+      "LastModificationTime": "2020-08-26T16:05:53.000+00:00",
+      "ProductId": "311424786",
+      "OriginalProductName": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+      "CampaignId": "20191105_PPC_PR1_ONLINE_CNTRL_3490008_DA_LP",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nJeffrey, so sorry for the poor experience. Sounds like the recoil starter cage was damaged in shipping, unfortunately this happens from time to time. We of course want to ensure you are 100% satisfied and have received an undamaged unit. Please contact us at 704-684-5590 and we will get you squared away.\n<img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2019-11-05T18:01:34.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "0418A8DEF5AEC9CC0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "l5b37s8zhulxtavj67nt7p7fb",
+      "SubmissionTime": "2019-11-05T16:32:42.000+00:00",
+      "ReviewText": "Plastic around where you pull the rope to start cracked off. Also hard to start. Did not provide the correct hardware for installing the brush cutter blade.",
+      "Title": "Plastic around where you pull the rope to start cracked...",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "AdditionalFields": {},
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatingsOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "225282437",
+      "CID": "7b5dc3f6-f081-5fdd-884a-523569d89b28",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-10-16T01:00:10.000+00:00",
+      "LastModificationTime": "2020-09-06T23:56:55.000+00:00",
+      "ProductId": "311424786",
+      "OriginalProductName": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+      "CampaignId": "20191015_PPC_PR1_ONLINE_CNTRL_3475553_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nThank you for so much for the  positive review.  We love it when our customers are happy with our products they purchased!  Please let us know if you have any questions or if we can be of further assistance to  you.\n<img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2019-11-05T20:31:22.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "0300EF43582089915S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "tjydd781u2sensfgqo864l7vv",
+      "SubmissionTime": "2019-10-16T00:43:07.000+00:00",
+      "ReviewText": "Truly commercial quality at an incredibly competitive price and a warranty that reflects Badger's confidence in their line trimmer/brush cutter.",
+      "Title": "Truly commercial quality at an incredibly competitive price and a...",
+      "UserNickname": "StephenB",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "AdditionalFields": {},
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatingsOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "SecondaryRatings": {}
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "311424786": {
+        "AttributesOrder": [
+          "Category",
+          "Subclass",
+          "ChildSku",
+          "GLN",
+          "THDBrowseOnlinestatus",
+          "THDOnlineStatus",
+          "Department",
+          "IDMVendorAcctName",
+          "THDSubClass_name",
+          "THDClass_name",
+          "THDSubSubClass",
+          "GTIN14",
+          "THD_SubSubClass_name",
+          "THDDept_name",
+          "THDDotComOnlinestatus",
+          "THDSubClass",
+          "HDClass",
+          "THDDept",
+          "dcs_nbr",
+          "AVAILABILITY",
+          "Class",
+          "MFGModel"
+        ],
+        "Attributes": {
+          "Category": {
+            "Id": "Category",
+            "Values": [
+              {
+                "Value": "POWER> HANDHELD POWER> OTHER TRIMMERS> GAS TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "Subclass": {
+            "Id": "Subclass",
+            "Values": [
+              {
+                "Value": "19",
+                "Locale": null
+              }
+            ]
+          },
+          "ChildSku": {
+            "Id": "ChildSku",
+            "Values": [
+              {
+                "Value": "311424786",
+                "Locale": null
+              }
+            ]
+          },
+          "GLN": {
+            "Id": "GLN",
+            "Values": [
+              {
+                "Value": "0854641007009",
+                "Locale": null
+              }
+            ]
+          },
+          "THDBrowseOnlinestatus": {
+            "Id": "THDBrowseOnlinestatus",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "THDOnlineStatus": {
+            "Id": "THDOnlineStatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "Department": {
+            "Id": "Department",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "IDMVendorAcctName": {
+            "Id": "IDMVendorAcctName",
+            "Values": [
+              {
+                "Value": "SUNSEEKER US INC",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass_name": {
+            "Id": "THDSubClass_name",
+            "Values": [
+              {
+                "Value": "OTHER TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDClass_name": {
+            "Id": "THDClass_name",
+            "Values": [
+              {
+                "Value": "HANDHELD POWER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubSubClass": {
+            "Id": "THDSubSubClass",
+            "Values": [
+              {
+                "Value": "102",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00854641007627",
+                "Locale": null
+              }
+            ]
+          },
+          "THD_SubSubClass_name": {
+            "Id": "THD_SubSubClass_name",
+            "Values": [
+              {
+                "Value": "GAS TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept_name": {
+            "Id": "THDDept_name",
+            "Values": [
+              {
+                "Value": "SEASONAL/GARDEN",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDotComOnlinestatus": {
+            "Id": "THDDotComOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass": {
+            "Id": "THDSubClass",
+            "Values": [
+              {
+                "Value": "19",
+                "Locale": null
+              }
+            ]
+          },
+          "HDClass": {
+            "Id": "HDClass",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept": {
+            "Id": "THDDept",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "dcs_nbr": {
+            "Id": "dcs_nbr",
+            "Values": [
+              {
+                "Value": "28-32-19",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "Class": {
+            "Id": "Class",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "MFGModel": {
+            "Id": "MFGModel",
+            "Values": [
+              {
+                "Value": "WBP31BCF",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "854641007627"
+        ],
+        "Description": "Stop mixing oil and gas and take control of your lawn care with the powerful and versatile Wild Badger Power 4-Cycle Straight Shaft 2-in-1 Grass Trimmer and Brush Cutter. This tool has a grass trimmer attachment for detail work along borders and a brush cutter blade for heavier grasses and brush clearing. It also includes a harness to relieve the strain on your arms and improve stability. Powered by a 31cc, 4-cycle, full-crank engine, your trimmer is designed for reliability. The full crank design delivers a fast start and smooth operation reducing emissions, increasing fuel efficiency and delivering longer life. The transmission is supported by an aluminum casing which greatly reduces vibration allowing you to work in comfort until the job is done. The straight shaft is built with a robust aluminum tube which is lightweight and durable for added comfort and convenience. The twist-n-load bump feed trimmer head allows for quick line feed for the twin line cutting system. Replacing the line will no longer eat up precious daylight and will give you more time to get your lawn and landscaping looking clean.",
+        "ManufacturerPartNumbers": [
+          "WB31BCF"
+        ],
+        "ImageUrl": "https://images.thdstatic.com/productImages/fdbc828e-ae45-43c6-a39d-cb592a2120c1/svn/wild-badger-power-gas-string-trimmers-wbp31bcf-64_1000.jpg",
+        "Name": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle",
+        "Id": "311424786",
+        "CategoryId": "7651c252-aec3-4d90-88e2-6f4fe31d6a1d",
+        "BrandExternalId": "WILDBADGERPOWER",
+        "Brand": {
+          "Id": "WILDBADGERPOWER",
+          "Name": "WILD BADGER POWER"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.homedepot.com/p/WILD-BADGER-POWER-31cc-String-Trimmer-4-Stroke-31cc-Brush-Cutter-Blade-Gas-Shoulder-Strap-String-Trimmer-Rubber-Handle-WBP31BCF/311424786",
+        "Disabled": false,
+        "ModelNumbers": [],
+        "QuestionIds": [],
+        "ReviewIds": [],
+        "ISBNs": [],
+        "FamilyIds": [],
+        "StoryIds": [],
+        "EANs": [],
+        "ReviewStatistics": {
+          "RatingsOnlyReviewCount": 89,
+          "TotalVideoCount": 0,
+          "NotHelpfulVoteCount": 24,
+          "TotalPhotoCount": 24,
+          "AverageOverallRating": 3.723809523809524,
+          "FirstSubmissionTime": "2019-10-16T00:43:07.000+00:00",
+          "LastSubmissionTime": "2026-07-01T03:13:25.000+00:00",
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 146
+            },
+            {
+              "RatingValue": 4,
+              "Count": 74
+            },
+            {
+              "RatingValue": 1,
+              "Count": 60
+            },
+            {
+              "RatingValue": 2,
+              "Count": 18
+            },
+            {
+              "RatingValue": 3,
+              "Count": 17
+            }
+          ],
+          "HelpfulVoteCount": 135,
+          "ContextDataDistributionOrder": [
+            "Age",
+            "Gender",
+            "HomeGoodsProfile",
+            "VerifiedPurchaser",
+            "FirstTime",
+            "ReadReviews",
+            "EarlyReviewerIncentive"
+          ],
+          "ContextDataDistribution": {
+            "Age": {
+              "Id": "Age",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "65orOver"
+                }
+              ]
+            },
+            "Gender": {
+              "Id": "Gender",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "Male"
+                }
+              ]
+            },
+            "HomeGoodsProfile": {
+              "Id": "HomeGoodsProfile",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "DIYer"
+                }
+              ]
+            },
+            "VerifiedPurchaser": {
+              "Id": "VerifiedPurchaser",
+              "Values": [
+                {
+                  "Count": 283,
+                  "Value": "True"
+                },
+                {
+                  "Count": 7,
+                  "Value": "False"
+                }
+              ]
+            },
+            "FirstTime": {
+              "Id": "FirstTime",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "Yes"
+                }
+              ]
+            },
+            "ReadReviews": {
+              "Id": "ReadReviews",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "Yes"
+                }
+              ]
+            },
+            "EarlyReviewerIncentive": {
+              "Id": "EarlyReviewerIncentive",
+              "Values": [
+                {
+                  "Count": 29,
+                  "Value": "True"
+                },
+                {
+                  "Count": 171,
+                  "Value": "False"
+                }
+              ]
+            }
+          },
+          "RecommendedCount": 29,
+          "NotRecommendedCount": 23,
+          "SecondaryRatingsAveragesOrder": [
+            "Quality",
+            "Value"
+          ],
+          "SecondaryRatingsAverages": {
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 3.6666666666666665,
+              "MaxLabel": null,
+              "DisplayType": "NORMAL",
+              "MinLabel": null,
+              "ValueRange": 5
+            },
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 3.380952380952381,
+              "MaxLabel": null,
+              "DisplayType": "NORMAL",
+              "MinLabel": null,
+              "ValueRange": 5
+            }
+          },
+          "FeaturedReviewCount": 0,
+          "TotalReviewCount": 315,
+          "TotalMediaCount": 24,
+          "TagDistributionOrder": [],
+          "OverallRatingRange": 5,
+          "TagDistribution": {},
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 315
+      }
+    },
+    "ProductsOrder": [
+      "311424786"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

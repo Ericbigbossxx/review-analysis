@@ -1,0 +1,2105 @@
+[
+  {
+    "platform": "Walmart",
+    "sku": "WB20VTAB",
+    "brand": "WILD BADGER POWER",
+    "category": "String Trimmer",
+    "url": "http://www.walmart.com/ip/WILD-BADGER-POWER-20V-Cordless-String-Trimmer-With-blower-Combo-Set-Weed-Eater-Leaf-Blower/864525478",
+    "itemId": "864525478",
+    "productName": "",
+    "stats": {
+      "productName": "",
+      "totalReviewCount": 205,
+      "reviewsWithTextCount": 118,
+      "ratingsOnlyReviewCount": 87,
+      "averageOverallRating": 4.1,
+      "ratings": {
+        "one": 25,
+        "two": 4,
+        "three": 16,
+        "four": 34,
+        "five": 126
+      },
+      "textRatings": {
+        "one": 22,
+        "two": 3,
+        "three": 11,
+        "four": 25,
+        "five": 57
+      },
+      "ratingDistributionScope": "ALL_RATINGS_INCLUDING_RATINGS_ONLY",
+      "textRatingDistributionScope": "WRITTEN_REVIEWS_ONLY",
+      "pageWideRatingDistributionAvailable": true
+    },
+    "reviews": [
+      {
+        "date": "2026-07-16",
+        "id": "432677127",
+        "nickname": "Kee",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Stopped working less that 2 months after purchase",
+        "title": "Don’t waste your money",
+        "verified": true
+      },
+      {
+        "date": "2026-05-22",
+        "id": "426386950",
+        "nickname": "Sheila",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Useless no cutting no power piece of junk. Battery doesn’t last long and weed eater doesn’t cut much of anything",
+        "title": "Save your money",
+        "verified": true
+      },
+      {
+        "date": "2026-05-18",
+        "id": "425982423",
+        "nickname": "Chris",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "I have just had to order a charging station because the one that came with the unit just died.",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2026-04-16",
+        "id": "422837363",
+        "nickname": "Christine",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "works like it should",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2026-03-31",
+        "id": "421255059",
+        "nickname": "jimmy",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Line will not advance. low on power. Blower thar came with it works great. Do not buy this weedeater.",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-11-26",
+        "id": "406074800",
+        "nickname": "Alberto",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "It does work properly. The power is very low for mow the lawn",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-10-11",
+        "id": "400881017",
+        "nickname": "Francis",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Blower power level not great.",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-09-19",
+        "id": "398909616",
+        "nickname": "shopwalmart",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "ease of use and assembly is very eary. However dont expect much power on either the trimmer or the blower. it couldn't blow a thicker pile of leaves on tbe patio amd the trimer while it did work doesn't work in thicker grass.",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-09-13",
+        "id": "398383097",
+        "nickname": "anonymous",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Trim line won't advance properly... constantly have to remove the cap and pull more line out... I found this on other reviews after the fact..",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-08-05",
+        "id": "394439035",
+        "nickname": "Janet",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "battery's drain in 15 minutes. and trimmer cord doesn't always reload",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-08-03",
+        "id": "394209261",
+        "nickname": "Albert",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "It was broken had to return it",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-07-26",
+        "id": "393453894",
+        "nickname": "Jeffrey",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Broke on me after two being used",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-07-14",
+        "id": "391913022",
+        "nickname": "Darren",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "The charger was defective, but everything else worked good.",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-07-10",
+        "id": "391420524",
+        "nickname": "Debora",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "weed eater is cheaply made",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-07-04",
+        "id": "390726603",
+        "nickname": "Andrew",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "didnt come with all the pieces",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-06-29",
+        "id": "390218082",
+        "nickname": "Sherry",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "can't find extra string for it",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-06-28",
+        "id": "390145093",
+        "nickname": "anonymous",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Battery life only 30min.",
+        "title": "Disappointed",
+        "verified": true
+      },
+      {
+        "date": "2025-06-23",
+        "id": "389606084",
+        "nickname": "Archie",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "It sucks batteries don’t last very long",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-06-18",
+        "id": "389067355",
+        "nickname": "Melo",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "It does work the way I wanted it to work. Not much power",
+        "title": "Not powerful",
+        "verified": true
+      },
+      {
+        "date": "2025-06-07",
+        "id": "388018307",
+        "nickname": "Broomanddustpan",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Weed eater head is broken",
+        "title": "Bad product",
+        "verified": true
+      },
+      {
+        "date": "2025-06-01",
+        "id": "387401448",
+        "nickname": "Pam",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "nlower not enoy power Edger was hard to use .This product was cheaply made price was to much",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-05-23",
+        "id": "386396234",
+        "nickname": "Judith",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "My order never came said it was delivered and was not!",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-05-20",
+        "id": "386072942",
+        "nickname": "WalmartCustomer",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Haven't received it",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-05-08",
+        "id": "384792718",
+        "nickname": "kenyata",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "the weed eater isn't worth the money, and the blower works pretty well if you keep the battery charger. doesn't have a long life, even with a full charge.",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-04-29",
+        "id": "383681517",
+        "nickname": "Christi",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Batteries don’t stay charged long enough",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-04-27",
+        "id": "383489879",
+        "nickname": "stephen",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Trimmer caught fire. \nBlower and batteries don’t last",
+        "title": "Don’t buy",
+        "verified": true
+      },
+      {
+        "date": "2025-04-18",
+        "id": "382518738",
+        "nickname": "Joyce",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "i am returning it. charged batteries. there is no power. disappointed.",
+        "title": "do not recommend",
+        "verified": true
+      },
+      {
+        "date": "2025-04-04",
+        "id": "381008182",
+        "nickname": "Linda",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "I had to return this item because the instructions were for another item %26 there were no screws to put it together",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-02-16",
+        "id": "375819125",
+        "nickname": "Linda",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Not very powerful",
+        "title": "Blower",
+        "verified": true
+      },
+      {
+        "date": "2024-11-12",
+        "id": "363336625",
+        "nickname": "an anonymous customer",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "looked good but not strong enough for what I needed \nblower hardly blows and the weed eater wouldn't cut hardly anything",
+        "title": "string weed eater and blower",
+        "verified": false
+      },
+      {
+        "date": "2024-09-03",
+        "id": "356249853",
+        "nickname": "Tyesha",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "it dont even work no more an i jus got it",
+        "title": "dont work",
+        "verified": true
+      },
+      {
+        "date": "2024-08-29",
+        "id": "355643417",
+        "nickname": "an anonymous customer",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Not to heavy not a strong power",
+        "title": "The weed eater",
+        "verified": true
+      },
+      {
+        "date": "2024-06-26",
+        "id": "348185710",
+        "nickname": "Stephen",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Not very happy... Delivery came fast but it didn't come with any directions or screws for the handle or the guard for the trimmer so now we are stuck without not being able to use the trimmer, called,emailed and contacted the manufacturer and the\n...(read full review)\n Not very happy... Delivery came fast but it didn't come with any directions or screws for the handle or the guard for the trimmer so now we are stuck without not being able to use the trimmer, called,emailed and contacted the manufacturer and the company it came from and they never got back with me to see about what to do to get them\n(hide full review)",
+        "title": "No directions or screws",
+        "verified": false
+      },
+      {
+        "date": "2024-01-12",
+        "id": "331964362",
+        "nickname": "Anail",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "I didn't received the battery's charger",
+        "title": "missing battery's charger",
+        "verified": true
+      },
+      {
+        "date": "2023-06-14",
+        "id": "308493699",
+        "nickname": "Cuinterrupted",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "DO NOT PURCHASE THE CHARGING BASE WILL STOP WORKING Just shy of two months. YOU WILL END UP NOT HAVING ANY WAY TO CHARGE THE BATTERIES! PURCHASED APRIL 22, 2023 AND WILL NOT COME ON TODAY JUNE 15, 2023! LESS THAN 2 MONTHS!!! only used 3 or 4 times!\n...(read full review)\n DO NOT PURCHASE THE CHARGING BASE WILL STOP WORKING Just shy of two months. YOU WILL END UP NOT HAVING ANY WAY TO CHARGE THE BATTERIES! PURCHASED APRIL 22, 2023 AND WILL NOT COME ON TODAY JUNE 15, 2023! LESS THAN 2 MONTHS!!! only used 3 or 4 times! very upset!\n(hide full review)",
+        "title": "Bad Defectivce chargers",
+        "verified": true
+      },
+      {
+        "date": "2023-04-28",
+        "id": "305294054",
+        "nickname": "Ricky",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "I've wished that weedeater wasn't so flimsy with a 40w battery instead of 20w battery however the blower is top notch.",
+        "title": "Needs improvement.",
+        "verified": true
+      }
+    ],
+    "qa": {
+      "starSum": 205,
+      "textStarSum": 118,
+      "collectedWrittenReviews": 118,
+      "collectedWrittenRatings": {
+        "one": 22,
+        "two": 3,
+        "three": 11,
+        "four": 25,
+        "five": 57
+      },
+      "collectedLowStarText": 36,
+      "starSumMatchesTotal": true,
+      "textStarSumMatchesTotal": true,
+      "writtenReviewCountMatches": true,
+      "lowStarTextTotalMatches": true,
+      "pageWideRatingDistributionAvailable": true,
+      "storefrontCrossValidation": "PENDING",
+      "passed": true,
+      "rawPages": [
+        {
+          "page": 1,
+          "count": 100,
+          "sha256": "7712d66ac70d6fb0e130037514db8a42a973bb937539616f2952d601e78c100c",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\WB20VTAB_864525478_page_1.djs"
+        },
+        {
+          "page": 2,
+          "count": 18,
+          "sha256": "c9af6e1154bf2f7582d0f559900e1bfba2ada90ea42311eec427a5a921060aa9",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\WB20VTAB_864525478_page_2.djs"
+        }
+      ]
+    },
+    "errors": [
+      "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+    ]
+  },
+  {
+    "platform": "Walmart",
+    "sku": "WB20V16LM",
+    "brand": "WILD BADGER POWER",
+    "category": "Lawn Mower",
+    "url": "http://www.walmart.com/ip/WILD-BADGER-POWER-40V-16-Cordless-Brushless-Lawn-Mower-5-Cutting-Height-Adjustments-Electric-Quickly-Folding-Within-5-s-20V-2-4-0AH-Battery-Super-Cha/13660751856",
+    "itemId": "13660751856",
+    "productName": "",
+    "stats": {
+      "productName": "",
+      "totalReviewCount": 44,
+      "reviewsWithTextCount": 31,
+      "ratingsOnlyReviewCount": 13,
+      "averageOverallRating": 3.9,
+      "ratings": {
+        "one": 5,
+        "two": 3,
+        "three": 6,
+        "four": 8,
+        "five": 22
+      },
+      "textRatings": {
+        "one": 4,
+        "two": 1,
+        "three": 3,
+        "four": 7,
+        "five": 16
+      },
+      "ratingDistributionScope": "ALL_RATINGS_INCLUDING_RATINGS_ONLY",
+      "textRatingDistributionScope": "WRITTEN_REVIEWS_ONLY",
+      "pageWideRatingDistributionAvailable": true
+    },
+    "reviews": [
+      {
+        "date": "2025-08-17",
+        "id": "395607013",
+        "nickname": "Chris",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "It was too small and the batteries don’t allow to complete even a small yard. Died in only few months.",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-08-16",
+        "id": "395563899",
+        "nickname": "Kathy",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Did not come with a safety key, instructions state a safety key is required to start it, but parts list safety key as optional. Company had been notified and not made it right. I have a mower I cannot use. It will get returned if this is not\n...(read full review)\n Did not come with a safety key, instructions state a safety key is required to start it, but parts list safety key as optional. Company had been notified and not made it right. I have a mower I cannot use. It will get returned if this is not made correct. I just need the safety key shipped to me.\n(hide full review)",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-08-05",
+        "id": "394422749",
+        "nickname": "Irene",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "The product was delivered quickly. It was packaged nicely and all of the parts were in the box. The product was easy to assemble, lightweight, and cute. However, my disappointment begins with the long charging time. The mower only runs for thirty\n...(read full review)\n The product was delivered quickly. It was packaged nicely and all of the parts were in the box. The product was easy to assemble, lightweight, and cute. However, my disappointment begins with the long charging time. The mower only runs for thirty minutes, at best, on a full charge. It takes over two hours to fully charge the batteries. The constant need to stop, unhook the batteries, walk back to the charging ports, wait for the batteries to recharge, and plug the batteries back into the mower turned what is normally an hour and a half job into a six to seven hour nightmare. Additionally, it appears the batteries cannot tolerate hot weather because I had to wait over thirty minutes for the batteries to cool down before I could begin the changing process. Lastly, the mower’s cutting ability also falls short. This device is only good for maintaining small lawns that have already been tamed by prior cuttings. In short, I’m going to have to return this item.\n(hide full review)",
+        "title": "Disappointed",
+        "verified": true
+      },
+      {
+        "date": "2025-06-19",
+        "id": "389159726",
+        "nickname": "anonymous",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "I would not recommend this lawn mower to anyone. The charge does not last long. It cuts off frequently when grass gets caught in the blade. The bag does not catch the cut grass. It takes hours to mow the lawn because you have to constantly recharge\n...(read full review)\n I would not recommend this lawn mower to anyone. The charge does not last long. It cuts off frequently when grass gets caught in the blade. The bag does not catch the cut grass. It takes hours to mow the lawn because you have to constantly recharge it.\n(hide full review)",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-05-12",
+        "id": "385171230",
+        "nickname": "Janet",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "it kept dying on me!",
+        "title": "horrible",
+        "verified": true
+      },
+      {
+        "date": "2025-05-09",
+        "id": "384851875",
+        "nickname": "an anonymous customer",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Quick shipping and packaged well however, the plastic will no hold up for my yard. Sadly return.",
+        "title": "It's ok",
+        "verified": true
+      },
+      {
+        "date": "2025-05-03",
+        "id": "384215642",
+        "nickname": "Andrew",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Good product but it doesn’t cut the thicker grass",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-03-23",
+        "id": "379708670",
+        "nickname": "Jessica",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "It’ll get the job done but I should’ve gotten a larger one. Need more battery too",
+        "title": "",
+        "verified": true
+      }
+    ],
+    "qa": {
+      "starSum": 44,
+      "textStarSum": 31,
+      "collectedWrittenReviews": 31,
+      "collectedWrittenRatings": {
+        "one": 4,
+        "two": 1,
+        "three": 3,
+        "four": 7,
+        "five": 16
+      },
+      "collectedLowStarText": 8,
+      "starSumMatchesTotal": true,
+      "textStarSumMatchesTotal": true,
+      "writtenReviewCountMatches": true,
+      "lowStarTextTotalMatches": true,
+      "pageWideRatingDistributionAvailable": true,
+      "storefrontCrossValidation": "PENDING",
+      "passed": true,
+      "rawPages": [
+        {
+          "page": 1,
+          "count": 31,
+          "sha256": "bd208eb5577ce18f88f6e455979a96c5eca4111d516ed9b7409ca22988ab3902",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\WB20V16LM_13660751856_page_1.djs"
+        }
+      ]
+    },
+    "errors": [
+      "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+    ]
+  },
+  {
+    "platform": "Walmart",
+    "sku": "WB20VCOMBODP",
+    "brand": "WILD BADGER POWER",
+    "category": "String Trimmer",
+    "url": "http://www.walmart.com/ip/40V-Cordless-Weed-Wacker-String-Trimmer-Edger-Hedge-Trimmer-Brush-Cutter-Blade-Pole-Saw-Attachment-Capable-4-in-1-Multi-Tool-Kit-2-20V-4Ah-Battery-1/16104323450",
+    "itemId": "16104323450",
+    "productName": "",
+    "stats": {
+      "productName": "",
+      "totalReviewCount": 3,
+      "reviewsWithTextCount": 3,
+      "ratingsOnlyReviewCount": 0,
+      "averageOverallRating": 4.7,
+      "ratings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 1,
+        "five": 2
+      },
+      "textRatings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 1,
+        "five": 2
+      },
+      "ratingDistributionScope": "ALL_RATINGS_INCLUDING_RATINGS_ONLY",
+      "textRatingDistributionScope": "WRITTEN_REVIEWS_ONLY",
+      "pageWideRatingDistributionAvailable": true
+    },
+    "reviews": [],
+    "qa": {
+      "starSum": 3,
+      "textStarSum": 3,
+      "collectedWrittenReviews": 3,
+      "collectedWrittenRatings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 1,
+        "five": 2
+      },
+      "collectedLowStarText": 0,
+      "starSumMatchesTotal": true,
+      "textStarSumMatchesTotal": true,
+      "writtenReviewCountMatches": true,
+      "lowStarTextTotalMatches": true,
+      "pageWideRatingDistributionAvailable": true,
+      "storefrontCrossValidation": "PENDING",
+      "passed": true,
+      "rawPages": [
+        {
+          "page": 1,
+          "count": 3,
+          "sha256": "c4568959a3f403ce04769465341eabc910b33c0b771391c9efaf8495ef8a5d32",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\WB20VCOMBODP_16104323450_page_1.djs"
+        }
+      ]
+    },
+    "errors": [
+      "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+    ]
+  },
+  {
+    "platform": "Walmart",
+    "sku": "WB40V18PLM",
+    "brand": "WILD BADGER POWER",
+    "category": "Lawn Mower",
+    "url": "http://www.walmart.com/ip/WILD-BADGER-POWER-40V-Lawn-Mower-Brushless-18-Cordless-5-Cutting-Height-Quikly-Folding/5319348630",
+    "itemId": "5319348630",
+    "productName": "",
+    "stats": {
+      "productName": "",
+      "totalReviewCount": 54,
+      "reviewsWithTextCount": 40,
+      "ratingsOnlyReviewCount": 14,
+      "averageOverallRating": 4.2,
+      "ratings": {
+        "one": 5,
+        "two": 3,
+        "three": 3,
+        "four": 9,
+        "five": 34
+      },
+      "textRatings": {
+        "one": 4,
+        "two": 3,
+        "three": 3,
+        "four": 6,
+        "five": 24
+      },
+      "ratingDistributionScope": "ALL_RATINGS_INCLUDING_RATINGS_ONLY",
+      "textRatingDistributionScope": "WRITTEN_REVIEWS_ONLY",
+      "pageWideRatingDistributionAvailable": true
+    },
+    "reviews": [
+      {
+        "date": "2026-05-30",
+        "id": "427088727",
+        "nickname": "Sylvia",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Did not receive. Neighbor saw drop off in the driveway in a heavy rain. When I got home it was not there. Directions said leave at doors,I have covered porch.This is not the first time but the only time I have complained",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2026-04-22",
+        "id": "423408146",
+        "nickname": "anonymous",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "can't get but part of the yard mowed because of the battery runs 20 minutes tops.",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2026-04-12",
+        "id": "422441640",
+        "nickname": "J",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "I think mine came with a bad battery because after the first time it wouldn’t charge beyond one bar, so this review is based on one use before I returned it. \nFirst the pros – I really like the design. It’s lightweight and so easy to maneuver. The\n...(read full review)\n I think mine came with a bad battery because after the first time it wouldn’t charge beyond one bar, so this review is based on one use before I returned it. \nFirst the pros – I really like the design. It’s lightweight and so easy to maneuver. The handle on top is very handy for putting it in the car and moving it around. And the smaller footprint means it takes up less space in the garage. I really wish the mower had worked for us. \nUnfortunately, I just don’t think it’s powerful enough for a medium sized yard in the Pacific Northwest, where we often need to cut grass when it’s wet. Though our yard is within the size specified for the mower, I think this mower is best suited for small yards. Also, the handle must be gripped very tightly to keep the machine on, which could be an issue for anyone with less hand strength or other hand issues.\n(hide full review)",
+        "title": "Nice design for smaller yards",
+        "verified": true
+      },
+      {
+        "date": "2025-09-15",
+        "id": "398544609",
+        "nickname": "Darrell",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "The juice isn’t worth the squeeze without a minimum of 4 batteries due to the time of use last about 10 minutes but take 3 hours to charge",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-06-22",
+        "id": "389438996",
+        "nickname": "Deborah",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Horrible product. Flimsy plastic, handle broken, battery life 30 minutes or less and wouldn't hold a charge. Item returned.",
+        "title": "Cheaply Made Junk",
+        "verified": true
+      },
+      {
+        "date": "2025-06-02",
+        "id": "387447564",
+        "nickname": "anonymous",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Directions state it needs 2 battery packs. Only came with one \nMower will Not start",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-05-07",
+        "id": "384626533",
+        "nickname": "David",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "i got the notice it was delivered but nobody knocked on my doori never recieved it . it showed a picture it was dropped off in my driveway thats so un professional. they should have knocked and had it signed for. thats what delivery services usual\n...(read full review)\n i got the notice it was delivered but nobody knocked on my doori never recieved it . it showed a picture it was dropped off in my driveway thats so un professional. they should have knocked and had it signed for. thats what delivery services usual do. im going to buy 1 in store . but u can take my refund and let me get the weed eater and blower set for the badger for $99.00\n(hide full review)",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-05-04",
+        "id": "384243054",
+        "nickname": "Jennifer",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "don't have the nuts to put it together I'm short too but I like the lawn mower",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-04-05",
+        "id": "381115362",
+        "nickname": "Kem",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Definitely will not tackle taller grass. I’m going to try again when the grass isn’t as tall, but I’m probably going to return it. Battery didn’t last very long either",
+        "title": "Probably not",
+        "verified": true
+      },
+      {
+        "date": "2025-04-04",
+        "id": "380938484",
+        "nickname": "anonymous",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "all hardware was missing. would like to use but cannot.",
+        "title": "",
+        "verified": true
+      }
+    ],
+    "qa": {
+      "starSum": 54,
+      "textStarSum": 40,
+      "collectedWrittenReviews": 40,
+      "collectedWrittenRatings": {
+        "one": 4,
+        "two": 3,
+        "three": 3,
+        "four": 6,
+        "five": 24
+      },
+      "collectedLowStarText": 10,
+      "starSumMatchesTotal": true,
+      "textStarSumMatchesTotal": true,
+      "writtenReviewCountMatches": true,
+      "lowStarTextTotalMatches": true,
+      "pageWideRatingDistributionAvailable": true,
+      "storefrontCrossValidation": "PENDING",
+      "passed": true,
+      "rawPages": [
+        {
+          "page": 1,
+          "count": 40,
+          "sha256": "3191cd57d710dace1a3525238a64f0deb2c3fb715bc8a62fcab743413bada74a",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\WB40V18PLM_5319348630_page_1.djs"
+        }
+      ]
+    },
+    "errors": [
+      "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+    ]
+  },
+  {
+    "platform": "Walmart",
+    "sku": "WB40V14PLM",
+    "brand": "WILD BADGER POWER",
+    "category": "Lawn Mower",
+    "url": "http://www.walmart.com/ip/Electric-Lawn-Mower-40V-Brushless-14-Cordless-Push-5-Cutting-Height-Adjustment-4Ah-Battery-and-Super-Charger-Blue/16163460696",
+    "itemId": "16163460696",
+    "productName": "",
+    "stats": {
+      "productName": "",
+      "totalReviewCount": 1,
+      "reviewsWithTextCount": 1,
+      "ratingsOnlyReviewCount": 0,
+      "averageOverallRating": 3.0,
+      "ratings": {
+        "one": 0,
+        "two": 0,
+        "three": 1,
+        "four": 0,
+        "five": 0
+      },
+      "textRatings": {
+        "one": 0,
+        "two": 0,
+        "three": 1,
+        "four": 0,
+        "five": 0
+      },
+      "ratingDistributionScope": "ALL_RATINGS_INCLUDING_RATINGS_ONLY",
+      "textRatingDistributionScope": "WRITTEN_REVIEWS_ONLY",
+      "pageWideRatingDistributionAvailable": true
+    },
+    "reviews": [
+      {
+        "date": "2026-07-19",
+        "id": "433085382",
+        "nickname": "Ramona",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "The battery does not stay charged as it Described in specification. Charge time takes up to an hour or more and it only lasts for 15 minutes. Great for small areas but you better have your running shoes on before the battery dies. 🤷‍♀️",
+        "title": "Battery time stinks!!!",
+        "verified": true
+      }
+    ],
+    "qa": {
+      "starSum": 1,
+      "textStarSum": 1,
+      "collectedWrittenReviews": 1,
+      "collectedWrittenRatings": {
+        "one": 0,
+        "two": 0,
+        "three": 1,
+        "four": 0,
+        "five": 0
+      },
+      "collectedLowStarText": 1,
+      "starSumMatchesTotal": true,
+      "textStarSumMatchesTotal": true,
+      "writtenReviewCountMatches": true,
+      "lowStarTextTotalMatches": true,
+      "pageWideRatingDistributionAvailable": true,
+      "storefrontCrossValidation": "PENDING",
+      "passed": true,
+      "rawPages": [
+        {
+          "page": 1,
+          "count": 1,
+          "sha256": "640c814d1bb1bc3e5edc5e813ec88263364718c3879a173c320e082d00f5db09",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\WB40V14PLM_16163460696_page_1.djs"
+        }
+      ]
+    },
+    "errors": [
+      "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+    ]
+  },
+  {
+    "platform": "Walmart",
+    "sku": "WB53CULT",
+    "brand": "WILD BADGER POWER",
+    "category": "Garden Tiller",
+    "url": "http://www.walmart.com/ip/Garden-Tiller-53cc-Mini-Cultivator-15-inch-Powerful-Liftable-Booster-Rod-Tilling-Tool-for-Lawn-Garden-and-Field-Soil-Cultivation/11978119870",
+    "itemId": "11978119870",
+    "productName": "",
+    "stats": {
+      "productName": "",
+      "totalReviewCount": 28,
+      "reviewsWithTextCount": 20,
+      "ratingsOnlyReviewCount": 8,
+      "averageOverallRating": 3.3,
+      "ratings": {
+        "one": 9,
+        "two": 3,
+        "three": 1,
+        "four": 1,
+        "five": 14
+      },
+      "textRatings": {
+        "one": 7,
+        "two": 2,
+        "three": 1,
+        "four": 1,
+        "five": 9
+      },
+      "ratingDistributionScope": "ALL_RATINGS_INCLUDING_RATINGS_ONLY",
+      "textRatingDistributionScope": "WRITTEN_REVIEWS_ONLY",
+      "pageWideRatingDistributionAvailable": true
+    },
+    "reviews": [
+      {
+        "date": "2026-07-04",
+        "id": "431128741",
+        "nickname": "anonymous",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "was broken it didn't work at all",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2026-05-13",
+        "id": "425455324",
+        "nickname": "Kathleen",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Used this for the first time with my son and we only got two rows tilled until it overheated and died.",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2026-05-12",
+        "id": "425323005",
+        "nickname": "Gary",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "I used the tiller for an hour in my garden. It was working great and I was pleased with the power. Then the tines froze up and would not turn. I was disappointed after it ran so well.",
+        "title": "Badger Power Garden Tiller",
+        "verified": true
+      },
+      {
+        "date": "2026-04-28",
+        "id": "423969899",
+        "nickname": "David",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "assembly and starting a breeze. i used it for 20 minutes, and the blades quit turning. sent it back for a refund. just one of those purchases we all make once in a while.",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2026-04-27",
+        "id": "423886957",
+        "nickname": "Trisha",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Used it for about 15 minutes, then the shaft stopped turning. Wound up going to a home improvement store to rent one and returned this one.\nThis one likes already soft ground, not useful for what I needed, especially when it stopped working. Seems\n...(read full review)\n Used it for about 15 minutes, then the shaft stopped turning. Wound up going to a home improvement store to rent one and returned this one.\nThis one likes already soft ground, not useful for what I needed, especially when it stopped working. Seems better for already turned beds-it started small but mighty.\n(hide full review)",
+        "title": "Not for me",
+        "verified": true
+      },
+      {
+        "date": "2026-04-12",
+        "id": "422456354",
+        "nickname": "DawnaL",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "I have a 20 x 20 foot area I wanted to turn into a vegetable garden and was looking for a small tiller. This one had the power and size I needed, and it was on sale. Assebly took about 5 minutes. Then I started using it. There is no stabilizing feet\n...(read full review)\n I have a 20 x 20 foot area I wanted to turn into a vegetable garden and was looking for a small tiller. This one had the power and size I needed, and it was on sale. Assebly took about 5 minutes. Then I started using it. There is no stabilizing feet stake, so the tiller bucked, was difficult to steer, and tried to pull both my husband and I. About half-way through the tilling, the throttle became unresponsive. The control cable between the lever and control valve broke. Packed it up and will return for refund tomorrow.\n(hide full review)",
+        "title": "Broke on first use.",
+        "verified": true
+      },
+      {
+        "date": "2026-02-15",
+        "id": "416634271",
+        "nickname": "Basketballmom",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "I’ve had this tiller for 6 months, used it to till a 20x10 space plus a few extra rows and it’s already broken 3 times. Now it seems to be at the point where it’s unfixable. It doesn’t fill well going forward, so you have to go over each row twice\n...(read full review)\n I’ve had this tiller for 6 months, used it to till a 20x10 space plus a few extra rows and it’s already broken 3 times. Now it seems to be at the point where it’s unfixable. It doesn’t fill well going forward, so you have to go over each row twice with it really only doing any work as you walk backward. Filters and carb are constantly getting clogged and hard to clean. Issues with the starter and timing and compression. Not worth the price at all.\n(hide full review)",
+        "title": "Not worth the price",
+        "verified": true
+      },
+      {
+        "date": "2025-05-03",
+        "id": "384132501",
+        "nickname": "kim",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "not heavy enough bounce allover when use even in sand ground",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-04-08",
+        "id": "381451838",
+        "nickname": "Jean",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Kind of hard to assemble. Not heavy duty enough for my needs!",
+        "title": "You get what you pay for!",
+        "verified": true
+      },
+      {
+        "date": "2025-04-08",
+        "id": "381389741",
+        "nickname": "Doris",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "The first time we used it the wheels fell off it works fine but made with flimsy wheels.",
+        "title": "Would not recommend this item.",
+        "verified": true
+      }
+    ],
+    "qa": {
+      "starSum": 28,
+      "textStarSum": 20,
+      "collectedWrittenReviews": 20,
+      "collectedWrittenRatings": {
+        "one": 7,
+        "two": 2,
+        "three": 1,
+        "four": 1,
+        "five": 9
+      },
+      "collectedLowStarText": 10,
+      "starSumMatchesTotal": true,
+      "textStarSumMatchesTotal": true,
+      "writtenReviewCountMatches": true,
+      "lowStarTextTotalMatches": true,
+      "pageWideRatingDistributionAvailable": true,
+      "storefrontCrossValidation": "PENDING",
+      "passed": true,
+      "rawPages": [
+        {
+          "page": 1,
+          "count": 20,
+          "sha256": "159c44f3f2afc9d9d45a69c6f613ac67b432fd9fc047fe7b5777d397c1fd5bcd",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\WB53CULT_11978119870_page_1.djs"
+        }
+      ]
+    },
+    "errors": [
+      "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+    ]
+  },
+  {
+    "platform": "Walmart",
+    "sku": "WB40VCOMBO",
+    "brand": "WILD BADGER POWER",
+    "category": "String Trimmer",
+    "url": "http://www.walmart.com/ip/Wild-Badger-Power-40V-Cordless-Weed-Wacker-String-Trimmer-Edger-Hedge-Trimmer-Brush-Cutter-Blade-Pole-Saw-Attachment-Capable-4-in-1-Multi-Tool-Kit-2/17598657653",
+    "itemId": "17598657653",
+    "productName": "",
+    "stats": {
+      "productName": "",
+      "totalReviewCount": 0,
+      "reviewsWithTextCount": 0,
+      "ratingsOnlyReviewCount": 0,
+      "averageOverallRating": null,
+      "ratings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      },
+      "textRatings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      },
+      "ratingDistributionScope": "ALL_RATINGS_INCLUDING_RATINGS_ONLY",
+      "textRatingDistributionScope": "WRITTEN_REVIEWS_ONLY",
+      "pageWideRatingDistributionAvailable": true
+    },
+    "reviews": [],
+    "qa": {
+      "starSum": 0,
+      "textStarSum": 0,
+      "collectedWrittenReviews": 0,
+      "collectedWrittenRatings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      },
+      "collectedLowStarText": 0,
+      "starSumMatchesTotal": true,
+      "textStarSumMatchesTotal": true,
+      "writtenReviewCountMatches": true,
+      "lowStarTextTotalMatches": true,
+      "pageWideRatingDistributionAvailable": true,
+      "storefrontCrossValidation": "PENDING",
+      "passed": true,
+      "rawPages": [
+        {
+          "page": 1,
+          "count": 0,
+          "sha256": "7888e0bfab4bec8e74e6daad7fb79f0232842e33e9d747b00fc3dec5e8c683e9",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\WB40VCOMBO_17598657653_page_1.djs"
+        }
+      ]
+    },
+    "errors": [
+      "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+    ]
+  },
+  {
+    "platform": "Walmart",
+    "sku": "WBPMT26P",
+    "brand": "WILD BADGER POWER",
+    "category": "String Trimmer",
+    "url": "http://www.walmart.com/ip/WILD-BADGER-POWER-26cc-Multi-Tool-Trimmer-4-in-1-Garden-Tool-Combo-with-hedge-pole-saw/838770895",
+    "itemId": "838770895",
+    "productName": "",
+    "stats": {
+      "productName": "",
+      "totalReviewCount": 71,
+      "reviewsWithTextCount": 50,
+      "ratingsOnlyReviewCount": 21,
+      "averageOverallRating": 3.9,
+      "ratings": {
+        "one": 11,
+        "two": 6,
+        "three": 5,
+        "four": 9,
+        "five": 40
+      },
+      "textRatings": {
+        "one": 11,
+        "two": 5,
+        "three": 5,
+        "four": 7,
+        "five": 22
+      },
+      "ratingDistributionScope": "ALL_RATINGS_INCLUDING_RATINGS_ONLY",
+      "textRatingDistributionScope": "WRITTEN_REVIEWS_ONLY",
+      "pageWideRatingDistributionAvailable": true
+    },
+    "reviews": [
+      {
+        "date": "2026-07-05",
+        "id": "431260907",
+        "nickname": "Barbie",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Worked well at first…\n Until - it completely burnt out and wouldn’t turn back on after the overheating. \n Followed all instructions correctly. Local small engine repair said it would cost more to repair it than it costs overall to purchase.\n...(read full review)\n Worked well at first…\n Until - it completely burnt out and wouldn’t turn back on after the overheating. \n Followed all instructions correctly. Local small engine repair said it would cost more to repair it than it costs overall to purchase. \n Returned this trimmer.\n(hide full review)",
+        "title": "Only good for one short use.",
+        "verified": true
+      },
+      {
+        "date": "2026-05-26",
+        "id": "426684837",
+        "nickname": "richard",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Real excited the 1st time to use it\nStart the first day\n👍 Great 👍 \n2nd %26 3rd couldn't start it\n I only used the brush for about 2 hours\n Never used\nThe\nTrimmer\nPole saw \nHedge trimmer \n It wouldn't start again\n Returned to Walmart",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2026-05-16",
+        "id": "425777270",
+        "nickname": "anonymous",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "missing parts",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-11-01",
+        "id": "403167366",
+        "nickname": "George",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Under powered, I’ve only used once",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-10-25",
+        "id": "402293370",
+        "nickname": "Sabrina",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "everything was clear except the chainsaw maybe the chainsaw should already come assembled",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-09-17",
+        "id": "398753403",
+        "nickname": "Nathaniel",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "ran good enough for half a yard...absolutely garbage do not buy",
+        "title": "garbage",
+        "verified": true
+      },
+      {
+        "date": "2025-09-04",
+        "id": "397503963",
+        "nickname": "anonymous",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Heavy but powerful and when it works it was good. Would not recommend purchasing as mine started having engine and component issues that required repairs 6 weeks after purchasing. Warranty is useless because they have no one to fix it other than you\n...(read full review)\n Heavy but powerful and when it works it was good. Would not recommend purchasing as mine started having engine and component issues that required repairs 6 weeks after purchasing. Warranty is useless because they have no one to fix it other than you having to pay the shipping cost both ways to send to them. Buy cheap get cheap. I’ll go stihl instead\n(hide full review)",
+        "title": "Poor Quality",
+        "verified": true
+      },
+      {
+        "date": "2025-07-08",
+        "id": "391181842",
+        "nickname": "anonymous",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "I went to crank it and gas is spewing out and it's smoking.",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-07-05",
+        "id": "390869730",
+        "nickname": "michael",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "blowing out gas after first use. returning.",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-06-12",
+        "id": "388500856",
+        "nickname": "anonymous",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "so bad thatcwalmart won't let you return it",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-04-25",
+        "id": "383307067",
+        "nickname": "travis",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Bad instructions retuning.",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-04-20",
+        "id": "382720257",
+        "nickname": "Gayla",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Doesnt have the power i thought it should, you have tohave it full throdle for it to pick up speed to turn",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2024-10-13",
+        "id": "360185847",
+        "nickname": "Leonard",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "it's a very dependable yard tool, but the gas cap will leak all your fuel out",
+        "title": "4-in 1 Badger",
+        "verified": true
+      },
+      {
+        "date": "2024-10-06",
+        "id": "359487833",
+        "nickname": "Steven",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "the trimmer is powerful and cuts well ..it is heavier than most trimmers ..the detatch system will interchange with black max Ryobi ect .. \nthe unit worked great a couple of months and then failed to crank we sent it back for a refund and will be\n...(read full review)\n the trimmer is powerful and cuts well ..it is heavier than most trimmers ..the detatch system will interchange with black max Ryobi ect .. \nthe unit worked great a couple of months and then failed to crank we sent it back for a refund and will be ordering a new one ..we liked it just hope we got a bad one ..\n(hide full review)",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2024-09-18",
+        "id": "357712719",
+        "nickname": "Arron",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Used a total of three short times and the carburetor is leaking like a faucet. Very disappointed. Should have listened to the negative reviews",
+        "title": "Leaking gas after a few uses. 0 stars",
+        "verified": true
+      },
+      {
+        "date": "2024-07-03",
+        "id": "348999792",
+        "nickname": "Stanley",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Take my advice, go ahead and pay the added couple hundred dollars, and get one of the big brands that make an exchangable trimmer like this. The wild badger brand is garbage. It started within the first 4 to 6 pulls until i had it for about 4 months,\n...(read full review)\n Take my advice, go ahead and pay the added couple hundred dollars, and get one of the big brands that make an exchangable trimmer like this. The wild badger brand is garbage. It started within the first 4 to 6 pulls until i had it for about 4 months, where now if you can actually get it to start it doesn't run very long and thats if you even consider the spitting and sputtering it does running. Absolute waste of money, and of course, there's no one to actually pin down to get a solution for me. Buyers beware\n(hide full review)",
+        "title": "Don't waste your money",
+        "verified": true
+      },
+      {
+        "date": "2021-09-15",
+        "id": "269488550",
+        "nickname": "BillyJack",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "the motor seems weak, also, I've used this machine only a few times and now the pull sting, spring is broke, not happy,I would not recommend, until changes are made",
+        "title": "Badger needs a RedBull",
+        "verified": false
+      },
+      {
+        "date": "2020-06-15",
+        "id": "230716426",
+        "nickname": "Thomas",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "The product was great but to change the attachments was not that easy. The pin that holds the weed eater shaft broke and couldn't get apart.",
+        "title": "",
+        "verified": false
+      },
+      {
+        "date": "2020-05-03",
+        "id": "228387523",
+        "nickname": "Kara",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Awful. Assembly manual is inadequate. Insides fall out when changing attachments and then won't go back together. Although Walmart returns are simple, save your time and aggravation.",
+        "title": "Zero stars. Fell apart after 3 uses.",
+        "verified": true
+      },
+      {
+        "date": "2020-04-04",
+        "id": "226681293",
+        "nickname": "EG",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "pieces not all there a couple of missing parts guard and screws",
+        "title": "",
+        "verified": false
+      },
+      {
+        "date": "2019-12-23",
+        "id": "223394126",
+        "nickname": "Yardman",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Very difficult to put together. Vibrated badly when run. Gas leaks from tank when filled.",
+        "title": "Do not get this!",
+        "verified": false
+      }
+    ],
+    "qa": {
+      "starSum": 71,
+      "textStarSum": 50,
+      "collectedWrittenReviews": 50,
+      "collectedWrittenRatings": {
+        "one": 11,
+        "two": 5,
+        "three": 5,
+        "four": 7,
+        "five": 22
+      },
+      "collectedLowStarText": 21,
+      "starSumMatchesTotal": true,
+      "textStarSumMatchesTotal": true,
+      "writtenReviewCountMatches": true,
+      "lowStarTextTotalMatches": true,
+      "pageWideRatingDistributionAvailable": true,
+      "storefrontCrossValidation": "PENDING",
+      "passed": true,
+      "rawPages": [
+        {
+          "page": 1,
+          "count": 50,
+          "sha256": "500d488c062814f5817c52fca8da5c90c8d04b34fedee0b18fcdf9939b3159b2",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\WBPMT26P_838770895_page_1.djs"
+        }
+      ]
+    },
+    "errors": [
+      "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+    ]
+  },
+  {
+    "platform": "Walmart",
+    "sku": "WB26MTSE",
+    "brand": "WILD BADGER POWER",
+    "category": "String Trimmer",
+    "url": "http://www.walmart.com/ip/WILD-BADGER-POWER-Gas-4-in-1-Yard-Care-System-26cc-2-Cycle-Full-Crankshaft-Engine-Multi-Tool-Attachments-String-Trimmer-Edger-Hedge-Trimmer-Brush-Cut/1856935316",
+    "itemId": "1856935316",
+    "productName": "",
+    "stats": {
+      "productName": "",
+      "totalReviewCount": 24,
+      "reviewsWithTextCount": 17,
+      "ratingsOnlyReviewCount": 7,
+      "averageOverallRating": 4.3,
+      "ratings": {
+        "one": 2,
+        "two": 0,
+        "three": 1,
+        "four": 6,
+        "five": 15
+      },
+      "textRatings": {
+        "one": 2,
+        "two": 0,
+        "three": 1,
+        "four": 5,
+        "five": 9
+      },
+      "ratingDistributionScope": "ALL_RATINGS_INCLUDING_RATINGS_ONLY",
+      "textRatingDistributionScope": "WRITTEN_REVIEWS_ONLY",
+      "pageWideRatingDistributionAvailable": true
+    },
+    "reviews": [
+      {
+        "date": "2026-06-25",
+        "id": "429936630",
+        "nickname": "JF",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "This arrived broken.",
+        "title": "Issues right out of box",
+        "verified": true
+      },
+      {
+        "date": "2025-06-14",
+        "id": "388671549",
+        "nickname": "Lane",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "The first one I ordered got lost in transit. The second one I ordered was delayed so I ordered a third one. One finally arrived, and I open the box. I could tell I’ve been roughed up in transit. The cardboard was all shredded around the different\n...(read full review)\n The first one I ordered got lost in transit. The second one I ordered was delayed so I ordered a third one. One finally arrived, and I open the box. I could tell I’ve been roughed up in transit. The cardboard was all shredded around the different parts and two of the shafts were pretty scratched up. Because of all the delays I couldn’t afford to return it because I needed it for a job so now I’m just stuck with it. Very disappointing all around and if I didn’t need the tool so bad, I would’ve gone through the process of returning it, but at this point it’s just a huge hassle.\n(hide full review)",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2024-05-05",
+        "id": "343645079",
+        "nickname": "David",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Motor is strong and works as well as sounds good. The attachments are trash especially the edger. I would strongly recommend the motor but not any attachments weed trimmer only useful the gear boxes on attachments are not work the struggle of\n...(read full review)\n Motor is strong and works as well as sounds good. The attachments are trash especially the edger. I would strongly recommend the motor but not any attachments weed trimmer only useful the gear boxes on attachments are not work the struggle of attaching and attempting to work with.\n(hide full review)",
+        "title": "Good Overall",
+        "verified": true
+      }
+    ],
+    "qa": {
+      "starSum": 24,
+      "textStarSum": 17,
+      "collectedWrittenReviews": 17,
+      "collectedWrittenRatings": {
+        "one": 2,
+        "two": 0,
+        "three": 1,
+        "four": 5,
+        "five": 9
+      },
+      "collectedLowStarText": 3,
+      "starSumMatchesTotal": true,
+      "textStarSumMatchesTotal": true,
+      "writtenReviewCountMatches": true,
+      "lowStarTextTotalMatches": true,
+      "pageWideRatingDistributionAvailable": true,
+      "storefrontCrossValidation": "PENDING",
+      "passed": true,
+      "rawPages": [
+        {
+          "page": 1,
+          "count": 17,
+          "sha256": "e37694db291ea15f31cafd425026276258d7efb49360c11702487539a6c19500",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\WB26MTSE_1856935316_page_1.djs"
+        }
+      ]
+    },
+    "errors": [
+      "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+    ]
+  },
+  {
+    "platform": "Walmart",
+    "sku": "WB40VTBCC",
+    "brand": "WILD BADGER POWER",
+    "category": "String Trimmer",
+    "url": "http://www.walmart.com/ip/Wild-Badger-Power-Cordless-40-Volt-Brushed-Trimmer-and-Brushed-Blower-Combo-Includes-2-0-Ah-Battery-and-Clip-on-Charger/3962878922",
+    "itemId": "3962878922",
+    "productName": "",
+    "stats": {
+      "productName": "",
+      "totalReviewCount": 12,
+      "reviewsWithTextCount": 9,
+      "ratingsOnlyReviewCount": 3,
+      "averageOverallRating": 3.8,
+      "ratings": {
+        "one": 2,
+        "two": 1,
+        "three": 1,
+        "four": 2,
+        "five": 6
+      },
+      "textRatings": {
+        "one": 1,
+        "two": 1,
+        "three": 1,
+        "four": 2,
+        "five": 4
+      },
+      "ratingDistributionScope": "ALL_RATINGS_INCLUDING_RATINGS_ONLY",
+      "textRatingDistributionScope": "WRITTEN_REVIEWS_ONLY",
+      "pageWideRatingDistributionAvailable": true
+    },
+    "reviews": [
+      {
+        "date": "2025-08-24",
+        "id": "396356921",
+        "nickname": "TANYA",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "The battery did not lost very long.",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-06-26",
+        "id": "389949658",
+        "nickname": "anonymous",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "This worked great..... until it didn't. Used it twice with no problem. The third, it quit work in less than five minutes (battery was fully charged). Will be returning.",
+        "title": "Faulty",
+        "verified": true
+      },
+      {
+        "date": "2025-05-26",
+        "id": "386780828",
+        "nickname": "Aaron",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "There was no wheel for Edger not in the box or anywhere",
+        "title": "",
+        "verified": true
+      }
+    ],
+    "qa": {
+      "starSum": 12,
+      "textStarSum": 9,
+      "collectedWrittenReviews": 9,
+      "collectedWrittenRatings": {
+        "one": 1,
+        "two": 1,
+        "three": 1,
+        "four": 2,
+        "five": 4
+      },
+      "collectedLowStarText": 3,
+      "starSumMatchesTotal": true,
+      "textStarSumMatchesTotal": true,
+      "writtenReviewCountMatches": true,
+      "lowStarTextTotalMatches": true,
+      "pageWideRatingDistributionAvailable": true,
+      "storefrontCrossValidation": "PENDING",
+      "passed": true,
+      "rawPages": [
+        {
+          "page": 1,
+          "count": 9,
+          "sha256": "3252f69e3540c93ebc2b0a349616be7f618c94e7c8643d20ba7a793edb8827e0",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\WB40VTBCC_3962878922_page_1.djs"
+        }
+      ]
+    },
+    "errors": [
+      "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+    ]
+  },
+  {
+    "platform": "Walmart",
+    "sku": "SKRMX5",
+    "brand": "SUNSEEKER",
+    "category": "Robot",
+    "url": "http://www.walmart.com/ip/Sunseeker-X5-AWD-Robot-Lawn-Mower-0-5-Acre-21-780-Sq-Ft-Wireless-No-Boundary-Wire-Mower-RTK-Vision-Navigation-AI-Obstacle-Avoidance-App-Control/20278412919",
+    "itemId": "20278412919",
+    "productName": "",
+    "stats": {
+      "productName": "",
+      "totalReviewCount": 1,
+      "reviewsWithTextCount": 0,
+      "ratingsOnlyReviewCount": 1,
+      "averageOverallRating": 5.0,
+      "ratings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 1
+      },
+      "textRatings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      },
+      "ratingDistributionScope": "ALL_RATINGS_INCLUDING_RATINGS_ONLY",
+      "textRatingDistributionScope": "WRITTEN_REVIEWS_ONLY",
+      "pageWideRatingDistributionAvailable": true
+    },
+    "reviews": [],
+    "qa": {
+      "starSum": 1,
+      "textStarSum": 0,
+      "collectedWrittenReviews": 0,
+      "collectedWrittenRatings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      },
+      "collectedLowStarText": 0,
+      "starSumMatchesTotal": true,
+      "textStarSumMatchesTotal": true,
+      "writtenReviewCountMatches": true,
+      "lowStarTextTotalMatches": true,
+      "pageWideRatingDistributionAvailable": true,
+      "storefrontCrossValidation": "PENDING",
+      "passed": true,
+      "rawPages": [
+        {
+          "page": 1,
+          "count": 0,
+          "sha256": "e68bd7212ab543ca84245b1cb2b43966c12c5444aa743ddd560403281bed7828",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\SKRMX5_20278412919_page_1.djs"
+        }
+      ]
+    },
+    "errors": [
+      "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+    ]
+  },
+  {
+    "platform": "Walmart",
+    "sku": "SKRMX3PLUS",
+    "brand": "SUNSEEKER",
+    "category": "Robot",
+    "url": "http://www.walmart.com/ip/Sunseeker-X3-Plus-Robot-Lawn-Mower-Wire-0-3-Acre-13-000-Sq-Ft-Smart-APP-Control-AI-RTK-Navigation-6-Muti-Zone-Path-Planning-Small-Medium-Yards/16987612478",
+    "itemId": "16987612478",
+    "productName": "",
+    "stats": {
+      "productName": "",
+      "totalReviewCount": 4,
+      "reviewsWithTextCount": 3,
+      "ratingsOnlyReviewCount": 1,
+      "averageOverallRating": 2.8,
+      "ratings": {
+        "one": 2,
+        "two": 0,
+        "three": 0,
+        "four": 1,
+        "five": 1
+      },
+      "textRatings": {
+        "one": 1,
+        "two": 0,
+        "three": 0,
+        "four": 1,
+        "five": 1
+      },
+      "ratingDistributionScope": "ALL_RATINGS_INCLUDING_RATINGS_ONLY",
+      "textRatingDistributionScope": "WRITTEN_REVIEWS_ONLY",
+      "pageWideRatingDistributionAvailable": true
+    },
+    "reviews": [
+      {
+        "date": "2025-10-01",
+        "id": "400000231",
+        "nickname": "Michael",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "it took awhile to set it up to mow everything correctly. it got stolen and apparently there is absolutely no tracking on it to help the authorities. how do you have a $1300 mower without any tracking included? I called Sunseeker and they said that\n...(read full review)\n it took awhile to set it up to mow everything correctly. it got stolen and apparently there is absolutely no tracking on it to help the authorities. how do you have a $1300 mower without any tracking included? I called Sunseeker and they said that they can't help me and maybe they will get me a discount if I were to buy another one but that is still uncertain.\n(hide full review)",
+        "title": "",
+        "verified": true
+      }
+    ],
+    "qa": {
+      "starSum": 4,
+      "textStarSum": 3,
+      "collectedWrittenReviews": 3,
+      "collectedWrittenRatings": {
+        "one": 1,
+        "two": 0,
+        "three": 0,
+        "four": 1,
+        "five": 1
+      },
+      "collectedLowStarText": 1,
+      "starSumMatchesTotal": true,
+      "textStarSumMatchesTotal": true,
+      "writtenReviewCountMatches": true,
+      "lowStarTextTotalMatches": true,
+      "pageWideRatingDistributionAvailable": true,
+      "storefrontCrossValidation": "PENDING",
+      "passed": true,
+      "rawPages": [
+        {
+          "page": 1,
+          "count": 3,
+          "sha256": "a8288bbbdf04bb0ba9ffe49b8bffdcb20802f0d2bb51dcd4a12bb2dcef851af9",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\SKRMX3PLUS_16987612478_page_1.djs"
+        }
+      ]
+    },
+    "errors": [
+      "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+    ]
+  },
+  {
+    "platform": "Walmart",
+    "sku": "ORIONX7",
+    "brand": "SUNSEEKER",
+    "category": "Robot",
+    "url": "http://www.walmart.com/ip/SUNSEEKER-X7-Wireless-Robot-Lawn-Mower-0-75-Acre-32-000Sq-Ft-Smart-APP-Control-Vision-AI-System-RTK-Path-Planning-Adaptive-Floating-Cut-Height-4-Medi/17817006072",
+    "itemId": "17817006072",
+    "productName": "",
+    "stats": {
+      "productName": "",
+      "totalReviewCount": 4,
+      "reviewsWithTextCount": 3,
+      "ratingsOnlyReviewCount": 1,
+      "averageOverallRating": 4.5,
+      "ratings": {
+        "one": 0,
+        "two": 0,
+        "three": 1,
+        "four": 0,
+        "five": 3
+      },
+      "textRatings": {
+        "one": 0,
+        "two": 0,
+        "three": 1,
+        "four": 0,
+        "five": 2
+      },
+      "ratingDistributionScope": "ALL_RATINGS_INCLUDING_RATINGS_ONLY",
+      "textRatingDistributionScope": "WRITTEN_REVIEWS_ONLY",
+      "pageWideRatingDistributionAvailable": true
+    },
+    "reviews": [
+      {
+        "date": "2026-05-15",
+        "id": "387346212",
+        "nickname": "Jake M",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Mows well but has a lot of errors and mechanical issues. Support has been mixed. The app is confusing but does decent enough once you know how to use it. It does throw a lot of errors regarding the bumper and RTK initializing. The mower does a good\n...(read full review)\n Mows well but has a lot of errors and mechanical issues. Support has been mixed. The app is confusing but does decent enough once you know how to use it. It does throw a lot of errors regarding the bumper and RTK initializing. The mower does a good job for the most part though\n(hide full review)",
+        "title": "Solid option",
+        "verified": true
+      }
+    ],
+    "qa": {
+      "starSum": 4,
+      "textStarSum": 3,
+      "collectedWrittenReviews": 3,
+      "collectedWrittenRatings": {
+        "one": 0,
+        "two": 0,
+        "three": 1,
+        "four": 0,
+        "five": 2
+      },
+      "collectedLowStarText": 1,
+      "starSumMatchesTotal": true,
+      "textStarSumMatchesTotal": true,
+      "writtenReviewCountMatches": true,
+      "lowStarTextTotalMatches": true,
+      "pageWideRatingDistributionAvailable": true,
+      "storefrontCrossValidation": "PENDING",
+      "passed": true,
+      "rawPages": [
+        {
+          "page": 1,
+          "count": 3,
+          "sha256": "d21ea30248a79d2bf2c054b2bf04ef4c6c6da18e121d270d5d8d0ce6e531f5bd",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\ORIONX7_17817006072_page_1.djs"
+        }
+      ]
+    },
+    "errors": [
+      "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+    ]
+  },
+  {
+    "platform": "Walmart",
+    "sku": "SKRMS4",
+    "brand": "SUNSEEKER",
+    "category": "Robot",
+    "url": "http://www.walmart.com/ip/Sunseeker-S4-LiDAR-Robot-Lawn-Mower-Up-0-25-Acre-1000-m-Vision-AI-360-3D-Navigation-Wire-Free-Virtual-Boundary-Systematic-Cutting-42-Slope-App-Contro/20023610713",
+    "itemId": "20023610713",
+    "productName": "",
+    "stats": {
+      "productName": "",
+      "totalReviewCount": 2,
+      "reviewsWithTextCount": 2,
+      "ratingsOnlyReviewCount": 0,
+      "averageOverallRating": 4.5,
+      "ratings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 1,
+        "five": 1
+      },
+      "textRatings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 1,
+        "five": 1
+      },
+      "ratingDistributionScope": "ALL_RATINGS_INCLUDING_RATINGS_ONLY",
+      "textRatingDistributionScope": "WRITTEN_REVIEWS_ONLY",
+      "pageWideRatingDistributionAvailable": true
+    },
+    "reviews": [],
+    "qa": {
+      "starSum": 2,
+      "textStarSum": 2,
+      "collectedWrittenReviews": 2,
+      "collectedWrittenRatings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 1,
+        "five": 1
+      },
+      "collectedLowStarText": 0,
+      "starSumMatchesTotal": true,
+      "textStarSumMatchesTotal": true,
+      "writtenReviewCountMatches": true,
+      "lowStarTextTotalMatches": true,
+      "pageWideRatingDistributionAvailable": true,
+      "storefrontCrossValidation": "PENDING",
+      "passed": true,
+      "rawPages": [
+        {
+          "page": 1,
+          "count": 2,
+          "sha256": "468e556b891ad60163298ddeba3bf2936294911988934cf80d6e1d6c76af80a7",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\SKRMS4_20023610713_page_1.djs"
+        }
+      ]
+    },
+    "errors": [
+      "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+    ]
+  },
+  {
+    "platform": "Walmart",
+    "sku": "SKRMV3",
+    "brand": "SUNSEEKER",
+    "category": "Robot",
+    "url": "http://www.walmart.com/ip/SUNSEEKER-V3-Wireless-Robot-Lawn-Mower-0-15-Acre-6-400-Sq-Ft-Vision-AI-Automatic-Mower-One-Click-Mow-Smart-Obstacle-Avoidance-Multi-Zone-Navigation-2/15497122464",
+    "itemId": "15497122464",
+    "productName": "",
+    "stats": {
+      "productName": "",
+      "totalReviewCount": 11,
+      "reviewsWithTextCount": 10,
+      "ratingsOnlyReviewCount": 1,
+      "averageOverallRating": 3.2,
+      "ratings": {
+        "one": 1,
+        "two": 3,
+        "three": 3,
+        "four": 1,
+        "five": 3
+      },
+      "textRatings": {
+        "one": 1,
+        "two": 3,
+        "three": 3,
+        "four": 0,
+        "five": 3
+      },
+      "ratingDistributionScope": "ALL_RATINGS_INCLUDING_RATINGS_ONLY",
+      "textRatingDistributionScope": "WRITTEN_REVIEWS_ONLY",
+      "pageWideRatingDistributionAvailable": true
+    },
+    "reviews": [
+      {
+        "date": "2026-08-02",
+        "id": "434839788",
+        "nickname": "Stacey",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Only connects to 2.4 wireless. Had trouble with app. Got stuck in rain mode and could not get it reset. Biggest thing is the cutting deck is so small. It is really meant for very very small areas. My rec is spend about double this amount for a better\n...(read full review)\n Only connects to 2.4 wireless. Had trouble with app. Got stuck in rain mode and could not get it reset. Biggest thing is the cutting deck is so small. It is really meant for very very small areas. My rec is spend about double this amount for a better one.\n(hide full review)",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2026-06-23",
+        "id": "429744698",
+        "nickname": "Ray",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "if The Grass is more than 5 inches to 6 inches high, it will not cut and it’s difficult to control",
+        "title": "not worth the cost.",
+        "verified": true
+      },
+      {
+        "date": "2025-08-18",
+        "id": "395726331",
+        "nickname": "Shayne",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "The Sunseekeer V3 has a lot of potential, however the [%231] antenna/radio reception %26 [%232] operations app need significant improvements to deliver the benefits of carefree automated lawn cutting. When making any purchase or investment over\n...(read full review)\n The Sunseekeer V3 has a lot of potential, however the [%231] antenna/radio reception %26 [%232] operations app need significant improvements to deliver the benefits of carefree automated lawn cutting. When making any purchase or investment over $500, there are certain expectations we as consumers should expect and receive. Unfortunately, the Sunseeker V3 falls short which is why we chose to return it and purchase a different brand and model from Wal-Mart.\n(hide full review)",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-07-31",
+        "id": "393900324",
+        "nickname": "Bob",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "No set mowing pattern and not dependable, for scheduleing",
+        "title": "",
+        "verified": true
+      },
+      {
+        "date": "2025-07-25",
+        "id": "393360159",
+        "nickname": "Neal",
+        "rating": 3,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "Work fine very small",
+        "title": "Nice toy",
+        "verified": true
+      },
+      {
+        "date": "2025-07-17",
+        "id": "392230885",
+        "nickname": "mkrause",
+        "rating": 2,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "only works if you have a perfect lawn level and no lumps",
+        "title": "no thanks",
+        "verified": true
+      },
+      {
+        "date": "2025-07-12",
+        "id": "391617420",
+        "nickname": "anonymous",
+        "rating": 1,
+        "referenceId": null,
+        "syndicationSource": null,
+        "text": "I bought this mower with the idea that it would make my life easier. IT DOES NOT. Instead of spending 1.5-2 taking care of the yard. I patiently wait as the robot aimlessly bounces around the yard and spend an hour cleaning up the missed spots and\n...(read full review)\n I bought this mower with the idea that it would make my life easier. IT DOES NOT. Instead of spending 1.5-2 taking care of the yard. I patiently wait as the robot aimlessly bounces around the yard and spend an hour cleaning up the missed spots and edges. Also this mower does not map the yard and relies on magnet strips to mark ‘no go zones’. In reality this is not that much harder to setup than a boundary wire system and at the cost of a much smarter robot from the competition.\n(hide full review)",
+        "title": "Poor Execution of a robot mower",
+        "verified": true
+      }
+    ],
+    "qa": {
+      "starSum": 11,
+      "textStarSum": 10,
+      "collectedWrittenReviews": 10,
+      "collectedWrittenRatings": {
+        "one": 1,
+        "two": 3,
+        "three": 3,
+        "four": 0,
+        "five": 3
+      },
+      "collectedLowStarText": 7,
+      "starSumMatchesTotal": true,
+      "textStarSumMatchesTotal": true,
+      "writtenReviewCountMatches": true,
+      "lowStarTextTotalMatches": true,
+      "pageWideRatingDistributionAvailable": true,
+      "storefrontCrossValidation": "PENDING",
+      "passed": true,
+      "rawPages": [
+        {
+          "page": 1,
+          "count": 10,
+          "sha256": "59d663795ae78596de5b921cd5cd2f6b1745fd6bbf0b7efb878c0b9824986ee0",
+          "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-08-06-biweekly-review-analysis\\raw\\walmart_bv\\walmart\\SKRMV3_15497122464_page_1.djs"
+        }
+      ]
+    },
+    "errors": [
+      "Public Bazaarvoice values are internally reconciled; the Walmart storefront remains pending as an independent cross-validation source."
+    ]
+  }
+]

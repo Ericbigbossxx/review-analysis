@@ -1,0 +1,1048 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 8,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "305183365",
+      "CID": "55b8e74a-f1d2-5f11-a37d-55e1343b5919",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-08-03T14:00:15.000+00:00",
+      "LastModificationTime": "2026-08-03T14:00:15.000+00:00",
+      "ProductId": "342971818",
+      "OriginalProductName": "31cc 17 in. 4-Stroke 31cc Gas Straight Shaft String Trimmer with Brush Cutter Blade, Rubber Handle and Extra Spool",
+      "CampaignId": "msg_email-_-PR2_IN_T1-_-20260729_Product_Review_4702696-_-Desktop-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0521C390CFD2255C0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17857650ZkZiHn0KBT",
+      "SubmissionTime": "2026-08-03T13:50:37.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "ProductRecommendationIds": [],
+      "IsSyndicated": false,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "Cons": null,
+      "TagDimensions": {},
+      "IsRecommended": null,
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "Videos": [],
+      "ReviewText": null,
+      "SecondaryRatingsOrder": [],
+      "Title": null,
+      "UserLocation": null,
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Photos": []
+    },
+    {
+      "Id": "305026795",
+      "CID": "49c0d79e-950a-5483-bc51-81652504b57c",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-08-02T14:30:19.000+00:00",
+      "LastModificationTime": "2026-08-02T14:30:19.000+00:00",
+      "ProductId": "342971818",
+      "OriginalProductName": "31cc 17 in. 4-Stroke 31cc Gas Straight Shaft String Trimmer with Brush Cutter Blade, Rubber Handle and Extra Spool",
+      "CampaignId": "msg_email-_-PR2_IN_T1-_-20260729_Product_Review_4702696-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0420585A99F02D450S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17856808czcSC0gEK0",
+      "SubmissionTime": "2026-08-02T14:27:21.000+00:00",
+      "UserNickname": "Grunt",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 4,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "Label": null,
+          "MaxLabel": null,
+          "ValueLabel": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "Label": null,
+          "MaxLabel": null,
+          "ValueLabel": null
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "ProductRecommendationIds": [],
+      "IsSyndicated": false,
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "TagDimensions": {},
+      "IsRecommended": null,
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "Videos": [],
+      "ReviewText": null,
+      "Title": null,
+      "UserLocation": null,
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Photos": []
+    },
+    {
+      "Id": "303531444",
+      "CID": "679559fa-90e9-5a72-b8b3-94468bd956b6",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "earlyReviewerIncentive": {
+          "ContentType": "REVIEW",
+          "Id": "earlyReviewerIncentive",
+          "BadgeType": "Custom"
+        },
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "earlyReviewerIncentive",
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-07-29T14:30:54.000+00:00",
+      "LastModificationTime": "2026-07-30T20:01:03.000+00:00",
+      "ProductId": "342971818",
+      "OriginalProductName": "31cc 17 in. 4-Stroke 31cc Gas Straight Shaft String Trimmer with Brush Cutter Blade, Rubber Handle and Extra Spool",
+      "CampaignId": "msg_email-_-PR2_IN_T2_ERP-_-20260729_Product_Review_4702696-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nFor assistance please contact:<br />customerus&#64;wildbadgerpower.com\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2026-07-30T20:01:03.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "06265745442FC12D0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 2,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17853344yItsMUMkRY",
+      "SubmissionTime": "2026-07-29T14:14:17.000+00:00",
+      "ReviewText": "I like it very much but it didn’t come with the extra stuff it was missing everything but the weed eater and saw blade .I was disappointed but still like the machine",
+      "UserNickname": "Keith",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "True",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "ProductRecommendationIds": [],
+      "IsSyndicated": false,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "Cons": null,
+      "TagDimensions": {},
+      "IsRecommended": null,
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Pros": null,
+      "Videos": [],
+      "SecondaryRatingsOrder": [],
+      "Title": null,
+      "UserLocation": null,
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Photos": []
+    },
+    {
+      "Id": "303519723",
+      "CID": "2ac0de0e-f4fa-58e9-a2a8-8fd042112cc3",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "earlyReviewerIncentive": {
+          "ContentType": "REVIEW",
+          "Id": "earlyReviewerIncentive",
+          "BadgeType": "Custom"
+        },
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "earlyReviewerIncentive",
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-07-29T13:46:06.000+00:00",
+      "LastModificationTime": "2026-07-29T13:46:06.000+00:00",
+      "ProductId": "342971818",
+      "OriginalProductName": "31cc 17 in. 4-Stroke 31cc Gas Straight Shaft String Trimmer with Brush Cutter Blade, Rubber Handle and Extra Spool",
+      "CampaignId": "msg_email-_-PR3_IN_T2_ERP-_-20260729_Product_Review_4702696-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "052E0466B986D1FC0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17853319PzzMajcMeS",
+      "SubmissionTime": "2026-07-29T13:32:11.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "True",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "ProductRecommendationIds": [],
+      "IsSyndicated": false,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "Cons": null,
+      "TagDimensions": {},
+      "IsRecommended": null,
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "Videos": [],
+      "ReviewText": null,
+      "SecondaryRatingsOrder": [],
+      "Title": null,
+      "UserLocation": null,
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Photos": []
+    },
+    {
+      "Id": "303261394",
+      "CID": "3cfb1947-09c1-57e3-be58-0a6d99938cfb",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-07-22T18:15:24.000+00:00",
+      "LastModificationTime": "2026-07-22T18:15:24.000+00:00",
+      "ProductId": "342971818",
+      "OriginalProductName": "31cc 17 in. 4-Stroke 31cc Gas Straight Shaft String Trimmer with Brush Cutter Blade, Rubber Handle and Extra Spool",
+      "CampaignId": "msg_email-_-PR2_OUT_T1-_-20260722_Product_Review_4701712-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "062C814376005CCB0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17847429hJsx1GdIEb",
+      "SubmissionTime": "2026-07-22T17:56:35.000+00:00",
+      "ReviewText": "Great American made machine, love the 4 cycle, comes with everything I needed in the box to clean up my property",
+      "UserNickname": "FRANK",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 4,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "Label": null,
+          "MaxLabel": null,
+          "ValueLabel": null
+        },
+        "CustomerService": {
+          "Value": 4,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "Label": null,
+          "MaxLabel": null,
+          "ValueLabel": null
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "ProductRecommendationIds": [],
+      "IsSyndicated": false,
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "TagDimensions": {},
+      "IsRecommended": null,
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "Videos": [],
+      "Title": null,
+      "UserLocation": null,
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Photos": []
+    },
+    {
+      "Id": "303254068",
+      "CID": "2adeed11-9eea-5381-8ee1-ed4ed6fa7ebc",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-07-22T16:45:35.000+00:00",
+      "LastModificationTime": "2026-07-28T11:15:35.000+00:00",
+      "ProductId": "342971818",
+      "OriginalProductName": "31cc 17 in. 4-Stroke 31cc Gas Straight Shaft String Trimmer with Brush Cutter Blade, Rubber Handle and Extra Spool",
+      "CampaignId": "msg_email-_-PR1_T3-_-20260722_Product_Review_4701712-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nFor assistance please contact:<br />customerus&#64;wildbadgerpower.com\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2026-07-28T11:15:35.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "06200BC71D74DED00S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17847330ZrqO77XPXm",
+      "SubmissionTime": "2026-07-22T15:11:26.000+00:00",
+      "ReviewText": "Horrible product , extremely heavy , no power whatsoever",
+      "UserNickname": "JESUS",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 2,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "Label": null,
+          "MaxLabel": null,
+          "ValueLabel": null
+        },
+        "CustomerService": {
+          "Value": 3,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "Label": null,
+          "MaxLabel": null,
+          "ValueLabel": null
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "ProductRecommendationIds": [],
+      "IsSyndicated": false,
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "TagDimensions": {},
+      "IsRecommended": null,
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Pros": null,
+      "Videos": [],
+      "Title": null,
+      "UserLocation": null,
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Photos": []
+    },
+    {
+      "Id": "302083660",
+      "CID": "b7d1b937-6d11-5e24-aeea-3adfe71c55fe",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2026-07-02T01:00:10.000+00:00",
+      "LastModificationTime": "2026-07-11T17:37:34.000+00:00",
+      "ProductId": "342971818",
+      "OriginalProductName": "31cc 17 in. 4-Stroke 31cc Gas Straight Shaft String Trimmer with Brush Cutter Blade, Rubber Handle and Extra Spool",
+      "CampaignId": "SubmitPilot2024",
+      "UserLocation": "Amherst, NY",
+      "AuthorId": "zp6zp97qotre57ow3z54wbgzvp",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zi8492fyxptnrco7q3s6er26d4",
+          "SubmissionTime": "2026-06-30T01:20:52.000+00:00"
+        },
+        {
+          "AuthorId": "z1zqdr41974eq0ey7ddga5z083",
+          "SubmissionTime": "2026-06-30T01:15:51.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17822440XNnN6sF636",
+      "SubmissionTime": "2026-06-23T19:47:21.000+00:00",
+      "ReviewText": "I bought this unit last November but did not open it until June. After opening and filling with gas and oil I noticed a leak coming from the engine. Smelled like a combination of gas and oil. Unit fell outside of the 90 day return policy, so I contacted the vendor to get the unit serviced at a \"Local authorized service dealer\" as stated in the warranty document that came with the unit. After providing proof of purchase and pictures of the broken, never used badger, I received a gas tank in the mail for me to replace. This was not the problem, I asked via email for a local service location where I could take the unit, the vendor responded by asking me to send the unit to them at my expense. I refused and repeated my request for a local service dealer. The vender stopped communication at this point. I called Home Depot customer care and asked them to advocate for the fulfillment of the warranty directly to their vendor. Customer Care wrote an email to the vendor and told me that they would call me back in 24 to 48 hours. I heard nothing back from Home Depot customer care in 8 days so I called them back. The customer care rep told me that the vendor never replied and that Home Depot could doing nothing more to hold their vendor accountable for not upholding the warranty.",
+      "Title": "Badger and Home Depot let the customer down!",
+      "UserNickname": "Kurt",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "Label": null,
+          "MaxLabel": null,
+          "ValueLabel": null
+        },
+        "Value": {
+          "Value": 1,
+          "Id": "Value",
+          "ValueRange": 5,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "Label": null,
+          "MaxLabel": null,
+          "ValueLabel": null
+        },
+        "CustomerService": {
+          "Value": 1,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "Label": null,
+          "MaxLabel": null,
+          "ValueLabel": null
+        },
+        "Fulfillment": {
+          "Value": 1,
+          "Id": "Fulfillment",
+          "ValueRange": 5,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "Label": null,
+          "MaxLabel": null,
+          "ValueLabel": null
+        },
+        "Quality": {
+          "Value": 1,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "Label": null,
+          "MaxLabel": null,
+          "ValueLabel": null
+        }
+      },
+      "AdditionalFields": {
+        "State": {
+          "Value": "New York",
+          "Id": "State"
+        }
+      },
+      "AdditionalFieldsOrder": [
+        "State"
+      ],
+      "ProductRecommendationIds": [],
+      "IsSyndicated": false,
+      "Badges": {},
+      "Cons": null,
+      "ContextDataValuesOrder": [],
+      "TagDimensions": {},
+      "ContextDataValues": {},
+      "CommentIds": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "Videos": [],
+      "RatingRange": 5,
+      "TagDimensionsOrder": [],
+      "BadgesOrder": [],
+      "Photos": []
+    },
+    {
+      "Id": "301980561",
+      "CID": "7dd28905-6322-525c-bb67-0ecf1e08faaf",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-06-18T22:45:09.000+00:00",
+      "LastModificationTime": "2026-07-07T23:52:04.000+00:00",
+      "ProductId": "342971818",
+      "OriginalProductName": "31cc 17 in. 4-Stroke 31cc Gas Straight Shaft String Trimmer with Brush Cutter Blade, Rubber Handle and Extra Spool",
+      "CampaignId": "msg_email-_-PR1_IN-_-20260617_Product_Review_4696783-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03ED0EB6D611AA900S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__178182178YbTwI8tXB",
+      "SubmissionTime": "2026-06-18T22:29:47.000+00:00",
+      "ReviewText": "It’s heavier than the Ryobi one I had but it’s so easy to start. The harness makes it easier to carry. So far I really like it.",
+      "UserNickname": "DONNA",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "Label": null,
+          "MaxLabel": null,
+          "ValueLabel": null
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "ProductRecommendationIds": [],
+      "IsSyndicated": false,
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "TagDimensions": {},
+      "IsRecommended": null,
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "Videos": [],
+      "Title": null,
+      "UserLocation": null,
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "TagDimensionsOrder": [],
+      "Photos": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "342971818": {
+        "AttributesOrder": [
+          "Category",
+          "Subclass",
+          "ChildSku",
+          "GLN",
+          "THDBrowseOnlinestatus",
+          "THDOnlineStatus",
+          "Department",
+          "IDMVendorAcctName",
+          "THDSubClass_name",
+          "THDClass_name",
+          "THDSubSubClass",
+          "GTIN14",
+          "THD_SubSubClass_name",
+          "THDDept_name",
+          "THDDotComOnlinestatus",
+          "THDSubClass",
+          "HDClass",
+          "THDDept",
+          "dcs_nbr",
+          "AVAILABILITY",
+          "Class",
+          "MFGModel"
+        ],
+        "Attributes": {
+          "Category": {
+            "Id": "Category",
+            "Values": [
+              {
+                "Value": "POWER> HANDHELD POWER> OTHER TRIMMERS> GAS TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "Subclass": {
+            "Id": "Subclass",
+            "Values": [
+              {
+                "Value": "19",
+                "Locale": null
+              }
+            ]
+          },
+          "ChildSku": {
+            "Id": "ChildSku",
+            "Values": [
+              {
+                "Value": "342971818",
+                "Locale": null
+              }
+            ]
+          },
+          "GLN": {
+            "Id": "GLN",
+            "Values": [
+              {
+                "Value": "0854641007009",
+                "Locale": null
+              }
+            ]
+          },
+          "THDBrowseOnlinestatus": {
+            "Id": "THDBrowseOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDOnlineStatus": {
+            "Id": "THDOnlineStatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "Department": {
+            "Id": "Department",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "IDMVendorAcctName": {
+            "Id": "IDMVendorAcctName",
+            "Values": [
+              {
+                "Value": "SUNSEEKER US INC",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass_name": {
+            "Id": "THDSubClass_name",
+            "Values": [
+              {
+                "Value": "OTHER TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDClass_name": {
+            "Id": "THDClass_name",
+            "Values": [
+              {
+                "Value": "HANDHELD POWER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubSubClass": {
+            "Id": "THDSubSubClass",
+            "Values": [
+              {
+                "Value": "102",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850060195815",
+                "Locale": null
+              }
+            ]
+          },
+          "THD_SubSubClass_name": {
+            "Id": "THD_SubSubClass_name",
+            "Values": [
+              {
+                "Value": "GAS TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept_name": {
+            "Id": "THDDept_name",
+            "Values": [
+              {
+                "Value": "SEASONAL/GARDEN",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDotComOnlinestatus": {
+            "Id": "THDDotComOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass": {
+            "Id": "THDSubClass",
+            "Values": [
+              {
+                "Value": "19",
+                "Locale": null
+              }
+            ]
+          },
+          "HDClass": {
+            "Id": "HDClass",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept": {
+            "Id": "THDDept",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "dcs_nbr": {
+            "Id": "dcs_nbr",
+            "Values": [
+              {
+                "Value": "28-32-19",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "Class": {
+            "Id": "Class",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "MFGModel": {
+            "Id": "MFGModel",
+            "Values": [
+              {
+                "Value": "WBP31TS",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850060195815"
+        ],
+        "Description": "Stop mixing oil and gas and take control of your lawn care with the powerful and versatile WILD BADGER POWER 4-Cycle Straight Shaft 2-in-1 Grass Trimmer and Brush Cutter. This tool has a grass trimmer attachment for detail work along borders and a brush cutter blade for heavier grasses and brush clearing. It also includes a harness to relieve the strain on your arms and improve stability. Powered by a 31 cc, 4-cycle, full-crank engine, your trimmer is designed for reliability. The full crank design delivers a fast start and smooth operation reducing emissions, increasing fuel efficiency and delivering longer life. The transmission is supported by an aluminum casing which greatly reduces vibration allowing you to work in comfort until the job is done. The straight shaft is built with a robust aluminum tube which is lightweight and durable for added comfort and convenience. The twist-n-load bump feed trimmer head allows for quick line feed for the twin line cutting system. Replacing the line will no longer eat up precious daylight and will give you more time to get your lawn and landscaping looking clean.",
+        "ManufacturerPartNumbers": [
+          "WBP31TS"
+        ],
+        "ImageUrl": "https://images.thdstatic.com/productImages/cbfddaa3-af63-40be-ae08-7eb8e7440f58/svn/wild-badger-power-gas-string-trimmers-wbp31ts-64_1000.jpg",
+        "Name": "31cc 17 in. 4-Stroke 31cc Gas Straight Shaft String Trimmer with Brush Cutter Blade, Rubber Handle and Extra Spool",
+        "Id": "342971818",
+        "CategoryId": "7651c252-aec3-4d90-88e2-6f4fe31d6a1d",
+        "BrandExternalId": "WILDBADGERPOWER",
+        "Brand": {
+          "Id": "WILDBADGERPOWER",
+          "Name": "WILD BADGER POWER"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.homedepot.com/p/WILD-BADGER-POWER-31cc-17-in-4-Stroke-31cc-Gas-Straight-Shaft-String-Trimmer-with-Brush-Cutter-Blade-Rubber-Handle-and-Extra-Spool-WBP31TS/342971818",
+        "Disabled": false,
+        "QuestionIds": [],
+        "ReviewIds": [],
+        "StoryIds": [],
+        "ISBNs": [],
+        "EANs": [],
+        "ModelNumbers": [],
+        "FamilyIds": [],
+        "ReviewStatistics": {
+          "HelpfulVoteCount": 3,
+          "TotalPhotoCount": 0,
+          "FirstSubmissionTime": "2026-06-18T22:29:47.000+00:00",
+          "LastSubmissionTime": "2026-08-03T13:50:37.000+00:00",
+          "NotHelpfulVoteCount": 0,
+          "RatingDistribution": [
+            {
+              "RatingValue": 1,
+              "Count": 3
+            },
+            {
+              "RatingValue": 4,
+              "Count": 2
+            },
+            {
+              "RatingValue": 5,
+              "Count": 2
+            },
+            {
+              "RatingValue": 2,
+              "Count": 1
+            }
+          ],
+          "AverageOverallRating": 2.875,
+          "TotalVideoCount": 0,
+          "SecondaryRatingsAveragesOrder": [
+            "Quality",
+            "Value"
+          ],
+          "SecondaryRatingsAverages": {
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 1.0,
+              "MaxLabel": null,
+              "DisplayType": "NORMAL",
+              "ValueRange": 5,
+              "MinLabel": null
+            },
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 1.0,
+              "MaxLabel": null,
+              "DisplayType": "NORMAL",
+              "ValueRange": 5,
+              "MinLabel": null
+            }
+          },
+          "RecommendedCount": 0,
+          "RatingsOnlyReviewCount": 3,
+          "NotRecommendedCount": 1,
+          "TotalReviewCount": 8,
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaser",
+            "EarlyReviewerIncentive"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaser": {
+              "Id": "VerifiedPurchaser",
+              "Values": [
+                {
+                  "Count": 7,
+                  "Value": "True"
+                }
+              ]
+            },
+            "EarlyReviewerIncentive": {
+              "Id": "EarlyReviewerIncentive",
+              "Values": [
+                {
+                  "Count": 2,
+                  "Value": "True"
+                },
+                {
+                  "Count": 5,
+                  "Value": "False"
+                }
+              ]
+            }
+          },
+          "FeaturedReviewCount": 0,
+          "TotalMediaCount": 0,
+          "OverallRatingRange": 5,
+          "TagDistributionOrder": [],
+          "TagDistribution": {},
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 8
+      }
+    },
+    "ProductsOrder": [
+      "342971818"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

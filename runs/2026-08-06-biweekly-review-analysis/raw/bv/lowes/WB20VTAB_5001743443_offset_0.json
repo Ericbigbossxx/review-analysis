@@ -1,0 +1,2821 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 42,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "252153860",
+      "CID": "8cf5a533-c78b-5ccc-9c15-0f712d0b6183",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-06-23T03:15:18.000+00:00",
+      "LastModificationTime": "2026-06-23T03:15:18.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_Default_Digital_Web_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "aded31d0-58f6-404d-94d6-caafac97b0bf",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17821829l7xKABYNZT",
+      "SubmissionTime": "2026-06-23T02:49:34.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "ReviewText": null,
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "250657683",
+      "CID": "53a0db21-97ab-52e8-972c-7b3b737ab3ed",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2026-05-17T03:30:05.000+00:00",
+      "LastModificationTime": "2026-05-20T14:34:58.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_Sweepstakes_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "77fd573c-3b13-41a0-9128-782e7543a8b6",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17789878Fj8mEU0OxS",
+      "SubmissionTime": "2026-05-17T03:18:00.000+00:00",
+      "UserNickname": "Johnp",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "ReviewText": null,
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "247728146",
+      "CID": "22e45305-0dcc-57eb-a206-9abeb067bbb3",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2026-01-26T18:45:15.000+00:00",
+      "LastModificationTime": "2026-01-29T14:45:35.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_Sweepstakes_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "6da0fc24-437d-4f34-b2db-dd802c68aac8",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17694473leEwgOF3jV",
+      "SubmissionTime": "2026-01-26T17:09:31.000+00:00",
+      "ReviewText": "Works great and has good power.  We told a friend about it and ordered another one for him",
+      "Title": "Great product great price",
+      "UserNickname": "ShelleyC",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "245420110",
+      "CID": "3b82a593-0c25-55e4-9738-439ef732cdcf",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-10-24T19:00:10.000+00:00",
+      "LastModificationTime": "2025-10-24T19:00:10.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "orderdetails_mobile",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "e3849eff-13d7-406a-a36e-198538bb7ae2",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17613307GvPNiAe1Oh",
+      "SubmissionTime": "2025-10-24T18:32:51.000+00:00",
+      "ReviewText": "Geeat tool",
+      "UserNickname": "Bruce",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "245360655",
+      "CID": "dc2c3a9a-86c8-5fba-8f50-e33f810ea698",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-10-21T16:15:07.000+00:00",
+      "LastModificationTime": "2025-10-21T16:15:07.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "4d032afb-5f4e-4f72-b79a-ca02a3f79fe1",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17610630Bbnnae3OFi",
+      "SubmissionTime": "2025-10-21T16:10:16.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "ReviewText": null,
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "243107217",
+      "CID": "2369c8b1-c964-538c-8e5b-99a4703dc5cb",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-07-06T17:15:14.000+00:00",
+      "LastModificationTime": "2025-07-06T17:15:14.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "orderhistory_mobile",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "24201cea-0d78-4c01-8aa9-f4a0867e25c1",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17518209JI3YAT6Gpz",
+      "SubmissionTime": "2025-07-06T16:55:48.000+00:00",
+      "ReviewText": "I’ve had them for about 7 months now. If you need something temporary this will do the job. The leaf blower blows very low. I had a corded leaf blower that was way better and cheaper. I have to constantly pull the string from the edger. Definitely recommend getting something else if you are looking.",
+      "Title": "Don’t recommend",
+      "UserNickname": "Jojo",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "241321226",
+      "CID": "c763efe0-aeaa-52d3-b7af-6a0cd787fb6a",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-04-15T20:00:12.000+00:00",
+      "LastModificationTime": "2025-04-15T20:00:12.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "85640a48-a012-4f9f-a467-cf96f50c0b7b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17447465LO6Q55MJIi",
+      "SubmissionTime": "2025-04-15T19:48:54.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "ReviewText": null,
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "241291933",
+      "CID": "53ab1f8c-4532-51ce-a7ac-b609a4698fe7",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-04-14T19:00:12.000+00:00",
+      "LastModificationTime": "2025-04-14T19:00:12.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Store_other_Touch2_0778",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "082f2620-928c-45a6-8f6e-307269583d4b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17__17446559eDW03Gov7L",
+      "SubmissionTime": "2025-04-14T18:39:36.000+00:00",
+      "ReviewText": "This was a very attractive offer for the 2 products bundled together. Even though it comes with 2 batteries, I hate that they don't last very long.",
+      "Title": "Amazing Deal!",
+      "UserNickname": "HappyCamper",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "240964978",
+      "CID": "031eaddb-14ac-5059-afb7-bd9522694e8d",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-03-30T19:30:08.000+00:00",
+      "LastModificationTime": "2025-03-30T19:30:08.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "dc412e56-9c76-4efb-a570-670aca121b50",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17433615jfT9d4Msj2",
+      "SubmissionTime": "2025-03-30T19:05:32.000+00:00",
+      "ReviewText": "I liked that the product came with two batteries and they charge relatively quickly. They last long enough for my yard size (standard suburb lot). The wheel on the trimmer for edging is a huge help.",
+      "Title": "Great value",
+      "UserNickname": "Reviewer28",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "235160792",
+      "CID": "8b0f307b-d051-548e-8f69-420bb7c875b5",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-07-26T21:45:16.000+00:00",
+      "LastModificationTime": "2025-08-21T16:06:28.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHello.  Please let us know if we can help  customersupport&#64;wild badger power.com\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-07-28T14:15:06.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "5675517387087c9da150a67b2bed27b26a77697066353640676d61696c2e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17220293GHvwFx2FA3",
+      "SubmissionTime": "2024-07-26T21:28:52.000+00:00",
+      "ReviewText": "Poor product doesn't work well",
+      "Title": "Do not waste your money on this product",
+      "UserNickname": "Old man vet",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "234639390",
+      "CID": "42cebc38-7f98-55f5-9fcc-0c77147d1287",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-07-02T23:45:14.000+00:00",
+      "LastModificationTime": "2024-07-02T23:45:14.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_App_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "4dfde929-b1e4-44f3-98eb-23156bd436d6",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17199628cAyujAiE6q",
+      "SubmissionTime": "2024-07-02T23:27:38.000+00:00",
+      "ReviewText": "Its awesome!!",
+      "Title": "Great product",
+      "UserNickname": "Eileen",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "234509153",
+      "CID": "c0377ea6-ca50-5fa7-9c11-8bf8918b02e3",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-06-26T10:30:06.000+00:00",
+      "LastModificationTime": "2024-06-26T13:57:03.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nThank you for being a Wild Badger Power customer!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-06-26T13:57:03.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "8addb05a-5a28-4e0c-9c5a-45f7bfbd1902",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17193964nYw9GrcYSY",
+      "SubmissionTime": "2024-06-26T10:07:46.000+00:00",
+      "ReviewText": "Work well, Love them both.",
+      "Title": "Well worth the $$.",
+      "UserNickname": "junglegrass",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "234138038",
+      "CID": "f51a33e1-777d-5716-9dc2-0045f973abc3",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-06-10T14:30:11.000+00:00",
+      "LastModificationTime": "2025-02-05T05:24:25.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nThank you for being a Wild Badger Power customer! We have new products launching all year round. Stay tuned for more products!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-06-10T17:56:46.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "cbc2d91c-8046-42e6-b4a9-478ee55ac11c",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zhi8781ifuy5nx2uet1mykgqxu",
+          "SubmissionTime": "2024-12-12T01:40:59.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17180294wDTUw1QI8y",
+      "SubmissionTime": "2024-06-10T14:23:41.000+00:00",
+      "Title": "Products were better than I expected",
+      "UserNickname": "Oscar",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "ReviewText": null,
+      "TagDimensionsOrder": []
+    },
+    {
+      "Id": "233661851",
+      "CID": "95ef99e9-1fa7-52e4-aa4d-5871a10e9f27",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-05-12T14:16:44.000+00:00",
+      "LastModificationTime": "2024-05-12T14:16:44.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "b7ff098b-4012-4cb7-8d76-83c2b0540e8d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17155225eawpIhn5IY",
+      "SubmissionTime": "2024-05-12T14:02:39.000+00:00",
+      "Title": "Works good.",
+      "UserNickname": "Jack",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "ReviewText": null,
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "233613483",
+      "CID": "668298b1-0a70-57d7-ac92-477a1b746354",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-05-09T17:31:29.000+00:00",
+      "LastModificationTime": "2025-08-21T16:06:18.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_App_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHello,    Wild Badger Customer support is here to help you.   Please feel free to contact us to resolve any of your issues.<br />704-684-5590 or email us your issue at customersupport&#64;wildbadgerpower.com\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-05-10T16:10:48.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "f3e64d74-6337-438a-9ec6-5cc9c6d2bab5",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17152740Q2geWpTt1R",
+      "SubmissionTime": "2024-05-09T17:00:25.000+00:00",
+      "ReviewText": "Cheaply made, hard to assemble",
+      "Title": "Do not buy this product \nCustomer service is rude",
+      "UserNickname": "Unhappy",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "233524856",
+      "CID": "1438b61f-76e9-5147-b0bb-690d96ffa86e",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-05-04T20:00:53.000+00:00",
+      "LastModificationTime": "2024-05-17T23:05:17.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "fef5185e-c09a-42b2-9e69-5d18a6965a61",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17148518rPsaWxtr1h",
+      "SubmissionTime": "2024-05-04T19:44:31.000+00:00",
+      "ReviewText": "I liked the price",
+      "Title": "It’s priced right, so cheap it’s disposable.",
+      "UserNickname": "Bill",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "233263151",
+      "CID": "0fbbcd8e-592a-5bba-aed1-fc70224efd6e",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-04-22T00:00:12.000+00:00",
+      "LastModificationTime": "2024-05-17T23:05:38.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "c7df6cb5-cb30-4b65-b126-2495345ba83a",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17137422eEISGICa58",
+      "SubmissionTime": "2024-04-21T23:30:43.000+00:00",
+      "ReviewText": "good for small job",
+      "Title": "work fine",
+      "UserNickname": "mack",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "231988805",
+      "CID": "c0412381-5276-5018-bf72-4f63aa8e5fd8",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-02-19T21:30:09.000+00:00",
+      "LastModificationTime": "2024-02-19T21:30:09.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "8ccf45d9-2e39-4307-af77-745d8f0052cd",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17083771UWabhwqJbM",
+      "SubmissionTime": "2024-02-19T21:12:11.000+00:00",
+      "ReviewText": "Very light",
+      "Title": "Yard trimmer/blower",
+      "UserNickname": "ReRo",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "231665608",
+      "CID": "d2f4b86b-c621-5a8c-8f04-1c2a12451ac0",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-02-05T16:00:13.000+00:00",
+      "LastModificationTime": "2026-05-04T23:29:56.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHi Bruce, thank you for the positive feedback! We appreciate your business. Have a great day!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-02-05T21:09:08.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "si10ui86fvfvb67xzqcjw0oam",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 7,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 7,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17071470dH4iyECnAr",
+      "SubmissionTime": "2024-02-05T15:31:22.000+00:00",
+      "ReviewText": "price and contents we're great. I saw reviews about power and battery life. I've had no issues so far. Power good and batter good as well. I've got a small yard so it's fine. I like the battery charger, with past equip I'd forget to take batteries off the charger. This one pops out when done so no worries there. All in all I like it.",
+      "Title": "I like it",
+      "UserNickname": "Bruce G",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "230467626",
+      "CID": "875d4640-e3fa-5f4a-99a0-32aad47d0032",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-12-24T01:30:06.000+00:00",
+      "LastModificationTime": "2024-10-28T03:41:42.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_LARP_Online_App_Touch1_20231215",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV",
+        "ReceivedFreeProduct"
+      ],
+      "AuthorId": "fd81d02a-2a1a-4a80-8dcd-359ac5ec9c6e",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_26__170337989UDDxP56L0",
+      "SubmissionTime": "2023-12-24T01:04:26.000+00:00",
+      "ReviewText": "Cheap made but does have 2 batteries and charger . I needed one that was reasonably priced",
+      "Title": "Light weight  easy to assemble",
+      "UserNickname": "Debi",
+      "ContextDataValues": {
+        "ReceivedFreeProduct": {
+          "Value": "Yes",
+          "Id": "ReceivedFreeProduct"
+        },
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "228625884",
+      "CID": "07f18d8e-db67-5edd-b023-3b2562504117",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-10-03T20:30:11.000+00:00",
+      "LastModificationTime": "2023-10-03T20:30:11.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_LARP_Online_Touch2_20231003",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "32atw9wat3pm5agd5weqrfqrd",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_27__16963641X5r1DeslYz",
+      "SubmissionTime": "2023-10-03T20:16:30.000+00:00",
+      "UserNickname": "REED",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "ReviewText": null,
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "227667640",
+      "CID": "3cd5bbb4-3e6b-567d-89d0-955c181ad986",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-08-19T18:00:09.000+00:00",
+      "LastModificationTime": "2024-09-28T01:43:04.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "WriteAReview_PDP_MOW",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nOur 20V system is for light use. If you are looking for a higher powered unit, we suggest our 40V or gas products.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-06-11T15:41:53.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "6dfdf57e-3219-4f11-aa7f-efa15b9ea115",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 2,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_169246693d6NMJY7DT",
+      "SubmissionTime": "2023-08-19T17:42:18.000+00:00",
+      "ReviewText": "Trimmer only lasted 10 minutes on a fully charged battery, and you got to keep the power trigger pressed in the entire time. Blower is quite weak, but gets leaves without problem.",
+      "Title": "Weak, short run time",
+      "UserNickname": "Bree",
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "ContextDataValuesOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "ContextDataValues": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "226888168",
+      "CID": "733fe300-e024-524d-a96d-f672d582612b",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-07-13T23:00:07.000+00:00",
+      "LastModificationTime": "2024-06-11T15:41:55.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHi, please call our support at 833-822-0145. We will warranty your tool. Thanks\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-06-11T15:41:55.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "0ed88c28-8576-4f7b-b958-6502317349b2",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 2,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__16892877P7e6cRAK2p",
+      "SubmissionTime": "2023-07-13T22:36:24.000+00:00",
+      "ReviewText": "not very powerful and had to re-order to missing battery and tool did not work",
+      "Title": "lousy customer service and not good quality",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "225087883",
+      "CID": "83552e33-8773-54ff-94f1-99606b7d5d43",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-04-27T02:15:07.000+00:00",
+      "LastModificationTime": "2023-04-27T02:15:07.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_LARP_Online_Touch1_20230426",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "paxx70cqjhrtiw9nocni9fww1",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_26__16825602GwJUZQRpAj",
+      "SubmissionTime": "2023-04-27T01:50:48.000+00:00",
+      "ReviewText": "Works well on smaller yards. Performed as expected and got the job done before depleting the battery. Uses the same battery as the mower, although the two batteries that came with these were only 2Ah (mower batteries were 4Ah each)",
+      "Title": "Bargain for lighter usage",
+      "UserNickname": "Darren",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "217553327",
+      "CID": "73bfe0e1-bc75-53a7-b942-0abcde9a91b5",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-06-10T15:45:19.000+00:00",
+      "LastModificationTime": "2022-06-10T15:45:19.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "6011711e-bbb8-41b2-b905-af544c00b111",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16548745GX2T7nFoti",
+      "SubmissionTime": "2022-06-10T15:22:15.000+00:00",
+      "ReviewText": "Works well on my ditch that was thick with weeds. Considering that it was thick it works great for the price.",
+      "Title": "Both works great and very light weight",
+      "UserNickname": "Bettyboop",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "217021070",
+      "CID": "c98f8380-7cdb-5266-ab97-77363e1366c0",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-05-18T19:45:09.000+00:00",
+      "LastModificationTime": "2022-05-18T19:45:09.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "c7577ccf-b471-4f30-b95d-5faca0809375",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16529018bcuNOFHMMP",
+      "SubmissionTime": "2022-05-18T19:23:53.000+00:00",
+      "ReviewText": "It did not come with the knob screw to hold the lower handle on the weed wacker",
+      "Title": "Pack all the parts",
+      "UserNickname": "Jaimie",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "217013356",
+      "CID": "66086b9c-5339-52e9-9c51-88adbfe7662b",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-05-18T14:00:09.000+00:00",
+      "LastModificationTime": "2022-05-18T14:00:09.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "orderdetails_mobile",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "90df681a-e7f2-4ea4-8c77-2d9620fd25cb",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16528806QRZeneSuYp",
+      "SubmissionTime": "2022-05-18T13:30:48.000+00:00",
+      "ReviewText": "Ok , so I have a hard time with lots of things but these are just great , now the blower is very strong and it clean up all kinds of things on my porch . The weed eater was also very easy to use ....",
+      "Title": "Great for a person who is disabled",
+      "UserNickname": "Patty",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "216941800",
+      "CID": "c19f6bf7-9c68-58f9-a635-2048d0e7f062",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-05-15T15:15:17.000+00:00",
+      "LastModificationTime": "2025-08-21T16:06:13.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nPlease reach out to our support at Customersupport&#64;wildbadgerpower.com for replacement parts.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-06-11T15:41:42.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "e5ikjt4185isr3v3zen4ywzkv",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16526259Cw2247nqaR",
+      "SubmissionTime": "2022-05-15T14:46:23.000+00:00",
+      "ReviewText": "Only one battery to play with. Replacement battery out of stuck and for 40% of the cost of the whole package (Blower, Trimmer and 2 batteries).\nGet a known brand, you have better chances on getting replacement parts",
+      "Title": "One of the batteries was death.",
+      "UserNickname": "FLGuy",
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "ContextDataValuesOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "ContextDataValues": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "216909049",
+      "CID": "1fb29d50-088b-598e-813d-f2cd8ca4f607",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-05-13T20:00:06.000+00:00",
+      "LastModificationTime": "2022-05-13T20:00:06.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "1ee26b5a-5b81-47ef-a424-c7ba13aacd60",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__165247072RiwgG40RZ",
+      "SubmissionTime": "2022-05-13T19:40:00.000+00:00",
+      "ReviewText": "It’s great for me light weight powerful enough to meet my needs …but would not be great for landscaping service",
+      "Title": "68 year old woman. .  It is great for my needs",
+      "UserNickname": "Ceffy",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "216744312",
+      "CID": "72a31cff-e3b9-50aa-a7e4-f73992d7a93d",
+      "SourceClient": "lowes",
+      "Badges": {
+        "Expert": {
+          "ContentType": "REVIEW",
+          "Id": "Expert",
+          "BadgeType": "Rank"
+        }
+      },
+      "BadgesOrder": [
+        "Expert"
+      ],
+      "LastModeratedTime": "2022-05-06T15:45:18.000+00:00",
+      "LastModificationTime": "2022-05-06T15:45:18.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "6685bcfc-2632-4548-865f-1c657090520f",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16518508my4czIRxjC",
+      "SubmissionTime": "2022-05-06T15:27:09.000+00:00",
+      "ReviewText": "Batteries don’t last very long and the blower isn’t as powerful as you would want.",
+      "Title": "Poor battery life",
+      "UserNickname": "Zach",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "216713684",
+      "CID": "978ca3ab-8acc-561b-99e2-7f6e1409406d",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-05-05T04:30:03.000+00:00",
+      "LastModificationTime": "2023-06-03T22:18:53.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "a2e52b1b-e400-4b77-bcd6-17abf0209730",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 5,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__16517234DLnW77hUJH",
+      "SubmissionTime": "2022-05-05T04:04:22.000+00:00",
+      "ReviewText": "It's very powerful and it works great for the small yard that",
+      "Title": "It's very powerful",
+      "UserNickname": "Leslie",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "216237657",
+      "CID": "e7d8726b-a578-5b53-b321-cbce3978e666",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-04-13T23:30:06.000+00:00",
+      "LastModificationTime": "2022-05-12T17:48:20.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "bf4c1d5f-bd86-41fb-a79d-24bbdd0d2a70",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z2h8c6enet300o1um35x0z7mwo",
+          "SubmissionTime": "2022-07-01T18:37:48.000+00:00"
+        },
+        {
+          "AuthorId": "z74thwp29apfs9x3k2ta8tacsf",
+          "SubmissionTime": "2022-06-03T19:03:44.000+00:00"
+        },
+        {
+          "AuthorId": "6d7a2b17-4ebe-4efb-9097-eeea1c2208e7",
+          "SubmissionTime": "2022-04-24T00:07:06.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 3,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.5,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16498925nLovvfh6x4",
+      "SubmissionTime": "2022-04-13T23:28:29.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "ReviewText": null,
+      "TagDimensionsOrder": []
+    },
+    {
+      "Id": "216054356",
+      "CID": "9b30d7b7-220e-5e68-a6fb-0617768ce28b",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-04-06T10:45:05.000+00:00",
+      "LastModificationTime": "2025-08-21T16:06:24.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "orderdetails_desktop",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nOur 20V is recommended for small jobs. We have 40V and gas options for thicker grass and extended cutting time.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-06-11T15:41:40.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "8a5cc77f-18ec-4e73-a8ef-061d973426db",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "Guest",
+          "SubmissionTime": "2022-05-08T03:21:43.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.625,
+      "TotalFeedbackCount": 8,
+      "TotalNegativeFeedbackCount": 3,
+      "TotalPositiveFeedbackCount": 5,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_164924045LeBShk1DI",
+      "SubmissionTime": "2022-04-06T10:21:08.000+00:00",
+      "ReviewText": "You get what you pay for . It would be great for a 12 year old to use",
+      "UserNickname": "Bill",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": []
+    },
+    {
+      "Id": "215789027",
+      "CID": "bc8527a2-5443-54aa-801a-c71bff4206a8",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-03-25T04:30:04.000+00:00",
+      "LastModificationTime": "2023-09-23T15:39:31.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "e80c6bb6bb7e9f6069ebb92c7913217b746f6e64616c6179617340686f746d61696c2e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zal3vfbwfbperqp8zycffo5leu",
+          "SubmissionTime": "2024-04-23T19:45:33.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 8,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 8,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16481811myhbbeRa0V",
+      "SubmissionTime": "2022-03-25T04:06:11.000+00:00",
+      "ReviewText": "I have not used the trimmer yet but the blower has considerably less power than my Kobalt battery powered blower.",
+      "Title": "Low power",
+      "UserNickname": "Bristol",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": []
+    },
+    {
+      "Id": "214796666",
+      "CID": "6b74c28d-2440-5733-9282-2b2c265a30f3",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-02-09T22:00:09.000+00:00",
+      "LastModificationTime": "2022-10-18T01:56:31.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "4be4f0875ba21c0a6d14b64a86c1a01a676f7461746f676f40676d61696c2e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zabzzhaaot25d7cdxebnflccoy",
+          "SubmissionTime": "2022-06-03T19:03:31.000+00:00"
+        },
+        {
+          "AuthorId": "zae948v80e5j8yzu2bm9y8ae58",
+          "SubmissionTime": "2022-02-10T19:41:57.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 2,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.2857140004634857,
+      "TotalFeedbackCount": 7,
+      "TotalNegativeFeedbackCount": 5,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16444436M4gWpO2K4f",
+      "SubmissionTime": "2022-02-09T21:53:40.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "ReviewText": null,
+      "TagDimensionsOrder": []
+    },
+    {
+      "Id": "214795506",
+      "CID": "36aa258f-f1c9-55e2-9ed9-fb1f4caf4156",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-02-10T04:45:06.000+00:00",
+      "LastModificationTime": "2023-08-18T01:10:07.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "10e2c0d0-6678-42f7-b18c-b910663f9eee",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/0de1f322-28c4-5ead-b241-f2e4deebf9e4"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/0424e3fa-8cc6-530c-b4d8-56e0c0e1d00f"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/92073efb-3e2c-56c7-b87f-98e2e9542836"
+            }
+          },
+          "Id": "5376589",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 10,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 10,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16444410sCZidoK6jI",
+      "SubmissionTime": "2022-02-09T21:11:33.000+00:00",
+      "ReviewText": "Works well, was not aware there is only one cutting string, so dous not work well in heavy thick trimming. Blower works well but the plastic blower tip doues not secure we to base/motor. All in all, a ok light weight trimmer/blower for around the house.",
+      "Title": "Only one cutting string",
+      "UserNickname": "Paul",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "210781011",
+      "CID": "f0f4e748-ef19-595b-99d0-366ef4b772f8",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-09-19T16:00:08.000+00:00",
+      "LastModificationTime": "2023-07-18T18:48:12.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "21caa7c1-9702-4bd7-955a-598f2634ed7c",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zua3edhvby8w955resi705f84f",
+          "SubmissionTime": "2023-06-16T15:36:39.000+00:00"
+        },
+        {
+          "AuthorId": "Guest",
+          "SubmissionTime": "2022-04-15T15:13:54.000+00:00"
+        },
+        {
+          "AuthorId": "b02ab509-5a15-4cef-a67b-4597cf656e1a",
+          "SubmissionTime": "2022-03-24T02:41:59.000+00:00"
+        },
+        {
+          "AuthorId": "zm8o02kw5ux3xm4pj41hf57ucs",
+          "SubmissionTime": "2022-02-23T13:30:12.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 4,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "IsRecommended": true,
+      "Helpfulness": 0.30000001192092896,
+      "TotalFeedbackCount": 10,
+      "TotalNegativeFeedbackCount": 7,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16320666cEMDqeB7vq",
+      "SubmissionTime": "2021-09-19T15:50:38.000+00:00",
+      "UserNickname": "John",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "ReviewText": null,
+      "TagDimensionsOrder": []
+    },
+    {
+      "Id": "209390646",
+      "CID": "bbb3ecb6-d906-5366-ad09-6cbe8c77d086",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-07-18T19:45:06.000+00:00",
+      "LastModificationTime": "2023-06-16T16:13:55.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_online_DT_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "f4efec0b6fd2b1a036952bdde8d38e55645f6d616364756666407961686f6f2e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 6,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__162663590k4tohxqfj",
+      "SubmissionTime": "2021-07-18T19:19:14.000+00:00",
+      "ReviewText": "This is nice and works great. The only issue is that you get no directions at all on how to assemble it.",
+      "Title": "Light weight & easy to use.",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": []
+    },
+    {
+      "Id": "209364974",
+      "CID": "ffc3e28f-036f-519b-a2fe-be0731d4b2df",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-07-17T11:30:14.000+00:00",
+      "LastModificationTime": "2023-07-18T18:48:31.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_online_DT_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "ffbcb9a8-fabb-423b-9b29-d18bc8f546aa",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zl8miwuhf6v35u9nilv1d3ai8e",
+          "SubmissionTime": "2022-05-30T15:48:51.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "IsRecommended": true,
+      "Helpfulness": 0.4000000059604645,
+      "TotalFeedbackCount": 10,
+      "TotalNegativeFeedbackCount": 6,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__162652057d0FjAeor3",
+      "SubmissionTime": "2021-07-17T11:16:00.000+00:00",
+      "UserNickname": "DAN cHOLEWINS",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "ReviewText": null,
+      "TagDimensionsOrder": []
+    },
+    {
+      "Id": "209353426",
+      "CID": "58590b3b-c70f-520b-80f1-3c861aae3dfb",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-07-16T19:00:08.000+00:00",
+      "LastModificationTime": "2024-05-02T21:55:51.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_online_MW_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "b5278d79-d2f4-493c-b12d-bc9492ab403f",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zhx0myl9ia7xa577043qry08lg",
+          "SubmissionTime": "2022-09-12T20:11:41.000+00:00"
+        },
+        {
+          "AuthorId": "Guest",
+          "SubmissionTime": "2022-03-13T17:44:02.000+00:00"
+        },
+        {
+          "AuthorId": "e89e5277-ef0b-4664-be7e-a4658eabd1b0",
+          "SubmissionTime": "2021-07-26T20:59:25.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 3,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.642857015132904,
+      "TotalFeedbackCount": 14,
+      "TotalNegativeFeedbackCount": 5,
+      "TotalPositiveFeedbackCount": 9,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16264604iKtZvMu6aA",
+      "SubmissionTime": "2021-07-16T18:34:16.000+00:00",
+      "ReviewText": "I didn't realize that you have to hold the trigger back the entire time you're using it so I can only use it about 5 minutes at a time before my hand is tired I'm going to have to get a velcro strap or something to hold that in the on position or I won't be able to use it long",
+      "Title": "No continuous on function",
+      "UserNickname": "gigi03",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": []
+    },
+    {
+      "Id": "208551352",
+      "CID": "7a30db47-65c3-5d7b-a32b-54fbdcf64903",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-06-14T21:45:06.000+00:00",
+      "LastModificationTime": "2022-06-08T15:12:13.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "PPE_MPS_online_DT_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "8b59a088-6e6c-4e14-8f34-670180ed73c5",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zouilfwfch6jk5vypmytyxsk9w",
+          "SubmissionTime": "2022-05-31T12:49:54.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.2857140004634857,
+      "TotalFeedbackCount": 7,
+      "TotalNegativeFeedbackCount": 5,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16237069K5d2G3ZR9J",
+      "SubmissionTime": "2021-06-14T21:42:44.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "IsRecommended": null,
+      "CommentIds": [],
+      "ReviewText": null,
+      "TagDimensionsOrder": []
+    },
+    {
+      "Id": "207649287",
+      "CID": "ae493125-f27a-510b-b2f9-a90188e304de",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-05-14T23:00:04.000+00:00",
+      "LastModificationTime": "2024-05-02T21:55:40.000+00:00",
+      "ProductId": "5001743443",
+      "OriginalProductName": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+      "CampaignId": "orderhistory_desktop",
+      "AuthorId": "dr2hxru049va1ybxn6wajj2ye",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "2fdc2a6c-0cc9-411c-a3e2-000a3ae913d3",
+          "SubmissionTime": "2021-08-29T14:53:21.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 18,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 18,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16210315GgPbbYwcU4",
+      "SubmissionTime": "2021-05-14T22:32:20.000+00:00",
+      "ReviewText": "nice units ,powerful blower and trimmer the best thing is 2 batterys there was not another unit sold with 2 batterys.",
+      "Title": "price worthy!",
+      "UserNickname": "bobo",
+      "RatingRange": 5,
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "ContextDataValuesOrder": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {},
+      "Videos": [],
+      "SecondaryRatings": {},
+      "ContextDataValues": {},
+      "CommentIds": [],
+      "TagDimensionsOrder": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "5001743443": {
+        "FamilyIds": [
+          "3674324"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "3674324",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "32516",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "3674324",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "239",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:3674324",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "3674324",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "510533",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00854641007603",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "854641007603"
+        ],
+        "Name": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)",
+        "ModelNumbers": [
+          "WB20VTAB"
+        ],
+        "Description": "POWERFUL TRIMMER: Light weight, powerful trimmer CONVERTS TO EDGER: With the push of a button, the trimmer easily converts to in-line edger in seconds ADJUST HIEGHT AND POSTURE: Telescopic trimmer shaft adjusts to users' height and posture LARGE AIR VOLUME: Axial blower has large capacity air volume fan technology (270 CFM) WHAT'S INCLUDED: Trimmer_SLASH_edger, axial blower, (2) 2.0Ah 20 Volt batteries, and charger 20 VOLT SYSTEM: Wild Badger Power 20 Volt Battery System is only compatible with our 20 Volt tool product line",
+        "ManufacturerPartNumbers": [
+          "3674324-108792-WB20VTAB"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/5243d360-c5a5-42eb-8bb6-5ab83ce7910d/70603270.jpeg",
+        "Id": "5001743443",
+        "CategoryId": "100741",
+        "BrandExternalId": "Wild Badger Power",
+        "Brand": {
+          "Id": "Wild Badger Power",
+          "Name": "Wild Badger Power"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Badger-Badger-20-Volt-Lithium-Ion-Sting-Trimmer-Edger-and-Sweeper-Blower-with-2-0-Ah-Battery-and-Charger/5001743443",
+        "Disabled": false,
+        "QuestionIds": [],
+        "EANs": [],
+        "ISBNs": [],
+        "ReviewIds": [],
+        "StoryIds": [],
+        "ReviewStatistics": {
+          "FeaturedReviewCount": 0,
+          "RecommendedCount": 21,
+          "HelpfulVoteCount": 97,
+          "NotHelpfulVoteCount": 32,
+          "AverageOverallRating": 3.9047619047619047,
+          "TotalPhotoCount": 1,
+          "FirstSubmissionTime": "2021-05-14T22:32:20.000+00:00",
+          "LastSubmissionTime": "2026-06-23T02:49:34.000+00:00",
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 20
+            },
+            {
+              "RatingValue": 4,
+              "Count": 9
+            },
+            {
+              "RatingValue": 3,
+              "Count": 6
+            },
+            {
+              "RatingValue": 1,
+              "Count": 4
+            },
+            {
+              "RatingValue": 2,
+              "Count": 3
+            }
+          ],
+          "TotalVideoCount": 0,
+          "RatingsOnlyReviewCount": 5,
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaserCDV"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaserCDV": {
+              "Id": "VerifiedPurchaserCDV",
+              "Values": [
+                {
+                  "Count": 39,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "TotalReviewCount": 42,
+          "NotRecommendedCount": 9,
+          "TotalMediaCount": 1,
+          "TagDistribution": {},
+          "TagDistributionOrder": [],
+          "OverallRatingRange": 5,
+          "SecondaryRatingsAverages": {},
+          "SecondaryRatingsAveragesOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 42
+      }
+    },
+    "ProductsOrder": [
+      "5001743443"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}
