@@ -25,6 +25,8 @@ const compact = (value, limit = 200) =>
 // Extract product rating block from the DOM (Walmart product page).
 async function extractRating(page) {
   return page.evaluate(() => {
+    const compact = (value, limit = 200) =>
+      String(value || "").replace(/\s+/g, " ").trim().slice(0, limit);
     const norm = (value) => String(value || "").replace(/\s+/g, " ").trim();
     const bodyText = norm(document.body ? document.body.innerText : "");
     const ratingText = norm(document.title || "");

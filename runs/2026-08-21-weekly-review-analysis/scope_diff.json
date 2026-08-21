@@ -1,0 +1,892 @@
+{
+  "summary": {
+    "CONTINUING": 35,
+    "NEW_TO_SCOPE": 0,
+    "REMOVED_FROM_SCOPE": 0,
+    "LINK_CHANGED": 0,
+    "RECORD_IDENTITY_CHANGED": 0
+  },
+  "categories": {
+    "CONTINUING": [
+      {
+        "record_id": "LOWES_ORIONX7",
+        "previous": {
+          "record_id": "LOWES_ORIONX7",
+          "platform_code": "LOWES",
+          "internal_sku": "ORIONX7",
+          "model": "ORIONX7",
+          "listing_url": "https://lowes.com/ORIONX7",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "LOWES_ORIONX7",
+          "platform_code": "LOWES",
+          "internal_sku": "ORIONX7",
+          "model": "ORIONX7",
+          "listing_url": "https://lowes.com/ORIONX7",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "LOWES_RMA1202L20VU",
+        "previous": {
+          "record_id": "LOWES_RMA1202L20VU",
+          "platform_code": "LOWES",
+          "internal_sku": "RMA1202L20VU",
+          "model": "RMA1202L20VU",
+          "listing_url": "https://lowes.com/RMA1202L20VU",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "LOWES_RMA1202L20VU",
+          "platform_code": "LOWES",
+          "internal_sku": "RMA1202L20VU",
+          "model": "RMA1202L20VU",
+          "listing_url": "https://lowes.com/RMA1202L20VU",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "LOWES_SKRMV3",
+        "previous": {
+          "record_id": "LOWES_SKRMV3",
+          "platform_code": "LOWES",
+          "internal_sku": "SKRMV3",
+          "model": "SKRMV3",
+          "listing_url": "https://lowes.com/SKRMV3",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "LOWES_SKRMV3",
+          "platform_code": "LOWES",
+          "internal_sku": "SKRMV3",
+          "model": "SKRMV3",
+          "listing_url": "https://lowes.com/SKRMV3",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "LOWES_SKRMX3PLUS",
+        "previous": {
+          "record_id": "LOWES_SKRMX3PLUS",
+          "platform_code": "LOWES",
+          "internal_sku": "SKRMX3PLUS",
+          "model": "SKRMX3PLUS",
+          "listing_url": "https://lowes.com/SKRMX3PLUS",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "LOWES_SKRMX3PLUS",
+          "platform_code": "LOWES",
+          "internal_sku": "SKRMX3PLUS",
+          "model": "SKRMX3PLUS",
+          "listing_url": "https://lowes.com/SKRMX3PLUS",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "LOWES_WB20V16LM",
+        "previous": {
+          "record_id": "LOWES_WB20V16LM",
+          "platform_code": "LOWES",
+          "internal_sku": "WB20V16LM",
+          "model": "WB20V16LM",
+          "listing_url": "https://lowes.com/WB20V16LM",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "LOWES_WB20V16LM",
+          "platform_code": "LOWES",
+          "internal_sku": "WB20V16LM",
+          "model": "WB20V16LM",
+          "listing_url": "https://lowes.com/WB20V16LM",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "LOWES_WB20VPS",
+        "previous": {
+          "record_id": "LOWES_WB20VPS",
+          "platform_code": "LOWES",
+          "internal_sku": "WB20VPS",
+          "model": "WB20VPS",
+          "listing_url": "https://lowes.com/WB20VPS",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "LOWES_WB20VPS",
+          "platform_code": "LOWES",
+          "internal_sku": "WB20VPS",
+          "model": "WB20VPS",
+          "listing_url": "https://lowes.com/WB20VPS",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "LOWES_WB20VTAB",
+        "previous": {
+          "record_id": "LOWES_WB20VTAB",
+          "platform_code": "LOWES",
+          "internal_sku": "WB20VTAB",
+          "model": "WB20VTAB",
+          "listing_url": "https://lowes.com/WB20VTAB",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "LOWES_WB20VTAB",
+          "platform_code": "LOWES",
+          "internal_sku": "WB20VTAB",
+          "model": "WB20VTAB",
+          "listing_url": "https://lowes.com/WB20VTAB",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "LOWES_WB20VTRSBL",
+        "previous": {
+          "record_id": "LOWES_WB20VTRSBL",
+          "platform_code": "LOWES",
+          "internal_sku": "WB20VTRSBL",
+          "model": "WB20VTRSBL",
+          "listing_url": "https://lowes.com/WB20VTRSBL",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "LOWES_WB20VTRSBL",
+          "platform_code": "LOWES",
+          "internal_sku": "WB20VTRSBL",
+          "model": "WB20VTRSBL",
+          "listing_url": "https://lowes.com/WB20VTRSBL",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "LOWES_WB40V14PLM",
+        "previous": {
+          "record_id": "LOWES_WB40V14PLM",
+          "platform_code": "LOWES",
+          "internal_sku": "WB40V14PLM",
+          "model": "WB40V14PLM",
+          "listing_url": "https://lowes.com/WB40V14PLM",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "LOWES_WB40V14PLM",
+          "platform_code": "LOWES",
+          "internal_sku": "WB40V14PLM",
+          "model": "WB40V14PLM",
+          "listing_url": "https://lowes.com/WB40V14PLM",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "LOWES_WB40V18PLM",
+        "previous": {
+          "record_id": "LOWES_WB40V18PLM",
+          "platform_code": "LOWES",
+          "internal_sku": "WB40V18PLM",
+          "model": "WB40V18PLM",
+          "listing_url": "https://lowes.com/WB40V18PLM",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "LOWES_WB40V18PLM",
+          "platform_code": "LOWES",
+          "internal_sku": "WB40V18PLM",
+          "model": "WB40V18PLM",
+          "listing_url": "https://lowes.com/WB40V18PLM",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "THD_SKRMS4",
+        "previous": {
+          "record_id": "THD_SKRMS4",
+          "platform_code": "THD",
+          "internal_sku": "SKRMS4",
+          "model": "SKRMS4",
+          "listing_url": "https://thd.com/SKRMS4",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "THD_SKRMS4",
+          "platform_code": "THD",
+          "internal_sku": "SKRMS4",
+          "model": "SKRMS4",
+          "listing_url": "https://thd.com/SKRMS4",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "THD_WB26GTC",
+        "previous": {
+          "record_id": "THD_WB26GTC",
+          "platform_code": "THD",
+          "internal_sku": "WB26GTC",
+          "model": "WB26GTC",
+          "listing_url": "https://thd.com/WB26GTC",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "THD_WB26GTC",
+          "platform_code": "THD",
+          "internal_sku": "WB26GTC",
+          "model": "WB26GTC",
+          "listing_url": "https://thd.com/WB26GTC",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "THD_WB52CCBPB",
+        "previous": {
+          "record_id": "THD_WB52CCBPB",
+          "platform_code": "THD",
+          "internal_sku": "WB52CCBPB",
+          "model": "WB52CCBPB",
+          "listing_url": "https://thd.com/WB52CCBPB",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "THD_WB52CCBPB",
+          "platform_code": "THD",
+          "internal_sku": "WB52CCBPB",
+          "model": "WB52CCBPB",
+          "listing_url": "https://thd.com/WB52CCBPB",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "THD_WB53CULT",
+        "previous": {
+          "record_id": "THD_WB53CULT",
+          "platform_code": "THD",
+          "internal_sku": "WB53CULT",
+          "model": "WB53CULT",
+          "listing_url": "https://thd.com/WB53CULT",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "THD_WB53CULT",
+          "platform_code": "THD",
+          "internal_sku": "WB53CULT",
+          "model": "WB53CULT",
+          "listing_url": "https://thd.com/WB53CULT",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "THD_WBBPBL43",
+        "previous": {
+          "record_id": "THD_WBBPBL43",
+          "platform_code": "THD",
+          "internal_sku": "WBBPBL43",
+          "model": "WBBPBL43",
+          "listing_url": "https://thd.com/WBBPBL43",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "THD_WBBPBL43",
+          "platform_code": "THD",
+          "internal_sku": "WBBPBL43",
+          "model": "WBBPBL43",
+          "listing_url": "https://thd.com/WBBPBL43",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "THD_WBP31BCF",
+        "previous": {
+          "record_id": "THD_WBP31BCF",
+          "platform_code": "THD",
+          "internal_sku": "WBP31BCF",
+          "model": "WBP31BCF",
+          "listing_url": "https://thd.com/WBP31BCF",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "THD_WBP31BCF",
+          "platform_code": "THD",
+          "internal_sku": "WBP31BCF",
+          "model": "WBP31BCF",
+          "listing_url": "https://thd.com/WBP31BCF",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "THD_WBP31TS",
+        "previous": {
+          "record_id": "THD_WBP31TS",
+          "platform_code": "THD",
+          "internal_sku": "WBP31TS",
+          "model": "WBP31TS",
+          "listing_url": "https://thd.com/WBP31TS",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "THD_WBP31TS",
+          "platform_code": "THD",
+          "internal_sku": "WBP31TS",
+          "model": "WBP31TS",
+          "listing_url": "https://thd.com/WBP31TS",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "THD_WBP52BCI",
+        "previous": {
+          "record_id": "THD_WBP52BCI",
+          "platform_code": "THD",
+          "internal_sku": "WBP52BCI",
+          "model": "WBP52BCI",
+          "listing_url": "https://thd.com/WBP52BCI",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "THD_WBP52BCI",
+          "platform_code": "THD",
+          "internal_sku": "WBP52BCI",
+          "model": "WBP52BCI",
+          "listing_url": "https://thd.com/WBP52BCI",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "THD_WBP52TS",
+        "previous": {
+          "record_id": "THD_WBP52TS",
+          "platform_code": "THD",
+          "internal_sku": "WBP52TS",
+          "model": "WBP52TS",
+          "listing_url": "https://thd.com/WBP52TS",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "THD_WBP52TS",
+          "platform_code": "THD",
+          "internal_sku": "WBP52TS",
+          "model": "WBP52TS",
+          "listing_url": "https://thd.com/WBP52TS",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "THD_WBPMT26TS",
+        "previous": {
+          "record_id": "THD_WBPMT26TS",
+          "platform_code": "THD",
+          "internal_sku": "WBPMT26TS",
+          "model": "WBPMT26TS",
+          "listing_url": "https://thd.com/WBPMT26TS",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "THD_WBPMT26TS",
+          "platform_code": "THD",
+          "internal_sku": "WBPMT26TS",
+          "model": "WBPMT26TS",
+          "listing_url": "https://thd.com/WBPMT26TS",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "WALMART_ORIONX7",
+        "previous": {
+          "record_id": "WALMART_ORIONX7",
+          "platform_code": "WALMART",
+          "internal_sku": "ORIONX7",
+          "model": "ORIONX7",
+          "listing_url": "https://walmart.com/ORIONX7",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "WALMART_ORIONX7",
+          "platform_code": "WALMART",
+          "internal_sku": "ORIONX7",
+          "model": "ORIONX7",
+          "listing_url": "https://walmart.com/ORIONX7",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "WALMART_SKRMS4",
+        "previous": {
+          "record_id": "WALMART_SKRMS4",
+          "platform_code": "WALMART",
+          "internal_sku": "SKRMS4",
+          "model": "SKRMS4",
+          "listing_url": "https://walmart.com/SKRMS4",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "WALMART_SKRMS4",
+          "platform_code": "WALMART",
+          "internal_sku": "SKRMS4",
+          "model": "SKRMS4",
+          "listing_url": "https://walmart.com/SKRMS4",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "WALMART_SKRMV3",
+        "previous": {
+          "record_id": "WALMART_SKRMV3",
+          "platform_code": "WALMART",
+          "internal_sku": "SKRMV3",
+          "model": "SKRMV3",
+          "listing_url": "https://walmart.com/SKRMV3",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "WALMART_SKRMV3",
+          "platform_code": "WALMART",
+          "internal_sku": "SKRMV3",
+          "model": "SKRMV3",
+          "listing_url": "https://walmart.com/SKRMV3",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "WALMART_SKRMX3PLUS",
+        "previous": {
+          "record_id": "WALMART_SKRMX3PLUS",
+          "platform_code": "WALMART",
+          "internal_sku": "SKRMX3PLUS",
+          "model": "SKRMX3PLUS",
+          "listing_url": "https://walmart.com/SKRMX3PLUS",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "WALMART_SKRMX3PLUS",
+          "platform_code": "WALMART",
+          "internal_sku": "SKRMX3PLUS",
+          "model": "SKRMX3PLUS",
+          "listing_url": "https://walmart.com/SKRMX3PLUS",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "WALMART_SKRMX5",
+        "previous": {
+          "record_id": "WALMART_SKRMX5",
+          "platform_code": "WALMART",
+          "internal_sku": "SKRMX5",
+          "model": "SKRMX5",
+          "listing_url": "https://walmart.com/SKRMX5",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "WALMART_SKRMX5",
+          "platform_code": "WALMART",
+          "internal_sku": "SKRMX5",
+          "model": "SKRMX5",
+          "listing_url": "https://walmart.com/SKRMX5",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "WALMART_WB20V16LM",
+        "previous": {
+          "record_id": "WALMART_WB20V16LM",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20V16LM",
+          "model": "WB20V16LM",
+          "listing_url": "https://walmart.com/WB20V16LM",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "WALMART_WB20V16LM",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20V16LM",
+          "model": "WB20V16LM",
+          "listing_url": "https://walmart.com/WB20V16LM",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "WALMART_WB20VCOMBODP",
+        "previous": {
+          "record_id": "WALMART_WB20VCOMBODP",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20VCOMBODP",
+          "model": "WB20VCOMBODP",
+          "listing_url": "https://walmart.com/WB20VCOMBODP",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "WALMART_WB20VCOMBODP",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20VCOMBODP",
+          "model": "WB20VCOMBODP",
+          "listing_url": "https://walmart.com/WB20VCOMBODP",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "WALMART_WB20VTAB",
+        "previous": {
+          "record_id": "WALMART_WB20VTAB",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20VTAB",
+          "model": "WB20VTAB",
+          "listing_url": "https://walmart.com/WB20VTAB",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "WALMART_WB20VTAB",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20VTAB",
+          "model": "WB20VTAB",
+          "listing_url": "https://walmart.com/WB20VTAB",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "WALMART_WB26MTSE",
+        "previous": {
+          "record_id": "WALMART_WB26MTSE",
+          "platform_code": "WALMART",
+          "internal_sku": "WB26MTSE",
+          "model": "WB26MTSE",
+          "listing_url": "https://walmart.com/WB26MTSE",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "WALMART_WB26MTSE",
+          "platform_code": "WALMART",
+          "internal_sku": "WB26MTSE",
+          "model": "WB26MTSE",
+          "listing_url": "https://walmart.com/WB26MTSE",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "WALMART_WB40V14PLM",
+        "previous": {
+          "record_id": "WALMART_WB40V14PLM",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40V14PLM",
+          "model": "WB40V14PLM",
+          "listing_url": "https://walmart.com/WB40V14PLM",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "WALMART_WB40V14PLM",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40V14PLM",
+          "model": "WB40V14PLM",
+          "listing_url": "https://walmart.com/WB40V14PLM",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "WALMART_WB40V18PLM",
+        "previous": {
+          "record_id": "WALMART_WB40V18PLM",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40V18PLM",
+          "model": "WB40V18PLM",
+          "listing_url": "https://walmart.com/WB40V18PLM",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "WALMART_WB40V18PLM",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40V18PLM",
+          "model": "WB40V18PLM",
+          "listing_url": "https://walmart.com/WB40V18PLM",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "WALMART_WB40VCOMBO",
+        "previous": {
+          "record_id": "WALMART_WB40VCOMBO",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40VCOMBO",
+          "model": "WB40VCOMBO",
+          "listing_url": "https://walmart.com/WB40VCOMBO",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "WALMART_WB40VCOMBO",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40VCOMBO",
+          "model": "WB40VCOMBO",
+          "listing_url": "https://walmart.com/WB40VCOMBO",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "WALMART_WB40VTBCC",
+        "previous": {
+          "record_id": "WALMART_WB40VTBCC",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40VTBCC",
+          "model": "WB40VTBCC",
+          "listing_url": "https://walmart.com/WB40VTBCC",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "WALMART_WB40VTBCC",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40VTBCC",
+          "model": "WB40VTBCC",
+          "listing_url": "https://walmart.com/WB40VTBCC",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "WALMART_WB53CULT",
+        "previous": {
+          "record_id": "WALMART_WB53CULT",
+          "platform_code": "WALMART",
+          "internal_sku": "WB53CULT",
+          "model": "WB53CULT",
+          "listing_url": "https://walmart.com/WB53CULT",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "WALMART_WB53CULT",
+          "platform_code": "WALMART",
+          "internal_sku": "WB53CULT",
+          "model": "WB53CULT",
+          "listing_url": "https://walmart.com/WB53CULT",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "WALMART_WBPMT26P",
+        "previous": {
+          "record_id": "WALMART_WBPMT26P",
+          "platform_code": "WALMART",
+          "internal_sku": "WBPMT26P",
+          "model": "WBPMT26P",
+          "listing_url": "https://walmart.com/WBPMT26P",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        },
+        "current": {
+          "record_id": "WALMART_WBPMT26P",
+          "platform_code": "WALMART",
+          "internal_sku": "WBPMT26P",
+          "model": "WBPMT26P",
+          "listing_url": "https://walmart.com/WBPMT26P",
+          "platform_item_id": "",
+          "brand": "",
+          "product_line": "",
+          "product_name": ""
+        }
+      }
+    ],
+    "NEW_TO_SCOPE": [],
+    "REMOVED_FROM_SCOPE": [],
+    "LINK_CHANGED": [],
+    "RECORD_IDENTITY_CHANGED": []
+  }
+}

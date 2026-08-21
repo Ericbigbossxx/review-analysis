@@ -1,0 +1,875 @@
+{
+  "Limit": 100,
+  "Offset": 400,
+  "TotalResults": 407,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "231273060",
+      "CID": "74c6b0a1-e27d-545d-9b89-17b60d2e9df6",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-04-23T06:15:08.000+00:00",
+      "LastModificationTime": "2020-04-23T06:15:08.000+00:00",
+      "ProductId": "311424784",
+      "OriginalProductName": "52 cc Gas 2-Stroke 2-in-1 Brush Cutter and String Hand Held Trimmer",
+      "CampaignId": "20200421_PPC_PR1_ONLINE_CNTRL_3601275_DA_MW",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "041A9A802475B00C0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "tu8m66mc2w81sbov42w6p9014",
+      "SubmissionTime": "2020-04-23T06:01:03.000+00:00",
+      "ReviewText": "Rating provided by a verified purchaser",
+      "Title": "Rating provided by a verified purchaser...",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "Photos": [],
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "ClientResponses": [],
+      "RatingRange": 5,
+      "CommentIds": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Videos": []
+    },
+    {
+      "Id": "230499192",
+      "CID": "ae9016ec-428c-5489-9f06-e168599d8659",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-04-01T14:45:04.000+00:00",
+      "LastModificationTime": "2020-04-01T14:45:04.000+00:00",
+      "ProductId": "311424784",
+      "OriginalProductName": "52 cc Gas 2-Stroke 2-in-1 Brush Cutter and String Hand Held Trimmer",
+      "CampaignId": "20200331_PPC_PR1_ONLINE_CNTRL_3589833_RMForm_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "041A85B8C92D54330S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "dgxgxxrnnple0h48vvl009bos",
+      "SubmissionTime": "2020-03-31T17:33:08.000+00:00",
+      "ReviewText": "The starter cord would not retract the second time I used it. Home Depot did give me a full refund on the item.",
+      "Title": "The starter cord would not retract the second time I...",
+      "UserNickname": "Jeremy",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "Photos": [],
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "ClientResponses": [],
+      "RatingRange": 5,
+      "CommentIds": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Videos": []
+    },
+    {
+      "Id": "230482814",
+      "CID": "e8c035cb-8ae4-546c-b723-8cc5d68d4f4f",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-03-31T16:15:47.000+00:00",
+      "LastModificationTime": "2020-03-31T16:15:47.000+00:00",
+      "ProductId": "311424784",
+      "OriginalProductName": "52 cc Gas 2-Stroke 2-in-1 Brush Cutter and String Hand Held Trimmer",
+      "CampaignId": "20200331_PPC_PR1_ONLINE_CNTRL_3589833_RMForm_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0417953326825F410S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "6cusl4qy53g48nmry5u4iu3q9",
+      "SubmissionTime": "2020-03-31T15:46:23.000+00:00",
+      "ReviewText": "So far outside of being a little heavy but to be expected with motor size has been a great addition.",
+      "Title": "So far outside of being a little heavy but to...",
+      "UserNickname": "Picky",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "Photos": [],
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "ClientResponses": [],
+      "RatingRange": 5,
+      "CommentIds": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Videos": []
+    },
+    {
+      "Id": "229710349",
+      "CID": "7b1678d3-2888-5a36-9704-ff54d8849c35",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2020-02-28T03:15:05.000+00:00",
+      "LastModificationTime": "2023-06-02T00:31:15.000+00:00",
+      "ProductId": "311424784",
+      "OriginalProductName": "52 cc Gas 2-Stroke 2-in-1 Brush Cutter and String Hand Held Trimmer",
+      "CampaignId": "myAccount",
+      "AuthorId": "03ED11BAE0E9AB200S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "Features",
+        "Quality",
+        "EaseOfUse",
+        "Value"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 8,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 8,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "6wgyhl1o90tv68t04pid4l05a",
+      "SubmissionTime": "2020-02-28T02:44:33.000+00:00",
+      "ReviewText": "I bought the insurance plan figuring this thing would not last. I have three other weed whackers (string trimmers). This cost the least of them all. I took out of the box and was delighted on how well it was built. The connecting rod is grooved. The spindle is grooved (gear type). The clamps are cast aluminum. All the pieces are equal or better than I expected. The 52cc with the blade attachment goes through just about anything. I beat the living heck out of it for 2 1/2 hours assuming it would fail. It surprised me. Not one stall, no problems yet. Cons: it weighs a bit more than a 64 year old guy want to carry around. The harness is lacking in its design. The instructions are so minimal your not sure about how to get the thing together (but not hard to figure out). All and all, pleasantly surprised. f",
+      "Title": "I bought the insurance plan figuring this thing would not last. I have three other weed whackers ...",
+      "UserNickname": "PAUL",
+      "SecondaryRatings": {
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "DisplayType": "NORMAL",
+          "ValueLabel": null,
+          "MinLabel": null,
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null
+        },
+        "EaseOfUse": {
+          "Value": 4,
+          "Id": "EaseOfUse",
+          "DisplayType": "NORMAL",
+          "ValueLabel": null,
+          "MinLabel": null,
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null
+        },
+        "Quality": {
+          "Value": 4,
+          "Id": "Quality",
+          "DisplayType": "NORMAL",
+          "ValueLabel": null,
+          "MinLabel": null,
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null
+        },
+        "Features": {
+          "Value": 4,
+          "Id": "Features",
+          "DisplayType": "NORMAL",
+          "ValueLabel": null,
+          "MinLabel": null,
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null
+        }
+      },
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "AdditionalFields": {},
+      "Photos": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "BadgesOrder": [],
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ClientResponses": [],
+      "RatingRange": 5,
+      "CommentIds": [],
+      "IsSyndicated": false,
+      "Badges": {},
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Videos": []
+    },
+    {
+      "Id": "227943405",
+      "CID": "f487286a-5376-56cf-b084-3ba8bcdd95e5",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2020-01-01T23:15:05.000+00:00",
+      "LastModificationTime": "2020-01-01T23:15:05.000+00:00",
+      "ProductId": "311424784",
+      "OriginalProductName": "52 cc Gas 2-Stroke 2-in-1 Brush Cutter and String Hand Held Trimmer",
+      "CampaignId": "20191231_PPC_PR1_ONLINE_CNTRL_3529055_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "47070532",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 2,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "9s6onzpft6vy041pxk49cgj8l",
+      "SubmissionTime": "2020-01-01T22:51:59.000+00:00",
+      "ReviewText": "Does not start easily, have to pull on it continuously like 25 times before it will start. Strap clip broke off completely so the strap was useless. Once it was running it did a nice job of cutting, but overall not happy with lack of dependability.",
+      "Title": "Does not start easily, have to pull on it continuously...",
+      "UserNickname": "Scott",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "Photos": [],
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "ClientResponses": [],
+      "RatingRange": 5,
+      "CommentIds": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Videos": []
+    },
+    {
+      "Id": "227902929",
+      "CID": "843cb097-e6a0-540e-9c1a-823439225e45",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-12-31T22:15:13.000+00:00",
+      "LastModificationTime": "2020-05-11T18:08:26.000+00:00",
+      "ProductId": "311424784",
+      "OriginalProductName": "52 cc Gas 2-Stroke 2-in-1 Brush Cutter and String Hand Held Trimmer",
+      "CampaignId": "20191231_PPC_PR1_ONLINE_CNTRL_3529055_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "247325379",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 5,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "q5n4q4e0gckilcjyxqnvmq58p",
+      "SubmissionTime": "2019-12-31T21:50:57.000+00:00",
+      "ReviewText": "Easy to assemble Lots of power A little heavy-so ordered double shoulder harness Ordered upgraded blade...cuts through trees with ease",
+      "Title": "Easy to assemble Lots of power A little heavy-so ordered...",
+      "UserNickname": "JWR",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "Photos": [],
+      "TagDimensions": {},
+      "SecondaryRatings": {},
+      "Pros": null,
+      "ClientResponses": [],
+      "RatingRange": 5,
+      "CommentIds": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Videos": []
+    },
+    {
+      "Id": "227098645",
+      "CID": "b6c76d95-0455-5030-b41d-48d4173cd3db",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-12-19T17:15:10.000+00:00",
+      "LastModificationTime": "2019-12-19T17:15:10.000+00:00",
+      "ProductId": "311424784",
+      "OriginalProductName": "52 cc Gas 2-Stroke 2-in-1 Brush Cutter and String Hand Held Trimmer",
+      "CampaignId": "20191217_PPC_PR1_ONLINE_CNTRL_3519744_DA_LP_Mobile",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03ED125BF0D9AF700S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "ipbbjcjgh7cic45qiiswhqtjz",
+      "SubmissionTime": "2019-12-17T16:56:13.000+00:00",
+      "ReviewText": "I received the product in a timely manner. It was 90% built which was nice. I simply adjusted the harness and handles to fit my body type and put gas in and it started right up and ran as I expected it to. I have 2.5 acres and did about an hour of trimming with it. Very pleased with my purchase.",
+      "Title": "I received the product in a timely manner. It was...",
+      "UserNickname": "Rj",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "AdditionalFieldsOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "Photos": [],
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "ClientResponses": [],
+      "RatingRange": 5,
+      "CommentIds": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Videos": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "311424784": {
+        "AttributesOrder": [
+          "Category",
+          "Subclass",
+          "ChildSku",
+          "GLN",
+          "THDBrowseOnlinestatus",
+          "THDOnlineStatus",
+          "Department",
+          "IDMVendorAcctName",
+          "THDSubClass_name",
+          "THDClass_name",
+          "THDSubSubClass",
+          "GTIN14",
+          "THD_SubSubClass_name",
+          "THDDept_name",
+          "THDDotComOnlinestatus",
+          "THDSubClass",
+          "HDClass",
+          "THDDept",
+          "dcs_nbr",
+          "AVAILABILITY",
+          "Class",
+          "MFGModel"
+        ],
+        "Attributes": {
+          "Category": {
+            "Id": "Category",
+            "Values": [
+              {
+                "Value": "POWER> HANDHELD POWER> OTHER TRIMMERS> GAS TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "Subclass": {
+            "Id": "Subclass",
+            "Values": [
+              {
+                "Value": "19",
+                "Locale": null
+              }
+            ]
+          },
+          "ChildSku": {
+            "Id": "ChildSku",
+            "Values": [
+              {
+                "Value": "311424784",
+                "Locale": null
+              }
+            ]
+          },
+          "GLN": {
+            "Id": "GLN",
+            "Values": [
+              {
+                "Value": "0854641007009",
+                "Locale": null
+              }
+            ]
+          },
+          "THDBrowseOnlinestatus": {
+            "Id": "THDBrowseOnlinestatus",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "THDOnlineStatus": {
+            "Id": "THDOnlineStatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "Department": {
+            "Id": "Department",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "IDMVendorAcctName": {
+            "Id": "IDMVendorAcctName",
+            "Values": [
+              {
+                "Value": "SUNSEEKER US INC",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass_name": {
+            "Id": "THDSubClass_name",
+            "Values": [
+              {
+                "Value": "OTHER TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDClass_name": {
+            "Id": "THDClass_name",
+            "Values": [
+              {
+                "Value": "HANDHELD POWER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubSubClass": {
+            "Id": "THDSubSubClass",
+            "Values": [
+              {
+                "Value": "102",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00854641007665",
+                "Locale": null
+              }
+            ]
+          },
+          "THD_SubSubClass_name": {
+            "Id": "THD_SubSubClass_name",
+            "Values": [
+              {
+                "Value": "GAS TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept_name": {
+            "Id": "THDDept_name",
+            "Values": [
+              {
+                "Value": "SEASONAL/GARDEN",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDotComOnlinestatus": {
+            "Id": "THDDotComOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass": {
+            "Id": "THDSubClass",
+            "Values": [
+              {
+                "Value": "19",
+                "Locale": null
+              }
+            ]
+          },
+          "HDClass": {
+            "Id": "HDClass",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept": {
+            "Id": "THDDept",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "dcs_nbr": {
+            "Id": "dcs_nbr",
+            "Values": [
+              {
+                "Value": "28-32-19",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "Class": {
+            "Id": "Class",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "MFGModel": {
+            "Id": "MFGModel",
+            "Values": [
+              {
+                "Value": "WBP52BCI",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "854641007665"
+        ],
+        "Description": "The Wild Badger Power 2-in-1 Straight Shaft Grass String Trimmer and Brush Cutter is a versatile, powerful tool. This multi-tool has a grass trimmer spool for detail work along fence lines and borders, as well as a brush cutter blade to tackle heavier grasses and thick brush. It also includes a harness coupled with ergonomic bicycle-style handles to relieve the strain on your arms and provide stability. Powered by a 52cc, 2-cycle, full-crank engine, your trimmer has plenty of power and is designed for reliability. The full crank design provides a smooth start and operation to reduce emissions, increase fuel efficiency and provide longer life. The transmission is supported by an aluminum casing which greatly reduces vibration allowing you to work in comfort until the job is done. The straight shaft is built with a robust aluminum tube which is lightweight and durable for added comfort and convenience. The tap-and-go trimmer head allows for quick line feed for the twin line cutting system. Replacing the line will no longer eat up precious daylight and will give you more time to get your lawns and landscaping looking clean. Notes about the product: This machine takes a mix of both gasoline and oil, other attachments and accessories not included.",
+        "ManufacturerPartNumbers": [
+          "WB52BCI"
+        ],
+        "ImageUrl": "https://images.thdstatic.com/productImages/1263afa6-35dd-450d-ba9b-9344c36a0abd/svn/wild-badger-power-gas-string-trimmers-wbp52bci-64_1000.jpg",
+        "Name": "52 cc Gas 2-Stroke 2-in-1 Brush Cutter and String Hand Held Trimmer",
+        "Id": "311424784",
+        "CategoryId": "7651c252-aec3-4d90-88e2-6f4fe31d6a1d",
+        "BrandExternalId": "WILDBADGERPOWER",
+        "Brand": {
+          "Id": "WILDBADGERPOWER",
+          "Name": "WILD BADGER POWER"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.homedepot.com/p/WILD-BADGER-POWER-52-cc-Gas-2-Stroke-2-in-1-Brush-Cutter-and-String-Hand-Held-Trimmer-WBP52BCI/311424784",
+        "Disabled": false,
+        "QuestionIds": [],
+        "ISBNs": [],
+        "ReviewIds": [],
+        "StoryIds": [],
+        "FamilyIds": [],
+        "EANs": [],
+        "ModelNumbers": [],
+        "ReviewStatistics": {
+          "FeaturedReviewCount": 0,
+          "RatingsOnlyReviewCount": 97,
+          "SecondaryRatingsAveragesOrder": [
+            "Quality",
+            "Value"
+          ],
+          "SecondaryRatingsAverages": {
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 2.8214285714285716,
+              "MinLabel": null,
+              "DisplayType": "NORMAL",
+              "ValueRange": 5,
+              "MaxLabel": null
+            },
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 3.107142857142857,
+              "MinLabel": null,
+              "DisplayType": "NORMAL",
+              "ValueRange": 5,
+              "MaxLabel": null
+            }
+          },
+          "TotalPhotoCount": 22,
+          "TotalVideoCount": 0,
+          "NotHelpfulVoteCount": 12,
+          "AverageOverallRating": 3.7764127764127764,
+          "HelpfulVoteCount": 168,
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 208
+            },
+            {
+              "RatingValue": 1,
+              "Count": 75
+            },
+            {
+              "RatingValue": 4,
+              "Count": 75
+            },
+            {
+              "RatingValue": 2,
+              "Count": 25
+            },
+            {
+              "RatingValue": 3,
+              "Count": 24
+            }
+          ],
+          "FirstSubmissionTime": "2019-12-17T16:56:13.000+00:00",
+          "LastSubmissionTime": "2026-08-01T01:57:11.000+00:00",
+          "ContextDataDistributionOrder": [
+            "Age",
+            "Gender",
+            "VerifiedPurchaser",
+            "EarlyReviewerIncentive"
+          ],
+          "ContextDataDistribution": {
+            "Age": {
+              "Id": "Age",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "45to54"
+                },
+                {
+                  "Count": 1,
+                  "Value": "55to64"
+                }
+              ]
+            },
+            "Gender": {
+              "Id": "Gender",
+              "Values": [
+                {
+                  "Count": 2,
+                  "Value": "Male"
+                }
+              ]
+            },
+            "VerifiedPurchaser": {
+              "Id": "VerifiedPurchaser",
+              "Values": [
+                {
+                  "Count": 343,
+                  "Value": "True"
+                },
+                {
+                  "Count": 27,
+                  "Value": "False"
+                }
+              ]
+            },
+            "EarlyReviewerIncentive": {
+              "Id": "EarlyReviewerIncentive",
+              "Values": [
+                {
+                  "Count": 25,
+                  "Value": "True"
+                },
+                {
+                  "Count": 208,
+                  "Value": "False"
+                }
+              ]
+            }
+          },
+          "RecommendedCount": 42,
+          "TotalReviewCount": 407,
+          "NotRecommendedCount": 32,
+          "TotalMediaCount": 22,
+          "OverallRatingRange": 5,
+          "TagDistribution": {},
+          "TagDistributionOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 407
+      }
+    },
+    "ProductsOrder": [
+      "311424784"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

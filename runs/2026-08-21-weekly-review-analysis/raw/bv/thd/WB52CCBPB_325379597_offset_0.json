@@ -1,0 +1,1093 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 9,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "303538141",
+      "CID": "5fcd4a7d-ffea-5adf-95b8-e8e7ece65cba",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-07-29T15:16:04.000+00:00",
+      "LastModificationTime": "2026-07-30T20:01:03.000+00:00",
+      "ProductId": "325379597",
+      "OriginalProductName": "Gas 53cc Backpack Blower 175MPH 855CFM",
+      "CampaignId": "msg_email-_-PR1_IN-_-20260729_Product_Review_4702696-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nFor assistance please contact:<br />customerus&#64;wildbadgerpower.com\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2026-07-30T20:01:03.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "04262DBFC0DB08F30S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17853367T7iFBLHmer",
+      "SubmissionTime": "2026-07-29T14:52:14.000+00:00",
+      "ReviewText": "Only started once then when we tried it again it wouldn't start. Had to take back and get something different, too much money for one use.",
+      "UserNickname": "Homemaker71",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Photos": [],
+      "Videos": [],
+      "CommentIds": [],
+      "RatingRange": 5,
+      "SecondaryRatingsOrder": [],
+      "InappropriateFeedbackList": [],
+      "UserLocation": null,
+      "TagDimensions": {},
+      "SecondaryRatings": {},
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Cons": null,
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "AdditionalFields": {},
+      "Title": null,
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null
+    },
+    {
+      "Id": "302645085",
+      "CID": "5594d0da-9a9f-5f9f-a9ea-d6ffc2fe7e4d",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-07-15T14:30:43.000+00:00",
+      "LastModificationTime": "2026-07-15T14:30:43.000+00:00",
+      "ProductId": "325379597",
+      "OriginalProductName": "Gas 53cc Backpack Blower 175MPH 855CFM",
+      "CampaignId": "msg_email-_-PR1_IN-_-20260715_Product_Review_4700724-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "04246452230981DA0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17841254BzS38pkWuV",
+      "SubmissionTime": "2026-07-15T14:24:08.000+00:00",
+      "UserNickname": "ERIC",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Photos": [],
+      "Videos": [],
+      "CommentIds": [],
+      "RatingRange": 5,
+      "SecondaryRatingsOrder": [],
+      "InappropriateFeedbackList": [],
+      "UserLocation": null,
+      "TagDimensions": {},
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Cons": null,
+      "ReviewText": null,
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "AdditionalFields": {},
+      "Title": null,
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null
+    },
+    {
+      "Id": "301363515",
+      "CID": "65712881-af09-52e1-bef5-da8f6e37552d",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-05-28T02:30:09.000+00:00",
+      "LastModificationTime": "2026-05-28T02:30:09.000+00:00",
+      "ProductId": "325379597",
+      "OriginalProductName": "Gas 53cc Backpack Blower 175MPH 855CFM",
+      "CampaignId": "msg_email-_-PR2_IN_T1-_-20260527_Product_Review_4693769-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0630EBCB96CFA5B20S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17799337UqveqycYIQ",
+      "SubmissionTime": "2026-05-28T02:03:02.000+00:00",
+      "ReviewText": "has great power and easy to set up and start",
+      "UserNickname": "HomeDepotCustomer",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "MinLabel": null,
+          "ValueRange": 5,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "ValueLabel": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "MinLabel": null,
+          "ValueRange": 5,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "ValueLabel": null
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Photos": [],
+      "Videos": [],
+      "CommentIds": [],
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "UserLocation": null,
+      "TagDimensions": {},
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Cons": null,
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "AdditionalFields": {},
+      "Title": null,
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null
+    },
+    {
+      "Id": "301363497",
+      "CID": "2d797b99-06dc-57f2-8935-58da68eaf69b",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-05-28T02:15:06.000+00:00",
+      "LastModificationTime": "2026-05-28T02:15:06.000+00:00",
+      "ProductId": "325379597",
+      "OriginalProductName": "Gas 53cc Backpack Blower 175MPH 855CFM",
+      "CampaignId": "msg_email-_-PR2_OUT_T1-_-20260527_Product_Review_4693769-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "052EC7D3C264CA250S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17799337KqSeZOuxru",
+      "SubmissionTime": "2026-05-28T02:02:07.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Photos": [],
+      "Videos": [],
+      "CommentIds": [],
+      "RatingRange": 5,
+      "SecondaryRatingsOrder": [],
+      "InappropriateFeedbackList": [],
+      "UserLocation": null,
+      "TagDimensions": {},
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Cons": null,
+      "ReviewText": null,
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "AdditionalFields": {},
+      "Title": null,
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null
+    },
+    {
+      "Id": "301126834",
+      "CID": "e41ec0d6-b8d1-50cc-9eef-93f12b3bb6e4",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-05-20T14:45:51.000+00:00",
+      "LastModificationTime": "2026-05-20T14:45:51.000+00:00",
+      "ProductId": "325379597",
+      "OriginalProductName": "Gas 53cc Backpack Blower 175MPH 855CFM",
+      "CampaignId": "msg_email-_-PR1_IN-_-20260520_Product_Review_4692769-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "041ACD15C268CB2A0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17792865bDrQdu60kb",
+      "SubmissionTime": "2026-05-20T14:15:55.000+00:00",
+      "ReviewText": "I have had 2 much more expensive back blowers and this works just as good as them! Very impressed with the performance! Item looks to be made to high quality standards!",
+      "UserNickname": "JUSTEN",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "MinLabel": null,
+          "ValueRange": 5,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "ValueLabel": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "MinLabel": null,
+          "ValueRange": 5,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "ValueLabel": null
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Photos": [],
+      "Videos": [],
+      "CommentIds": [],
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "UserLocation": null,
+      "TagDimensions": {},
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Cons": null,
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "AdditionalFields": {},
+      "Title": null,
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null
+    },
+    {
+      "Id": "300281912",
+      "CID": "bbc9cc4e-97be-5ac2-9ce5-c51f1fe92058",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-04-23T05:45:05.000+00:00",
+      "LastModificationTime": "2026-04-24T14:01:14.000+00:00",
+      "ProductId": "325379597",
+      "OriginalProductName": "Gas 53cc Backpack Blower 175MPH 855CFM",
+      "CampaignId": "msg_email-_-PR1_IN-_-20260422_Product_Review_4688760-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nContact customer support at Customersupport&#64;wildbadgerpower.com\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2026-04-24T14:01:14.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "05309E7B8B4D155F0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17769218WQjVCpqxGs",
+      "SubmissionTime": "2026-04-23T05:23:24.000+00:00",
+      "ReviewText": "Did not start out of the box. Waiting 2 weeks and still haven’t received the part to get it going.",
+      "UserNickname": "PAUL",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Photos": [],
+      "Videos": [],
+      "CommentIds": [],
+      "RatingRange": 5,
+      "SecondaryRatingsOrder": [],
+      "InappropriateFeedbackList": [],
+      "UserLocation": null,
+      "TagDimensions": {},
+      "SecondaryRatings": {},
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Cons": null,
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "AdditionalFields": {},
+      "Title": null,
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null
+    },
+    {
+      "Id": "298983797",
+      "CID": "006ce7ad-9340-5419-9001-738b4e320927",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-02-26T02:15:07.000+00:00",
+      "LastModificationTime": "2026-02-26T02:15:07.000+00:00",
+      "ProductId": "325379597",
+      "OriginalProductName": "Gas 53cc Backpack Blower 175MPH 855CFM",
+      "CampaignId": "msg_email-_-PR1_IN-_-20260225_Product_Review_4680765-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "04301C2AB7B7F74B0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17720706dgB0StHU3T",
+      "SubmissionTime": "2026-02-26T01:50:31.000+00:00",
+      "ReviewText": "Badger getting alot of comments from neighbors no one seen.a Blue blower.. Blue my favorite color... they want to know where to purchase one... it's a great blower very easy to start.I love the harness straps. and the waist strap..blows everything fast.and far.. I've had this Badger for Two weeks.. I'll be buying more Badger products... thanks DLH",
+      "UserNickname": "DORIGHT",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "MinLabel": null,
+          "ValueRange": 5,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "ValueLabel": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "MinLabel": null,
+          "ValueRange": 5,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "ValueLabel": null
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Photos": [],
+      "Videos": [],
+      "CommentIds": [],
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "UserLocation": null,
+      "TagDimensions": {},
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Cons": null,
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "AdditionalFields": {},
+      "Title": null,
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null
+    },
+    {
+      "Id": "296077895",
+      "CID": "af7ea840-1575-5abc-ae22-ef7542330292",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2025-11-25T19:00:07.000+00:00",
+      "LastModificationTime": "2026-01-16T19:18:55.000+00:00",
+      "ProductId": "325379597",
+      "OriginalProductName": "Gas 53cc Backpack Blower 175MPH 855CFM",
+      "CampaignId": "BV_REVIEW_DISPLAY",
+      "UserLocation": "Main Line, PA",
+      "AuthorId": "z29eq7y4q3fo7p7siwcrl1rnwc",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/b4d2f973-7242-5ea6-bc55-577204aecb17"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/0fa030ad-2c6b-56d8-bcb2-9974871adde4"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/7618cc36-3ce2-5266-aac2-a01249d77dfd"
+            }
+          },
+          "Id": "20511056",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17640747cWFEirfXcn",
+      "SubmissionTime": "2025-11-25T12:46:07.000+00:00",
+      "ReviewText": "I purchased this backpack blower and here is my review.  This thing blows leaves like a tornado.  I took it out of the box assembled it and gassed it up to give it a try.   It made a quick work of the leaves and spa sticks in my yard because it’s got plenty of power.   I wear hearing protection for the noise, but it doesn’t seem any louder than my old handheld gas blower. Only this one’s got a lot more wind coming out of the nozzle.  Compared to other brands, this one is a great value for the money.  I’m gonna make sure to winterize it properly, so hopefully it will last me for years.",
+      "Title": "Great value for the money",
+      "UserNickname": null,
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "MinLabel": null,
+          "ValueRange": 5,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "ValueLabel": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "MinLabel": null,
+          "ValueRange": 5,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "ValueLabel": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "MinLabel": null,
+          "ValueRange": 5,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "ValueLabel": null
+        },
+        "Fulfillment": {
+          "Value": 5,
+          "Id": "Fulfillment",
+          "MinLabel": null,
+          "ValueRange": 5,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "ValueLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "MinLabel": null,
+          "ValueRange": 5,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "ValueLabel": null
+        }
+      },
+      "Videos": [],
+      "CommentIds": [],
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "ContextDataValues": {},
+      "ContextDataValuesOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Pros": null
+    },
+    {
+      "Id": "294788672",
+      "CID": "a073db00-2505-5fd5-a1d3-ec5e55413539",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-10-17T12:00:04.000+00:00",
+      "LastModificationTime": "2025-10-17T12:00:04.000+00:00",
+      "ProductId": "325379597",
+      "OriginalProductName": "Gas 53cc Backpack Blower 175MPH 855CFM",
+      "CampaignId": "msg_email-_-PR1_T3-_-20251001_Product_Review_4660022-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "562394014",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zainjd1kxniodmobzzt53x18k5",
+          "SubmissionTime": "2025-10-17T11:57:23.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17593302PyjvJci5To",
+      "SubmissionTime": "2025-10-01T14:50:27.000+00:00",
+      "UserNickname": "BOWEI",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Photos": [],
+      "Videos": [],
+      "CommentIds": [],
+      "RatingRange": 5,
+      "SecondaryRatingsOrder": [],
+      "UserLocation": null,
+      "TagDimensions": {},
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "AdditionalFieldsOrder": [],
+      "IsRecommended": null,
+      "Cons": null,
+      "ReviewText": null,
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "AdditionalFields": {},
+      "Title": null,
+      "ProductRecommendationIds": [],
+      "Pros": null
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "325379597": {
+        "AttributesOrder": [
+          "Category",
+          "Subclass",
+          "ChildSku",
+          "GLN",
+          "THDBrowseOnlinestatus",
+          "THDOnlineStatus",
+          "Department",
+          "IDMVendorAcctName",
+          "THDSubClass_name",
+          "THDClass_name",
+          "THDSubSubClass",
+          "GTIN14",
+          "THD_SubSubClass_name",
+          "THDDept_name",
+          "THDDotComOnlinestatus",
+          "THDSubClass",
+          "HDClass",
+          "THDDept",
+          "dcs_nbr",
+          "AVAILABILITY",
+          "Class",
+          "MFGModel"
+        ],
+        "Attributes": {
+          "Category": {
+            "Id": "Category",
+            "Values": [
+              {
+                "Value": "POWER> HANDHELD POWER> OTHER BLOWERS> GAS BLOWERS",
+                "Locale": null
+              }
+            ]
+          },
+          "Subclass": {
+            "Id": "Subclass",
+            "Values": [
+              {
+                "Value": "22",
+                "Locale": null
+              }
+            ]
+          },
+          "ChildSku": {
+            "Id": "ChildSku",
+            "Values": [
+              {
+                "Value": "325379597",
+                "Locale": null
+              }
+            ]
+          },
+          "GLN": {
+            "Id": "GLN",
+            "Values": [
+              {
+                "Value": "0854641007009",
+                "Locale": null
+              }
+            ]
+          },
+          "THDBrowseOnlinestatus": {
+            "Id": "THDBrowseOnlinestatus",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "THDOnlineStatus": {
+            "Id": "THDOnlineStatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "Department": {
+            "Id": "Department",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "IDMVendorAcctName": {
+            "Id": "IDMVendorAcctName",
+            "Values": [
+              {
+                "Value": "SUNSEEKER US INC",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass_name": {
+            "Id": "THDSubClass_name",
+            "Values": [
+              {
+                "Value": "OTHER BLOWERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDClass_name": {
+            "Id": "THDClass_name",
+            "Values": [
+              {
+                "Value": "HANDHELD POWER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubSubClass": {
+            "Id": "THDSubSubClass",
+            "Values": [
+              {
+                "Value": "102",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00854641007542",
+                "Locale": null
+              }
+            ]
+          },
+          "THD_SubSubClass_name": {
+            "Id": "THD_SubSubClass_name",
+            "Values": [
+              {
+                "Value": "GAS BLOWERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept_name": {
+            "Id": "THDDept_name",
+            "Values": [
+              {
+                "Value": "SEASONAL/GARDEN",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDotComOnlinestatus": {
+            "Id": "THDDotComOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass": {
+            "Id": "THDSubClass",
+            "Values": [
+              {
+                "Value": "22",
+                "Locale": null
+              }
+            ]
+          },
+          "HDClass": {
+            "Id": "HDClass",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept": {
+            "Id": "THDDept",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "dcs_nbr": {
+            "Id": "dcs_nbr",
+            "Values": [
+              {
+                "Value": "28-32-22",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "Class": {
+            "Id": "Class",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "MFGModel": {
+            "Id": "MFGModel",
+            "Values": [
+              {
+                "Value": "WB52CCBPB",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "854641007542"
+        ],
+        "Description": "The WILD BADGER POWER 53cc backpack blower makes yard cleanup quick and easy. This blower delivers the best-in-class air power at 855 CFM and 175 MPH. The engine has a run time of over 200 hours. The 3-point spring anti-vibration, 90° rotating joystick controller, and tool-less air filter provides the best user experience over other blowers on the market. The ventilated backpack frame evenly distributes weight on the user and provides ventilation for better air circulation.",
+        "ManufacturerPartNumbers": [
+          "WB52CCBPB"
+        ],
+        "ImageUrl": "https://images.thdstatic.com/productImages/a6c677e6-aade-4f29-9083-e3230b415ddf/svn/wild-badger-power-gas-leaf-blowers-wb52ccbpb-64_1000.jpg",
+        "Name": "Gas 53cc Backpack Blower 175MPH 855CFM",
+        "Id": "325379597",
+        "CategoryId": "9b0f2e6a-55e7-4452-9c5a-99844f230429",
+        "BrandExternalId": "WILDBADGERPOWER",
+        "Brand": {
+          "Id": "WILDBADGERPOWER",
+          "Name": "WILD BADGER POWER"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.homedepot.com/p/WILD-BADGER-POWER-Gas-53cc-Backpack-Blower-175MPH-855CFM-WB52CCBPB/325379597",
+        "Disabled": false,
+        "EANs": [],
+        "FamilyIds": [],
+        "StoryIds": [],
+        "QuestionIds": [],
+        "ModelNumbers": [],
+        "ISBNs": [],
+        "ReviewIds": [],
+        "ReviewStatistics": {
+          "RecommendedCount": 1,
+          "TotalReviewCount": 9,
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaser",
+            "EarlyReviewerIncentive"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaser": {
+              "Id": "VerifiedPurchaser",
+              "Values": [
+                {
+                  "Count": 8,
+                  "Value": "True"
+                }
+              ]
+            },
+            "EarlyReviewerIncentive": {
+              "Id": "EarlyReviewerIncentive",
+              "Values": [
+                {
+                  "Count": 8,
+                  "Value": "False"
+                }
+              ]
+            }
+          },
+          "NotRecommendedCount": 0,
+          "FeaturedReviewCount": 0,
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 5
+            },
+            {
+              "RatingValue": 1,
+              "Count": 3
+            },
+            {
+              "RatingValue": 4,
+              "Count": 1
+            }
+          ],
+          "TotalPhotoCount": 1,
+          "AverageOverallRating": 3.5555555555555554,
+          "NotHelpfulVoteCount": 0,
+          "FirstSubmissionTime": "2025-10-01T14:50:27.000+00:00",
+          "LastSubmissionTime": "2026-07-29T14:52:14.000+00:00",
+          "HelpfulVoteCount": 3,
+          "TotalVideoCount": 0,
+          "SecondaryRatingsAveragesOrder": [
+            "Quality",
+            "Value"
+          ],
+          "SecondaryRatingsAverages": {
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 5.0,
+              "MaxLabel": null,
+              "ValueRange": 5,
+              "MinLabel": null,
+              "DisplayType": "NORMAL"
+            },
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 5.0,
+              "MaxLabel": null,
+              "ValueRange": 5,
+              "MinLabel": null,
+              "DisplayType": "NORMAL"
+            }
+          },
+          "RatingsOnlyReviewCount": 3,
+          "TotalMediaCount": 1,
+          "TagDistributionOrder": [],
+          "OverallRatingRange": 5,
+          "TagDistribution": {},
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 9
+      }
+    },
+    "ProductsOrder": [
+      "325379597"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

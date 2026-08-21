@@ -1,0 +1,2926 @@
+{
+  "Limit": 100,
+  "Offset": 100,
+  "TotalResults": 129,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "237943705",
+      "CID": "1f793ea3-c2e8-59c5-835a-8bb85a9040f3",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-12-07T22:30:10.000+00:00",
+      "LastModificationTime": "2024-12-07T22:30:10.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "a716b9",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d1238c2c-0009-5457-8b6a-9ef1d3064a1e"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/1b5bcf0c-5ada-50d6-8d71-f80ff27f6085"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/38b367d0-51ff-5029-a321-8e3cbf43c52b"
+            }
+          },
+          "Id": "12083681",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/9cc7c754-d447-5166-bf9a-c7f8495206fe"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/25ce2743-f2bc-5d3b-b264-b35d1f95703a"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ee44ddd6-3e31-514e-8d36-3735850d0512"
+            }
+          },
+          "Id": "12083682",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/52938667-7324-5864-a3a8-7d220c81b734"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/651b9a57-b6a1-5c23-8a94-80652de06390"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/76c60b7a-2779-5f1b-a65e-1f66804368c7"
+            }
+          },
+          "Id": "12083683",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7f4b97c9-083d-5cc1-a702-f7fdb6618ef3"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/e3aca72d-bd4a-5a23-91da-194f28e1436b"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/aae7c04b-f90b-57e1-92d0-18d080007607"
+            }
+          },
+          "Id": "12083684",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/eb01bc84-104e-542a-a506-e32433196f15"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/be6944a5-85a4-5c30-ba6c-fcbfee9ee1d4"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/fc93484d-30d1-52c5-8a47-c555e1aadabf"
+            }
+          },
+          "Id": "12083685",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/c6a833f4-a8ee-5716-8800-428e5564dc44"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/78c986bd-d6fe-5601-b5b7-13ebb7d63725"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d19ffd9c-1d82-58a8-9f1b-6912b1e4726e"
+            }
+          },
+          "Id": "12083686",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17334378R2SrkZQmvX",
+      "SubmissionTime": "2024-12-05T22:31:03.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "Just received the mower. It was packaged in a sturdy box. My husband put it together by himself in our living room, only took about 30 minutes. No tools required. The battery was already 70% charged so he tried it out in the yard.  Worked well. It will be useful in the spring.",
+      "Title": "Wild Badger Power 40 Volt Mower",
+      "UserNickname": "Snoopy",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 5,
+          "Id": "NoiseLevel",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "ValueLabel": null,
+          "MinLabel": null,
+          "DisplayType": "NORMAL",
+          "Label": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "ValueLabel": null,
+          "MinLabel": null,
+          "DisplayType": "NORMAL",
+          "Label": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "ValueLabel": null,
+          "MinLabel": null,
+          "DisplayType": "NORMAL",
+          "Label": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "ValueLabel": null,
+          "MinLabel": null,
+          "DisplayType": "NORMAL",
+          "Label": null
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "High quality",
+            "Durable"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "Videos": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Helpfulness": null,
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Pros": null,
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "Cons": null
+    },
+    {
+      "Id": "237908066",
+      "CID": "b07eadf8-c695-55f6-b071-5301df819b04",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-12-04T17:30:14.000+00:00",
+      "LastModificationTime": "2026-03-08T20:04:14.000+00:00",
+      "ProductId": "5015737229",
+      "OriginalProductName": "Cordless 40-volt, 21-in Self Propelled Battery Walk Mower with  (2) 4 Ah Batteries Included",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "8c5b606bb0f480b8341a20bcf5c5cc0b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17333310H3UNNZdvO5",
+      "SubmissionTime": "2024-12-04T16:50:07.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "Packed very nicely. No damage. Two batteries and charger. It feels very sturdy even though it’s mostly plastic. The cut is pretty good. Not as powerful as a gas one. But the self propelled feature is really nice. Just keeps cutting.",
+      "Title": "Nice mower",
+      "UserNickname": "Hookstown",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 2,
+          "Id": "NoiseLevel",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "ValueLabel": null,
+          "MinLabel": null,
+          "DisplayType": "NORMAL",
+          "Label": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "ValueLabel": null,
+          "MinLabel": null,
+          "DisplayType": "NORMAL",
+          "Label": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "ValueLabel": null,
+          "MinLabel": null,
+          "DisplayType": "NORMAL",
+          "Label": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "ValueLabel": null,
+          "MinLabel": null,
+          "DisplayType": "NORMAL",
+          "Label": null
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "High quality",
+            "Durable"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "Videos": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "Cons": null
+    },
+    {
+      "Id": "237840724",
+      "CID": "84e106a5-abcc-5174-9aba-d61ed61a0e44",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-12-02T00:30:09.000+00:00",
+      "LastModificationTime": "2024-12-02T00:30:09.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "6e68767d-28cb-4298-a3c2-20dd548ecb9d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__173309355aNhhZL7Dg",
+      "SubmissionTime": "2024-12-01T22:52:18.000+00:00",
+      "ReviewText": "Far superior to previous battery powered lawn mowers I have owned. Assembly only requires putting together the handle. I bought an extra battery for a 3/4 acre yard. It does the job. Fantastic lawn mower.",
+      "Title": "Wild Badger with 18 inch cutting blade",
+      "UserNickname": "Donald",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Helpfulness": null,
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "237168306",
+      "CID": "2a44f635-5d91-5e9d-bcac-3ce18b5e42ca",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-11-01T22:15:11.000+00:00",
+      "LastModificationTime": "2024-11-01T22:15:11.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Store_other_Touch2_0223",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "1a6fd313-0f0a-44bb-b5d5-fc702744266f",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17__17304976e0CC9wUZJU",
+      "SubmissionTime": "2024-11-01T21:48:19.000+00:00",
+      "ReviewText": "Very light (do not need self propelled ) and easy to push. Battery lasts a long time.",
+      "Title": "Love Mowing",
+      "UserNickname": "Mowing Mama",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Helpfulness": null,
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "236967819",
+      "CID": "d3bedba1-0bf3-5a63-9c00-149d8116f4d2",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-10-23T18:15:05.000+00:00",
+      "LastModificationTime": "2024-10-23T18:15:05.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_App_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "9f54a71a-e1db-44a9-80b2-75bca820ae00",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17297009KRhwAW6cao",
+      "SubmissionTime": "2024-10-23T16:29:57.000+00:00",
+      "ReviewText": "It worked great. Folds up real nice and sits in the corner of my garage",
+      "Title": "Best cordless for the money",
+      "UserNickname": "VIGG",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Helpfulness": null,
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "236880937",
+      "CID": "9cfc5677-06b8-573d-94e2-7749be7ad5c4",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-10-19T23:45:06.000+00:00",
+      "LastModificationTime": "2024-11-22T18:19:53.000+00:00",
+      "ProductId": "5014394923",
+      "OriginalProductName": "20 Volt, 16-in Push Battery Walk Mower with  (2) 4 Ah Batteries Included",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "ozouxmzs6yf3ixkkrx7vk0pt2",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17293805X64TUayIc2",
+      "SubmissionTime": "2024-10-19T23:28:26.000+00:00",
+      "ReviewText": "Cuts even and light weight makes handling a breeze.",
+      "Title": "Perfect trim Mower",
+      "UserNickname": "CeeCeeR",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "236701420",
+      "CID": "72c36cb6-9987-517c-af74-044118b4ac35",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-10-10T22:15:09.000+00:00",
+      "LastModificationTime": "2024-10-11T13:30:07.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Store_other_Touch1_0004",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHello,    We will take your comments back to the company to improve the owners manual for the tool.<br />Thanks for the input<br />Wild Badger Customer Support\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-10-11T13:30:07.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "cd99e588-2371-4197-96e0-155f43c5ca03",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16__17285968LdhJRPNTVX",
+      "SubmissionTime": "2024-10-10T21:46:54.000+00:00",
+      "ReviewText": "Quiet and light and does the job. Would have been nice to have assembly instructions though as I had to ask my neighbor to help my figure it out.",
+      "Title": "No assembly instructions!",
+      "UserNickname": "Stephanie",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Helpfulness": null,
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "236692111",
+      "CID": "5ebb196d-10bc-50c8-89d9-725b317e7950",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-10-10T14:15:08.000+00:00",
+      "LastModificationTime": "2024-10-10T14:15:08.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "632f04fe-3eca-4a8b-9b5b-a2c9fded0795",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zb63l1rad761rciah5wj4dsrie",
+          "SubmissionTime": "2025-07-03T23:11:23.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__172856812oNrVJuZlP",
+      "SubmissionTime": "2024-10-10T13:49:33.000+00:00",
+      "ReviewText": "Lightweight, easy to use",
+      "Title": "Assembly instructions a bit vague, YouTube helps",
+      "UserNickname": "Jdenver",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Helpfulness": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "236675620",
+      "CID": "625e814f-18c1-5a73-8e91-c3acca9e4170",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-10-09T15:00:08.000+00:00",
+      "LastModificationTime": "2024-10-09T15:00:08.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "1631d024-a825-4cf5-8e2c-a26a2089e3f1",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17284812NWz1pp9nXG",
+      "SubmissionTime": "2024-10-09T13:41:33.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Helpfulness": null,
+      "InappropriateFeedbackList": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "236615347",
+      "CID": "676c7caa-40d3-59fa-90c4-d7362e141979",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-10-06T15:00:10.000+00:00",
+      "LastModificationTime": "2024-10-06T15:00:10.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "4ba78a46-2c74-48d4-b9d4-627295869151",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17282262Yn6IhASuUw",
+      "SubmissionTime": "2024-10-06T14:51:36.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Helpfulness": null,
+      "InappropriateFeedbackList": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "235930002",
+      "CID": "8c2dac83-8beb-5487-8c13-da83211c7e45",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-09-03T02:45:03.000+00:00",
+      "LastModificationTime": "2024-10-10T12:21:39.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "e0bed8e7-d5cc-4c57-9d8c-3a26d594eb80",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__1725326098FR65ClOj",
+      "SubmissionTime": "2024-09-03T01:14:09.000+00:00",
+      "ReviewText": "Easy to assemble, easy to handle, great price",
+      "Title": "Very good product",
+      "UserNickname": "Nikko",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "235924954",
+      "CID": "757109e2-d9a3-5080-9e69-7c174df609f6",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-09-02T21:30:07.000+00:00",
+      "LastModificationTime": "2024-09-02T21:30:07.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "b99be0cc-7657-4399-8eb9-683ce9a8281a",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z2v7076jadbc4k0k13zv1o1kck",
+          "SubmissionTime": "2024-09-05T21:28:59.000+00:00"
+        },
+        {
+          "AuthorId": "zi04gpp5aa3rvc9x7dcmvxonjh",
+          "SubmissionTime": "2024-09-05T21:28:57.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17253120sQS9z06Lkr",
+      "SubmissionTime": "2024-09-02T21:20:27.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Helpfulness": null,
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "235586479",
+      "CID": "82d403c1-94ba-56f6-899b-928e5d98bb61",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-08-17T03:30:06.000+00:00",
+      "LastModificationTime": "2026-05-21T13:01:41.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHello, Please contact customersupport&#64;wildbadgerpower.com.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-08-20T13:45:32.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "8246aa8a-a38b-4490-975d-68141c043a9a",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.8333330154418945,
+      "TotalFeedbackCount": 12,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 10,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17238641zJZ7orAH7m",
+      "SubmissionTime": "2024-08-17T03:08:28.000+00:00",
+      "ReviewText": "I just opened the box and tried to put the handle together.  There are no instructions on how to put the knob on between the upper handle and the lower handle.  I only got 2 bolts, no nuts.  I can't figure it out. Very vague instructions.  It says \"tighten the lower handle with angle knobs on both sides.\"  Tighten HOW? The pictures are so small I can't even see them with a magnifying glass.  Very disappointed.",
+      "UserNickname": "Mazy",
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "ContextDataValues": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "ContextDataValuesOrder": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "234740835",
+      "CID": "2b4426c5-2d76-589d-b8c5-8621fd0904c9",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-07-07T13:00:08.000+00:00",
+      "LastModificationTime": "2024-08-09T17:42:41.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "a18580ff-a339-4663-ae2d-33c68033af15",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z2px46pp014sxxf6h9u883udku",
+          "SubmissionTime": "2024-12-13T18:46:03.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.5,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17203568iXJso1i9YH",
+      "SubmissionTime": "2024-07-07T12:53:32.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "234722893",
+      "CID": "88c58c22-b0b6-5174-bef8-f72c13f62f6b",
+      "SourceClient": "lowes",
+      "Badges": {
+        "Expert": {
+          "ContentType": "REVIEW",
+          "Id": "Expert",
+          "BadgeType": "Rank"
+        }
+      },
+      "BadgesOrder": [
+        "Expert"
+      ],
+      "LastModeratedTime": "2024-07-07T17:00:10.000+00:00",
+      "LastModificationTime": "2024-08-18T03:22:37.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "00e9b873-689e-4a0f-aeb6-4fdcba069f40",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17202941InHRoBi80f",
+      "SubmissionTime": "2024-07-06T19:28:31.000+00:00",
+      "ReviewText": "Its nice plug battery in and go",
+      "Title": "Good",
+      "UserNickname": "Not good",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "Cons": null
+    },
+    {
+      "Id": "234721657",
+      "CID": "211536e9-8df8-5144-a153-a04c18729be9",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-07-06T18:45:10.000+00:00",
+      "LastModificationTime": "2025-10-20T17:05:02.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "orderhistory_mobile",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "41189f17-628a-4210-805d-a3138deda4f3",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 16,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 16,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_1720290203YbGtdPXs",
+      "SubmissionTime": "2024-07-06T18:24:27.000+00:00",
+      "ReviewText": "Very happy with purchase.  This lawn mower is very light weight and the battery has a long run time.  No comparison to gas lawn mowers, I do not get exhausted mowing the lawn anymore and I do not have to go to the gas station when I realize I am out of gas.  This is my first battery operated lawn mower and I couldn't be happier.  Highly recommend!",
+      "Title": "Best Lawn Mower",
+      "UserNickname": "Happy",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "234685899",
+      "CID": "581420c7-4ec7-5dcf-b84b-c1494e48054b",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-07-05T04:00:07.000+00:00",
+      "LastModificationTime": "2025-03-04T15:51:22.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_App_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "b1ee081e-9fdd-44d3-a491-2d00c8971e76",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 8,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 8,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17201506ZXtP3eiWM7",
+      "SubmissionTime": "2024-07-05T03:37:22.000+00:00",
+      "ReviewText": "Works very well. It’s my first electric mower and I was surprised at how good it cut.",
+      "Title": "Nice",
+      "UserNickname": "Rayray",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "234526048",
+      "CID": "bc6f8507-c8bb-5a9f-9b11-e69d4697c379",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-06-27T00:45:06.000+00:00",
+      "LastModificationTime": "2024-08-14T02:06:23.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Store_ereceipt_Touch1_0179",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "aeb053e5-5161-4524-aac7-d823ac131729",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.33333298563957214,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16__17194490ObGxu8Dd2q",
+      "SubmissionTime": "2024-06-27T00:44:15.000+00:00",
+      "UserNickname": "Rytdfjjb46788",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "234381198",
+      "CID": "e4965d70-ab08-5e5e-a39b-c5ec8650cffc",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-06-19T20:15:11.000+00:00",
+      "LastModificationTime": "2025-05-10T17:36:40.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "45b55bb9-753e-47a3-a9f3-320e45416cc4",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zhrqdmoxo5qcn5jugxoyswykxs",
+          "SubmissionTime": "2025-04-30T00:43:47.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 6,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17188268LOLOSiKRvf",
+      "SubmissionTime": "2024-06-19T19:54:22.000+00:00",
+      "ReviewText": "Easy assembly, easy adjustment on height, cuts well.",
+      "Title": "Lowes was the place to order it.",
+      "UserNickname": "Disabled",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "234188062",
+      "CID": "91480b30-24aa-5c85-add7-a2d9386a5f7c",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-06-13T00:15:10.000+00:00",
+      "LastModificationTime": "2025-05-14T11:57:57.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "af50d341-b8c7-4486-988d-83bf86e4fed3",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 3,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__1718237650yhZAxoZF",
+      "SubmissionTime": "2024-06-13T00:14:29.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "234073679",
+      "CID": "c6eeccca-512d-5684-9d33-efb1c28fcaba",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-06-06T09:05:27.000+00:00",
+      "LastModificationTime": "2024-10-30T17:00:17.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nThank you for your feedback. We will review our instruction manual and update accordingly. Thank you for being a Wild Badger Power customer!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-06-06T13:57:04.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "20d7ff03-4c1a-4ffa-83cb-27b21bdb0485",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 7,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 7,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17176578ltgfPs4aDU",
+      "SubmissionTime": "2024-06-06T07:10:29.000+00:00",
+      "ReviewText": "The product is easy to use, but the instructions for putting it together was vague!!!",
+      "Title": "Go online to get better assembly instructions!!!",
+      "UserNickname": "None",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "233947707",
+      "CID": "dc629d83-7c7f-58ca-8305-eb768fbd41c6",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-05-29T22:18:49.000+00:00",
+      "LastModificationTime": "2024-12-13T18:46:12.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "dqrcljq1hxw07qho0t0vys4e3",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zsk2ns5ql4f1z9t4c52gajzvj6",
+          "SubmissionTime": "2024-06-07T08:25:09.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.4285709857940674,
+      "TotalFeedbackCount": 7,
+      "TotalNegativeFeedbackCount": 4,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17170208qwicmheWZf",
+      "SubmissionTime": "2024-05-29T22:13:41.000+00:00",
+      "UserNickname": "Bruce",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "233779488",
+      "CID": "f36310b3-db62-5fbc-b99b-d38a4cb9717a",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-05-20T05:17:25.000+00:00",
+      "LastModificationTime": "2024-08-18T03:22:49.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHi Flagmes, the charge may vary depending on the density, thickness, height, and the terrain type of your yard. We also sell a 5Ah battery for longer use time.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-05-20T18:55:36.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "f4b164cc-d798-4abb-a5e2-f4a8e9e5e236",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.857142984867096,
+      "TotalFeedbackCount": 7,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 6,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__171617693HBGE7hMSR",
+      "SubmissionTime": "2024-05-20T03:48:48.000+00:00",
+      "ReviewText": "Easy to use but only lasts abou 20 min",
+      "Title": "Light weight",
+      "UserNickname": "Flagmes",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "233753073",
+      "CID": "6c5a8850-0b83-5ab4-9b3d-52de5cad07b3",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-05-18T01:46:47.000+00:00",
+      "LastModificationTime": "2024-08-09T17:43:00.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "orderdetails_mobile",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "18761554-b70b-4ca1-bd6e-55a795bdb495",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.25,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 3,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17159950UhRywRdMsM",
+      "SubmissionTime": "2024-05-18T01:17:48.000+00:00",
+      "ReviewText": "This was so easy to buy.  Fast service.",
+      "Title": "Easy to purchase",
+      "UserNickname": "Stacey",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "233686833",
+      "CID": "ca7ce6fc-35d5-5739-95d0-96f35b51659f",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-05-13T22:31:37.000+00:00",
+      "LastModificationTime": "2024-08-09T17:43:03.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "f005eee1-bf30-4de4-9cf7-0917a77d7f19",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.25,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 3,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17156385KFBLAVMRlb",
+      "SubmissionTime": "2024-05-13T22:16:19.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "233480093",
+      "CID": "74607e1e-b00c-5115-bb3c-9daad8603b8c",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-05-02T16:30:26.000+00:00",
+      "LastModificationTime": "2026-04-02T03:07:21.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "orderhistory_desktop",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHi Laura2catz, I am sorry to hear this happened. We have several containers of parts being shipped to our warehouse now. If there is anything we can do in the meantime, please let us know. Customersupport&#64;wildbadgerpower.com\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-05-08T19:41:08.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "5b1f42f7-cbd1-4528-a003-486d3b2875a7",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z5tpluye4ucx7zvn9nxdd4pb09",
+          "SubmissionTime": "2025-05-02T05:01:35.000+00:00"
+        },
+        {
+          "AuthorId": "zaw3xhl8ljyk8dnx7brvkd5h9m",
+          "SubmissionTime": "2024-06-01T21:50:28.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.8500000238418579,
+      "TotalFeedbackCount": 20,
+      "TotalNegativeFeedbackCount": 3,
+      "TotalPositiveFeedbackCount": 17,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17146490rBplQuFp8W",
+      "SubmissionTime": "2024-05-02T11:24:41.000+00:00",
+      "ReviewText": "Ordered online and when it arrived, it was missing parts to even assemble it.  Emailed the company and was informed the missing parts weren't in inventory so they couldn't send promptly. How are  they are selling these without parts in inventory?  They advised I was better off returning to Lowes.  Now I have to drag this huge box back to the store.  AVOID this company.",
+      "Title": "Missing parts",
+      "UserNickname": "laura2catz",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "233418304",
+      "CID": "e48808d5-eeea-5437-b028-18540bb908de",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-04-29T13:45:12.000+00:00",
+      "LastModificationTime": "2025-10-20T17:04:20.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nThank you for being a valued Wild Badger Power customer! We appreciate your review and glad it has been positive. If you ever need assistance or need recommendations on other WBP products, feel free to contact us. Have a great week!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-04-29T19:42:16.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "21gxl4zagkwvym9o57i9y85ea",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.9473680257797241,
+      "TotalFeedbackCount": 38,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 36,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17143966xxy523ao3J",
+      "SubmissionTime": "2024-04-29T13:17:53.000+00:00",
+      "ReviewText": "I'm really impressed with this little, extremely light weight power house. First favorable impression is that it weighs practically nothing. Secondly how fast the big honkin' battery charges quickly. When I mowed my lawn there were some long areas. The automatic governor kicked right in and made easy work of the long grass. I mulched the lawn instead of bagging it, very effective mulching indeed. The lawn looks like it was all bagged. Did I mention it was very light-weight. It takes little effort to maneuver it around the yard. Don't let the all plastic construction fool you. It is tough as nails strong. One reviewer was lamenting that it would probably be seriously damaged by throwing it off the back of a pickup truck. Oh really?!?! And what lawn mower won't be.  And let's not forget the smooth battery power. One charge finished my average sized yard (your mileage may vary). It was such a pleasure to just push a button and squeeze the bail handle and you're going. Effortless light-weight mowing. I'm extremely happy with my Wild Badger Battery Power Mower.",
+      "Title": "Wild Badger Mower",
+      "UserNickname": "Pelkey",
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "ContextDataValues": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "ContextDataValuesOrder": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "233051266",
+      "CID": "1372332f-fee0-5231-87f1-e2bb721c2481",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-04-21T17:15:09.000+00:00",
+      "LastModificationTime": "2025-08-02T22:14:03.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_App_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "398294cc-c631-4086-aa30-5135bb1d43a4",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zu4akn1ghvdysppgbo5k6igq9n",
+          "SubmissionTime": "2024-04-30T23:03:26.000+00:00"
+        },
+        {
+          "AuthorId": "zq4bz0azezf6gqzfwvfq874s21",
+          "SubmissionTime": "2024-04-26T12:20:47.000+00:00"
+        },
+        {
+          "AuthorId": "zlfmihs8crsbhu2puv9je1n0x2",
+          "SubmissionTime": "2024-04-26T12:20:45.000+00:00"
+        },
+        {
+          "AuthorId": "z2pvewqnwlv0dbby0cs8lgraoa",
+          "SubmissionTime": "2024-04-26T12:20:43.000+00:00"
+        },
+        {
+          "AuthorId": "z3gl6xsflwknbqmdwvp50ibr1s",
+          "SubmissionTime": "2024-04-24T06:27:19.000+00:00"
+        },
+        {
+          "AuthorId": "zsxn5rrz9yoscuwefvqeh01s7u",
+          "SubmissionTime": "2024-04-21T17:09:46.000+00:00"
+        },
+        {
+          "AuthorId": "zl4lckooraklw32m3d3u29lv4w",
+          "SubmissionTime": "2024-04-18T16:04:58.000+00:00"
+        },
+        {
+          "AuthorId": "zho1xeg4kggxa9nw4tw2cy4j07",
+          "SubmissionTime": "2024-04-16T10:57:37.000+00:00"
+        },
+        {
+          "AuthorId": "zezm4vdam78cqnbia6b9rn9czv",
+          "SubmissionTime": "2024-04-16T10:57:36.000+00:00"
+        },
+        {
+          "AuthorId": "z5shumbnkj156d1c24mkt0nqnm",
+          "SubmissionTime": "2024-04-16T10:57:34.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 10,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.28125,
+      "TotalFeedbackCount": 32,
+      "TotalNegativeFeedbackCount": 23,
+      "TotalPositiveFeedbackCount": 9,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17128659KP0XMHBXdF",
+      "SubmissionTime": "2024-04-11T20:05:00.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    },
+    {
+      "Id": "228276028",
+      "CID": "8231e002-9604-56fc-b7f6-2e8f998fe999",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-04-28T17:30:11.000+00:00",
+      "LastModificationTime": "2025-08-02T22:13:55.000+00:00",
+      "ProductId": "5014466573",
+      "OriginalProductName": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "b3fa3c7f-95e1-4cf5-a240-d7b1b0fda48e",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z9wk6vhpm4efjiyiyhnknyo0sq",
+          "SubmissionTime": "2024-04-28T17:15:06.000+00:00"
+        },
+        {
+          "AuthorId": "zf0xka7ia4biqruo1eh2ylaoew",
+          "SubmissionTime": "2024-04-18T16:04:54.000+00:00"
+        },
+        {
+          "AuthorId": "zltkm6y3iotmdwhyhmipp0yyc2",
+          "SubmissionTime": "2024-04-17T08:22:34.000+00:00"
+        },
+        {
+          "AuthorId": "zmdw56qhzihc9bg8oiqjdkvgfe",
+          "SubmissionTime": "2024-04-17T08:22:32.000+00:00"
+        },
+        {
+          "AuthorId": "zt0de1ieujp3abzicotmw45ljj",
+          "SubmissionTime": "2024-04-17T08:22:31.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 5,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.3055559992790222,
+      "TotalFeedbackCount": 36,
+      "TotalNegativeFeedbackCount": 25,
+      "TotalPositiveFeedbackCount": 11,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__16949547LkANwigjcT",
+      "SubmissionTime": "2023-09-17T12:46:06.000+00:00",
+      "Title": "Parts missing! Had to return.",
+      "UserNickname": "Bobby",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "BadgesOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "Videos": [],
+      "CommentIds": [],
+      "TagDimensionsOrder": [],
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "Cons": null
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "5014466573": {
+        "FamilyIds": [
+          "5394451",
+          "SS_6003456082"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "5394451",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "30687",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "5394451",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "238",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:5394451",
+                "Locale": null
+              },
+              {
+                "Value": "BV_FE_FAMILY:SS_6003456082",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "5394451",
+                "Locale": null
+              },
+              {
+                "Value": "SS_6003456082",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "510535",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850046351457",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850046351457"
+        ],
+        "Name": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included",
+        "ModelNumbers": [
+          "WB40V18PLM"
+        ],
+        "Description": "POWERFUL: 18-inch walk behind push lawn mower powered by a 4.0Ah 40 Volt battery for high-performance and long runtime TURBO: Automatically turns on turbo mode for cutting thick grass easily CUTTING HEIGHT: One touch, 5 position cut height adjustment cutting 1.5-3.5 inches DUAL ACTION MODE: This function allows you to bag or mulch your grass clippings COMFORT: Soft grip handle for a better user experience and front handle for carrying convenience WHAT’S INCLUDED: Lawn mower, bag, 4.0Ah battery and charger 40 VOLT SYSTEM: Wild Badger Power 40 Volt Battery System is only compatible with our 40 Volt tool product line",
+        "ManufacturerPartNumbers": [
+          "5394451-108792-WB40V18PLM"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/4e7add48-409c-45f0-a943-f31fa3633415/69554608.jpeg",
+        "Id": "5014466573",
+        "CategoryId": "105322",
+        "BrandExternalId": "Wild Badger Power",
+        "Brand": {
+          "Id": "Wild Badger Power",
+          "Name": "Wild Badger Power"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Wild-Badger-Power-40-Volt-40-volt-18-in-Push-Cordless-Lawn-Mower-4-Ah-Battery-Charger-Included/5014466573",
+        "Disabled": false,
+        "ReviewIds": [],
+        "StoryIds": [],
+        "ISBNs": [],
+        "EANs": [],
+        "QuestionIds": [],
+        "ReviewStatistics": {
+          "RecommendedCount": 82,
+          "SecondaryRatingsAveragesOrder": [
+            "Ease",
+            "Value",
+            "Quality",
+            "NoiseLevel"
+          ],
+          "SecondaryRatingsAverages": {
+            "NoiseLevel": {
+              "Id": "NoiseLevel",
+              "AverageRating": 4.654545454545454,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null,
+              "ValueRange": 5
+            },
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 4.345454545454546,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null,
+              "ValueRange": 5
+            },
+            "Ease": {
+              "Id": "Ease",
+              "AverageRating": 4.821428571428571,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null,
+              "ValueRange": 5
+            },
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 4.403846153846154,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null,
+              "ValueRange": 5
+            }
+          },
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 78
+            },
+            {
+              "RatingValue": 4,
+              "Count": 19
+            },
+            {
+              "RatingValue": 3,
+              "Count": 15
+            },
+            {
+              "RatingValue": 1,
+              "Count": 10
+            },
+            {
+              "RatingValue": 2,
+              "Count": 7
+            }
+          ],
+          "NotHelpfulVoteCount": 89,
+          "FirstSubmissionTime": "2023-09-17T12:46:06.000+00:00",
+          "LastSubmissionTime": "2026-08-17T14:52:36.000+00:00",
+          "TotalVideoCount": 0,
+          "AverageOverallRating": 4.147286821705427,
+          "HelpfulVoteCount": 351,
+          "TotalPhotoCount": 284,
+          "TotalReviewCount": 129,
+          "ContextDataDistributionOrder": [
+            "Sampling-lowes",
+            "VerifiedPurchaserCDV"
+          ],
+          "ContextDataDistribution": {
+            "Sampling-lowes": {
+              "Id": "Sampling-lowes",
+              "Values": [
+                {
+                  "Count": 58,
+                  "Value": "True"
+                }
+              ]
+            },
+            "VerifiedPurchaserCDV": {
+              "Id": "VerifiedPurchaserCDV",
+              "Values": [
+                {
+                  "Count": 62,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "NotRecommendedCount": 25,
+          "FeaturedReviewCount": 0,
+          "RatingsOnlyReviewCount": 0,
+          "TotalMediaCount": 284,
+          "OverallRatingRange": 5,
+          "TagDistribution": {},
+          "TagDistributionOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 129
+      },
+      "5015737229": {
+        "FamilyIds": [
+          "6595296",
+          "SS_6003456082"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "6595296",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "30687",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "6595296",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "238",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:6595296",
+                "Locale": null
+              },
+              {
+                "Value": "BV_FE_FAMILY:SS_6003456082",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "6595296",
+                "Locale": null
+              },
+              {
+                "Value": "SS_6003456082",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "510535",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850046351778",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850046351778"
+        ],
+        "Name": "Cordless 40-volt, 21-in Self Propelled Battery Walk Mower with  (2) 4 Ah Batteries Included",
+        "ModelNumbers": [
+          "WB40VSP21LM"
+        ],
+        "Description": "POWERFUL: 21-inch steel deck self-propelled lawn mower is powered by (2) 4.0 Ah batteries TURBO: Automatically turns on turbo mode for cutting thick grass easily CUTTING HEIGHT: One touch, 7 position cut height adjustment cutting 1-3.55 inches TRIPLE MODE: This function allows you to bag, mulch or side discharge your grass clippings COMFORT: Soft grip handle for a better user experience and front handle for carrying convenience WHAT’S INCLUDED: Lawn mower, bag, (2) 4.0Ah batteries and charger 40 VOLT SYSTEM: Wild Badger Power 40 Volt Battery System is only compatible with our 40 Volt tool product line",
+        "ManufacturerPartNumbers": [
+          "6595296-108792-WB40VSP21LM"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/5553f212-4c42-4d26-a133-2c49a09b5f7e/70660122.jpeg",
+        "Id": "5015737229",
+        "CategoryId": "105322",
+        "BrandExternalId": "Wild Badger Power",
+        "Brand": {
+          "Id": "Wild Badger Power",
+          "Name": "Wild Badger Power"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Wild-Badger-Power-Cordless-40-volt-21-in-Cordless-Self-propelled-Lawn-Mower-4-Ah-2-Batteries-and-Charger-Included/5015737229",
+        "Disabled": false,
+        "ReviewIds": [],
+        "StoryIds": [],
+        "ISBNs": [],
+        "EANs": [],
+        "QuestionIds": [],
+        "ReviewStatistics": {
+          "ContextDataDistributionOrder": [
+            "Sampling-lowes",
+            "VerifiedPurchaserCDV"
+          ],
+          "ContextDataDistribution": {
+            "Sampling-lowes": {
+              "Id": "Sampling-lowes",
+              "Values": [
+                {
+                  "Count": 58,
+                  "Value": "True"
+                }
+              ]
+            },
+            "VerifiedPurchaserCDV": {
+              "Id": "VerifiedPurchaserCDV",
+              "Values": [
+                {
+                  "Count": 62,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "NotRecommendedCount": 25,
+          "SecondaryRatingsAveragesOrder": [
+            "Ease",
+            "Value",
+            "Quality",
+            "NoiseLevel"
+          ],
+          "SecondaryRatingsAverages": {
+            "NoiseLevel": {
+              "Id": "NoiseLevel",
+              "AverageRating": 4.654545454545454,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null,
+              "ValueRange": 5
+            },
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 4.403846153846154,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null,
+              "ValueRange": 5
+            },
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 4.345454545454546,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null,
+              "ValueRange": 5
+            },
+            "Ease": {
+              "Id": "Ease",
+              "AverageRating": 4.821428571428571,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null,
+              "ValueRange": 5
+            }
+          },
+          "AverageOverallRating": 4.147286821705427,
+          "TotalPhotoCount": 284,
+          "HelpfulVoteCount": 351,
+          "FirstSubmissionTime": "2023-09-17T12:46:06.000+00:00",
+          "LastSubmissionTime": "2026-08-17T14:52:36.000+00:00",
+          "NotHelpfulVoteCount": 89,
+          "TotalVideoCount": 0,
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 78
+            },
+            {
+              "RatingValue": 4,
+              "Count": 19
+            },
+            {
+              "RatingValue": 3,
+              "Count": 15
+            },
+            {
+              "RatingValue": 1,
+              "Count": 10
+            },
+            {
+              "RatingValue": 2,
+              "Count": 7
+            }
+          ],
+          "RecommendedCount": 82,
+          "FeaturedReviewCount": 0,
+          "TotalReviewCount": 129,
+          "RatingsOnlyReviewCount": 0,
+          "TotalMediaCount": 284,
+          "OverallRatingRange": 5,
+          "TagDistribution": {},
+          "TagDistributionOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 129
+      },
+      "5014394923": {
+        "FamilyIds": [
+          "5378633",
+          "SS_6003456082"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "5378633",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "30687",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "5378633",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "238",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:5378633",
+                "Locale": null
+              },
+              {
+                "Value": "BV_FE_FAMILY:SS_6003456082",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "5378633",
+                "Locale": null
+              },
+              {
+                "Value": "SS_6003456082",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "510535",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850046351198",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850046351198"
+        ],
+        "Name": "20 Volt, 16-in Push Battery Walk Mower with  (2) 4 Ah Batteries Included",
+        "ModelNumbers": [
+          "WB20V16LM"
+        ],
+        "Description": "POWERFUL: 16-inch walk behind push lawn mower is powered by (2) 4.0Ah 20 Volt batteries TURBO: Automatically turns on turbo mode for cutting thick grass easily CUTTING HEIGHT: One touch, 5 position cut height adjustment cutting 1-3 inches DUAL MODE: This function allows you to bag or mulch your grass clippings COMFORT: Soft grip handle for a better user experience WHAT’S INCLUDED: Lawn mower, bag, (2) 4.0Ah batteries and (2) fast chargers 20 VOLT SYSTEM: Wild Badger Power 20 Volt Battery System is only compatible with our 20 Volt tool product line",
+        "ManufacturerPartNumbers": [
+          "5378633-108792-WB20V16LM"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/5b2ab65f-8797-4f69-8670-1d0e803760da/70658452.jpeg",
+        "Id": "5014394923",
+        "CategoryId": "105322",
+        "BrandExternalId": "Wild Badger Power",
+        "Brand": {
+          "Id": "Wild Badger Power",
+          "Name": "Wild Badger Power"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Wild-Badger-Power-20-volt-16-in-Push-Cordless-Lawn-Mower-4-Ah-Battery-Charger-Included/5014394923",
+        "Disabled": false,
+        "ReviewIds": [],
+        "StoryIds": [],
+        "ISBNs": [],
+        "EANs": [],
+        "QuestionIds": [],
+        "ReviewStatistics": {
+          "SecondaryRatingsAveragesOrder": [
+            "Ease",
+            "Value",
+            "Quality",
+            "NoiseLevel"
+          ],
+          "SecondaryRatingsAverages": {
+            "NoiseLevel": {
+              "Id": "NoiseLevel",
+              "AverageRating": 4.654545454545454,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null,
+              "ValueRange": 5
+            },
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 4.345454545454546,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null,
+              "ValueRange": 5
+            },
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 4.403846153846154,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null,
+              "ValueRange": 5
+            },
+            "Ease": {
+              "Id": "Ease",
+              "AverageRating": 4.821428571428571,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null,
+              "ValueRange": 5
+            }
+          },
+          "ContextDataDistributionOrder": [
+            "Sampling-lowes",
+            "VerifiedPurchaserCDV"
+          ],
+          "ContextDataDistribution": {
+            "Sampling-lowes": {
+              "Id": "Sampling-lowes",
+              "Values": [
+                {
+                  "Count": 58,
+                  "Value": "True"
+                }
+              ]
+            },
+            "VerifiedPurchaserCDV": {
+              "Id": "VerifiedPurchaserCDV",
+              "Values": [
+                {
+                  "Count": 62,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "RecommendedCount": 82,
+          "TotalVideoCount": 0,
+          "AverageOverallRating": 4.147286821705427,
+          "NotHelpfulVoteCount": 89,
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 78
+            },
+            {
+              "RatingValue": 4,
+              "Count": 19
+            },
+            {
+              "RatingValue": 3,
+              "Count": 15
+            },
+            {
+              "RatingValue": 1,
+              "Count": 10
+            },
+            {
+              "RatingValue": 2,
+              "Count": 7
+            }
+          ],
+          "HelpfulVoteCount": 351,
+          "FirstSubmissionTime": "2023-09-17T12:46:06.000+00:00",
+          "LastSubmissionTime": "2026-08-17T14:52:36.000+00:00",
+          "TotalPhotoCount": 284,
+          "TotalReviewCount": 129,
+          "NotRecommendedCount": 25,
+          "FeaturedReviewCount": 0,
+          "RatingsOnlyReviewCount": 0,
+          "TotalMediaCount": 284,
+          "OverallRatingRange": 5,
+          "TagDistribution": {},
+          "TagDistributionOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 129
+      }
+    },
+    "ProductsOrder": [
+      "5014466573",
+      "5015737229",
+      "5014394923"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

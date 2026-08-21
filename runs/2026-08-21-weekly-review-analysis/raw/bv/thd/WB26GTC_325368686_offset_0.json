@@ -1,0 +1,931 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 4,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "297918044",
+      "CID": "830b7952-cfa9-5048-bfa2-800b3818dc33",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2026-01-14T06:00:06.000+00:00",
+      "LastModificationTime": "2026-02-10T00:33:52.000+00:00",
+      "ProductId": "325368686",
+      "OriginalProductName": "15in Cutting Width Gas 26cc Grass Trimmer with 60° Curved Shaft",
+      "CampaignId": "BV_REVIEW_DISPLAY",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHello,  If you are still having a problem with the tool, please contact Customersupport&#64;wildbadgerpower.com for help and assistance.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2026-01-14T19:00:52.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "UserLocation": "Florida",
+      "AuthorId": "ztfp6gito0zq7r2sfjeuha6pi5",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17683690obTgxBYcnW",
+      "SubmissionTime": "2026-01-14T05:37:03.000+00:00",
+      "ReviewText": "Bought one of these a few years ago and out of the box never worked.   After contacting customer service multiple times the issue was never solved & the only correspondence i ever received was \" \nThank you for submitting your request. Someone from our support team will be in touch with you soon.\n\nThank you and have a great day,\nThe Wild Badger Power Team remember\".  Can't remember if it was purchased from HD or not but i can assure you the help line for this manufacturer did not live up to its name.",
+      "Title": "Absolutely Not!",
+      "UserNickname": "Tool Wolf",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 1,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null
+        },
+        "Value": {
+          "Value": 1,
+          "Id": "Value",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null
+        },
+        "CustomerService": {
+          "Value": 1,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null
+        },
+        "Fulfillment": {
+          "Value": 1,
+          "Id": "Fulfillment",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null
+        },
+        "Quality": {
+          "Value": 1,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null
+        }
+      },
+      "AdditionalFields": {
+        "ZipCode": {
+          "Value": "32068",
+          "Id": "ZipCode"
+        },
+        "State": {
+          "Value": "Florida",
+          "Id": "State"
+        }
+      },
+      "AdditionalFieldsOrder": [
+        "State",
+        "ZipCode"
+      ],
+      "ContextDataValues": {},
+      "IsSyndicated": false,
+      "TagDimensionsOrder": [],
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "CommentIds": [],
+      "Pros": null,
+      "Helpfulness": null,
+      "Badges": {},
+      "BadgesOrder": [],
+      "Cons": null,
+      "TagDimensions": {},
+      "InappropriateFeedbackList": [],
+      "ContextDataValuesOrder": [],
+      "Videos": [],
+      "Photos": []
+    },
+    {
+      "Id": "293629360",
+      "CID": "981d8d44-55a2-50a2-902a-e4fd29d6a58d",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2025-08-19T15:00:06.000+00:00",
+      "LastModificationTime": "2025-10-13T22:49:22.000+00:00",
+      "ProductId": "325368686",
+      "OriginalProductName": "15in Cutting Width Gas 26cc Grass Trimmer with 60° Curved Shaft",
+      "CampaignId": "BV_REVIEW_DISPLAY",
+      "UserLocation": "Indianapolis, IN",
+      "AuthorId": "zegisy22z6181gmxuo7p4qaufk",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/a903c5de-c12c-552a-90ae-cd9ed1247935"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/ebff3183-ee4a-5c35-9f58-a5295049705f"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/efef6dc6-71a5-5ce3-83dd-ae4aeda274bc"
+            }
+          },
+          "Id": "19001311",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/d60ceb05-56d5-58d7-bb9d-c734aa8bc202"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/882e7c77-c813-5804-ba4b-ee3eb4978bbb"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/aa9d9661-2b8b-5697-adf2-003b98523083"
+            }
+          },
+          "Id": "19001312",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/55bb2058-4878-5684-a599-da8e1ba9b7dc"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/e81f3081-3fec-5757-9130-1a3dfe056eac"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/e8c9e897-5b1d-5396-a612-5718a47fb3af"
+            }
+          },
+          "Id": "19001313",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/69209a88-f9ef-52f8-89c5-280baa3e0574"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/6d77ccd0-b7ef-5182-bd0d-c675ab8a296c"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/5d4d7cf2-f85a-5603-a95a-0edf23315717"
+            }
+          },
+          "Id": "19001314",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/e24d5bc3-4d87-5d88-b643-8e678f341953"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/afbfa725-63a9-57f8-8a96-7a7146cce483"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/3328775a-089b-5f99-8a0b-701a6f6e6f0d"
+            }
+          },
+          "Id": "19001315",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17556103ZMckHpNFY5",
+      "SubmissionTime": "2025-08-19T13:32:52.000+00:00",
+      "ReviewText": "Out of the box, 15 minutes to assemble. I'll have to wait till the trim string is used up, to see how difficult it will be to respool it with new string. On initial start, had to pull a few more times than stated, but after that, 2 to 3 pulls to start. Trimmed around my entire house, driveway, walkways, and lawn edges without issue and no loss in power. Cutting width was wide and helped get the job done efficiently. I've had straight shaft trimmers, but I like this curved design much better. Handling was comfortable and evenly balanced. My next fill up, I'm going to try premium gas to mix with the oil to see if it'll run a bit smoother. Regular unleaded seemed a little rough, but not a deal breaker at all.",
+      "Title": "More than suitable for home use",
+      "UserNickname": "Mr  Sixofnine",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null
+        },
+        "Fulfillment": {
+          "Value": 5,
+          "Id": "Fulfillment",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null
+        }
+      },
+      "ContextDataValues": {},
+      "IsSyndicated": false,
+      "TagDimensionsOrder": [],
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "CommentIds": [],
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "Helpfulness": null,
+      "Badges": {},
+      "BadgesOrder": [],
+      "Cons": null,
+      "TagDimensions": {},
+      "InappropriateFeedbackList": [],
+      "ContextDataValuesOrder": [],
+      "Videos": []
+    },
+    {
+      "Id": "293539477",
+      "CID": "4ef31c01-3a89-5b3d-8a40-3100729cd793",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2025-08-14T21:15:08.000+00:00",
+      "LastModificationTime": "2025-10-13T22:46:48.000+00:00",
+      "ProductId": "325368686",
+      "OriginalProductName": "15in Cutting Width Gas 26cc Grass Trimmer with 60° Curved Shaft",
+      "CampaignId": "BV_REVIEW_DISPLAY",
+      "AuthorId": "zhd6xxm426opjgxl8zapvc9pgu",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/d263ab73-475b-5261-abdf-25a6871dc5c2"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/9a10a026-9b8d-5ecb-a564-9ca7a409d1f7"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/a30a220e-8919-5c0a-a5be-3715b7099267"
+            }
+          },
+          "Id": "18948905",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/3f4b984c-0cc3-5087-9921-238c3e13fa8b"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/8d8dc476-2410-5761-8a32-849188c127a3"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/7a1c3ecb-82bd-5e38-b861-c8f63b2a3535"
+            }
+          },
+          "Id": "18948906",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/df21722b-7d5d-5155-89eb-eafc8b8be323"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/83130567-7603-5bd5-b69e-bab3b39dbe7f"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/0da43be3-308e-5232-b3b7-4cf6063a0f32"
+            }
+          },
+          "Id": "18948907",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/3e981acc-5ba5-5c4a-8b64-b4fe8bcae4f6"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/e391c274-c9ad-5c4c-9294-335dbdc4130f"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/214a026c-221d-5d3d-8997-73575a5ec795"
+            }
+          },
+          "Id": "18948908",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_175520021LrPgXw13j",
+      "SubmissionTime": "2025-08-14T19:36:53.000+00:00",
+      "ReviewText": "Took in all about 10 minutes to assemble and crank it up runs like a champ very strong motor easy to start and not as heavy as you would think I would buy another if needed.",
+      "Title": "Excellent trimmer.",
+      "UserNickname": "Satacoi",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null
+        },
+        "Fulfillment": {
+          "Value": 5,
+          "Id": "Fulfillment",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "MaxLabel": null,
+          "Label": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null
+        }
+      },
+      "ContextDataValues": {},
+      "IsSyndicated": false,
+      "TagDimensionsOrder": [],
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "CommentIds": [],
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "Helpfulness": null,
+      "Badges": {},
+      "BadgesOrder": [],
+      "Cons": null,
+      "TagDimensions": {},
+      "InappropriateFeedbackList": [],
+      "UserLocation": null,
+      "ContextDataValuesOrder": [],
+      "Videos": [],
+      "IsRecommended": null
+    },
+    {
+      "Id": "293322079",
+      "CID": "f339e7bf-7282-54f0-874b-4b171c003b90",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2025-08-06T22:30:08.000+00:00",
+      "LastModificationTime": "2025-08-07T13:30:32.000+00:00",
+      "ProductId": "325368686",
+      "OriginalProductName": "15in Cutting Width Gas 26cc Grass Trimmer with 60° Curved Shaft",
+      "CampaignId": "BV_REVIEW_DISPLAY",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nParts for the Wild Badger tools can be found at the following online site    WildBadgerpower.com\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2025-08-07T13:30:32.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "zhomkrikxmami7ea4re4pyurly",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17545179Lh4xLpYRZ0",
+      "SubmissionTime": "2025-08-06T22:05:35.000+00:00",
+      "ReviewText": "Recoil Starter Broke. Can find replacement parts. Badgers own website did not recognize that the WB26GTC existed !",
+      "Title": "Good luck finding parts.",
+      "UserNickname": "BERLLC",
+      "ContextDataValues": {},
+      "IsSyndicated": false,
+      "TagDimensionsOrder": [],
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "AdditionalFields": {},
+      "CommentIds": [],
+      "Pros": null,
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "Helpfulness": null,
+      "Badges": {},
+      "BadgesOrder": [],
+      "Cons": null,
+      "TagDimensions": {},
+      "InappropriateFeedbackList": [],
+      "SecondaryRatingsOrder": [],
+      "UserLocation": null,
+      "ContextDataValuesOrder": [],
+      "Videos": [],
+      "IsRecommended": null,
+      "Photos": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "325368686": {
+        "AttributesOrder": [
+          "Category",
+          "Subclass",
+          "ChildSku",
+          "GLN",
+          "THDBrowseOnlinestatus",
+          "THDOnlineStatus",
+          "Department",
+          "IDMVendorAcctName",
+          "THDSubClass_name",
+          "THDClass_name",
+          "THDSubSubClass",
+          "GTIN14",
+          "THD_SubSubClass_name",
+          "THDDept_name",
+          "THDDotComOnlinestatus",
+          "THDSubClass",
+          "HDClass",
+          "THDDept",
+          "dcs_nbr",
+          "AVAILABILITY",
+          "Class",
+          "MFGModel"
+        ],
+        "Attributes": {
+          "Category": {
+            "Id": "Category",
+            "Values": [
+              {
+                "Value": "POWER> HANDHELD POWER> OTHER TRIMMERS> GAS TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "Subclass": {
+            "Id": "Subclass",
+            "Values": [
+              {
+                "Value": "19",
+                "Locale": null
+              }
+            ]
+          },
+          "ChildSku": {
+            "Id": "ChildSku",
+            "Values": [
+              {
+                "Value": "325368686",
+                "Locale": null
+              }
+            ]
+          },
+          "GLN": {
+            "Id": "GLN",
+            "Values": [
+              {
+                "Value": "0854641007009",
+                "Locale": null
+              }
+            ]
+          },
+          "THDBrowseOnlinestatus": {
+            "Id": "THDBrowseOnlinestatus",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "THDOnlineStatus": {
+            "Id": "THDOnlineStatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "Department": {
+            "Id": "Department",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "IDMVendorAcctName": {
+            "Id": "IDMVendorAcctName",
+            "Values": [
+              {
+                "Value": "SUNSEEKER US INC",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass_name": {
+            "Id": "THDSubClass_name",
+            "Values": [
+              {
+                "Value": "OTHER TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDClass_name": {
+            "Id": "THDClass_name",
+            "Values": [
+              {
+                "Value": "HANDHELD POWER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubSubClass": {
+            "Id": "THDSubSubClass",
+            "Values": [
+              {
+                "Value": "102",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850046351044",
+                "Locale": null
+              }
+            ]
+          },
+          "THD_SubSubClass_name": {
+            "Id": "THD_SubSubClass_name",
+            "Values": [
+              {
+                "Value": "GAS TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept_name": {
+            "Id": "THDDept_name",
+            "Values": [
+              {
+                "Value": "SEASONAL/GARDEN",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDotComOnlinestatus": {
+            "Id": "THDDotComOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass": {
+            "Id": "THDSubClass",
+            "Values": [
+              {
+                "Value": "19",
+                "Locale": null
+              }
+            ]
+          },
+          "HDClass": {
+            "Id": "HDClass",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept": {
+            "Id": "THDDept",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "dcs_nbr": {
+            "Id": "dcs_nbr",
+            "Values": [
+              {
+                "Value": "28-32-19",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "Class": {
+            "Id": "Class",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "MFGModel": {
+            "Id": "MFGModel",
+            "Values": [
+              {
+                "Value": "WB26GTC",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850046351044"
+        ],
+        "Description": "The Wild Badger Power Curved Shaft Grass Trimmer is a powerful tool. Powered by a 26cc, 2-cycle, full-crank engine, this trimmer is designed for reliability. The full crank design delivers a fast start and smooth operation reducing emissions, increasing fuel efficiency and delivering longer life. Built with a robust aluminum tube, the trimmer is lightweight and durable for many hours of use. The tap-and-go trimmer head with twin line cutting system allows you to make good use of up to a 15-inch cutting swath to finish the job quickly.",
+        "ManufacturerPartNumbers": [
+          "WB26GTC"
+        ],
+        "ImageUrl": "https://images.thdstatic.com/productImages/ac7cd787-f5d9-4b1f-aa10-1820ab8a88c5/svn/wild-badger-power-gas-string-trimmers-wb26gtc-64_1000.jpg",
+        "Name": "15in Cutting Width Gas 26cc Grass Trimmer with 60° Curved Shaft",
+        "Id": "325368686",
+        "CategoryId": "7651c252-aec3-4d90-88e2-6f4fe31d6a1d",
+        "BrandExternalId": "WILDBADGERPOWER",
+        "Brand": {
+          "Id": "WILDBADGERPOWER",
+          "Name": "WILD BADGER POWER"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.homedepot.com/p/WILD-BADGER-POWER-15in-Cutting-Width-Gas-26cc-Grass-Trimmer-with-60-Curved-Shaft-WB26GTC/325368686",
+        "Disabled": false,
+        "EANs": [],
+        "QuestionIds": [],
+        "ReviewIds": [],
+        "ISBNs": [],
+        "FamilyIds": [],
+        "StoryIds": [],
+        "ModelNumbers": [],
+        "ReviewStatistics": {
+          "RecommendedCount": 1,
+          "HelpfulVoteCount": 0,
+          "TotalPhotoCount": 9,
+          "FirstSubmissionTime": "2025-08-06T22:05:35.000+00:00",
+          "LastSubmissionTime": "2026-01-14T05:37:03.000+00:00",
+          "NotHelpfulVoteCount": 0,
+          "TotalVideoCount": 0,
+          "RatingDistribution": [
+            {
+              "RatingValue": 1,
+              "Count": 2
+            },
+            {
+              "RatingValue": 5,
+              "Count": 2
+            }
+          ],
+          "AverageOverallRating": 3.0,
+          "SecondaryRatingsAveragesOrder": [
+            "Quality",
+            "Value"
+          ],
+          "SecondaryRatingsAverages": {
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 3.6666666666666665,
+              "MinLabel": null,
+              "ValueRange": 5,
+              "MaxLabel": null,
+              "DisplayType": "NORMAL"
+            },
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 3.6666666666666665,
+              "MinLabel": null,
+              "ValueRange": 5,
+              "MaxLabel": null,
+              "DisplayType": "NORMAL"
+            }
+          },
+          "NotRecommendedCount": 1,
+          "TotalReviewCount": 4,
+          "FeaturedReviewCount": 0,
+          "RatingsOnlyReviewCount": 0,
+          "ContextDataDistribution": {},
+          "ContextDataDistributionOrder": [],
+          "TotalMediaCount": 9,
+          "TagDistribution": {},
+          "TagDistributionOrder": [],
+          "OverallRatingRange": 5,
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 4
+      }
+    },
+    "ProductsOrder": [
+      "325368686"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

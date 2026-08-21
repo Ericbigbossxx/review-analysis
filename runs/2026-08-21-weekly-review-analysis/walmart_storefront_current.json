@@ -1,0 +1,325 @@
+{
+  "reportDate": "2026-08-21",
+  "expectedListings": 15,
+  "availableListings": 12,
+  "results": [
+    {
+      "sku": "ORIONX7",
+      "status": "AVAILABLE",
+      "dataAvailable": true,
+      "averageRating": 4.9,
+      "totalRatings": 21,
+      "totalReviews": 20,
+      "productName": "Sunseeker X7 Wireless Robot Lawn Mower 0.75 Acre 32000 sq ft",
+      "method": "user_assisted_personal_chrome",
+      "verifiedAt": "2026-08-21T06:59:00Z",
+      "totalReviewCount": 21,
+      "reviewsWithTextCount": 4,
+      "averageOverallRating": 4.9,
+      "ratings": {
+        "one": 0,
+        "two": 0,
+        "three": 1,
+        "four": 0,
+        "five": 4
+      },
+      "qaPassed": false,
+      "qaWarnings": [
+        "Page total vs aux feed distribution mismatch; storefront total is primary"
+      ]
+    },
+    {
+      "sku": "SKRMS4",
+      "status": "AVAILABLE",
+      "dataAvailable": true,
+      "averageRating": 4.5,
+      "totalRatings": 2,
+      "totalReviews": 2,
+      "productName": "Sunseeker S4 LiDAR Robot Lawn Mower for Up to 0.25 Acre (1000 m²), Vision AI + 360° 3D LiDAR Navigation, Wire-Free Virtual Boundary, Systematic Cutting, 42% Slope, App Control, 60 dB Quiet Mowing - Walmart.com",
+      "verifiedAt": "2026-08-21T07:00:56.590Z",
+      "totalReviewCount": 2,
+      "reviewsWithTextCount": 2,
+      "averageOverallRating": 4.5,
+      "ratings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 1,
+        "five": 1
+      },
+      "qaPassed": true,
+      "qaWarnings": []
+    },
+    {
+      "sku": "SKRMV3",
+      "status": "VERIFICATION_REQUIRED",
+      "dataAvailable": false,
+      "averageRating": null,
+      "totalRatings": null,
+      "totalReviews": null,
+      "productName": null,
+      "notes": "Robot Check (walmart.com/blocked) on controlled CDP profile",
+      "verifiedAt": "2026-08-21T07:01:13.552Z"
+    },
+    {
+      "sku": "SKRMX3PLUS",
+      "status": "AVAILABLE",
+      "dataAvailable": true,
+      "averageRating": 4.5,
+      "totalRatings": 24,
+      "totalReviews": 21,
+      "productName": "Sunseeker X3 Plus Robot Lawn Mower no Wire,0.3 Acre/13,000 Sq. Ft,Smart APP Control, AI & RTK Navigation, 6 Muti-Zone, Path Planning, for Small/Medium Yards - Walmart.com",
+      "verifiedAt": "2026-08-21T07:03:54.280Z",
+      "totalReviewCount": 24,
+      "reviewsWithTextCount": 5,
+      "averageOverallRating": 4.5,
+      "ratings": {
+        "one": 2,
+        "two": 0,
+        "three": 1,
+        "four": 1,
+        "five": 2
+      },
+      "qaPassed": false,
+      "qaWarnings": [
+        "Page total vs aux feed distribution mismatch; storefront total is primary"
+      ]
+    },
+    {
+      "sku": "SKRMX5",
+      "status": "AVAILABLE",
+      "dataAvailable": true,
+      "averageRating": 5,
+      "totalRatings": 1,
+      "totalReviews": null,
+      "productName": "Sunseeker X5 AWD Robot Lawn Mower, 0.5 Acre / 21,780 Sq. Ft., Wireless No Boundary Wire Mower with RTK Vision Navigation, AI Obstacle Avoidance, App Control - Walmart.com",
+      "verifiedAt": "2026-08-21T07:04:18.223Z",
+      "totalReviewCount": 1,
+      "reviewsWithTextCount": 0,
+      "averageOverallRating": 5,
+      "ratings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 1
+      },
+      "qaPassed": true,
+      "qaWarnings": []
+    },
+    {
+      "sku": "WB20V16LM",
+      "status": "AVAILABLE",
+      "dataAvailable": true,
+      "averageRating": 4.2,
+      "totalRatings": 98,
+      "totalReviews": 39,
+      "productName": "Wild Badger Power 40V 16″ Cordless Lawn Mower Brushless, 1,900 sq ft/0.044 ac,1×4.0Ah Battery & Fast Charger, 5-Position Height,for Small Residential Lawns - Walmart.com",
+      "verifiedAt": "2026-08-21T07:04:35.306Z",
+      "totalReviewCount": 98,
+      "reviewsWithTextCount": 33,
+      "averageOverallRating": 4.2,
+      "ratings": {
+        "one": 6,
+        "two": 3,
+        "three": 7,
+        "four": 8,
+        "five": 22
+      },
+      "qaPassed": false,
+      "qaWarnings": [
+        "Page total vs aux feed distribution mismatch; storefront total is primary"
+      ]
+    },
+    {
+      "sku": "WB20VCOMBODP",
+      "status": "AVAILABLE",
+      "dataAvailable": true,
+      "averageRating": 4,
+      "totalRatings": 9,
+      "totalReviews": null,
+      "productName": "Wild Badger 40V Cordless String Trimmer with Pole Saw, Hedge Trimmer & Brush Cutter Attachments, 4-Tool Kit, 2 Batteries & Charger Included - Walmart.com",
+      "verifiedAt": "2026-08-21T07:04:54.062Z",
+      "totalReviewCount": 9,
+      "reviewsWithTextCount": 3,
+      "averageOverallRating": 4,
+      "ratings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 1,
+        "five": 2
+      },
+      "qaPassed": false,
+      "qaWarnings": [
+        "Page total vs aux feed distribution mismatch; storefront total is primary"
+      ]
+    },
+    {
+      "sku": "WB20VTAB",
+      "status": "AVAILABLE",
+      "dataAvailable": true,
+      "averageRating": 4.2,
+      "totalRatings": 331,
+      "totalReviews": 116,
+      "productName": "Wild Badger Power 20V Weed Eater & Trimmer Set, 2×2.0Ah Batteries, Cordless Lightweight Grass Trimmer for Small Yards, Fence Lines & Easy Lawn Care - Walmart.com",
+      "verifiedAt": "2026-08-21T07:05:18.162Z",
+      "totalReviewCount": 331,
+      "reviewsWithTextCount": 119,
+      "averageOverallRating": 4.2,
+      "ratings": {
+        "one": 25,
+        "two": 4,
+        "three": 16,
+        "four": 34,
+        "five": 128
+      },
+      "qaPassed": false,
+      "qaWarnings": [
+        "Page total vs aux feed distribution mismatch; storefront total is primary"
+      ]
+    },
+    {
+      "sku": "WB26MTSE",
+      "status": "VERIFICATION_REQUIRED",
+      "dataAvailable": false,
+      "averageRating": null,
+      "totalRatings": null,
+      "totalReviews": null,
+      "productName": null,
+      "notes": "Page shows 'We could not find this page' - suspected delisted/404, needs manual confirm",
+      "verifiedAt": "2026-08-21T07:05:32.111Z"
+    },
+    {
+      "sku": "WB40V14PLM",
+      "status": "AVAILABLE",
+      "dataAvailable": true,
+      "averageRating": 4.3,
+      "totalRatings": 3,
+      "totalReviews": 3,
+      "productName": "Wild Badger Power 40V 14″ Cordless Lawn Mower Brushless,1,600 sq ft/0.037 ac,1×4.0Ah Battery & Fast Charger, 5-Position Height,for Townhomes & Small Yards - Walmart.com",
+      "verifiedAt": "2026-08-21T07:05:47.332Z",
+      "totalReviewCount": 3,
+      "reviewsWithTextCount": 1,
+      "averageOverallRating": 4.3,
+      "ratings": {
+        "one": 0,
+        "two": 0,
+        "three": 1,
+        "four": 0,
+        "five": 0
+      },
+      "qaPassed": false,
+      "qaWarnings": [
+        "Page total vs aux feed distribution mismatch; storefront total is primary"
+      ]
+    },
+    {
+      "sku": "WB40V18PLM",
+      "status": "AVAILABLE",
+      "dataAvailable": true,
+      "averageRating": 4.2,
+      "totalRatings": 106,
+      "totalReviews": 44,
+      "productName": "Wild Badger Power 40V 18″ Cordless Lawn Mower Brushless , 2,100 sq ft/0.048 ac, 1×4.0Ah Battery & Fast Charger, 5-Position Height ,for Small-to-Medium Lawns - Walmart.com",
+      "verifiedAt": "2026-08-21T07:06:03.347Z",
+      "totalReviewCount": 106,
+      "reviewsWithTextCount": 41,
+      "averageOverallRating": 4.2,
+      "ratings": {
+        "one": 5,
+        "two": 3,
+        "three": 3,
+        "four": 9,
+        "five": 35
+      },
+      "qaPassed": false,
+      "qaWarnings": [
+        "Page total vs aux feed distribution mismatch; storefront total is primary"
+      ]
+    },
+    {
+      "sku": "WB40VCOMBO",
+      "status": "AVAILABLE",
+      "dataAvailable": true,
+      "averageRating": 5,
+      "totalRatings": 3,
+      "totalReviews": 3,
+      "productName": "Wild Badger 40V 4-in-1 Cordless Outdoor Power Tool Kit (Weed Wacker, Pole Saw, Hedge Trimmer, Brush Cutter) with 2*4 AhBatteries & Charger - Walmart.com",
+      "verifiedAt": "2026-08-21T07:06:19.374Z",
+      "totalReviewCount": 3,
+      "reviewsWithTextCount": 0,
+      "averageOverallRating": 5,
+      "ratings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      },
+      "qaPassed": false,
+      "qaWarnings": [
+        "Page total vs aux feed distribution mismatch; storefront total is primary"
+      ]
+    },
+    {
+      "sku": "WB40VTBCC",
+      "status": "AVAILABLE",
+      "dataAvailable": true,
+      "averageRating": 4,
+      "totalRatings": 29,
+      "totalReviews": 20,
+      "productName": "WILD BADGER POWER 40V Weed Wacker & Leaf Blower, Wheeled Edger Kit Electric with 2Ah Battery & Charger, String Trimmer - Walmart.com",
+      "verifiedAt": "2026-08-21T07:06:35.987Z",
+      "totalReviewCount": 29,
+      "reviewsWithTextCount": 10,
+      "averageOverallRating": 4,
+      "ratings": {
+        "one": 2,
+        "two": 1,
+        "three": 1,
+        "four": 2,
+        "five": 7
+      },
+      "qaPassed": false,
+      "qaWarnings": [
+        "Page total vs aux feed distribution mismatch; storefront total is primary"
+      ]
+    },
+    {
+      "sku": "WB53CULT",
+      "status": "VERIFICATION_REQUIRED",
+      "dataAvailable": false,
+      "averageRating": null,
+      "totalRatings": null,
+      "totalReviews": null,
+      "productName": null,
+      "notes": "Page shows 'We could not find this page' - suspected delisted/404, needs manual confirm",
+      "verifiedAt": "2026-08-21T07:06:50.150Z"
+    },
+    {
+      "sku": "WBPMT26P",
+      "status": "AVAILABLE",
+      "dataAvailable": true,
+      "averageRating": 4,
+      "totalRatings": 119,
+      "totalReviews": 53,
+      "productName": "WILD BADGER POWER 26cc Multi -Tool Gas String Trimmer 4 in 1 Garden Tool Combo with hedge pole saw - Walmart.com",
+      "verifiedAt": "2026-08-21T07:07:05.464Z",
+      "totalReviewCount": 119,
+      "reviewsWithTextCount": 51,
+      "averageOverallRating": 4,
+      "ratings": {
+        "one": 11,
+        "two": 6,
+        "three": 5,
+        "four": 10,
+        "five": 40
+      },
+      "qaPassed": false,
+      "qaWarnings": [
+        "Page total vs aux feed distribution mismatch; storefront total is primary"
+      ]
+    }
+  ]
+}
