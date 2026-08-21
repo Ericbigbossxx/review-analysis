@@ -1,5 +1,30 @@
 ﻿[
     {
+        "run_id":  "2026-08-21-weekly-review-analysis",
+        "title":  "2026-08-21 周度差评分析",
+        "date":  "2026-08-21",
+        "period":  "2026 周度周会",
+        "report_type":  "weekly",
+        "platforms":  [
+                          "Lowes",
+                          "THD",
+                          "Walmart"
+                      ],
+        "totalReviews":  2154,
+        "lowStarReviews":  528,
+        "lowStarRate":  0.2451,
+        "strongNegativeReviews":  388,
+        "p0Count":  16,
+        "topThemes":  [
+                          "启动/动力故障 153",
+                          "客服/履约 62",
+                          "电池/充电 61"
+                      ],
+        "topRiskSku":  "THD WBP52BCI",
+        "reportUrl":  "reports/2026-08-21-weekly-review-analysis.html",
+        "notes":  "Walmart/THD/Lowes 35/35 SKU 周度差评分析;Walmart storefront 12/15 CDP 验证,3 SKU 用本期辅助 feed(SKRMV3 人机;WB26MTSE/WB53CULT 页面404在途),WB40VCOMBO 恢复"
+    },
+    {
         "run_id":  "2026-08-14-weekly-review-analysis",
         "title":  "2026-08-14 周度差评分析",
         "date":  "2026-08-14",
