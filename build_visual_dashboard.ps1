@@ -114,6 +114,10 @@ $itemsJson = ConvertTo-Json -InputObject @($itemRows) -Depth 8 -Compress
 $hitsJson = ConvertTo-Json -InputObject @($hitRows) -Depth 5 -Compress
 $metaJson = ConvertTo-Json -InputObject $meta -Depth 4 -Compress
 $comparisonJson = ConvertTo-Json -InputObject $comparison -Depth 8 -Compress
+# Platform tabs come from the summary labels (Lowes/Walmart/THD); the period
+# comparison builder emits LOWES/WALMART codes. Normalize so per-platform
+# comparison rows match the active tab (2026-09-03: rows vanished otherwise).
+$comparisonJson = $comparisonJson -replace '"platform":"LOWES"', '"platform":"Lowes"' -replace '"platform":"WALMART"', '"platform":"Walmart"'
 
 $template = @'
 <!doctype html>

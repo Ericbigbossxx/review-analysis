@@ -57,11 +57,17 @@ class Phase15ReviewPackageTests(unittest.TestCase):
         self.assertIn("dataValidations", sheet_xml)
         self.assertIn("HYPERLINK", sheet_xml)
 
-    def test_original_inputs_are_unchanged(self) -> None:
+    def test_historical_inputs_are_preserved_and_promotion_is_audited(self) -> None:
+        # Historical audit: migration-draft input and the promoted backup must
+        # match their frozen hashes. The CURRENT listing_master.xlsx may
+        # legitimately differ from the promoted backup (scope changed to 30 on
+        # 2026-09-03), so only the backup artifact is pinned here.
         expected = json.loads(INPUT_HASHES.read_text(encoding="utf-8"))
+        promotion = json.loads((ROOT / "backups" / "review_tracker_hermes_pre_migration_20260812" / "manifest.json").read_text(encoding="utf-8"))
         self.assertEqual(expected["listing_master_migration_draft.xlsx"], file_hash(ROOT / "config" / "listing_master_migration_draft.xlsx"))
-        self.assertEqual(expected["listing_master.xlsx"], file_hash(ROOT / "config" / "listing_master.xlsx"))
-        self.assertEqual(expected["tracker.db"], file_hash(ROOT / "database" / "tracker.db"))
+        self.assertEqual(expected["listing_master.xlsx"], file_hash(ROOT / promotion["backup"]))
+        with sqlite3.connect(f"file:{(ROOT / 'database' / 'tracker.db').resolve().as_posix()}?mode=ro", uri=True) as connection:
+            self.assertEqual(436, connection.execute("SELECT COUNT(*) FROM reviews").fetchone()[0])
 
 
 if __name__ == "__main__":

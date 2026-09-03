@@ -169,12 +169,18 @@ def _summary(first_page_djs: str) -> dict[str, Any]:
     )
     total_reviews = int(review_count_match.group(1)) if review_count_match else sum(ratings.values())
     ratings_only = int(ratings_only_match.group(1)) if ratings_only_match else 0
+    # Data-integrity guard (2026-09-03): a listing whose display feed has no
+    # written reviews yet (e.g. WB40VCOMBO, WBP31TS) legitimately yields
+    # totalReviewCount=0 with no average. Keep None/0 explicit rather than
+    # coercing or inventing an average; downstream QA treats total==0 as a
+    # valid empty state, and average=None stays null (never 0).
+    average = float(average_match.group(1)) if average_match else None
     return {
         "productName": product_name,
         "totalReviewCount": total_reviews,
         "reviewsWithTextCount": max(0, total_reviews - ratings_only),
         "ratingsOnlyReviewCount": ratings_only,
-        "averageOverallRating": float(average_match.group(1)) if average_match else None,
+        "averageOverallRating": average,
         "ratings": ratings,
     }
 
