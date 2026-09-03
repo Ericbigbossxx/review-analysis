@@ -1,5 +1,30 @@
 ﻿[
     {
+        "run_id":  "2026-09-03-weekly-review-analysis",
+        "title":  "2026-09-03 周度周会差评分析",
+        "date":  "2026-09-03",
+        "period":  "2026 周度周会",
+        "report_type":  "weekly",
+        "platforms":  [
+                          "Lowes",
+                          "THD",
+                          "Walmart"
+                      ],
+        "totalReviews":  1957,
+        "lowStarReviews":  502,
+        "lowStarRate":  0.2565,
+        "strongNegativeReviews":  389,
+        "p0Count":  15,
+        "topThemes":  [
+                          "启动/动力故障 119",
+                          "客服/履约 78",
+                          "割草/修剪效果 66"
+                      ],
+        "topRiskSku":  "THD WB26BCI",
+        "reportUrl":  "reports/2026-09-03-weekly-review-analysis.html",
+        "notes":  "30 listings; Walmart 10/THD 10/Lowes 10; 新增 18 基线; storefront 10/10 可用"
+    },
+    {
         "run_id":  "2026-08-21-weekly-review-analysis",
         "title":  "2026-08-21 周度差评分析",
         "date":  "2026-08-21",
