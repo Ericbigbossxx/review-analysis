@@ -1,0 +1,2856 @@
+{
+  "Limit": 100,
+  "Offset": 500,
+  "TotalResults": 521,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "222423317",
+      "CID": "5d057fe7-7790-5934-85e7-934999d23a5c",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-07-23T18:15:15.000+00:00",
+      "LastModificationTime": "2019-07-23T18:15:15.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "20190723_PPC_PR1_ONLINE_CNTRL_3414732",
+      "AuthorId": "68077804",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "oxaqrjkvnvyrw27qfu64ts0az",
+      "SubmissionTime": "2019-07-23T17:54:53.000+00:00",
+      "ReviewText": "Put it together put 50:1 in it started first pull bonus is the weed blade.",
+      "Title": "Put it together put 50:1 in it started first pull...",
+      "UserNickname": "David",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "222422722",
+      "CID": "6a1353c3-21d5-5ca5-a372-413ed334fba6",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-07-25T17:45:08.000+00:00",
+      "LastModificationTime": "2019-07-25T17:45:08.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "20190723_PPC_PR1_ONLINE_CNTRL_3414732",
+      "AuthorId": "0417E547A8C829F60S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "2z9o3i4cxki0vua31xoz6d08b",
+      "SubmissionTime": "2019-07-23T17:44:19.000+00:00",
+      "ReviewText": "This Badger is by far the best unit I have ever used, all kinds of power and excellent balance. The warrant is exceptional. I see nothing negative. I had to order this unit on line due to the fact that our local HomeDepot stores did not carry this in there store. The quality and price puts the competition to shame.",
+      "Title": "This Badger is by far the best unit I have ever used, all kinds of power and excellent balance. T...",
+      "UserNickname": "JIMP",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "222418275",
+      "CID": "c34af46d-6882-5c02-91ae-e44dc2b5d5ba",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "dIY": {
+          "ContentType": "REVIEW",
+          "Id": "dIY",
+          "BadgeType": "Custom"
+        },
+        "top250": {
+          "ContentType": "REVIEW",
+          "Id": "top250",
+          "BadgeType": "Merit"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "dIY",
+        "top250",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-10-11T01:00:04.000+00:00",
+      "LastModificationTime": "2024-10-11T01:00:04.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "bvsampling_july_2019_seeds_campaign_2019079",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "UserLocation": "Okeechobee, Florida",
+      "AuthorId": "03ED21FD3651AF700S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zq24jlgm1lcbwldo93d1um6lsg",
+          "SubmissionTime": "2024-10-09T21:22:20.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/891ba1e2-85d7-5804-ab9f-422304bd6ed9"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/936a0d38-9e2e-55f3-8e6d-3e10b02ab189"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/dc92e136-de76-58cd-b598-60ae64099692"
+            }
+          },
+          "Id": "4966502",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/947cb7e0-1f0f-5678-93bf-fb6e14fa8b68"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/1e6da032-0355-52ab-a9fb-525440a62d60"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/aee9e915-66c1-51e5-a3fd-2eb91918d4c2"
+            }
+          },
+          "Id": "4966503",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/e7cb6501-79e0-5790-a524-340d490776d6"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/e49067ce-f791-5dfd-8eb4-649623bcf28c"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/371d1d17-7f9b-5356-a6a8-8226925648d9"
+            }
+          },
+          "Id": "4966504",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Features",
+        "Quality",
+        "EaseOfUse"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "p92ej6cg0y6ehts2el6gvxjfs",
+      "SubmissionTime": "2019-07-23T16:26:44.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "This is a professional quality weed eater / brush cutter. It comes with everything you'll need to get started except the gas. It has a nice large gas tank so that you can use it for all your yard work chores. It has a nice support handle and a lock out safety trigger. Cranking instructions are easy to follow and the unit cranks quickly. This unit comes with a string trimmer head that holds .090 line and a three blade brush cutting blade that can handle most large weeds and smaller brush. Instructions to change the heads are easy to follow. Assembly instructions are easy to follow and most anyone can accomplish assembly in less than 30 minutes. Only one slight problem that I have with the unit. Most people will not have this problem. The support strap is a little on the short side for someone of my height. (6' 5\") Even with the strap fully extended it's still about 3 inches short. Of course this won't bother 90% of the people that use this! All in all a great unit. I would suggest that you purchase the premix gas that Home Depot sells for this unit also. It saves time and you don't have a lot of gas going bad in larger cans.",
+      "Title": "This is a professional quality weed eater / brush cutter. It comes with everything you'll need to...",
+      "UserNickname": "DAVID",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "55to64",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "DIYer",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "SecondaryRatings": {
+        "EaseOfUse": {
+          "Value": 5,
+          "Id": "EaseOfUse",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Features": {
+          "Value": 5,
+          "Id": "Features",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "Cuts Well",
+            "Durable",
+            "Easy to Store",
+            "Easy to Use",
+            "Good Size & Weight",
+            "Great Engine",
+            "Long-Lasting",
+            "Powerful",
+            "Sturdy"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "IsSyndicated": false
+    },
+    {
+      "Id": "222380621",
+      "CID": "6e0d97d0-097c-5973-b3ac-e63ed53b03e6",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "dIY": {
+          "ContentType": "REVIEW",
+          "Id": "dIY",
+          "BadgeType": "Custom"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "dIY",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2019-07-24T21:15:11.000+00:00",
+      "LastModificationTime": "2024-07-21T04:53:16.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "bvsampling_july_2019_seeds_campaign_2019079",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "UserLocation": "Williamstown, NJ",
+      "AuthorId": "03ED0A95A211AC600S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/dcf1729b-e166-5581-b2b8-12bae95a0748"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/85c4f579-4fa3-56a3-95ed-a79137ffbb1f"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/46b9db31-0033-5dbf-8783-dec9a010e95b"
+            }
+          },
+          "Id": "4964349",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "nice looking and strong, love the harness"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/8d2c4567-2c50-58be-b41a-e1bbae473616"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/57eb7aa7-94e4-51b3-b9e7-8fb78340beab"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/59ee0f2f-22d6-5435-b8cb-c645fe95c3ee"
+            }
+          },
+          "Id": "4964350",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "you can see the harness better this gives you great balance of the trimmer"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/0d36862c-42c3-5453-a151-ea0b3f35d69b"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/82f36ef4-dbd3-5973-8622-3f42fbead849"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/07316744-59e7-59b5-bbc8-c7685a3c6e98"
+            }
+          },
+          "Id": "4964351",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Shorts was dumb, I now no better"
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "6u3sgypyxcx730pfgka0j8ym3",
+      "SubmissionTime": "2019-07-22T21:23:57.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "I received 26 cc 2-Cycle 2-in-1 Gas Full Crank Straight Shaft Grass Trimmer with Brush Cutter Blade and Bonus Harness a few days ago, finally got a chance to try it out. I'm very please with this trimmer. Very easy to assemble ( all tho I think the direction could have been better ), I had no trouble. When I started trimming I was going threw some pretty heavy weeds. I have not trimmed from 3 weeks. I had no trouble cutting down the heavy grass around my bird feeder. I was very impressed with the performance. A very well balance trimmer\r\nP.S.\r\nDo not trim in short, I was not thinking.",
+      "Title": "I received 26 cc 2-Cycle 2-in-1 Gas Full Crank Straight Shaft Grass Trimmer with Brush Cutter Bla...",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "65orOver",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "DIYer",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "All In One",
+            "Durable",
+            "Easy to Use",
+            "Good Size & Weight",
+            "Great Engine",
+            "Light Weight",
+            "Powerful"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": []
+    },
+    {
+      "Id": "222378069",
+      "CID": "0e6ccae8-358e-5ad2-9274-6712d7534ad6",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "dIY": {
+          "ContentType": "REVIEW",
+          "Id": "dIY",
+          "BadgeType": "Custom"
+        },
+        "top500": {
+          "ContentType": "REVIEW",
+          "Id": "top500",
+          "BadgeType": "Merit"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "dIY",
+        "top500",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2019-07-24T19:30:09.000+00:00",
+      "LastModificationTime": "2024-05-18T15:22:59.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "bvsampling_july_2019_seeds_campaign_2019079",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "UserLocation": "Aberdeen, WA 98520",
+      "AuthorId": "03ED21CDA989AF700S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/4894f083-7025-58c0-a092-a6dc22be641f"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/cd55068f-40c0-5271-b10e-aa2be5056bf8"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/ee96a7e2-52e4-5a0c-a235-dac959707dde"
+            }
+          },
+          "Id": "4964079",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "lawn trimmer with brush cutting attachment"
+        }
+      ],
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "Features",
+        "Quality",
+        "EaseOfUse"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "ibpuub341y36uaye84xuq52fa",
+      "SubmissionTime": "2019-07-22T19:04:49.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro",
+        "Con"
+      ],
+      "ReviewText": "I would recommend this product to anyone who has a yard that needs trimming or just to manicure ones yard or property using this product. It will cut most brush with the included brush cutting attachment but be warned that not for medium to thick brush it is for light brush only you will need to purchase a saw blade type attachment for the thicker brush and I recommend the saw blade for all brush not using the included attachment.",
+      "Title": "I would recommend this product to anyone who has a yard that needs trimming or just to manicure o...",
+      "UserNickname": "Darrin",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "45to54",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "DIYer",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "TagDimensions": {
+        "Con": {
+          "Values": [
+            "little heavy"
+          ],
+          "Id": "Con",
+          "Label": null
+        },
+        "Pro": {
+          "Values": [
+            "Accurate",
+            "All In One",
+            "Cuts Well",
+            "Durable",
+            "Easy to Store",
+            "Easy to Use",
+            "Great Engine",
+            "Long-Lasting",
+            "Powerful",
+            "Sturdy"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "SecondaryRatings": {
+        "EaseOfUse": {
+          "Value": 4,
+          "Id": "EaseOfUse",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Quality": {
+          "Value": 4,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Features": {
+          "Value": 4,
+          "Id": "Features",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "IsSyndicated": false
+    },
+    {
+      "Id": "222367213",
+      "CID": "6b7a165b-8679-5a8c-915a-01bfdfd70f5a",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2019-07-24T13:30:07.000+00:00",
+      "LastModificationTime": "2024-09-12T23:32:20.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "myAccount",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHi there, we are very sorry to hear that. Please contact us at Customersupport&#64;wildbadgerpower.com and we will make sure to help with it!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2021-09-02T19:18:59.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "03ED08A23051AE300S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.75,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "mmi86k5x9ll9a6dmkm6ul6al9",
+      "SubmissionTime": "2019-07-22T13:43:13.000+00:00",
+      "ReviewText": "Product came without the reverse thread nut that holds the brush blade on safe and secure. It's a metric thread. I called the number giving in the paperwork twice and both times, a message system took my information, which I gave in enough detail with address that they could send me the part that was missing. \r\n\r\nI have not received any call back (like their message systems tells me they will do) and yet I'm not supposed to take it to the store for them to resolve. \r\n\r\nI am returning this and I will never shop at Home Depot again -on line or in store.",
+      "Title": "Product came without the reverse thread nut that holds the brush blade on safe and secure. It's a...",
+      "UserNickname": "neveragain",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Badges": {},
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": []
+    },
+    {
+      "Id": "222363908",
+      "CID": "0d75f0d8-5e30-5a6a-b816-104510a23be1",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "pro": {
+          "ContentType": "REVIEW",
+          "Id": "pro",
+          "BadgeType": "Custom"
+        },
+        "top250": {
+          "ContentType": "REVIEW",
+          "Id": "top250",
+          "BadgeType": "Merit"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "pro",
+        "top250",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2019-07-24T11:15:08.000+00:00",
+      "LastModificationTime": "2020-06-11T16:12:39.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "bvsampling_july_2019_seeds_campaign_2019079",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "UserLocation": "Wis.",
+      "AuthorId": "03ED13008349ABD00S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/2669aa90-9cb0-59ec-84c4-50fda58257a9"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/9d07bb1c-075a-5759-97b1-30c2f1c04f8b"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/7d628050-b036-536f-99ce-be76fd623d82"
+            }
+          },
+          "Id": "4963287",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/747e8b18-fe68-59a6-9fad-06b4bdc880c1"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/81574bea-364a-5aa8-a0b7-4798f6b38a56"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/30a06dd3-4fb3-5f5e-b5d3-a0da016d9022"
+            }
+          },
+          "Id": "4963288",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Features",
+        "Quality",
+        "EaseOfUse"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "pffh0bodxozsnchmrazjjyrvl",
+      "SubmissionTime": "2019-07-22T11:32:49.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "If you're looking for an economical, light weight trimmer/brush cutter the Badger 26 CC unit should be on your list. I found it to be very well balanced. While it comes with a harness I found it was not necessary to use due to how well it is balanced and its lightweight. Quiet and efficient.. The brush cutter attachment works great on small brush. I found 2 pulls with the choke on, then one more pull with the choke off usually does the trick. If you do proper storage, use good oil and fuel it should perform very well for many years.",
+      "Title": "If you're looking for an economical, light weight trimmer/brush cutter the Badger 26 CC unit shou...",
+      "UserNickname": "CARL",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "65orOver",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "Professional",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "SecondaryRatings": {
+        "EaseOfUse": {
+          "Value": 5,
+          "Id": "EaseOfUse",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Quality": {
+          "Value": 4,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Features": {
+          "Value": 5,
+          "Id": "Features",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "Cuts Well",
+            "Durable",
+            "Easy to Store",
+            "Easy to Use",
+            "Good Size & Weight",
+            "Light Weight",
+            "well balanced"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "IsSyndicated": false
+    },
+    {
+      "Id": "222354546",
+      "CID": "69f8a784-7d99-5b31-a02c-f6fbf96a6196",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "dIY": {
+          "ContentType": "REVIEW",
+          "Id": "dIY",
+          "BadgeType": "Custom"
+        },
+        "top1": {
+          "ContentType": "REVIEW",
+          "Id": "top1",
+          "BadgeType": "Merit"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "dIY",
+        "top1",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2025-06-22T18:00:07.000+00:00",
+      "LastModificationTime": "2025-06-22T18:00:07.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "bvsampling_july_2019_seeds_campaign_2019079",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "AuthorId": "03ED0B331461AAD00S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z9kjzxds1nbgpm6a579oiptiik",
+          "SubmissionTime": "2025-06-22T17:38:31.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/e6536d3b-ab17-5e40-b8fc-90a516fcd43d"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/1684bb09-8c6d-5b26-9115-5c314c38af74"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/2e00de59-e980-503f-aab4-79e5f5a32338"
+            }
+          },
+          "Id": "4962810",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/e964c91d-4dff-59fa-b08d-fab74b8cd461"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/4d4b12e5-b160-56c8-94ec-455e3585427c"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/03a54913-6726-586b-96e8-e207da2d9bf0"
+            }
+          },
+          "Id": "4962811",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/d5cb1b78-b8f3-5b0b-9bf2-0356a1096e56"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/6694230b-8360-577c-a5b9-3f6b54b6e67b"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/8e3fdd59-3018-5799-8e3a-73e16255bba5"
+            }
+          },
+          "Id": "4962812",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/ffebab4d-0a2f-5746-9404-017ad1e0c55e"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/d90524fe-d2b5-5bfa-9a95-1b01430e68e2"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/3e2f54b5-b6e0-5c31-8e3c-8122cb93b7ea"
+            }
+          },
+          "Id": "4962813",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/1fa45564-5e1a-5fb4-9258-d8ec09bc6044"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/b4480606-d6aa-5653-b572-e6910589de98"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/1b777a7b-93ef-5d5a-be17-8704dbaa9430"
+            }
+          },
+          "Id": "4962814",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/ceb6847c-aadd-566c-a5e6-d1691d3694c3"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/59701933-241d-5170-8c9f-8e8c3606ef19"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/42c2a0d6-f16e-5b40-9571-e572f21442c5"
+            }
+          },
+          "Id": "4962815",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Features",
+        "Quality",
+        "EaseOfUse"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "5uahj4fdx8okvim6plt8sju1f",
+      "SubmissionTime": "2019-07-22T00:00:40.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "Great gas trimmer for the price. It has enough power to cut through light and medium brush. The brush blade can cut through thicker material. It’s a bit heavy (in general, compared to battery/corded trimmers but not compared to other gas trimmers) but the strap helps keep the weight off your arms and the trimmer balanced. \r\n\r\nAssembly was fairly easy even though the parts don’t exactly match the pictures in the sometimes confusing directions. It works fine with my 1:50 gas. Idles fine and needs a little acceleration to get to full power. I first took it through it’s paces with thick grass and vines. The vines and wirey grass didn’t not clog it up much or for long. It was easy to clear jams.\r\n\r\nThe brush guard blade works well and it does not throw any debris around. With that though, what you cut doesn’t fall down as well as when you use the wire attachment. Switching from blade to wire is pretty easy when you get the hang of it. This trimmer is fairly inexpensive but great for the owner that uses it once every week or so in the growing season. Value is good.",
+      "Title": "Great gas trimmer for the price. It has enough power to cut through light and medium brush. The b...",
+      "UserNickname": "SteveVA",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "35to44",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "DIYer",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "SecondaryRatings": {
+        "EaseOfUse": {
+          "Value": 4,
+          "Id": "EaseOfUse",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Quality": {
+          "Value": 4,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Features": {
+          "Value": 5,
+          "Id": "Features",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "All In One",
+            "Cuts Well"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "IsSyndicated": false
+    },
+    {
+      "Id": "222318001",
+      "CID": "029e66bd-7c45-5d91-aaad-45c42667d41b",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "dIY": {
+          "ContentType": "REVIEW",
+          "Id": "dIY",
+          "BadgeType": "Custom"
+        },
+        "top1000": {
+          "ContentType": "REVIEW",
+          "Id": "top1000",
+          "BadgeType": "Merit"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "dIY",
+        "top1000",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2019-07-22T13:15:46.000+00:00",
+      "LastModificationTime": "2024-05-15T18:41:38.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "bvsampling_july_2019_seeds_campaign_2019079",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "UserLocation": "Virginia",
+      "AuthorId": "03ED14729859ACF00S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/7de061a0-1650-5042-84ed-801243ac20ea"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/f3a85ac2-ddfd-5018-8155-de46e748e487"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/c42c6dc9-b315-5a22-bb7a-c44847a49135"
+            }
+          },
+          "Id": "4960141",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Nice power unit"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/16f2b8ab-7232-5fad-ad28-473b04a44245"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/8fa51113-31af-5e5b-9870-a8ce72029b85"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/5cd528c9-6e9f-5a0c-8a7d-9f80bdc3b194"
+            }
+          },
+          "Id": "4960142",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Completed assembly"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/90e8420b-99f3-5805-9a2a-370676c9fc23"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/cb5bf2cc-6d6b-5da6-945a-b3548d57292a"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/a09c8529-dddd-56c6-be10-c35fcace86b9"
+            }
+          },
+          "Id": "4960143",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Misaligned air filter"
+        }
+      ],
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "Features",
+        "Quality",
+        "EaseOfUse"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "db07ycv7xv4pr3514zo0vw7cn",
+      "SubmissionTime": "2019-07-20T11:36:11.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "An economical trimmer with some very nice features. It looks like the Badger trimmer is robust in its construction and will last for a long while. The 26cc engine is powerful and the same capacity as mi 10-year old ECHO trimmer. It should be more than adequate for the brush cutter blade to cut through some tough material. The shoulder strap is a nice design with a clever quick release. The instruction manual is just poorly written and does not include a parts list. I think the trimmer spool line could be a bigger diameter than .095\" for a trimmer of this capacity. The lower shaft rotates to allow edging easily while still holding the trimmer in the normal position and the unit is well balanced for ease of use. Mine started first time on the 7th pull. If it holds up well long term, this is a good value for this tool.",
+      "Title": "An economical trimmer with some very nice features. It looks like the Badger trimmer is robust i...",
+      "UserNickname": "LARRY",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "65orOver",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "DIYer",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "SecondaryRatings": {
+        "EaseOfUse": {
+          "Value": 5,
+          "Id": "EaseOfUse",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Features": {
+          "Value": 5,
+          "Id": "Features",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "All In One",
+            "Durable",
+            "Good Size & Weight",
+            "Great Engine",
+            "Powerful",
+            "well balanced",
+            "robust design"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "IsSyndicated": false
+    },
+    {
+      "Id": "222300463",
+      "CID": "0d271b23-5b55-5ee6-a384-14a962dcc593",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "dIY": {
+          "ContentType": "REVIEW",
+          "Id": "dIY",
+          "BadgeType": "Custom"
+        },
+        "top500": {
+          "ContentType": "REVIEW",
+          "Id": "top500",
+          "BadgeType": "Merit"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "dIY",
+        "top500",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2019-07-21T20:45:11.000+00:00",
+      "LastModificationTime": "2019-07-21T20:45:11.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "bvsampling_july_2019_seeds_campaign_2019079",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "UserLocation": "Erwin Tn",
+      "AuthorId": "03ED0D333C1F22400S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Features",
+        "Quality",
+        "EaseOfUse"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "2wgrng2ifqj83xxgh0jgp9g9m",
+      "SubmissionTime": "2019-07-19T16:53:37.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "This is a very good 2 cycle gas full crank gas trimmer. This weed eater arrived in time for me to use. I had about two weeks of weed eaten to do and the grass was tall from all the rain we had been getting. I got it together with very little trouble it was easy and instructions were very good. I put the fuel mix in and prime it and it started up on the second pull and ran great. I have close to acre to mow and weed eat around a lot of stuff. Where the grass was tall it didn't have no problem going thru the grass and weeds and still had power left over. This is a great weed eater it has a lot of power to go thru the weeds and anything you want to throw at it. I tried the brush cutter out and it really cut thru some brush we have and I like and now my is after me to get it cleaned up. The line on this weed eater will last along time it is a good heavy duty string that comes with it. This weed eater has a great warranty and I think it last along time. It is a very durable weed eater.",
+      "Title": "This is a very good 2 cycle gas full crank gas trimmer. This weed eater arrived in time for me to...",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "55to64",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "DIYer",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "SecondaryRatings": {
+        "EaseOfUse": {
+          "Value": 5,
+          "Id": "EaseOfUse",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Features": {
+          "Value": 5,
+          "Id": "Features",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "All In One",
+            "Cuts Well",
+            "Durable",
+            "Easy to Store",
+            "Easy to Use",
+            "Good Size & Weight",
+            "Great Engine",
+            "Long-Lasting",
+            "Powerful",
+            "Sturdy"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "222268262",
+      "CID": "e8536b4e-8239-5b7a-82f0-08920c748029",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-07-18T23:15:03.000+00:00",
+      "LastModificationTime": "2019-07-18T23:15:03.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "20190716_PPC_PR1_ONLINE_CNTRL_3409593_Mobile",
+      "AuthorId": "03ED105FEEA1AC600S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "9h3hvdp8fn4gcm54qzb8qi9n3",
+      "SubmissionTime": "2019-07-18T22:51:39.000+00:00",
+      "ReviewText": "Never had a gas trimmer before but this one seems great. Cuts through anything and easy to operate.",
+      "Title": "Never had a gas trimmer before but this one seems...",
+      "UserNickname": "DARYL",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "222204854",
+      "CID": "95abf21f-e075-5807-8bda-b82299834213",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "dIY": {
+          "ContentType": "REVIEW",
+          "Id": "dIY",
+          "BadgeType": "Custom"
+        },
+        "top250": {
+          "ContentType": "REVIEW",
+          "Id": "top250",
+          "BadgeType": "Merit"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "dIY",
+        "top250",
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2019-07-20T13:45:14.000+00:00",
+      "LastModificationTime": "2019-12-08T16:03:07.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "bvsampling_july_2019_seeds_campaign_2019079",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender",
+        "HomeGoodsProfile",
+        "IncentivizedReview"
+      ],
+      "UserLocation": "Destrehan, Louisiana",
+      "AuthorId": "03ED0A7CAF09AE300S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/fc5973b0-9cc6-513c-914f-2c22bbaf7ecf"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/692d4876-32ce-59d8-a20d-b4446fa19f58"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/8a0798c7-56db-5fd7-a071-1132bf3e1b86"
+            }
+          },
+          "Id": "4957311",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Very well balanced enabling less fatigue."
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/83b4e6ca-52ab-57d7-90e1-e60b4d8431fb"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/b0007b63-0c0f-57b7-8a41-a40cbd06684a"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/52bdc589-27cc-58ac-a90c-b55f0120b1db"
+            }
+          },
+          "Id": "4957312",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "The best warranty in the industry....6 years homeowner's warranty."
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Features",
+        "Quality",
+        "EaseOfUse"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "dbzg8qmaw21z0mhekah8stduj",
+      "SubmissionTime": "2019-07-18T12:11:22.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro",
+        "Con"
+      ],
+      "ReviewText": "This is a commercial type trimmer for a home owners use. I chose this Badger grass trimmer and brush cutter for two major reasons first was the power of the 26cc 2-cycle engine and its 6 year homeowner warranty (3 year commercial warranty). A lot of thought went into the design of the Badger straight shaft trimmer. The unit is very light compared to other trimmers where aircraft grade aluminum is used in the construction of the trimmer. The complete weight of the unit is 11 lbs. total.The twin line feeding of the trimmer is a tap-n-go feature which as been improved on by Badger compared to the earlier tap-n-go models. Another unique feature of the line spool, is the easy Twist-n-Load makes the reloading procedure a breeze. Comes with a grass trimmer head, a brush cutter head and a shoulder harness to balance the unit when using for added comfort. In my opinion this is probably the best string-trimmer on the market. There would not be a 6 year warranty on homeowner use if it was not one of the best trimmers on the market.",
+      "Title": "This is a commercial type trimmer for a home owners use. I chose this Badger grass trimmer and br...",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "65orOver",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        },
+        "IncentivizedReview": {
+          "Value": "True",
+          "Id": "IncentivizedReview"
+        },
+        "HomeGoodsProfile": {
+          "Value": "DIYer",
+          "Id": "HomeGoodsProfile"
+        }
+      },
+      "TagDimensions": {
+        "Con": {
+          "Values": [
+            "none"
+          ],
+          "Id": "Con",
+          "Label": null
+        },
+        "Pro": {
+          "Values": [
+            "Cuts Well",
+            "Durable",
+            "Easy to Use",
+            "Good Size & Weight",
+            "Great Engine",
+            "Powerful",
+            "well balanced"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "SecondaryRatings": {
+        "EaseOfUse": {
+          "Value": 5,
+          "Id": "EaseOfUse",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Features": {
+          "Value": 5,
+          "Id": "Features",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "IsSyndicated": false
+    },
+    {
+      "Id": "222113368",
+      "CID": "726a3879-d89d-5642-af9e-ff675e17b904",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-07-18T14:45:05.000+00:00",
+      "LastModificationTime": "2019-07-18T14:45:05.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "20190716_PPC_PR1_ONLINE_CNTRL_3409593_Mobile",
+      "AuthorId": "213699495",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "a426seg4z8727y5lepezbmesh",
+      "SubmissionTime": "2019-07-16T14:30:29.000+00:00",
+      "ReviewText": "Called for assembly help per inclosed number in box they never return my call tried 2 times 10 days later still no call back finely figured out the problem myself web site was no help",
+      "Title": "Called for assembly help per inclosed number in box they...",
+      "UserNickname": "Louie",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "222106220",
+      "CID": "dc010330-c67e-5153-8702-46d9edcfa8e2",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-07-16T14:16:02.000+00:00",
+      "LastModificationTime": "2019-07-16T14:16:02.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "20190716_PPC_PR1_ONLINE_CNTRL_3409593",
+      "AuthorId": "0417D3340246C4820S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "m82ocq3ew38msss0avtqjy1af",
+      "SubmissionTime": "2019-07-16T13:55:56.000+00:00",
+      "ReviewText": "Very good in heavier brush!!",
+      "Title": "Very good in heavier brush!!",
+      "UserNickname": "Tim",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "222008868",
+      "CID": "5b763ff5-64a0-5a97-8302-abf463e86631",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-07-12T18:15:10.000+00:00",
+      "LastModificationTime": "2019-07-12T18:15:10.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "20190709_PPC_PR1_ONLINE_CNTRL_3404624_Mobile",
+      "AuthorId": "0417C66EB0AF123A0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "so9n4rkq212nol5vp0g2q34ra",
+      "SubmissionTime": "2019-07-12T17:46:32.000+00:00",
+      "ReviewText": "Great buy. Works great",
+      "Title": "Great buy. Works great...",
+      "UserNickname": "Curtis",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "221939988",
+      "CID": "8ed13090-bd9f-5026-b48b-37fd945fc281",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-07-12T09:45:07.000+00:00",
+      "LastModificationTime": "2019-07-12T09:45:07.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "20190709_PPC_PR1_ONLINE_CNTRL_3404624_Mobile",
+      "AuthorId": "0417C38F2470123A0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "tr5ovjeswm5kon1eox4obzcu0",
+      "SubmissionTime": "2019-07-10T08:37:02.000+00:00",
+      "ReviewText": "Delivered on time, product works very well",
+      "Title": "Delivered on time, product works very well...",
+      "UserNickname": "Jim",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "221911345",
+      "CID": "e7e2f778-4921-5ee6-811f-f6b163b50d30",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-07-09T21:30:07.000+00:00",
+      "LastModificationTime": "2019-07-09T21:30:07.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "20190709_PPC_PR1_ONLINE_CNTRL_3404624_Mobile",
+      "AuthorId": "0417C241AEAF9D9A0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "2jqlsyxl7ru2iqv33is4bfuvp",
+      "SubmissionTime": "2019-07-09T21:02:00.000+00:00",
+      "ReviewText": "Arrived quickly and easy to assemble. First used basic head on routine edging and trimming with great success. Then added the brush cutter head for shocking ease and success of clearing think underbrush. EXACTLY what I was wanting and at an INCREDIBLE price, especially with the Brush Blade included.",
+      "Title": "Arrived quickly and easy to assemble. First used basic head...",
+      "UserNickname": "Jason",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "221892065",
+      "CID": "26b31ad9-5522-5a81-b601-30747e0b52db",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-07-09T16:45:07.000+00:00",
+      "LastModificationTime": "2019-07-09T16:45:07.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "20190709_PPC_PR1_ONLINE_CNTRL_3404624_Mobile",
+      "AuthorId": "0417C89908CD123A0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "hor0vlrlqf3xm5nt2wn4l0rno",
+      "SubmissionTime": "2019-07-09T16:29:08.000+00:00",
+      "ReviewText": "It like a commercial weed eater the best one I ever owned I give it five star I recommend it to all my friends very satisfied",
+      "Title": "It like a commercial weed eater the best one I...",
+      "UserNickname": "ROBERT",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "221676341",
+      "CID": "4be42e82-908b-500b-ac66-3a81cd0b57e4",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2019-07-05T12:30:11.000+00:00",
+      "LastModificationTime": "2019-07-10T22:30:29.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "MOBILE APP_USER_REVIEW_SUBMIT_IPHONE",
+      "ClientResponses": [
+        {
+          "Department": "THD-CS",
+          "Response": "Dear Valued Home Depot Customer, \n \nWe have reached out to the manufacturer and their reply is, Sorry to hear you are having trouble we are sending you an email and will also call to get you a replacement out asap! Thank you for your purchase!",
+          "ResponseType": "",
+          "ResponseSource": "Workbench",
+          "Name": "",
+          "Date": "2019-07-10T22:30:29.000+00:00",
+          "SourceClientName": "Home Depot"
+        }
+      ],
+      "AuthorId": "03ED2086E229AE500S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 2,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "2s38ty4uhtqedplfmjj31jmvi",
+      "SubmissionTime": "2019-07-02T20:54:02.000+00:00",
+      "ReviewText": "Seems to be junk   Working for half hour now not working — no spark. Waiting fo customer service to call back",
+      "Title": "tried it for half hour",
+      "UserNickname": "HomeDepotCustomer",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Badges": {},
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "221580956",
+      "CID": "f47089f4-f30a-5239-8e3f-c7fcd84fa4fd",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2019-07-02T11:15:08.000+00:00",
+      "LastModificationTime": "2019-07-10T22:29:22.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "BV_REVIEW_DISPLAY",
+      "ClientResponses": [
+        {
+          "Department": "THD-CS",
+          "Response": "Dear Valued Home Depot Customer, \n \nWe have reached out to the manufacturer and their reply is, We appreciate your feedback however some clarification seems to be in order. The Badger WB26BCI is without doubt a commercial grade product based on several key engineering facts. First the engine is a full crank engine with a chrome lined cylinder and all ball and roller bearing construction and tested to over 150 Life Hours! Second the Badger uses the universal attachment system and accepts ALL attachments from brands that use that system. Your “Popular Brand” unit most likely uses a proprietary attachment system and therefore does not fit on to any Universal System product regardless of brand. Universal System brands include Ryobi, Toro, Troy Bilt, Poulan, Poulan Pro, Weedeater and Craftsman. (Craftsman uses powder coat on their attachments and are a snug fit). Overall Badger is designed to deliver and does deliver a tremendous value to the homeowner and the landscaper. Of course we are always looking for feedback and appreciate you purchasing a Badger product.",
+          "ResponseType": "",
+          "ResponseSource": "Workbench",
+          "Name": "",
+          "Date": "2019-07-10T22:29:22.000+00:00",
+          "SourceClientName": "Home Depot"
+        }
+      ],
+      "AuthorId": "t4fd3l9yut8l8ap5gistmae0a",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "SecondaryRatingsOrder": [
+        "Features",
+        "Quality",
+        "EaseOfUse",
+        "Value"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "ixtzs5090kckqjtqtaa9gn11s",
+      "SubmissionTime": "2019-06-30T11:42:36.000+00:00",
+      "ReviewText": "The Badger string trimmer is ok. It has ok power and started fairly east once fueled with proper gas mix and primed. However...it seems to have a little bit of a problem with power when compared to my brand name grass trimmer. This grass trimmer is also a slight bit heavier than my popular brand name trimmer. The attachments I have do not seem to fit on this string trimmer that is a big minus in my eyes. I will keep this as a string trimmer only. I will repair my other brand name trimmer to use attachments. The only part of this string trimmer that I find \"heavy duty\" is the attachment collar on the shaft. BUT due to the fact that popular attachments do not seem to fit..I have to say that it is not worth it. I recommend this string trimmer ONLY if you want a cheap dedicated string trimmer to use at your home. NOT recommend this string trimmer for commercial use or any use that involves using popular attachments.",
+      "Title": "The Badger string trimmer is ok. It has ok power and started fairly east once fueled with proper...",
+      "UserNickname": "Randal",
+      "SecondaryRatings": {
+        "Value": {
+          "Value": 2,
+          "Id": "Value",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "EaseOfUse": {
+          "Value": 3,
+          "Id": "EaseOfUse",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Quality": {
+          "Value": 2,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Features": {
+          "Value": 3,
+          "Id": "Features",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Badges": {},
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "221435293",
+      "CID": "b5ad94a6-d2d8-5440-93ef-947823f9685a",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2019-06-25T16:15:46.000+00:00",
+      "LastModificationTime": "2019-06-25T16:15:46.000+00:00",
+      "ProductId": "309475184",
+      "OriginalProductName": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+      "CampaignId": "20190625_PPC_PR1_ONLINE_CNTRL_3394511",
+      "AuthorId": "03ED1620243F24D00S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "3p3dvmo1pa8px4g9ll0hifsvz",
+      "SubmissionTime": "2019-06-25T15:46:43.000+00:00",
+      "ReviewText": "very good product,",
+      "Title": "very good product,",
+      "UserNickname": "Jerry",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "309475184": {
+        "AttributesOrder": [
+          "Category",
+          "Subclass",
+          "ChildSku",
+          "GLN",
+          "THDBrowseOnlinestatus",
+          "THDOnlineStatus",
+          "Department",
+          "IDMVendorAcctName",
+          "THDSubClass_name",
+          "THDClass_name",
+          "THDSubSubClass",
+          "GTIN14",
+          "THD_SubSubClass_name",
+          "THDDept_name",
+          "THDDotComOnlinestatus",
+          "THDSubClass",
+          "HDClass",
+          "THDDept",
+          "dcs_nbr",
+          "AVAILABILITY",
+          "Class",
+          "MFGModel"
+        ],
+        "Attributes": {
+          "Category": {
+            "Id": "Category",
+            "Values": [
+              {
+                "Value": "POWER> HANDHELD POWER> OTHER TRIMMERS> GAS TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "Subclass": {
+            "Id": "Subclass",
+            "Values": [
+              {
+                "Value": "19",
+                "Locale": null
+              }
+            ]
+          },
+          "ChildSku": {
+            "Id": "ChildSku",
+            "Values": [
+              {
+                "Value": "309475184",
+                "Locale": null
+              }
+            ]
+          },
+          "GLN": {
+            "Id": "GLN",
+            "Values": [
+              {
+                "Value": "0854641007009",
+                "Locale": null
+              }
+            ]
+          },
+          "THDBrowseOnlinestatus": {
+            "Id": "THDBrowseOnlinestatus",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "THDOnlineStatus": {
+            "Id": "THDOnlineStatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "Department": {
+            "Id": "Department",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "IDMVendorAcctName": {
+            "Id": "IDMVendorAcctName",
+            "Values": [
+              {
+                "Value": "SUNSEEKER US INC",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass_name": {
+            "Id": "THDSubClass_name",
+            "Values": [
+              {
+                "Value": "OTHER TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDClass_name": {
+            "Id": "THDClass_name",
+            "Values": [
+              {
+                "Value": "HANDHELD POWER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubSubClass": {
+            "Id": "THDSubSubClass",
+            "Values": [
+              {
+                "Value": "102",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00854641007597",
+                "Locale": null
+              }
+            ]
+          },
+          "THD_SubSubClass_name": {
+            "Id": "THD_SubSubClass_name",
+            "Values": [
+              {
+                "Value": "GAS TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept_name": {
+            "Id": "THDDept_name",
+            "Values": [
+              {
+                "Value": "SEASONAL/GARDEN",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDotComOnlinestatus": {
+            "Id": "THDDotComOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass": {
+            "Id": "THDSubClass",
+            "Values": [
+              {
+                "Value": "19",
+                "Locale": null
+              }
+            ]
+          },
+          "HDClass": {
+            "Id": "HDClass",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept": {
+            "Id": "THDDept",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "dcs_nbr": {
+            "Id": "dcs_nbr",
+            "Values": [
+              {
+                "Value": "28-32-19",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "Class": {
+            "Id": "Class",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "MFGModel": {
+            "Id": "MFGModel",
+            "Values": [
+              {
+                "Value": "WB26BCI",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "854641007597"
+        ],
+        "Description": "The Wild Badger Power Straight Shaft 2-in-1 Grass String Trimmer and Brush Cutter is a versatile, powerful tool. This multi-tool has a grass trimmer attachment for detail work along borders and a brush cutter blade for heavier grasses and brush clearing. This tool includes a harness to relieve the strain on your arms and improve stability. The full crank engine reduces emissions, increasing fuel efficiency and delivering longer life. The transmission is supported by a vented aluminum casing which greatly reduces vibration allowing you to work in comfort until the job is done. The attachment capable straight shaft is built with a robust aluminum tube and connection point which is lightweight and durable. The tap-and-go trimmer head with easy load allows for quick line feed for the twin line cutting system. Replacing the line will no longer eat up precious daylight and will give you more time to get your lawns and landscaping looking clean. Notes about the product: This machine takes a mix of both gasoline and oil, other attachments and accessories not included.",
+        "ManufacturerPartNumbers": [
+          "WB26BCI"
+        ],
+        "ImageUrl": "https://images.thdstatic.com/productImages/d96e403e-99fc-4be5-b7ba-25c0ba015512/svn/wild-badger-power-brush-cutters-wb26bci-64_1000.jpg",
+        "Name": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap",
+        "Id": "309475184",
+        "CategoryId": "8d624db9-d727-483b-b094-bddaa98598fd",
+        "BrandExternalId": "WILDBADGERPOWER",
+        "Brand": {
+          "Id": "WILDBADGERPOWER",
+          "Name": "WILD BADGER POWER"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.homedepot.com/p/WILD-BADGER-POWER-26cc-Weed-Wacker-Gas-3-in-1-String-Trimmer-Edger-17-in-with-10-in-Brush-Cutter-Rubber-Handle-and-Shoulder-Strap-WB26BCI/309475184",
+        "Disabled": false,
+        "EANs": [],
+        "StoryIds": [],
+        "FamilyIds": [],
+        "QuestionIds": [],
+        "ISBNs": [],
+        "ReviewIds": [],
+        "ModelNumbers": [],
+        "ReviewStatistics": {
+          "HelpfulVoteCount": 149,
+          "FirstSubmissionTime": "2019-06-25T15:46:43.000+00:00",
+          "LastSubmissionTime": "2026-08-11T16:54:12.000+00:00",
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 285
+            },
+            {
+              "RatingValue": 4,
+              "Count": 111
+            },
+            {
+              "RatingValue": 1,
+              "Count": 83
+            },
+            {
+              "RatingValue": 2,
+              "Count": 23
+            },
+            {
+              "RatingValue": 3,
+              "Count": 19
+            }
+          ],
+          "NotHelpfulVoteCount": 16,
+          "TotalPhotoCount": 83,
+          "TotalVideoCount": 0,
+          "AverageOverallRating": 3.944337811900192,
+          "NotRecommendedCount": 23,
+          "RecommendedCount": 66,
+          "ContextDataDistributionOrder": [
+            "Age",
+            "Gender",
+            "HomeGoodsProfile",
+            "LengthOfOwnership",
+            "VerifiedPurchaser",
+            "FirstTime",
+            "ReadReviews",
+            "EarlyReviewerIncentive"
+          ],
+          "ContextDataDistribution": {
+            "Age": {
+              "Id": "Age",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "25to34"
+                },
+                {
+                  "Count": 2,
+                  "Value": "35to44"
+                },
+                {
+                  "Count": 1,
+                  "Value": "45to54"
+                },
+                {
+                  "Count": 3,
+                  "Value": "55to64"
+                },
+                {
+                  "Count": 5,
+                  "Value": "65orOver"
+                }
+              ]
+            },
+            "Gender": {
+              "Id": "Gender",
+              "Values": [
+                {
+                  "Count": 10,
+                  "Value": "Male"
+                },
+                {
+                  "Count": 2,
+                  "Value": "Female"
+                }
+              ]
+            },
+            "HomeGoodsProfile": {
+              "Id": "HomeGoodsProfile",
+              "Values": [
+                {
+                  "Count": 11,
+                  "Value": "DIYer"
+                },
+                {
+                  "Count": 1,
+                  "Value": "Professional"
+                }
+              ]
+            },
+            "LengthOfOwnership": {
+              "Id": "LengthOfOwnership",
+              "Values": [
+                {
+                  "Count": 4,
+                  "Value": "1week"
+                }
+              ]
+            },
+            "VerifiedPurchaser": {
+              "Id": "VerifiedPurchaser",
+              "Values": [
+                {
+                  "Count": 451,
+                  "Value": "True"
+                },
+                {
+                  "Count": 10,
+                  "Value": "False"
+                }
+              ]
+            },
+            "FirstTime": {
+              "Id": "FirstTime",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "No"
+                },
+                {
+                  "Count": 1,
+                  "Value": "Yes"
+                }
+              ]
+            },
+            "ReadReviews": {
+              "Id": "ReadReviews",
+              "Values": [
+                {
+                  "Count": 2,
+                  "Value": "No"
+                }
+              ]
+            },
+            "EarlyReviewerIncentive": {
+              "Id": "EarlyReviewerIncentive",
+              "Values": [
+                {
+                  "Count": 19,
+                  "Value": "True"
+                },
+                {
+                  "Count": 241,
+                  "Value": "False"
+                }
+              ]
+            }
+          },
+          "TotalReviewCount": 521,
+          "SecondaryRatingsAveragesOrder": [
+            "Quality",
+            "Value"
+          ],
+          "SecondaryRatingsAverages": {
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 3.5526315789473686,
+              "MaxLabel": null,
+              "DisplayType": "NORMAL",
+              "ValueRange": 5,
+              "MinLabel": null
+            },
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 3.425531914893617,
+              "MaxLabel": null,
+              "DisplayType": "NORMAL",
+              "ValueRange": 5,
+              "MinLabel": null
+            }
+          },
+          "FeaturedReviewCount": 0,
+          "RatingsOnlyReviewCount": 135,
+          "TotalMediaCount": 83,
+          "TagDistribution": {},
+          "OverallRatingRange": 5,
+          "TagDistributionOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 521
+      }
+    },
+    "ProductsOrder": [
+      "309475184"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

@@ -1,0 +1,1336 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 18,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "248991161",
+      "CID": "6a39a213-073a-522b-a861-f240c9b91578",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-03-27T06:00:04.000+00:00",
+      "LastModificationTime": "2026-03-27T06:00:04.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "android",
+      "AuthorId": "9ijxehyo34w60la78ofniptkh",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 2,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17743917DrP0JkY1ci",
+      "SubmissionTime": "2026-03-24T22:35:03.000+00:00",
+      "ReviewText": "Product was not received on time of ordering.  Product  could use a shorter input shaft to reduce  weight.",
+      "Title": "Good product, bad on stock ordering",
+      "UserNickname": "Dee",
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "ContextDataValues": {},
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "ContextDataValuesOrder": [],
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "244418898",
+      "CID": "93acbe45-06c9-504a-9bfc-63ee2155a84b",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-09-02T21:15:11.000+00:00",
+      "LastModificationTime": "2025-09-02T21:15:11.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "b3c99fea-6f01-4075-8664-bcd672612b2b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__175684723pbnuhSEup",
+      "SubmissionTime": "2025-09-02T21:06:43.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "IsRecommended": null,
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "ReviewText": null,
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null,
+      "IsSyndicated": false,
+      "Title": null,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "244411980",
+      "CID": "77e05c1f-fcdb-54dc-ad56-fe06bef25a66",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-09-02T16:00:12.000+00:00",
+      "LastModificationTime": "2025-09-02T16:00:12.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "orderdetails_desktop",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "3bcfad45-65e0-4f3c-aeb5-285e800f9508",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17568282HkcwQrC1UU",
+      "SubmissionTime": "2025-09-02T15:50:04.000+00:00",
+      "UserNickname": "Ron01",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "ReviewText": null,
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null,
+      "IsSyndicated": false,
+      "Title": null,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "243941610",
+      "CID": "ea341d45-2f47-5d4e-842d-3060f476f2b6",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-08-11T15:15:12.000+00:00",
+      "LastModificationTime": "2026-08-31T21:26:25.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "WriteAReview_PDP_MOW",
+      "AuthorId": "mat0dk0mfhnn7efjr3fwkzugd",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_175492430rwVSJHn6i",
+      "SubmissionTime": "2025-08-11T14:58:25.000+00:00",
+      "ReviewText": "I have only used the once but used it for about 3 hours as our yard has a lot of bushes. Compared to a typical Black and Decker hand held electric corded unit, this was a game changer. It fit my Craftsman 2 stroke trimmer shaft fine. It freed me from be tied down with the cord and having to worry about cutting the cord with it! It had much more power and could cut through thicker branches. It gave me much more reach that most of the time was very useful but a couple of times made it tricky in tight spaces. It let me get to areas of my yard that are difficult to get to or impossible with a cord. It definitely saved time. It is heavier and a good workout. My arms have been sore for a couple of days after 3-4 hours of use. Overall super happy with it! I should made this upgrade years ago!",
+      "Title": "Hedged like never before!",
+      "UserNickname": "Darren",
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "ContextDataValues": {},
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "ContextDataValuesOrder": [],
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "242242530",
+      "CID": "dc5315c8-4957-59fc-ae6c-2861228de879",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-05-28T16:15:05.000+00:00",
+      "LastModificationTime": "2025-08-25T16:33:47.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "PPE_MPS_Store_other_Touch2_0465",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "03af814d-902d-423a-a19e-e7e012cd51b6",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17__17484436HPqEku71Fg",
+      "SubmissionTime": "2025-05-28T14:47:42.000+00:00",
+      "ReviewText": "Fits my yardman universal power head just fine. I've only used it one time so far but it did a great job on my hedges. I like the grease fittings provided on this unit. They should help this trimmer last alot longer.",
+      "Title": "Nice trimmer attachment",
+      "UserNickname": "Racer",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "238332499",
+      "CID": "6f29c97b-f7a6-5c3b-8a15-24982f6e6a6c",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-12-19T19:00:13.000+00:00",
+      "LastModificationTime": "2025-06-12T15:33:22.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "a81ae7d9-fcb6-43be-bbcf-fb4d08c10300",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17346335nK2PECaivy",
+      "SubmissionTime": "2024-12-19T18:38:31.000+00:00",
+      "ReviewText": "Excellent addition to my tools",
+      "Title": "Quick and easy to attach to my string trimmer",
+      "UserNickname": "Fish",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "236802589",
+      "CID": "e0649113-5c8f-5260-8700-cacc91233366",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-10-16T01:15:03.000+00:00",
+      "LastModificationTime": "2025-06-12T15:33:32.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "a77eebbd83e802c8119896ca36d879ba6869733177617940676d61696c2e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17290402RZ67WYjwqO",
+      "SubmissionTime": "2024-10-16T00:57:21.000+00:00",
+      "ReviewText": "Opened box, badly out of adjustment",
+      "Title": "I loosened the four bolts, then it worked fine",
+      "UserNickname": "Old man retired",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "236623464",
+      "CID": "1a22e891-fc5a-5dbd-9fef-e7224a8dd067",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-10-06T21:30:09.000+00:00",
+      "LastModificationTime": "2025-06-12T15:33:40.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "5bcac725-fc4c-4422-b500-6b3e9a26b042",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17282500C56c4KfuF5",
+      "SubmissionTime": "2024-10-06T21:27:41.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "IsRecommended": null,
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "ReviewText": null,
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "IsSyndicated": false,
+      "Title": null,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "236028913",
+      "CID": "758f5117-ac33-5505-a4b3-69f0e3a56df7",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-09-08T00:15:07.000+00:00",
+      "LastModificationTime": "2024-09-08T00:15:07.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "fbb37495-8d4d-477f-a344-41fd19b9949c",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17257532GWe8Yee0XA",
+      "SubmissionTime": "2024-09-07T23:54:40.000+00:00",
+      "ReviewText": "Cuts as it should.  It is heavy though.",
+      "Title": "The need for reach",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "IsRecommended": null,
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "235522792",
+      "CID": "e44594f9-9855-5374-bffa-a76a5220f624",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-08-14T19:30:08.000+00:00",
+      "LastModificationTime": "2025-07-19T23:23:32.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "PPE_MPS_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "f4166b21-694c-4477-8d80-eabe8030ffb5",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z3n5ti4ojg65z6gg2j1wf3yvv2",
+          "SubmissionTime": "2025-06-27T23:21:38.000+00:00"
+        },
+        {
+          "AuthorId": "ztaoq4a21el12ifik9tis26twy",
+          "SubmissionTime": "2024-08-24T19:59:57.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__172366288EpYuD0j7F",
+      "SubmissionTime": "2024-08-14T19:14:40.000+00:00",
+      "ReviewText": "Great fit on present trimmer",
+      "Title": "Great fit",
+      "UserNickname": "Steve",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "234047681",
+      "CID": "cabdeb7d-c87e-5ca8-b276-b5fe478dfd73",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-06-04T21:19:37.000+00:00",
+      "LastModificationTime": "2025-06-12T15:33:03.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "hhsx5l7kghwltlr3b27ugnozw",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zikjtsn7l8zs4f595pyxxljm5i",
+          "SubmissionTime": "2025-12-31T20:15:32.000+00:00"
+        },
+        {
+          "AuthorId": "z60xnadls1q80aifxqjolq3h6m",
+          "SubmissionTime": "2025-12-31T20:15:23.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.5,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17175345B5s69nLqX0",
+      "SubmissionTime": "2024-06-04T20:55:46.000+00:00",
+      "ReviewText": "Heavy but useable.",
+      "Title": "Heavy",
+      "UserNickname": "WillO",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "233151639",
+      "CID": "ff059cf9-c9ee-59b6-b730-9bd738c6138a",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-04-08T00:30:12.000+00:00",
+      "LastModificationTime": "2025-06-12T15:32:40.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "541a816f1678e920b2605a08c9f046906a616d65736c61636f757240796d61696c2e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zh997ablte7l780k2db2zaslaf",
+          "SubmissionTime": "2025-04-08T00:18:14.000+00:00"
+        },
+        {
+          "AuthorId": "zm0r1ki7kojxkfdl1gdglrj185",
+          "SubmissionTime": "2025-04-08T00:18:13.000+00:00"
+        },
+        {
+          "AuthorId": "zq30g5lnek6vec3mmt3gb99tb5",
+          "SubmissionTime": "2025-04-08T00:18:08.000+00:00"
+        },
+        {
+          "AuthorId": "zq6pw67snrnsbyhy27bzo3je27",
+          "SubmissionTime": "2025-04-08T00:18:07.000+00:00"
+        },
+        {
+          "AuthorId": "ze0f8k6t92noifljw7r4vd77ni",
+          "SubmissionTime": "2025-04-08T00:18:04.000+00:00"
+        },
+        {
+          "AuthorId": "zon65hsrcqluq6hbjph94gnskm",
+          "SubmissionTime": "2025-04-08T00:18:03.000+00:00"
+        },
+        {
+          "AuthorId": "zavzmasgo6971q33380a0x9o6o",
+          "SubmissionTime": "2025-04-08T00:18:02.000+00:00"
+        },
+        {
+          "AuthorId": "zlfnysa2qoket79h6bw88ecgr6",
+          "SubmissionTime": "2025-04-08T00:18:00.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 8,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.800000011920929,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17132936B4orPwiCNb",
+      "SubmissionTime": "2024-04-16T18:53:46.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "IsRecommended": null,
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "ReviewText": null,
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "IsSyndicated": false,
+      "Title": null,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "232731467",
+      "CID": "c0b75dff-d4c6-53ff-93cf-a66b6c2a13c5",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-03-26T22:15:10.000+00:00",
+      "LastModificationTime": "2026-07-19T23:33:42.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "android",
+      "AuthorId": "prsld13v37x0a381p6lioe3ai",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 26,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 26,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17114900SYlfvywGiI",
+      "SubmissionTime": "2024-03-26T21:54:25.000+00:00",
+      "ReviewText": "for anyone wondering, this does work on a Husqvarna",
+      "Title": "Husqvarna",
+      "UserNickname": "joel",
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "ContextDataValues": {},
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "ContextDataValuesOrder": [],
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "228084175",
+      "CID": "32656256-9fc0-574b-86ec-f3e1974c43b4",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-09-08T10:45:09.000+00:00",
+      "LastModificationTime": "2025-06-12T15:32:57.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "orderdetails_desktop",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "d30463dd-bba3-4d3c-8d96-19358712acdc",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16941686gEtKhID8EJ",
+      "SubmissionTime": "2023-09-08T10:23:31.000+00:00",
+      "ReviewText": "PRO: cuts thru everything that I put it thru. \nCON: heavy when attached to the base.",
+      "Title": "CON: Weight",
+      "UserNickname": "RodneyTEE",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "215454882",
+      "CID": "0c55da9f-8d65-5fe8-8d48-7776c9d59e64",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-03-10T19:30:07.000+00:00",
+      "LastModificationTime": "2025-06-12T15:32:08.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "2876edd9-ec32-4a3e-bedd-fb06c96c4fea",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 9,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 9,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16469395eG0J6pye03",
+      "SubmissionTime": "2022-03-10T19:12:07.000+00:00",
+      "ReviewText": "Fits my Cobalt 80v trimmer.  Works well.  But I'll say that combo is quite heavy.  Gets the job done and you get a work out at the same time.",
+      "Title": "Good fit, but heavy.",
+      "UserNickname": "GeoMc",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "IsRecommended": null,
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "211972111",
+      "CID": "83903a2f-fe12-53a9-971f-e18138750ff6",
+      "SourceClient": "lowes",
+      "Badges": {
+        "Expert": {
+          "ContentType": "REVIEW",
+          "Id": "Expert",
+          "BadgeType": "Rank"
+        }
+      },
+      "BadgesOrder": [
+        "Expert"
+      ],
+      "LastModeratedTime": "2021-11-12T11:30:06.000+00:00",
+      "LastModificationTime": "2025-06-12T15:33:00.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "ccf03445-674d-4e65-ab2a-5cc8614d31d1",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zexdgjt02f98bo835e5hjx5o3v",
+          "SubmissionTime": "2024-08-01T01:24:00.000+00:00"
+        },
+        {
+          "AuthorId": "zl88lbuqnxkrm9a1a79gizf0to",
+          "SubmissionTime": "2023-04-02T14:09:59.000+00:00"
+        },
+        {
+          "AuthorId": "ztgu4maxzyvyewhkcbz0d63syu",
+          "SubmissionTime": "2022-01-31T17:14:15.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 3,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": true,
+      "IsRecommended": true,
+      "Helpfulness": 0.5,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 3,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16367165GA0l6h9cep",
+      "SubmissionTime": "2021-11-12T11:29:45.000+00:00",
+      "UserNickname": "Badger2021",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Pros": null,
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "ReviewText": null,
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "IsSyndicated": false,
+      "Title": null,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "210311233",
+      "CID": "c20e2271-626a-5655-966e-e0a7d88550a5",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-08-28T22:45:04.000+00:00",
+      "LastModificationTime": "2025-09-20T16:35:16.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "09c95b75-3b52-41c2-b969-ab0915b53d02",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "50372941-bf25-4586-ac54-66c9d3f6246f",
+          "SubmissionTime": "2022-04-27T22:04:56.000+00:00"
+        },
+        {
+          "AuthorId": "Guest",
+          "SubmissionTime": "2022-03-05T01:53:19.000+00:00"
+        },
+        {
+          "AuthorId": "zu7bspg0wok79qxr6d2x41ysvz",
+          "SubmissionTime": "2022-01-31T17:14:06.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 3,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 9,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 9,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16301895uipa6ngHSc",
+      "SubmissionTime": "2021-08-28T22:26:38.000+00:00",
+      "ReviewText": "Was hesitant to order. Compatibility description was vague.  Compatible units not shown on photo as indicated.  Found it to be compatible with my battery operated Kobalt.\n\nAlso hesitant due to the long extension arm.  Length was not included in description.  More balanced than I expected with the long pole.  Was able to trim the whole top of hedge from one side.  Would have still liked to have a shorter pole for closer work.  Salvaged that piece off my old unit but swapping them will probably be too inconvenient.\n\nOffers more position settings than my old craftsman trimmer.\n\nCut the more ridged hedge branches smoothly, but struggled with more wispy weeds sticking up through.  Will be subject to a more rigorous evaluation when I take it out to trim back MTB trails.",
+      "Title": "long reach",
+      "UserNickname": "Tomg",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    },
+    {
+      "Id": "209537733",
+      "CID": "f900c462-7f4a-5b07-955d-beffe521379b",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-07-24T21:45:04.000+00:00",
+      "LastModificationTime": "2026-03-25T21:42:01.000+00:00",
+      "ProductId": "5001889721",
+      "OriginalProductName": "LinkOn Hedge trimmer attachment",
+      "CampaignId": "PPE_MPS_online_DT_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "4ea5f9db-ec55-4694-b9ed-4ab0a27675ef",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zsovs0tygpzq0zq8j9rr1h7itd",
+          "SubmissionTime": "2024-08-01T01:23:50.000+00:00"
+        },
+        {
+          "AuthorId": "ze4umhne9djr40tizd6dh115ff",
+          "SubmissionTime": "2023-04-20T03:49:24.000+00:00"
+        },
+        {
+          "AuthorId": "z68fp9qd46c1nwfkrrgvir1r4f",
+          "SubmissionTime": "2023-04-02T14:10:03.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 3,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "IsRecommended": true,
+      "Helpfulness": 0.4444440007209778,
+      "TotalFeedbackCount": 9,
+      "TotalNegativeFeedbackCount": 5,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__16271623qUhqNGJsBU",
+      "SubmissionTime": "2021-07-24T21:33:18.000+00:00",
+      "UserNickname": "Miami Mike",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFieldsOrder": [],
+      "Cons": null,
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Pros": null,
+      "Badges": {},
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "ReviewText": null,
+      "CommentIds": [],
+      "SecondaryRatingsOrder": [],
+      "IsSyndicated": false,
+      "Title": null,
+      "ProductRecommendationIds": [],
+      "UserLocation": null,
+      "SecondaryRatings": {},
+      "Videos": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "5001889721": {
+        "FamilyIds": [
+          "3808308"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "3808308",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "12734",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "3808308",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "239",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:3808308",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "3808308",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "510533",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00854641007207",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "854641007207"
+        ],
+        "Name": "LinkOn Hedge trimmer attachment",
+        "ModelNumbers": [
+          "MFT26I-HEDGE-A"
+        ],
+        "Description": "TAKE ON TOUGH JOBS: The 15-inch, dual-action blade delivers powerful trimming with a 3_SLASH_4-inch cutting capacity to tackle any hedge size that comes your way 30-INCH SHAFT: Reach higher and farther without a ladder or breaking your back ARTICULATING HEAD: The 12-position articulating head allows you to adjust the blade angle to fit different hedge shapes and trim hard-to-reach places BUILT TO LAST: Designed to last years with high-grade, steel blades to retain sharpness and durability COMPATIBLE WITH THE FOLLOWING: Works with most brands of attachment-capable trimmers like Sunseeker, Wild Badger Power, Ryobi, Craftsman, Troy-Bilt, Toro, Poulan, Poulan Pro, Weed Eater, Cub Cadet, MTD Pro, John Deer, Yard Machine, Yard Man, McCulloch - Note: Be sure to check your user manual before purchasing for this attachment for another brand, Female- shaft diameter 1 inch, square inner diameter .48 inch, Male- shaft diameter 1 inch, square diameter .4 inch",
+        "ManufacturerPartNumbers": [
+          "3808308-108792-MFT26I-HEDGE-A"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/cd4ca53c-d2f3-4648-8084-72c70e3d65bb/70603559.jpeg",
+        "Id": "5001889721",
+        "CategoryId": "102069",
+        "BrandExternalId": "Wild Badger Power",
+        "Brand": {
+          "Id": "Wild Badger Power",
+          "Name": "Wild Badger Power"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Badger-Dual-Action-15-Inch-Hedge-Trimmer-Attachment-Fits-Universal-System-Attachment-Capable-Trimmers/5001889721",
+        "Disabled": false,
+        "ReviewIds": [],
+        "QuestionIds": [],
+        "EANs": [],
+        "ISBNs": [],
+        "StoryIds": [],
+        "ReviewStatistics": {
+          "RatingsOnlyReviewCount": 2,
+          "TotalPhotoCount": 0,
+          "NotHelpfulVoteCount": 11,
+          "HelpfulVoteCount": 70,
+          "FirstSubmissionTime": "2021-07-24T21:33:18.000+00:00",
+          "LastSubmissionTime": "2026-03-24T22:35:03.000+00:00",
+          "TotalVideoCount": 0,
+          "AverageOverallRating": 4.444444444444445,
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 10
+            },
+            {
+              "RatingValue": 4,
+              "Count": 7
+            },
+            {
+              "RatingValue": 2,
+              "Count": 1
+            }
+          ],
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaserCDV"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaserCDV": {
+              "Id": "VerifiedPurchaserCDV",
+              "Values": [
+                {
+                  "Count": 15,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "TotalReviewCount": 18,
+          "NotRecommendedCount": 1,
+          "FeaturedReviewCount": 0,
+          "RecommendedCount": 12,
+          "TotalMediaCount": 0,
+          "OverallRatingRange": 5,
+          "TagDistributionOrder": [],
+          "TagDistribution": {},
+          "SecondaryRatingsAverages": {},
+          "SecondaryRatingsAveragesOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 18
+      }
+    },
+    "ProductsOrder": [
+      "5001889721"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

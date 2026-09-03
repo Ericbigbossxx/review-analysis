@@ -1,0 +1,1389 @@
+{
+  "currentReportDate": "2026-09-03",
+  "priorReportDate": "2026-08-21",
+  "comparisonScope": "CURRENT_ACTIVE_SCOPE_WITH_LIKE_FOR_LIKE_DELTAS",
+  "platforms": [
+    {
+      "platform": "LOWES",
+      "currentScopeListings": 10,
+      "currentAvailableListings": 10,
+      "comparableListings": 2,
+      "newToScope": 8,
+      "linkChanged": 2,
+      "currentUnavailable": 0,
+      "currentTotalReviews": 541,
+      "currentLowStarReviews": 142,
+      "currentLowStarRate": 0.26247689463955637,
+      "comparableCurrentTotalReviews": 148,
+      "comparableCurrentLowStarReviews": 36,
+      "comparableCurrentLowStarRate": 0.24324324324324326,
+      "priorTotalReviews": 147,
+      "priorLowStarReviews": 35,
+      "priorLowStarRate": 0.23809523809523808,
+      "totalReviewDelta": 1,
+      "lowStarDelta": 1,
+      "lowStarRateDelta": 0.005148005148005175,
+      "newReadableLowStarReviews": 2
+    },
+    {
+      "platform": "THD",
+      "currentScopeListings": 10,
+      "currentAvailableListings": 10,
+      "comparableListings": 4,
+      "newToScope": 6,
+      "linkChanged": 0,
+      "currentUnavailable": 0,
+      "currentTotalReviews": 1009,
+      "currentLowStarReviews": 268,
+      "currentLowStarRate": 0.26560951437066405,
+      "comparableCurrentTotalReviews": 424,
+      "comparableCurrentLowStarReviews": 129,
+      "comparableCurrentLowStarRate": 0.30424528301886794,
+      "priorTotalReviews": 419,
+      "priorLowStarReviews": 127,
+      "priorLowStarRate": 0.3031026252983294,
+      "totalReviewDelta": 5,
+      "lowStarDelta": 2,
+      "lowStarRateDelta": 0.0011426577205385646,
+      "newReadableLowStarReviews": 2
+    },
+    {
+      "platform": "WALMART",
+      "currentScopeListings": 10,
+      "currentAvailableListings": 10,
+      "comparableListings": 6,
+      "newToScope": 4,
+      "linkChanged": 6,
+      "currentUnavailable": 0,
+      "currentTotalReviews": 407,
+      "currentLowStarReviews": 92,
+      "currentLowStarRate": 0.22604422604422605,
+      "comparableCurrentTotalReviews": 327,
+      "comparableCurrentLowStarReviews": 77,
+      "comparableCurrentLowStarRate": 0.23547400611620795,
+      "priorTotalReviews": 576,
+      "priorLowStarReviews": 76,
+      "priorLowStarRate": 0.13194444444444445,
+      "totalReviewDelta": -249,
+      "lowStarDelta": 1,
+      "lowStarRateDelta": 0.1035295616717635,
+      "newReadableLowStarReviews": 1
+    }
+  ],
+  "totals": {
+    "currentScopeListings": 30,
+    "currentAvailableListings": 30,
+    "comparableListings": 12,
+    "newToScope": 18,
+    "linkChanged": 8,
+    "currentUnavailable": 0,
+    "currentTotalReviews": 1957,
+    "currentLowStarReviews": 502,
+    "currentLowStarRate": 0.2565150740929995,
+    "comparableCurrentTotalReviews": 899,
+    "comparableCurrentLowStarReviews": 242,
+    "comparableCurrentLowStarRate": 0.26918798665183535,
+    "priorTotalReviews": 1142,
+    "priorLowStarReviews": 238,
+    "priorLowStarRate": 0.2084063047285464,
+    "totalReviewDelta": -243,
+    "lowStarDelta": 4,
+    "lowStarRateDelta": 0.06078168192328895,
+    "newReadableLowStarReviews": 5
+  },
+  "skus": [
+    {
+      "record_id": "LOWES_MFT26I-HEDGE-A",
+      "platform": "LOWES",
+      "sku": "MFT26I-HEDGE-A",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 18,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 1,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.05555555555555555,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "LOWES_WB20VTRSBL",
+      "platform": "LOWES",
+      "sku": "WB20VTRSBL",
+      "status": "LINK_CHANGED",
+      "scopeStatus": "LINK_CHANGED",
+      "comparable": true,
+      "currentTotalReviews": 19,
+      "priorTotalReviews": 18,
+      "totalReviewDelta": 1,
+      "currentLowStarReviews": 4,
+      "priorLowStarReviews": 3,
+      "lowStarDelta": 1,
+      "currentLowStarRate": 0.21052631578947367,
+      "priorLowStarRate": 0.16666666666666666,
+      "lowStarRateDelta": 0.043859649122807015
+    },
+    {
+      "record_id": "LOWES_WB26BCI",
+      "platform": "LOWES",
+      "sku": "WB26BCI",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 115,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 33,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.28695652173913044,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "LOWES_WB26MTSE",
+      "platform": "LOWES",
+      "sku": "WB26MTSE",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 35,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 9,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.2571428571428571,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "LOWES_WB31CCED",
+      "platform": "LOWES",
+      "sku": "WB31CCED",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 12,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 7,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.5833333333333334,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "LOWES_WB40V18PLM",
+      "platform": "LOWES",
+      "sku": "WB40V18PLM",
+      "status": "LINK_CHANGED",
+      "scopeStatus": "LINK_CHANGED",
+      "comparable": true,
+      "currentTotalReviews": 129,
+      "priorTotalReviews": 129,
+      "totalReviewDelta": 0,
+      "currentLowStarReviews": 32,
+      "priorLowStarReviews": 32,
+      "lowStarDelta": 0,
+      "currentLowStarRate": 0.24806201550387597,
+      "priorLowStarRate": 0.24806201550387597,
+      "lowStarRateDelta": 0.0
+    },
+    {
+      "record_id": "LOWES_WB40VSNBL2",
+      "platform": "LOWES",
+      "sku": "WB40VSNBL2",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 27,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 3,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.1111111111111111,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "LOWES_WB40VSNOWBL",
+      "platform": "LOWES",
+      "sku": "WB40VSNOWBL",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 24,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 2,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.08333333333333333,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "LOWES_WBP52BCI",
+      "platform": "LOWES",
+      "sku": "WBP52BCI",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 28,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 15,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.5357142857142857,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "LOWES_WBPMT26P",
+      "platform": "LOWES",
+      "sku": "WBPMT26P",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 134,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 36,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.26865671641791045,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "THD_ORIONX7",
+      "platform": "THD",
+      "sku": "ORIONX7",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 5,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 2,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.4,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "THD_SKRMS4",
+      "platform": "THD",
+      "sku": "SKRMS4",
+      "status": "COMPARABLE",
+      "scopeStatus": "CONTINUING",
+      "comparable": true,
+      "currentTotalReviews": 2,
+      "priorTotalReviews": 2,
+      "totalReviewDelta": 0,
+      "currentLowStarReviews": 1,
+      "priorLowStarReviews": 1,
+      "lowStarDelta": 0,
+      "currentLowStarRate": 0.5,
+      "priorLowStarRate": 0.5,
+      "lowStarRateDelta": 0.0
+    },
+    {
+      "record_id": "THD_SKRMX3PLUS",
+      "platform": "THD",
+      "sku": "SKRMX3PLUS",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 6,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 4,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.6666666666666666,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "THD_SKRMX5",
+      "platform": "THD",
+      "sku": "SKRMX5",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 13,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 3,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.23076923076923078,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "THD_WB26BCI",
+      "platform": "THD",
+      "sku": "WB26BCI",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 521,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 125,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.2399232245681382,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "THD_WB26MTSE",
+      "platform": "THD",
+      "sku": "WB26MTSE",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 36,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 5,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.1388888888888889,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "THD_WB31CCED",
+      "platform": "THD",
+      "sku": "WB31CCED",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 4,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 0,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.0,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "THD_WBP52BCI",
+      "platform": "THD",
+      "sku": "WBP52BCI",
+      "status": "COMPARABLE",
+      "scopeStatus": "CONTINUING",
+      "comparable": true,
+      "currentTotalReviews": 407,
+      "priorTotalReviews": 407,
+      "totalReviewDelta": 0,
+      "currentLowStarReviews": 124,
+      "priorLowStarReviews": 124,
+      "lowStarDelta": 0,
+      "currentLowStarRate": 0.3046683046683047,
+      "priorLowStarRate": 0.3046683046683047,
+      "lowStarRateDelta": 0.0
+    },
+    {
+      "record_id": "THD_WBP52TS",
+      "platform": "THD",
+      "sku": "WBP52TS",
+      "status": "COMPARABLE",
+      "scopeStatus": "CONTINUING",
+      "comparable": true,
+      "currentTotalReviews": 9,
+      "priorTotalReviews": 5,
+      "totalReviewDelta": 4,
+      "currentLowStarReviews": 3,
+      "priorLowStarReviews": 1,
+      "lowStarDelta": 2,
+      "currentLowStarRate": 0.3333333333333333,
+      "priorLowStarRate": 0.2,
+      "lowStarRateDelta": 0.1333333333333333
+    },
+    {
+      "record_id": "THD_WBPMT26TS",
+      "platform": "THD",
+      "sku": "WBPMT26TS",
+      "status": "COMPARABLE",
+      "scopeStatus": "CONTINUING",
+      "comparable": true,
+      "currentTotalReviews": 6,
+      "priorTotalReviews": 5,
+      "totalReviewDelta": 1,
+      "currentLowStarReviews": 1,
+      "priorLowStarReviews": 1,
+      "lowStarDelta": 0,
+      "currentLowStarRate": 0.16666666666666666,
+      "priorLowStarRate": 0.2,
+      "lowStarRateDelta": -0.033333333333333354
+    },
+    {
+      "record_id": "WALMART_WB20V16LM",
+      "platform": "WALMART",
+      "sku": "WB20V16LM",
+      "status": "LINK_CHANGED",
+      "scopeStatus": "LINK_CHANGED",
+      "comparable": true,
+      "currentTotalReviews": 46,
+      "priorTotalReviews": 98,
+      "totalReviewDelta": -52,
+      "currentLowStarReviews": 16,
+      "priorLowStarReviews": 16,
+      "lowStarDelta": 0,
+      "currentLowStarRate": 0.34782608695652173,
+      "priorLowStarRate": 0.16326530612244897,
+      "lowStarRateDelta": 0.18456078083407276
+    },
+    {
+      "record_id": "WALMART_WB20VCOMBODP",
+      "platform": "WALMART",
+      "sku": "WB20VCOMBODP",
+      "status": "LINK_CHANGED",
+      "scopeStatus": "LINK_CHANGED",
+      "comparable": true,
+      "currentTotalReviews": 3,
+      "priorTotalReviews": 9,
+      "totalReviewDelta": -6,
+      "currentLowStarReviews": 0,
+      "priorLowStarReviews": 0,
+      "lowStarDelta": 0,
+      "currentLowStarRate": 0.0,
+      "priorLowStarRate": 0.0,
+      "lowStarRateDelta": 0.0
+    },
+    {
+      "record_id": "WALMART_WB20VTAB",
+      "platform": "WALMART",
+      "sku": "WB20VTAB",
+      "status": "LINK_CHANGED",
+      "scopeStatus": "LINK_CHANGED",
+      "comparable": true,
+      "currentTotalReviews": 209,
+      "priorTotalReviews": 331,
+      "totalReviewDelta": -122,
+      "currentLowStarReviews": 46,
+      "priorLowStarReviews": 45,
+      "lowStarDelta": 1,
+      "currentLowStarRate": 0.22009569377990432,
+      "priorLowStarRate": 0.13595166163141995,
+      "lowStarRateDelta": 0.08414403214848437
+    },
+    {
+      "record_id": "WALMART_WB20VTRSBL",
+      "platform": "WALMART",
+      "sku": "WB20VTRSBL",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 59,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 13,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.22033898305084745,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "WALMART_WB40V18PLM",
+      "platform": "WALMART",
+      "sku": "WB40V18PLM",
+      "status": "LINK_CHANGED",
+      "scopeStatus": "LINK_CHANGED",
+      "comparable": true,
+      "currentTotalReviews": 56,
+      "priorTotalReviews": 106,
+      "totalReviewDelta": -50,
+      "currentLowStarReviews": 11,
+      "priorLowStarReviews": 11,
+      "lowStarDelta": 0,
+      "currentLowStarRate": 0.19642857142857142,
+      "priorLowStarRate": 0.10377358490566038,
+      "lowStarRateDelta": 0.09265498652291104
+    },
+    {
+      "record_id": "WALMART_WB40VCOMBO",
+      "platform": "WALMART",
+      "sku": "WB40VCOMBO",
+      "status": "LINK_CHANGED",
+      "scopeStatus": "LINK_CHANGED",
+      "comparable": true,
+      "currentTotalReviews": 0,
+      "priorTotalReviews": 3,
+      "totalReviewDelta": -3,
+      "currentLowStarReviews": 0,
+      "priorLowStarReviews": 0,
+      "lowStarDelta": 0,
+      "currentLowStarRate": null,
+      "priorLowStarRate": 0.0,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "WALMART_WB40VTBCC",
+      "platform": "WALMART",
+      "sku": "WB40VTBCC",
+      "status": "LINK_CHANGED",
+      "scopeStatus": "LINK_CHANGED",
+      "comparable": true,
+      "currentTotalReviews": 13,
+      "priorTotalReviews": 29,
+      "totalReviewDelta": -16,
+      "currentLowStarReviews": 4,
+      "priorLowStarReviews": 4,
+      "lowStarDelta": 0,
+      "currentLowStarRate": 0.3076923076923077,
+      "priorLowStarRate": 0.13793103448275862,
+      "lowStarRateDelta": 0.1697612732095491
+    },
+    {
+      "record_id": "WALMART_WB52CCBPB",
+      "platform": "WALMART",
+      "sku": "WB52CCBPB",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 3,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 1,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.3333333333333333,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "WALMART_WB52CCEA",
+      "platform": "WALMART",
+      "sku": "WB52CCEA",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 18,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 1,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": 0.05555555555555555,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    },
+    {
+      "record_id": "WALMART_WBP31TS",
+      "platform": "WALMART",
+      "sku": "WBP31TS",
+      "status": "NEW_TO_SCOPE",
+      "scopeStatus": "NEW_TO_SCOPE",
+      "comparable": false,
+      "currentTotalReviews": 0,
+      "priorTotalReviews": null,
+      "totalReviewDelta": null,
+      "currentLowStarReviews": 0,
+      "priorLowStarReviews": null,
+      "lowStarDelta": null,
+      "currentLowStarRate": null,
+      "priorLowStarRate": null,
+      "lowStarRateDelta": null
+    }
+  ],
+  "scopeChangeAudit": {
+    "newToScope": [
+      {
+        "record_id": "LOWES_MFT26I-HEDGE-A",
+        "current": {
+          "record_id": "LOWES_MFT26I-HEDGE-A",
+          "platform_code": "LOWES",
+          "internal_sku": "MFT26I-HEDGE-A",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Badger-Dual-Action-15-Inch-Hedge-Trimmer-Attachment-Fits-Universal-System-Attachment-Capable-Trimmers/5001889721?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5001889721",
+          "brand": "LinkOn",
+          "product_line": "Hedge Trimmer",
+          "product_name": "LinkOn Hedge trimmer attachment"
+        }
+      },
+      {
+        "record_id": "LOWES_WB26BCI",
+        "current": {
+          "record_id": "LOWES_WB26BCI",
+          "platform_code": "LOWES",
+          "internal_sku": "WB26BCI",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Badger-Badger-26-CC-2-Cycle-2-in-1-Gas-Full-Crank-Straight-Shaft-Grass-Trimmer-with-Brush-Cutter-Blade-and-Bonus-Harness/5001743513?msockid=2a7fc018fe3f6272209bd76cffd16389",
+          "platform_item_id": "5001743513",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer"
+        }
+      },
+      {
+        "record_id": "LOWES_WB26MTSE",
+        "current": {
+          "record_id": "LOWES_WB26MTSE",
+          "platform_code": "LOWES",
+          "internal_sku": "WB26MTSE",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-Gas-4-Piece-Cordless-Power-Equipment-Combo-Kit/5014391665",
+          "platform_item_id": "5014391665",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Edger",
+          "product_name": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable"
+        }
+      },
+      {
+        "record_id": "LOWES_WB31CCED",
+        "current": {
+          "record_id": "LOWES_WB31CCED",
+          "platform_code": "LOWES",
+          "internal_sku": "WB31CCED",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-9-in-Push-Walk-Behind-Gas-Lawn-Edger/5014467581",
+          "platform_item_id": "5014467581",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Edger",
+          "product_name": "9-in Push walk behind Gas Lawn Edger"
+        }
+      },
+      {
+        "record_id": "LOWES_WB40VSNBL2",
+        "current": {
+          "record_id": "LOWES_WB40VSNBL2",
+          "platform_code": "LOWES",
+          "internal_sku": "WB40VSNBL2",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-Cordless-40-volt-20-in-Single-stage-Push-Battery-Snow-Blower-4-Ah-Battery-and-Charger-Included/5015737225?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5015737225",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Snow Blower",
+          "product_name": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Included) (Charger Included)"
+        }
+      },
+      {
+        "record_id": "LOWES_WB40VSNOWBL",
+        "current": {
+          "record_id": "LOWES_WB40VSNOWBL",
+          "platform_code": "LOWES",
+          "internal_sku": "WB40VSNOWBL",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-Wild-Badger-Power-40-Volt-20-inch-Snow-Blower-Includes-4-0-Ah-Battery-and-Fast-Charger/5014466577?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5014466577",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Snow Blower",
+          "product_name": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)"
+        }
+      },
+      {
+        "record_id": "LOWES_WBP52BCI",
+        "current": {
+          "record_id": "LOWES_WBP52BCI",
+          "platform_code": "LOWES",
+          "internal_sku": "WBP52BCI",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Badger-Wild-Badger-52-cc-2-cycle-18-in-Straight-Shaft-Gas-Brush-Cutter/5014077075",
+          "platform_item_id": "5014077075",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer"
+        }
+      },
+      {
+        "record_id": "LOWES_WBPMT26P",
+        "current": {
+          "record_id": "LOWES_WBPMT26P",
+          "platform_code": "LOWES",
+          "internal_sku": "WBPMT26P",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-Gas-26-cc-2-cycle-17-in-Straight-Shaft-Gas-Brush-Cutter-with-Attachment-Capable-and-Edger-Capable/5014463151",
+          "platform_item_id": "5014463151",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer"
+        }
+      },
+      {
+        "record_id": "THD_ORIONX7",
+        "current": {
+          "record_id": "THD_ORIONX7",
+          "platform_code": "THD",
+          "internal_sku": "ORIONX7",
+          "model": "X7",
+          "listing_url": "https://www.homedepot.com/p/337020714",
+          "platform_item_id": "337020714",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Robotic Lawn Mower",
+          "product_name": "X7 Wireless 14 in. Robot Lawn Mower (0.75 Acre) with RTK Navigation, Vision AI System, Smart App Control"
+        }
+      },
+      {
+        "record_id": "THD_SKRMX3PLUS",
+        "current": {
+          "record_id": "THD_SKRMX3PLUS",
+          "platform_code": "THD",
+          "internal_sku": "SKRMX3PLUS",
+          "model": "X3PLUS",
+          "listing_url": "https://www.homedepot.com/p/336272752",
+          "platform_item_id": "336272752",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Robotic Lawn Mower",
+          "product_name": "X3 Plus Wireless 8 in. Robot Lawn Mower (0.3 Acre) with RTK Navigation, AI Obstacle Avoidance, App Control"
+        }
+      },
+      {
+        "record_id": "THD_SKRMX5",
+        "current": {
+          "record_id": "THD_SKRMX5",
+          "platform_code": "THD",
+          "internal_sku": "SKRMX5",
+          "model": "X5",
+          "listing_url": "https://www.homedepot.com/p/335471654",
+          "platform_item_id": "335471654",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Robotic Lawn Mower",
+          "product_name": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance"
+        }
+      },
+      {
+        "record_id": "THD_WB26BCI",
+        "current": {
+          "record_id": "THD_WB26BCI",
+          "platform_code": "THD",
+          "internal_sku": "WB26BCI",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/309475184",
+          "platform_item_id": "309475184",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Edger",
+          "product_name": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap"
+        }
+      },
+      {
+        "record_id": "THD_WB26MTSE",
+        "current": {
+          "record_id": "THD_WB26MTSE",
+          "platform_code": "THD",
+          "internal_sku": "WB26MTSE",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/325371505",
+          "platform_item_id": "325371505",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Hedge Trimmer",
+          "product_name": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)"
+        }
+      },
+      {
+        "record_id": "THD_WB31CCED",
+        "current": {
+          "record_id": "THD_WB31CCED",
+          "platform_code": "THD",
+          "internal_sku": "WB31CCED",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/323760890",
+          "platform_item_id": "323760890",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Edger",
+          "product_name": "31cc 4-Stroke Walk Behind Edge Sidewalk Edger Lawn Tool Gas"
+        }
+      },
+      {
+        "record_id": "WALMART_WB20VTRSBL",
+        "current": {
+          "record_id": "WALMART_WB20VTRSBL",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20VTRSBL",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/5629858326",
+          "platform_item_id": "5629858326",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "WILD BADGER POWER 20V Cordless String Trimmer with Sweeper Combo, 2*2Ah Battery & Charger"
+        }
+      },
+      {
+        "record_id": "WALMART_WB52CCBPB",
+        "current": {
+          "record_id": "WALMART_WB52CCBPB",
+          "platform_code": "WALMART",
+          "internal_sku": "WB52CCBPB",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/1770380088",
+          "platform_item_id": "1770380088",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Snow Blower",
+          "product_name": "WILD BADGER POWER 53cc Backpack Leaf Blower, 853CFM 174MPH Gas Powered, Lightweight 19.6lbs for Leaf, Debris, Snow Cleanup"
+        }
+      },
+      {
+        "record_id": "WALMART_WB52CCEA",
+        "current": {
+          "record_id": "WALMART_WB52CCEA",
+          "platform_code": "WALMART",
+          "internal_sku": "WB52CCEA",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/2166947342",
+          "platform_item_id": "2166947342",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Auger",
+          "product_name": "Wild Badger Power Auger Post Hole Digger 2.6HP 1.9KW Strong 53cc Gas Powered 8\", Blue"
+        }
+      },
+      {
+        "record_id": "WALMART_WBP31TS",
+        "current": {
+          "record_id": "WALMART_WBP31TS",
+          "platform_code": "WALMART",
+          "internal_sku": "WBP31TS",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/20525672189",
+          "platform_item_id": "20525672189",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "Wild Badger Power Gen2 31cc 4-Cycle Gas Powered Weed Wacker, 2-in-1 String Trimmer & Brush Cutter, No Mixing Required, Extra Trimmer Line Included, Straight Shaft with Shoulder Harness"
+        }
+      }
+    ],
+    "removedFromScope": [
+      {
+        "record_id": "LOWES_ORIONX7",
+        "previous": {
+          "record_id": "LOWES_ORIONX7",
+          "platform_code": "LOWES",
+          "internal_sku": "ORIONX7",
+          "model": "X7",
+          "listing_url": "https://www.lowes.com/pd/Sunseeker-X7-Robotic-Lawn-Mower-with-GPS-Assisted-Navigation-1-2-acre-to-1-acre/5016678663",
+          "platform_item_id": "7196963",
+          "brand": "Sunseeker",
+          "product_line": "ROBOTIC",
+          "product_name": "Sunseeker X7 Robotic Lawn Mower"
+        }
+      },
+      {
+        "record_id": "LOWES_RMA1202L20VU",
+        "previous": {
+          "record_id": "LOWES_RMA1202L20VU",
+          "platform_code": "LOWES",
+          "internal_sku": "RMA1202L20VU",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Sunseeker-Robotic-Mower-Robotic-Lawn-Mower-Up-To-1-4-Acre/5014696123",
+          "platform_item_id": "5014696123",
+          "brand": "SUNSEEKER",
+          "product_line": "Robot Mower",
+          "product_name": "L22 Robotic Lawn Mower (1_SLASH_8 to 1_SLASH_4 acre)"
+        }
+      },
+      {
+        "record_id": "LOWES_SKRMV3",
+        "previous": {
+          "record_id": "LOWES_SKRMV3",
+          "platform_code": "LOWES",
+          "internal_sku": "SKRMV3",
+          "model": "V3",
+          "listing_url": "https://www.lowes.com/pd/Sunseeker-V3-Robotic-Lawn-Mower-with-GPS-Assisted-Navigation-Up-to-1-8-acre/5016678667",
+          "platform_item_id": "7196962",
+          "brand": "Sunseeker",
+          "product_line": "ROBOTIC",
+          "product_name": "Sunseeker V3 Robotic Lawn Mower"
+        }
+      },
+      {
+        "record_id": "LOWES_SKRMX3PLUS",
+        "previous": {
+          "record_id": "LOWES_SKRMX3PLUS",
+          "platform_code": "LOWES",
+          "internal_sku": "SKRMX3PLUS",
+          "model": "X3PLUS",
+          "listing_url": "https://www.lowes.com/pd/Sunseeker-X3-PLUS-Robotic-Lawn-Mower-with-GPS-Assisted-Navigation-1-4-acre-to-1-2-acre/5016678665",
+          "platform_item_id": "7196961",
+          "brand": "Sunseeker",
+          "product_line": "ROBOTIC",
+          "product_name": "Sunseeker X3PLUS Robotic Lawn Mower"
+        }
+      },
+      {
+        "record_id": "LOWES_WB20V16LM",
+        "previous": {
+          "record_id": "LOWES_WB20V16LM",
+          "platform_code": "LOWES",
+          "internal_sku": "WB20V16LM",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-20-volt-16-in-Push-Cordless-Lawn-Mower-4-Ah-Battery-Charger-Included/5014394923",
+          "platform_item_id": "5014394923",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Lawn Mower",
+          "product_name": "20 Volt, 16-in Push Battery Walk Mower with  (2) 4 Ah Batteries Included"
+        }
+      },
+      {
+        "record_id": "LOWES_WB20VPS",
+        "previous": {
+          "record_id": "LOWES_WB20VPS",
+          "platform_code": "LOWES",
+          "internal_sku": "WB20VPS",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Badger-20-Volt-Lithium-Ion-Pole-Saw-Extendable-to-Over-6-ft-with-2-0-Ah-Battery-and-Charger/5001889319?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5001889319",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Pole Saws",
+          "product_name": "20 Volt 20-volt 8.0-in 2.0 Ah Battery Pole Saw Battery Included , Charger Included"
+        }
+      },
+      {
+        "record_id": "LOWES_WB20VTAB",
+        "previous": {
+          "record_id": "LOWES_WB20VTAB",
+          "platform_code": "LOWES",
+          "internal_sku": "WB20VTAB",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Badger-Badger-20-Volt-Lithium-Ion-Sting-Trimmer-Edger-and-Sweeper-Blower-with-2-0-Ah-Battery-and-Charger/5001743443?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5001743443",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmers",
+          "product_name": "20-volt 12-in Straight Shaft Battery String Trimmer Edger Conversion Capable 2 Ah (Battery Included) (Charger Included)"
+        }
+      },
+      {
+        "record_id": "LOWES_WB40V14PLM",
+        "previous": {
+          "record_id": "LOWES_WB40V14PLM",
+          "platform_code": "LOWES",
+          "internal_sku": "WB40V14PLM",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-Cordless-40-volt-14-in-Cordless-Push-Lawn-Mower-4-Ah-1-Battery-and-Charger-Included/6595295",
+          "platform_item_id": "6595295",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Lawn Mower",
+          "product_name": ""
+        }
+      },
+      {
+        "record_id": "THD_WB26GTC",
+        "previous": {
+          "record_id": "THD_WB26GTC",
+          "platform_code": "THD",
+          "internal_sku": "WB26GTC",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/325368686",
+          "platform_item_id": "325368686",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "15in Cutting Width Gas 26cc Grass Trimmer with 60° Curved Shaft"
+        }
+      },
+      {
+        "record_id": "THD_WB52CCBPB",
+        "previous": {
+          "record_id": "THD_WB52CCBPB",
+          "platform_code": "THD",
+          "internal_sku": "WB52CCBPB",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/325379597",
+          "platform_item_id": "325379597",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Leaf Blower",
+          "product_name": "Gas 53cc Backpack Blower 175MPH 855CFM"
+        }
+      },
+      {
+        "record_id": "THD_WB53CULT",
+        "previous": {
+          "record_id": "THD_WB53CULT",
+          "platform_code": "THD",
+          "internal_sku": "WB53CULT",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/337271637",
+          "platform_item_id": "337271637",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Garden Tiller",
+          "product_name": "15 in. 53cc 2-Cycle Gas Powered Push Garden Tiller Cultivator"
+        }
+      },
+      {
+        "record_id": "THD_WBBPBL43",
+        "previous": {
+          "record_id": "THD_WBBPBL43",
+          "platform_code": "THD",
+          "internal_sku": "WBBPBL43",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/314742167",
+          "platform_item_id": "314742167",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Leaf Blower",
+          "product_name": "Leaf Blower Backpack, 43cc Gas Strong Air Flow 650 CFM 152 MPH, Light Weight 17.4 lbs."
+        }
+      },
+      {
+        "record_id": "THD_WBP31BCF",
+        "previous": {
+          "record_id": "THD_WBP31BCF",
+          "platform_code": "THD",
+          "internal_sku": "WBP31BCF",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/311424786",
+          "platform_item_id": "311424786",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "31cc String Trimmer 4-Stroke 31cc Brush Cutter Blade Gas Shoulder Strap String Trimmer Rubber Handle"
+        }
+      },
+      {
+        "record_id": "THD_WBP31TS",
+        "previous": {
+          "record_id": "THD_WBP31TS",
+          "platform_code": "THD",
+          "internal_sku": "WBP31TS",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/342971818",
+          "platform_item_id": "342971818",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "31cc 17 in. 4-Stroke 31cc Gas Straight Shaft String Trimmer with Brush Cutter Blade, Rubber Handle and Extra Spool"
+        }
+      },
+      {
+        "record_id": "WALMART_ORIONX7",
+        "previous": {
+          "record_id": "WALMART_ORIONX7",
+          "platform_code": "WALMART",
+          "internal_sku": "ORIONX7",
+          "model": "X7",
+          "listing_url": "http://www.walmart.com/ip/SUNSEEKER-X7-Wireless-Robot-Lawn-Mower-0-75-Acre-32-000Sq-Ft-Smart-APP-Control-Vision-AI-System-RTK-Path-Planning-Adaptive-Floating-Cut-Height-4-Medi/17817006072",
+          "platform_item_id": "17817006072",
+          "brand": "Sunseeker",
+          "product_line": "ROBOTIC",
+          "product_name": "Sunseeker X7 Robotic Lawn Mower"
+        }
+      },
+      {
+        "record_id": "WALMART_SKRMS4",
+        "previous": {
+          "record_id": "WALMART_SKRMS4",
+          "platform_code": "WALMART",
+          "internal_sku": "SKRMS4",
+          "model": "S4",
+          "listing_url": "http://www.walmart.com/ip/Sunseeker-S4-LiDAR-Robot-Lawn-Mower-Up-0-25-Acre-1000-m-Vision-AI-360-3D-Navigation-Wire-Free-Virtual-Boundary-Systematic-Cutting-42-Slope-App-Contro/20023610713",
+          "platform_item_id": "20023610713",
+          "brand": "Sunseeker",
+          "product_line": "ROBOTIC",
+          "product_name": "Sunseeker S4 Robotic Lawn Mower"
+        }
+      },
+      {
+        "record_id": "WALMART_SKRMV3",
+        "previous": {
+          "record_id": "WALMART_SKRMV3",
+          "platform_code": "WALMART",
+          "internal_sku": "SKRMV3",
+          "model": "V3",
+          "listing_url": "http://www.walmart.com/ip/SUNSEEKER-V3-Wireless-Robot-Lawn-Mower-0-15-Acre-6-400-Sq-Ft-Vision-AI-Automatic-Mower-One-Click-Mow-Smart-Obstacle-Avoidance-Multi-Zone-Navigation-2/15497122464",
+          "platform_item_id": "15497122464",
+          "brand": "Sunseeker",
+          "product_line": "ROBOTIC",
+          "product_name": "Sunseeker V3 Robotic Lawn Mower"
+        }
+      },
+      {
+        "record_id": "WALMART_SKRMX3PLUS",
+        "previous": {
+          "record_id": "WALMART_SKRMX3PLUS",
+          "platform_code": "WALMART",
+          "internal_sku": "SKRMX3PLUS",
+          "model": "X3PLUS",
+          "listing_url": "http://www.walmart.com/ip/Sunseeker-X3-Plus-Robot-Lawn-Mower-Wire-0-3-Acre-13-000-Sq-Ft-Smart-APP-Control-AI-RTK-Navigation-6-Muti-Zone-Path-Planning-Small-Medium-Yards/16987612478",
+          "platform_item_id": "16987612478",
+          "brand": "Sunseeker",
+          "product_line": "ROBOTIC",
+          "product_name": "Sunseeker X3PLUS Robotic Lawn Mower"
+        }
+      },
+      {
+        "record_id": "WALMART_SKRMX5",
+        "previous": {
+          "record_id": "WALMART_SKRMX5",
+          "platform_code": "WALMART",
+          "internal_sku": "SKRMX5",
+          "model": "X5",
+          "listing_url": "http://www.walmart.com/ip/Sunseeker-X5-AWD-Robot-Lawn-Mower-0-5-Acre-21-780-Sq-Ft-Wireless-No-Boundary-Wire-Mower-RTK-Vision-Navigation-AI-Obstacle-Avoidance-App-Control/20278412919",
+          "platform_item_id": "20278412919",
+          "brand": "Sunseeker",
+          "product_line": "ROBOTIC",
+          "product_name": "Sunseeker X5 Robotic Lawn Mower"
+        }
+      },
+      {
+        "record_id": "WALMART_WB26MTSE",
+        "previous": {
+          "record_id": "WALMART_WB26MTSE",
+          "platform_code": "WALMART",
+          "internal_sku": "WB26MTSE",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/WILD-BADGER-POWER-Gas-4-in-1-Yard-Care-System-26cc-2-Cycle-Full-Crankshaft-Engine-Multi-Tool-Attachments-String-Trimmer-Edger-Hedge-Trimmer-Brush-Cut/1856935316",
+          "platform_item_id": "1856935316",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "WILD BADGER POWER Gas 4-in-1 Yard Care System, 26cc 2-Cycle Full-Crankshaft Engine Multi-Tool with Attachments, String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade"
+        }
+      },
+      {
+        "record_id": "WALMART_WB40V14PLM",
+        "previous": {
+          "record_id": "WALMART_WB40V14PLM",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40V14PLM",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/Electric-Lawn-Mower-40V-Brushless-14-Cordless-Push-5-Cutting-Height-Adjustment-4Ah-Battery-and-Super-Charger-Blue/16163460696",
+          "platform_item_id": "16163460696",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Lawn Mower",
+          "product_name": "Wild Badger Power 40V 14″ Cordless Lawn Mower Brushless,1,600 sq ft/0.037 ac,1×4.0Ah Battery & Fast Charger, 5-Position Height,for Townhomes & Small Yards"
+        }
+      },
+      {
+        "record_id": "WALMART_WB53CULT",
+        "previous": {
+          "record_id": "WALMART_WB53CULT",
+          "platform_code": "WALMART",
+          "internal_sku": "WB53CULT",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/Garden-Tiller-53cc-Mini-Cultivator-15-inch-Powerful-Liftable-Booster-Rod-Tilling-Tool-for-Lawn-Garden-and-Field-Soil-Cultivation/11978119870",
+          "platform_item_id": "11978119870",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Garden Tiller",
+          "product_name": "WILD BADGER POWER Garden Tiller 53cc Mini Cultivator 15-inch."
+        }
+      },
+      {
+        "record_id": "WALMART_WBPMT26P",
+        "previous": {
+          "record_id": "WALMART_WBPMT26P",
+          "platform_code": "WALMART",
+          "internal_sku": "WBPMT26P",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/WILD-BADGER-POWER-26cc-Multi-Tool-Trimmer-4-in-1-Garden-Tool-Combo-with-hedge-pole-saw/838770895",
+          "platform_item_id": "838770895",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "WILD BADGER POWER 26cc Multi -Tool Gas String Trimmer 4 in 1 Garden Tool Combo with hedge pole saw"
+        }
+      }
+    ],
+    "linkChanged": [
+      {
+        "record_id": "LOWES_WB20VTRSBL",
+        "previous": {
+          "record_id": "LOWES_WB20VTRSBL",
+          "platform_code": "LOWES",
+          "internal_sku": "WB20VTRSBL",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-20-Volt-2-Piece-20-volt-Cordless-Power-Equipment-Combo-Kit/5014472275",
+          "platform_item_id": "5014472275",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)"
+        },
+        "current": {
+          "record_id": "LOWES_WB20VTRSBL",
+          "platform_code": "LOWES",
+          "internal_sku": "WB20VTRSBL",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-20-Volt-2-Piece-20-volt-Cordless-Power-Equipment-Combo-Kit/5014472275?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5014472275",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Leaf Blower",
+          "product_name": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)"
+        }
+      },
+      {
+        "record_id": "LOWES_WB40V18PLM",
+        "previous": {
+          "record_id": "LOWES_WB40V18PLM",
+          "platform_code": "LOWES",
+          "internal_sku": "WB40V18PLM",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-40-Volt-40-volt-18-in-Push-Cordless-Lawn-Mower-4-Ah-Battery-Charger-Included/5014466573",
+          "platform_item_id": "5014466573",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Lawn Mower",
+          "product_name": "Brushless 40-volt, 18-in Push Battery Walk Mower with  (1) 4 Ah Battery Included"
+        },
+        "current": {
+          "record_id": "LOWES_WB40V18PLM",
+          "platform_code": "LOWES",
+          "internal_sku": "WB40V18PLM",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-40-Volt-40-volt-18-in-Push-Cordless-Lawn-Mower-4-Ah-Battery-Charger-Included/5014466573?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5014466573",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Lawn Mower",
+          "product_name": "Brushless 40-volt, 18-in Push Battery Walk Mower with (1) 4 Ah Battery Included"
+        }
+      },
+      {
+        "record_id": "WALMART_WB20V16LM",
+        "previous": {
+          "record_id": "WALMART_WB20V16LM",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20V16LM",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/WILD-BADGER-POWER-40V-16-Cordless-Brushless-Lawn-Mower-5-Cutting-Height-Adjustments-Electric-Quickly-Folding-Within-5-s-20V-2-4-0AH-Battery-Super-Cha/13660751856",
+          "platform_item_id": "13660751856",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Lawn Mower",
+          "product_name": "Wild Badger Power 40V 16″ Cordless Lawn Mower Brushless, 1,900 sq ft/0.044 ac,1×4.0Ah Battery & Fast Charger,  5-Position Height,for Small Residential Lawns"
+        },
+        "current": {
+          "record_id": "WALMART_WB20V16LM",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20V16LM",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/13660751856",
+          "platform_item_id": "13660751856",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Lawn Mower",
+          "product_name": "Wild Badger Power 40V 16″ Cordless Lawn Mower Brushless, 1,900 sq ft/0.044 ac,1×4.0Ah Battery & Fast Charger,  5-Position Height,for Small Residential Lawns"
+        }
+      },
+      {
+        "record_id": "WALMART_WB20VCOMBODP",
+        "previous": {
+          "record_id": "WALMART_WB20VCOMBODP",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20VCOMBODP",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/40V-Cordless-Weed-Wacker-String-Trimmer-Edger-Hedge-Trimmer-Brush-Cutter-Blade-Pole-Saw-Attachment-Capable-4-in-1-Multi-Tool-Kit-2-20V-4Ah-Battery-1/16104323450",
+          "platform_item_id": "16104323450",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "Wild Badger 40V Cordless String Trimmer with Pole Saw, Hedge Trimmer & Brush Cutter Attachments, 4-Tool Kit, 2 Batteries & Charger Included"
+        },
+        "current": {
+          "record_id": "WALMART_WB20VCOMBODP",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20VCOMBODP",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/16104323450",
+          "platform_item_id": "16104323450",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Hedge Trimmer",
+          "product_name": "Wild Badger 40V Cordless String Trimmer with Pole Saw, Hedge Trimmer & Brush Cutter Attachments, 4-Tool Kit, 2 Batteries & Charger Included"
+        }
+      },
+      {
+        "record_id": "WALMART_WB20VTAB",
+        "previous": {
+          "record_id": "WALMART_WB20VTAB",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20VTAB",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/WILD-BADGER-POWER-20V-Cordless-String-Trimmer-With-blower-Combo-Set-Weed-Eater-Leaf-Blower/864525478",
+          "platform_item_id": "864525478",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "Wild Badger Power 20V Weed Eater & Trimmer Set, 2×2.0Ah Batteries, Cordless Lightweight Grass Trimmer for Small Yards, Fence Lines & Easy Lawn Care"
+        },
+        "current": {
+          "record_id": "WALMART_WB20VTAB",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20VTAB",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/864525478",
+          "platform_item_id": "864525478",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "Wild Badger Power 20V Weed Eater & Trimmer Set, 2×2.0Ah Batteries, Cordless Lightweight Grass Trimmer for Small Yards, Fence Lines & Easy Lawn Care"
+        }
+      },
+      {
+        "record_id": "WALMART_WB40V18PLM",
+        "previous": {
+          "record_id": "WALMART_WB40V18PLM",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40V18PLM",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/WILD-BADGER-POWER-40V-Lawn-Mower-Brushless-18-Cordless-5-Cutting-Height-Quikly-Folding/5319348630",
+          "platform_item_id": "5319348630",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Lawn Mower",
+          "product_name": "Wild Badger Power 40V 18″ Cordless Lawn Mower Brushless , 2,100 sq ft/0.048 ac, 1×4.0Ah Battery & Fast Charger, 5-Position Height ,for Small-to-Medium Lawns"
+        },
+        "current": {
+          "record_id": "WALMART_WB40V18PLM",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40V18PLM",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/5319348630",
+          "platform_item_id": "5319348630",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Lawn Mower",
+          "product_name": "Wild Badger Power 40V 18″ Cordless Lawn Mower Brushless , 2,100 sq ft/0.048 ac, 1×4.0Ah Battery & Fast Charger, 5-Position Height ,for Small-to-Medium Lawns"
+        }
+      },
+      {
+        "record_id": "WALMART_WB40VCOMBO",
+        "previous": {
+          "record_id": "WALMART_WB40VCOMBO",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40VCOMBO",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/Wild-Badger-Power-40V-Cordless-Weed-Wacker-String-Trimmer-Edger-Hedge-Trimmer-Brush-Cutter-Blade-Pole-Saw-Attachment-Capable-4-in-1-Multi-Tool-Kit-2/17598657653",
+          "platform_item_id": "17598657653",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "Wild Badger 40V 4-in-1 Cordless Outdoor Power Tool Kit (Weed Wacker, Pole Saw, Hedge Trimmer, Brush Cutter) with 2*4 AhBatteries & Charger"
+        },
+        "current": {
+          "record_id": "WALMART_WB40VCOMBO",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40VCOMBO",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/17598657653",
+          "platform_item_id": "17598657653",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Hedge Trimmer",
+          "product_name": "Wild Badger 40V 4-in-1 Cordless Outdoor Power Tool Kit (Weed Wacker, Pole Saw, Hedge Trimmer, Brush Cutter) with 2*4 AhBatteries & Charger"
+        }
+      },
+      {
+        "record_id": "WALMART_WB40VTBCC",
+        "previous": {
+          "record_id": "WALMART_WB40VTBCC",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40VTBCC",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/Wild-Badger-Power-Cordless-40-Volt-Brushed-Trimmer-and-Brushed-Blower-Combo-Includes-2-0-Ah-Battery-and-Clip-on-Charger/3962878922",
+          "platform_item_id": "3962878922",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "WILD BADGER POWER 40V Weed Wacker & Leaf Blower, Wheeled Edger Kit Electric with 2Ah Battery & Charger, String Trimmer"
+        },
+        "current": {
+          "record_id": "WALMART_WB40VTBCC",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40VTBCC",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/3962878922",
+          "platform_item_id": "3962878922",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Edger",
+          "product_name": "WILD BADGER POWER 40V Weed Wacker & Leaf Blower, Wheeled Edger Kit Electric with 2Ah Battery & Charger, String Trimmer"
+        }
+      }
+    ],
+    "recordIdentityChanged": []
+  }
+}

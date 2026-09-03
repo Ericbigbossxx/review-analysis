@@ -1,0 +1,434 @@
+[
+  {
+    "platform": "Lowes",
+    "sku": "MFT26I-HEDGE-A",
+    "passed": true,
+    "totalReviews": 18,
+    "ratingSum": 18,
+    "endpointAllReviews": 18,
+    "expectedTextReviews": 16,
+    "endpointTextReviews": 16,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 18,
+        "sha256": "ed1e4b592e1f785b57f785de11d605ed89e9fa359dd33519be7d9dd45797de58",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\lowes\\MFT26I-HEDGE-A_5001889721_offset_0.json"
+      }
+    ]
+  },
+  {
+    "platform": "Lowes",
+    "sku": "WB20VTRSBL",
+    "passed": true,
+    "totalReviews": 19,
+    "ratingSum": 19,
+    "endpointAllReviews": 19,
+    "expectedTextReviews": 19,
+    "endpointTextReviews": 19,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 19,
+        "sha256": "c53436fa3ea53e9ad40bc231d16ea189042a5cdf2c86d40cef97f3a73b5fee2f",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\lowes\\WB20VTRSBL_5014472275_offset_0.json"
+      }
+    ]
+  },
+  {
+    "platform": "Lowes",
+    "sku": "WB26BCI",
+    "passed": true,
+    "totalReviews": 115,
+    "ratingSum": 115,
+    "endpointAllReviews": 115,
+    "expectedTextReviews": 94,
+    "endpointTextReviews": 94,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 100,
+        "sha256": "d5abcf3b67bc7d2803eaf6095b08fdb3e16ae9feb0e2c56e52d1afe6cc54097b",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\lowes\\WB26BCI_5001743513_offset_0.json"
+      },
+      {
+        "offset": 100,
+        "count": 15,
+        "sha256": "4bead0b28417e7f27c557576259be113951cee70946a31d080f819430d1f44dc",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\lowes\\WB26BCI_5001743513_offset_100.json"
+      }
+    ]
+  },
+  {
+    "platform": "Lowes",
+    "sku": "WB26MTSE",
+    "passed": true,
+    "totalReviews": 35,
+    "ratingSum": 35,
+    "endpointAllReviews": 35,
+    "expectedTextReviews": 35,
+    "endpointTextReviews": 35,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 35,
+        "sha256": "5e522a470c00b912f3cec34bb5922d9a48c85b736b4d5e9241df342d48d7dd64",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\lowes\\WB26MTSE_5014391665_offset_0.json"
+      }
+    ]
+  },
+  {
+    "platform": "Lowes",
+    "sku": "WB31CCED",
+    "passed": true,
+    "totalReviews": 12,
+    "ratingSum": 12,
+    "endpointAllReviews": 12,
+    "expectedTextReviews": 12,
+    "endpointTextReviews": 12,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 12,
+        "sha256": "0014c627befaa32c8552f07219225412979189dddf42b0863e429039cdb2c997",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\lowes\\WB31CCED_5014467581_offset_0.json"
+      }
+    ]
+  },
+  {
+    "platform": "Lowes",
+    "sku": "WB40V18PLM",
+    "passed": true,
+    "totalReviews": 129,
+    "ratingSum": 129,
+    "endpointAllReviews": 129,
+    "expectedTextReviews": 129,
+    "endpointTextReviews": 129,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 100,
+        "sha256": "fe189a5ae1c6a4fa477edcbafd8e51233bd72ceb6fac84031b1d8a86f8c9b2ad",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\lowes\\WB40V18PLM_5014466573_offset_0.json"
+      },
+      {
+        "offset": 100,
+        "count": 29,
+        "sha256": "bb23a5ea1c61465ce17cb38c6b5d2b25ae9bffb2e499107fbb583f36c47f72ac",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\lowes\\WB40V18PLM_5014466573_offset_100.json"
+      }
+    ]
+  },
+  {
+    "platform": "Lowes",
+    "sku": "WB40VSNBL2",
+    "passed": true,
+    "totalReviews": 27,
+    "ratingSum": 27,
+    "endpointAllReviews": 27,
+    "expectedTextReviews": 27,
+    "endpointTextReviews": 27,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 27,
+        "sha256": "f9fc8532b3ed102ab5787518b3d88b37b9c6ab10a890b86391215db7b1294a05",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\lowes\\WB40VSNBL2_5015737225_offset_0.json"
+      }
+    ]
+  },
+  {
+    "platform": "Lowes",
+    "sku": "WB40VSNOWBL",
+    "passed": true,
+    "totalReviews": 24,
+    "ratingSum": 24,
+    "endpointAllReviews": 24,
+    "expectedTextReviews": 24,
+    "endpointTextReviews": 24,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 24,
+        "sha256": "5a2512a7f208b94f211c243fcc2b784750281dace555a0569eaed4f90090a0da",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\lowes\\WB40VSNOWBL_5014466577_offset_0.json"
+      }
+    ]
+  },
+  {
+    "platform": "Lowes",
+    "sku": "WBP52BCI",
+    "passed": true,
+    "totalReviews": 28,
+    "ratingSum": 28,
+    "endpointAllReviews": 28,
+    "expectedTextReviews": 28,
+    "endpointTextReviews": 28,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 28,
+        "sha256": "688c928f54a87b1d40e050362e7ff098bb8c659f7d2b1fd3d4fd7331b2f21c8b",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\lowes\\WBP52BCI_5014077075_offset_0.json"
+      }
+    ]
+  },
+  {
+    "platform": "Lowes",
+    "sku": "WBPMT26P",
+    "passed": true,
+    "totalReviews": 134,
+    "ratingSum": 134,
+    "endpointAllReviews": 134,
+    "expectedTextReviews": 105,
+    "endpointTextReviews": 105,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 100,
+        "sha256": "07a18468190e93b2ff348ba8dc938378c7951bf797632ce9822e67e7077d6588",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\lowes\\WBPMT26P_5014463151_offset_0.json"
+      },
+      {
+        "offset": 100,
+        "count": 34,
+        "sha256": "c950881ca3592f77f9c4bf85d2089341c78935f4044804d679a9330560caa69d",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\lowes\\WBPMT26P_5014463151_offset_100.json"
+      }
+    ]
+  },
+  {
+    "platform": "THD",
+    "sku": "ORIONX7",
+    "passed": true,
+    "totalReviews": 5,
+    "ratingSum": 5,
+    "endpointAllReviews": 5,
+    "expectedTextReviews": 5,
+    "endpointTextReviews": 5,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 5,
+        "sha256": "dbc2c044617b5365852dd41853aca44d3e7ba3c4fe54fec88ff956e18ff3b0c4",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\ORIONX7_337020714_offset_0.json"
+      }
+    ]
+  },
+  {
+    "platform": "THD",
+    "sku": "SKRMS4",
+    "passed": true,
+    "totalReviews": 2,
+    "ratingSum": 2,
+    "endpointAllReviews": 2,
+    "expectedTextReviews": 2,
+    "endpointTextReviews": 2,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 2,
+        "sha256": "93a163598ad8149047912abce5e15392f13f75f51ed37b9b99acb9062bedcd41",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\SKRMS4_343186124_offset_0.json"
+      }
+    ]
+  },
+  {
+    "platform": "THD",
+    "sku": "SKRMX3PLUS",
+    "passed": true,
+    "totalReviews": 6,
+    "ratingSum": 6,
+    "endpointAllReviews": 6,
+    "expectedTextReviews": 3,
+    "endpointTextReviews": 3,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 6,
+        "sha256": "348ff484d30583fa9b15764926af4826c43f9b6a573b8bf7dfe883adf116c6f6",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\SKRMX3PLUS_336272752_offset_0.json"
+      }
+    ]
+  },
+  {
+    "platform": "THD",
+    "sku": "SKRMX5",
+    "passed": true,
+    "totalReviews": 13,
+    "ratingSum": 13,
+    "endpointAllReviews": 13,
+    "expectedTextReviews": 7,
+    "endpointTextReviews": 7,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 13,
+        "sha256": "a0703fee5c521a33b726049eb217d5f4aaceddb15b5d10f06da3412ca009083a",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\SKRMX5_335471654_offset_0.json"
+      }
+    ]
+  },
+  {
+    "platform": "THD",
+    "sku": "WB26BCI",
+    "passed": true,
+    "totalReviews": 521,
+    "ratingSum": 521,
+    "endpointAllReviews": 521,
+    "expectedTextReviews": 386,
+    "endpointTextReviews": 386,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 100,
+        "sha256": "0b9e41ff104365a2e2743e4c0a76f770e9b6086158a77d5703e79ea4d5099449",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\WB26BCI_309475184_offset_0.json"
+      },
+      {
+        "offset": 100,
+        "count": 100,
+        "sha256": "9132ba6f770f51d9558a0780c52a3086db5672944e6069088e0bdbff4b09af81",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\WB26BCI_309475184_offset_100.json"
+      },
+      {
+        "offset": 200,
+        "count": 100,
+        "sha256": "6f2c3d2eb9124feeb939fc85e8418a2a5ebf907a479429489256dbf1ed56e26f",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\WB26BCI_309475184_offset_200.json"
+      },
+      {
+        "offset": 300,
+        "count": 100,
+        "sha256": "9dad89cf8a4289a4711a3845f640bafc138c2bb1eb638d090e9e08d2094ad3ad",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\WB26BCI_309475184_offset_300.json"
+      },
+      {
+        "offset": 400,
+        "count": 100,
+        "sha256": "54c69fc64776ad8d1da5b36a5227056867e1eadadc183254fe882633a78745e0",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\WB26BCI_309475184_offset_400.json"
+      },
+      {
+        "offset": 500,
+        "count": 21,
+        "sha256": "00beb2e8e7d3461704f7fb92629c1bbce191622c5f8dc4af43a57dfe78dd2e9b",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\WB26BCI_309475184_offset_500.json"
+      }
+    ]
+  },
+  {
+    "platform": "THD",
+    "sku": "WB26MTSE",
+    "passed": true,
+    "totalReviews": 36,
+    "ratingSum": 36,
+    "endpointAllReviews": 36,
+    "expectedTextReviews": 18,
+    "endpointTextReviews": 18,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 36,
+        "sha256": "4448c651715b6445d6e92818bf154a94066c1d7c163fd22a1145d48ae5c53e0e",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\WB26MTSE_325371505_offset_0.json"
+      }
+    ]
+  },
+  {
+    "platform": "THD",
+    "sku": "WB31CCED",
+    "passed": true,
+    "totalReviews": 4,
+    "ratingSum": 4,
+    "endpointAllReviews": 4,
+    "expectedTextReviews": 3,
+    "endpointTextReviews": 3,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 4,
+        "sha256": "c340df388f20791b166bff36f6cffd448fa41eb2cc1e6136bf538127974a7931",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\WB31CCED_323760890_offset_0.json"
+      }
+    ]
+  },
+  {
+    "platform": "THD",
+    "sku": "WBP52BCI",
+    "passed": true,
+    "totalReviews": 407,
+    "ratingSum": 407,
+    "endpointAllReviews": 407,
+    "expectedTextReviews": 310,
+    "endpointTextReviews": 310,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 100,
+        "sha256": "6db86e58a99a7b42c14607af8a119b4bc9139d057a51c23f7061c33a71bad8b4",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\WBP52BCI_311424784_offset_0.json"
+      },
+      {
+        "offset": 100,
+        "count": 100,
+        "sha256": "35ca035e320cafb7637227460ff93a0787ee42a4e39c0d722184266fa373b879",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\WBP52BCI_311424784_offset_100.json"
+      },
+      {
+        "offset": 200,
+        "count": 100,
+        "sha256": "550a64c1cc89b62f0b28f07dd7982cee92ccc175e6816471c42d292670ccf24e",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\WBP52BCI_311424784_offset_200.json"
+      },
+      {
+        "offset": 300,
+        "count": 100,
+        "sha256": "28cd60b9647043e0c008ab38fcffcd54edbfda37883ebf4286909109da1478cc",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\WBP52BCI_311424784_offset_300.json"
+      },
+      {
+        "offset": 400,
+        "count": 7,
+        "sha256": "a7ed4b86097aacd783748255aaa0cde3fe805d7cfd24d79e4883a22025684534",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\WBP52BCI_311424784_offset_400.json"
+      }
+    ]
+  },
+  {
+    "platform": "THD",
+    "sku": "WBP52TS",
+    "passed": true,
+    "totalReviews": 9,
+    "ratingSum": 9,
+    "endpointAllReviews": 9,
+    "expectedTextReviews": 7,
+    "endpointTextReviews": 7,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 9,
+        "sha256": "fc4a2a88a4b95b1c9042577609a1a2c686b7522ff60a9ba46b42e46c109590aa",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\WBP52TS_342971888_offset_0.json"
+      }
+    ]
+  },
+  {
+    "platform": "THD",
+    "sku": "WBPMT26TS",
+    "passed": true,
+    "totalReviews": 6,
+    "ratingSum": 6,
+    "endpointAllReviews": 6,
+    "expectedTextReviews": 5,
+    "endpointTextReviews": 5,
+    "rawPages": [
+      {
+        "offset": 0,
+        "count": 6,
+        "sha256": "ed058ad2ef135374005b2855df681e1a9d9abddd3d57271a075581eab8bb8999",
+        "path": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\raw\\bv\\thd\\WBPMT26TS_342972128_offset_0.json"
+      }
+    ]
+  }
+]

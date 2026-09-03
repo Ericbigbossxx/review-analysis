@@ -1,0 +1,4966 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 24,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "247983903",
+      "CID": "1252a79d-79cc-58f1-9ef1-c8cacb23ffed",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2026-02-08T15:00:10.000+00:00",
+      "LastModificationTime": "2026-02-11T12:23:47.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "PPE_Sweepstakes_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "6778df56d305f88138a17c3f954d8f0077616c6c796a696d40616f6c2e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17705624gm1h1wMZeF",
+      "SubmissionTime": "2026-02-08T14:54:33.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "Helpfulness": null,
+      "IsRecommended": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Title": null,
+      "ReviewText": null,
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "247938859",
+      "CID": "6a6a73ad-defe-5f28-a84f-c33cfa2ba34f",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2026-02-06T05:00:08.000+00:00",
+      "LastModificationTime": "2026-02-11T12:24:41.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "PPE_Sweepstakes_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "4aaad2ca-8491-4aad-8110-0667bef78a0b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17703359ZEelYPeY7r",
+      "SubmissionTime": "2026-02-05T23:59:03.000+00:00",
+      "ReviewText": "cordless, 20 inch swath, easy to use",
+      "Title": "exactly as described",
+      "UserNickname": "Esmerelda",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "Helpfulness": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "247835646",
+      "CID": "05b7c698-0cea-5927-b289-376f73587d99",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2026-01-31T20:00:16.000+00:00",
+      "LastModificationTime": "2026-02-11T12:27:14.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "PPE_Sweepstakes_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "9da6e68f-ab7b-4359-916a-73027aaf8e76",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17698891MCCKaplSkT",
+      "SubmissionTime": "2026-01-31T19:51:58.000+00:00",
+      "UserNickname": "Karen",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "Helpfulness": null,
+      "IsRecommended": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Title": null,
+      "ReviewText": null,
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "238965447",
+      "CID": "f545203c-2fe6-584b-a0c4-46b197563031",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2025-01-12T22:30:16.000+00:00",
+      "LastModificationTime": "2026-08-19T06:43:24.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "7b7f68f765e6a7eedf836bb2b05172b5",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/62c68da1-2f92-52fb-bef4-5c251464c9d7"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/e781095d-57f0-5391-9e41-1f37ff3a80a8"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/41bd362c-7d70-5a1c-b475-cf1f31860783"
+            }
+          },
+          "Id": "12477316",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/e5662685-a1ef-5b04-87e4-e13e69d46f78"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/056853b5-d5e7-5947-b3c4-1560065e9f21"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/26ff257e-a96f-5e65-af1e-84102ad3788e"
+            }
+          },
+          "Id": "12477317",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/bd43126b-8188-5178-a260-a460abe5857c"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/04022c56-f97b-52d9-9624-f5c4ef6e7c39"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/17a8bd66-e1aa-5c8d-a844-37b12ab21e3d"
+            }
+          },
+          "Id": "12477318",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/9b1ae6b5-a799-5dad-b29a-93c20cb42ce2"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/74157d04-6702-5a21-877f-eb612a9fff77"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7b697cf0-9647-54d5-820c-d32980ccfdcf"
+            }
+          },
+          "Id": "12477319",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/4fc93f9e-d792-545b-a78f-853b17f3d9bf"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/881c856b-4a53-528e-8c88-8b12b3333802"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/e1801d07-c201-5c3c-85e3-fa53405f10cb"
+            }
+          },
+          "Id": "12477320",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "3 inches of Snow 1/10/25"
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 11,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 11,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17365367rREo8XkAHS",
+      "SubmissionTime": "2025-01-10T19:19:15.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "Wild Badger Snow Thrower was easy to put together , battery charged 1hr. It did great for our first snow . It ran smoothly, , easy to push, the battery lasted along time",
+      "Title": "Wild Badger Snow Thrower did Awesome!",
+      "UserNickname": "NGANana",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 5,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "High quality"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238920031",
+      "CID": "9ed477ef-26cf-5ade-9a09-9b9e2d3b5bfb",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2025-01-10T22:45:11.000+00:00",
+      "LastModificationTime": "2026-08-08T12:11:06.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "0a7884",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/222be97f-0de9-5406-9db1-dbf040f06f56"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/45bd8da4-77c6-5f87-9e82-dd1d76d5c1bc"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/a64420c8-a35f-5593-824b-38e5d505f393"
+            }
+          },
+          "Id": "12460496",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/1a03999c-3677-5c70-a5cd-2a937b0671f5"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/87148ddd-f332-5780-92d5-a550f2acebe0"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/2d4ff5f6-4d40-5ed6-a8f2-6b15c9e283d6"
+            }
+          },
+          "Id": "12460497",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/c9ccbf26-afed-55d9-a220-2ee992080083"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/596ae0c9-b030-59cf-8a63-ffb51e57f448"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/5d4710ea-adde-52b7-b463-bedc2f20adec"
+            }
+          },
+          "Id": "12460498",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 6,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17363680Hbs0mwhBQz",
+      "SubmissionTime": "2025-01-08T20:27:42.000+00:00",
+      "ReviewText": "This snowblower is good for light fluffy snow but as with all electric snow blowers you need something more powerful if you get wet, heavy snow. But this is good for light snow that isn't too deep.",
+      "Title": "Good Snowblower",
+      "UserNickname": "jim10011",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 5,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238860121",
+      "CID": "51548185-7808-59cd-9e00-65e9433fe188",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2025-01-09T22:45:11.000+00:00",
+      "LastModificationTime": "2026-08-08T12:11:59.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "85543cf5adfdd94290aa4a35e8779da3",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d8e7893e-e0cf-5b9c-bdcb-2472a4c29f0c"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/26c459bc-2135-555d-a0ba-f93079d67ae4"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7e3cc023-acd5-5c4c-8627-e01e039cfa1d"
+            }
+          },
+          "Id": "12435121",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/fc217504-04fc-530e-9793-7a2d22653ea9"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/1000dada-e03b-5337-960b-634aa08fa728"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b1a8a770-22c6-5778-8d84-1f7d617457bb"
+            }
+          },
+          "Id": "12435122",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/1cf183e2-75ef-5c4e-9cff-45ad907713e6"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/daf2e1a3-33d8-5a48-acb5-d363e57c2801"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/70c815f8-3eb0-5202-a404-9c25bde166f0"
+            }
+          },
+          "Id": "12435123",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/46cfb136-04be-5e70-95f1-6c71c840fc20"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/6064062f-a3ac-5046-b572-1e0f95232f05"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/5eb2f461-3173-5a25-8c0d-0469d3798706"
+            }
+          },
+          "Id": "12435124",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/8b385be9-e761-5d2f-9896-4a00207a21a2"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7f106b00-674f-5cee-825a-d4408dc33bef"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/335228f5-8f2b-593c-b19a-c4df9f1e1b27"
+            }
+          },
+          "Id": "12435125",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/3349c880-907d-5575-bcbf-1e54aad2e543"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7553dded-d570-542a-9d74-d2de5df93867"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/f8186eea-ea4d-5b7a-a390-baa0bc077b1d"
+            }
+          },
+          "Id": "12435126",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.875,
+      "TotalFeedbackCount": 8,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 7,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__173618524ZVahGtKYP",
+      "SubmissionTime": "2025-01-06T17:40:05.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "This is my review for the wild badger 40 V 20 inch snowblower with fast charger. The machine was easy to assemble and it is lightweight has great power and is easy to maneuver. It also has a nice noise level. The machine made quick work of my driveway And throws the snow quite a distance. The shoot is easily moved from one side to the other based on which way the wind is blowing. After completing my driveway I decided to help my neighbors by doing theirs. It was working great until the battery ran out when I was 3/4 of the way through there long driveway so I had to grab a shovel and remove the rest of the snow to finish the job. The battery was fully charged and the runtime was only 20 minutes so I put it on the charger and it took two hours to fully charge again. I’m giving this badger snow blower 4.5 stars out of five mainly because in my opinion you need at least two batteries so that you can have one charging when it runs out of power.",
+      "Title": "Wild badger 40 V 20 inch snowblower",
+      "UserNickname": "The Mailman",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 5,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 4,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "High quality",
+            "Durable"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238771465",
+      "CID": "68816921-ec82-523f-a2e4-e028b5f7a165",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2025-01-05T23:00:11.000+00:00",
+      "LastModificationTime": "2026-01-26T20:41:04.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "cfec9ee9540f3dbc1524c90a5b0bddef",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/936472aa-2266-540c-9e08-0548e2fa27d6"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/96411d12-0ed7-5cd9-af13-861d68778d52"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/6746fd30-1465-5b9c-9dec-f704965a2e3b"
+            }
+          },
+          "Id": "12399546",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Assembled"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/270b91b5-dcbf-5a1b-8da3-b4645dde6c79"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/5cb85f59-a214-5436-8895-e9bbf16d2089"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/f65e7628-24e1-5018-bf12-82ca4479bd28"
+            }
+          },
+          "Id": "12399547",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "parts included"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/81a9b3a0-dac6-55e5-b5d2-f8afd0403981"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7d835e11-90c2-5bf5-80c8-f13529592e91"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/5118e8e5-3777-5735-aefe-1dfb616685ed"
+            }
+          },
+          "Id": "12399548",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Packaging view 1"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/81c0fc4b-5a60-54d1-a59d-6bc5c4165e31"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d8b5417a-532e-5e1a-bda1-2a0918e6fdfe"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/65c2250e-ef92-56a4-85a0-63f75562d03e"
+            }
+          },
+          "Id": "12399549",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "What you see opening the package."
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/c7a32074-e407-5b77-9cba-effc0d49eae9"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7f2fa6ec-3c7a-5757-a53d-05c56b269266"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/04563462-cb0d-5244-a665-f66d976f5568"
+            }
+          },
+          "Id": "12399550",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Packaging view 2"
+        }
+      ],
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17359312WW5Fy1t9XH",
+      "SubmissionTime": "2025-01-03T19:07:47.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "Overall very lightweight but sturdy LiPo powered snow blower. Easy to assemble with a replaceable rubber lining on the auger it is a great option for snow environments where you only get around 10-12 inches of snow. Overall I really like the design and the assembly, the only reason I marked it as 4 stars was that you do not get any detailed assembly steps in the instruction manual. If you have a few yard care machines you have setup before this is not a big deal but if you are new it might make it tough to get going initially. Would have loved to include a snow video but we have not had anything stick yet this year.",
+      "Title": "Great cordless electric snowblower!",
+      "UserNickname": "Martin B",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 5,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "Durable"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238690189",
+      "CID": "8297f53f-78e5-5ba2-9740-cb7d698cb509",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2025-01-07T02:45:11.000+00:00",
+      "LastModificationTime": "2026-01-26T20:43:39.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "73ed97f2796ca666c34fb4b16b49a6f3",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/89ae38e7-c5ac-5020-8583-592112ef24e0"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d6641afb-23cc-5333-b300-05ee9371225d"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/76aa5f29-ce4c-5ecb-82b8-8bdc31a2e0ab"
+            }
+          },
+          "Id": "12373819",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/c5aae592-38e4-534e-a6c0-8baf47f84205"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/8dc7b10e-c1a4-5127-9019-00d44aa87c4f"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/dedbe125-ce0e-539d-9d4e-f4d894b727ed"
+            }
+          },
+          "Id": "12373820",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/f1bcc4b4-ab36-52d8-8c19-88b9becfc023"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/211ff5f4-767c-5942-b5e8-5361252f0210"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/9a808e5f-c382-5418-a918-50ac007b2113"
+            }
+          },
+          "Id": "12373821",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/cc60d7d3-3af4-566e-a0b6-9d46cddba89b"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ac9b4f70-d5da-53ac-8675-25f32107ff4a"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/03d92b23-a51c-51f4-be2a-780051663716"
+            }
+          },
+          "Id": "12373822",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/bd215dcf-a89c-58e2-9282-3481f53f41cb"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/2108ee33-2b7a-5613-9075-0b727bad4313"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/f5758147-86a8-55cb-aca5-7da5a265f485"
+            }
+          },
+          "Id": "12373823",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/295003a1-aa2d-5176-9a52-7b359849f1cb"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/cd27b829-89ef-5d66-8700-87f7a98f036e"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/997dcd83-71d8-5b78-8ad3-d7a6df5a3102"
+            }
+          },
+          "Id": "12373824",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 12,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 12,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17357739Udkhz6gjq7",
+      "SubmissionTime": "2025-01-01T23:25:37.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "I received my Wild Badger Power 40 Volt 20-inch Snow Blower from the Lowes Loop Program and was finally able to put it together and take it for a test drive.  Bottom line up front, I like it! Let me start from the beginning. \n1. Packaging.  The Badger came in a very manageable size box, which fit easily in my vehicle for a ride from The East coast to the mountains of West Virginia. Total weight of the box was approximately 40 lbs.  All parts were individually wrapped in protective bubble wrap, and the box was easy to unpack.  The battery came out of the box with about a 75% charge. \n2.  Assembly.  Assembly took me less than 30 minutes.  Instructions were clear, and the only tools needed were a Phillips head screwdriver and a 3/8\" socket. All that is really required is putting together the Main Handle and the Blower Chute. As I said less than 30 minutes for me, and I took my time. The battery compartment also has a storage spot for a spare battery if you desire to get one. \n3. Operation. Starting it only requires inserting the battery, squeezing the throttle handle (same as a lawn mower), and pushing the button on the side of the handle.  Then you just go.  A handle in the middle of the main handle directs the direction of the chute allowing you to blow the snow 180 degrees left/front/right. And the chute adjusts the elevation of the snow trajectory between about 100 to 170 degrees. It also has a headlight for snow blowing in the dark.\n\nMy test.  Tested the Badger out on the deck of my mountain home.  Deck is about 25 by 20. There was only about 2 inches of snow on the deck, the Badger impressed me.  I am a bit skeptical of larger tools run on batteries, but this snow blower did not disappoint me.   I cleared the deck in about 10 minutes. The blower throws the snow about 6 - 8 feet.  In that 10 minutes the battery drained 1 bar (25%). We are expecting more snow tonight and I plan on trying it out on the driveway tomorrow. \nSummary.  I really like this Snow Blower.  It's compact, easy to use and does a good job of getting the snow up and off to the side. Not made for big jobs, but this is perfect for the average home owner to take care of walkways, small to medium driveways, decks, and patios. No messy fuel or oil to deal with. Size make storage a breeze.",
+      "Title": "The Badger is an awesome compact Snow Blower.",
+      "UserNickname": "Mikedag",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 5,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 4,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "High quality",
+            "Durable"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238667810",
+      "CID": "17dd86a5-94a3-525b-8879-ccc9c5a50e2a",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2025-01-04T01:45:33.000+00:00",
+      "LastModificationTime": "2026-01-26T20:44:23.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "493519aeb81c643477991645a685a4a0",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/f153450b-d0ab-5655-b70f-7d400cc30fef"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/0a80164d-6439-53fe-8f06-acb7d037371f"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/335272d0-c0ef-5dd8-a7d6-8f41627c1f72"
+            }
+          },
+          "Id": "12365367",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d4513b10-78e5-5760-8df1-e929db74a7ba"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/58fb1a57-6149-5097-871f-fa070e2d384e"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/8876fe93-c1dd-5ad4-8a54-2a11ec11e36b"
+            }
+          },
+          "Id": "12365368",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b126c81a-9c75-57e6-840b-61b3241e0eec"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/a4b395ff-a680-5e20-82b3-746c18bee5dd"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/3bae226e-706b-5a8c-ac44-2bb5cbd02368"
+            }
+          },
+          "Id": "12365369",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b7081b8b-8fc0-5bfc-9268-01adea0cfcc9"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/eb02e8af-a715-58be-8d76-a996f6b98dea"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d7ef52d2-4dd7-5bc8-9760-60fd4df3eec6"
+            }
+          },
+          "Id": "12365370",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7865e828-8154-570f-beb0-cb5fb90d3581"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/9de26392-f35f-52ff-837b-f7aba815d90e"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d65bba66-8d43-5344-9027-4c080dffedcb"
+            }
+          },
+          "Id": "12365371",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/3c9b56ea-4ed3-5082-b657-e7cf0410ee52"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/dd972d39-9b4c-5e35-9e2b-f60cb490d314"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/16e94ce3-ba5e-5132-8742-5b2e7d41d210"
+            }
+          },
+          "Id": "12365372",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17357076ZsC8nR9Hm5",
+      "SubmissionTime": "2025-01-01T05:01:19.000+00:00",
+      "ReviewText": "Fairly easy to assemble although instructions could have been a little clearer.  Pictured parts in instruction not very clear, could have been larger.  Once assembled, I had problems getting the screws on the discharge chute tight and had to switch to a wrench.  Started easily and easy to maneuver.  Pretty lightweight.  Battery charged quickly. Issues came with actual use. Only 3 inches of light fluffy snow and kept shutting off. Didn't appear to be clogged so think the battery was overheating after only a few minutes of trying to blow the snow.",
+      "Title": "Kept shutting off during use.",
+      "UserNickname": "KSAcish8",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 5,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 4,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 4,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 4,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238599510",
+      "CID": "71dae611-64af-5ab4-910a-1668ce093164",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2025-01-03T04:00:11.000+00:00",
+      "LastModificationTime": "2026-01-26T20:46:18.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "a55aa6e07f4a373a3ff998b1abe080a3",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "ztnspn63si1982o6py9znqudy4",
+          "SubmissionTime": "2026-01-25T20:47:38.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/e385b66f-7450-5916-89f7-0dd2f2a93738"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/c4a555e3-6dd6-570d-a2ab-f033f3387a7b"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/fbb721c6-295f-5462-aa51-4751d6bbea77"
+            }
+          },
+          "Id": "12336713",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/c1e938c4-cbfa-59c7-9d83-6200aee114f5"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b9e80fde-8291-53f8-8343-a05c0af45db1"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/9ecd4d04-5076-54b8-9715-9c85e81ebdc6"
+            }
+          },
+          "Id": "12336714",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/48267867-a186-5b78-970e-f667a125348d"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/1ece45bc-e894-5c30-81ad-4c1838af7b58"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/65eb3c4a-7f5d-5910-b3bd-5e64e7749306"
+            }
+          },
+          "Id": "12336715",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/f5a04ad2-25f6-5b39-a09f-93dd5f748a75"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/4be57dbf-649e-5f0b-8e07-ca45b884c026"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/87f43dbd-1496-58e2-a6e6-63e53ed7602b"
+            }
+          },
+          "Id": "12336716",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/6dfbf2bd-f228-587e-b347-057cc0496acd"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/5df319b4-4a3c-510f-bac2-5d3a4628c63b"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/5436a013-ffaa-5b81-a740-e187c86a00e5"
+            }
+          },
+          "Id": "12336717",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7e2e7674-fd87-509d-a0ff-9c69645100d6"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/65ea3f6c-b26d-5a7c-a9a3-ac370c592d69"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/2e82a7e9-7496-5539-a764-b9b0f21612fb"
+            }
+          },
+          "Id": "12336718",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__173549819On95iGUxn",
+      "SubmissionTime": "2024-12-29T18:48:56.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "This product arrived in a box that was not too big nor too heavy. Opened the box and laid out all parts. All looked quite easy to assemble so i looked the book over quickly and began to put it together. Assembly was a snap. \n    Now i wait for snow. Snow came, only an inch or two, enough to try this puppy out. I love it. Push a button and squeeze the bar off you go. Worked way better than i expected for being battery operated. I sure hope i get deeper snow to try it out on but I'm very pleased with the ease and power of this machine.",
+      "Title": "I'm gonna give this an A+ for sure.",
+      "UserNickname": "Donnie",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 5,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "High quality",
+            "Durable"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238383612",
+      "CID": "58c89142-5201-5c63-b99d-80142e77baec",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-12-31T06:15:10.000+00:00",
+      "LastModificationTime": "2026-08-08T12:13:15.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "63fc38",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zeipf220y6b1adysfjul9nfua2",
+          "SubmissionTime": "2025-12-27T21:11:20.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/245e1a59-b474-557b-ab20-4565cfbfa51e"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/2af47b7e-c78c-5969-bc85-82ac23c327a1"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b328e6a5-d10f-5be9-a8b8-7e2805156ad2"
+            }
+          },
+          "Id": "12323214",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b31fd8be-aa93-5c72-974a-63b57dff5bf3"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/a4345acf-5786-5014-9c4a-9ff74a5ef82b"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/8dd0de96-f5fc-5325-bc02-887b16a475e9"
+            }
+          },
+          "Id": "12323215",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d236f854-e819-53a8-a261-0ef0fbd3429e"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/999ffc64-890c-57cf-b49d-524010b3fa99"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/cd56e52a-051d-5562-bd12-ff40ae12e62e"
+            }
+          },
+          "Id": "12323216",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ea3addfa-641b-5203-a398-da30c9a73085"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/990a9249-ad21-5f5e-b048-694da4e92ee3"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/0b40511d-1623-5d2f-8171-077da7b3d831"
+            }
+          },
+          "Id": "12323217",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/dee76cfb-ce1c-5e8b-99c7-9fc53bc7f35d"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/6ea08679-95e8-55cd-a16c-b0e5548f3354"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/50bb7760-d639-5479-81d1-b9e6c64ca016"
+            }
+          },
+          "Id": "12323218",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 3,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 16,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 16,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17353765oR4Woal7f0",
+      "SubmissionTime": "2024-12-28T09:02:24.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "This snow thrower was easy to assemble in 10-15 minutes and is made of good quality material like the heavy-duty rubber blades, brushless motor and surprisingly high-end features like a remote-chute handle, LED headlight, 8-inch rear wheels. For uninhibited start-ups the 40 volt battery should be stored indoors in cold environments.  While it is sold as a 20-inch snow thrower it actually will only clear a 12-inch width, which is as wide as the augers inside the mouth of the housing.  The battery lasted about 20-25 minutes. \nBest for use in light to medium snow conditions, for clearing an average walkway or small driveway.  Okay for a quick pass through, but the battery won't last much beyond that.  You can invest in a second battery to buy yourself a bit more time.",
+      "Title": "Okay for small jobs and those who hate to shovel.",
+      "UserNickname": "Jazzbrowne",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 5,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 4,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 4,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "High quality",
+            "Durable"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238569625",
+      "CID": "61eeac87-c6cb-5c31-8672-68c9a3691e1e",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-12-31T06:15:10.000+00:00",
+      "LastModificationTime": "2026-01-26T20:47:40.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "a6ccc1",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/583a6799-621b-5e95-9914-4440da6aa216"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/9188a7d7-1f78-5eac-99b3-126ca8c0b5b3"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/3ee66a86-24ed-591f-8ba6-3572ec1f6a5f"
+            }
+          },
+          "Id": "12322055",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/660fdbc0-c247-580a-8023-d7554d222374"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/969fec4e-a66c-56c0-bcf4-8ee79954344a"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b7a7c40a-e130-5d24-b007-4dda6f332094"
+            }
+          },
+          "Id": "12322056",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/994f6b6a-d544-5105-95d1-3dc7fd7fe8ca"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/f333a928-2c16-558e-b50f-2669d223dd9a"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/0e283a70-e95d-5640-9b69-8ecbb407857f"
+            }
+          },
+          "Id": "12322057",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17353582VmyK0NGx6T",
+      "SubmissionTime": "2024-12-28T03:57:53.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "Very Nice and Simple to Operate Battery Snow Blower the \"brushes\" that push the snow are rubber strips so they wont damage any surface ur removing the snow off of and comes with a battery and charger",
+      "Title": "Very Nice and Simple to Operate Battery SnowBlower",
+      "UserNickname": "JNewman",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 5,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 4,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "High quality"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238499584",
+      "CID": "b5548ba6-e49d-57a5-b5ff-5d823456f0db",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-12-26T02:00:09.000+00:00",
+      "LastModificationTime": "2026-01-26T20:47:56.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "3e21b9",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "ztyf68akxarl1k7hfzkjy5eppp",
+          "SubmissionTime": "2025-11-11T15:43:38.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17351768jC0WuRDSGx",
+      "SubmissionTime": "2024-12-26T01:34:08.000+00:00",
+      "ReviewText": "Nice snow blower. Easy for my sister to use and not worry about a cord getting in the way. So far has worked well with about 4 inches of snow but I’d like to know how it holds up with more than that.",
+      "Title": "Easy to use",
+      "UserNickname": "BW214",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 4,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238470150",
+      "CID": "7e6488f4-2b89-5175-a855-dca351065d44",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-12-26T22:45:10.000+00:00",
+      "LastModificationTime": "2026-01-26T20:48:49.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "e35ce860781fb8ec9737f1ef3cf749ae",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/f4ce2dd7-0f84-5a52-a35d-7c094904a6d5"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/85a73e0e-1693-5344-b851-219d0de1a2db"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/0321bf56-22eb-5994-b9e2-6a397b5f9eb9"
+            }
+          },
+          "Id": "12282722",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/dd698075-c74a-520b-a3b6-e82942ef3ace"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/8eadee59-75c5-5d14-906a-3307a901f3c1"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d0bedb1e-c958-53d8-befd-9447f8038e18"
+            }
+          },
+          "Id": "12282723",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/40f19f57-e70a-5905-ba24-d4afb6d2f674"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/e5c2b64f-1ba1-53ea-b0cb-493b6390cfd4"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/eb3da8d8-8684-55ef-8089-767939479672"
+            }
+          },
+          "Id": "12282724",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17350767vQ7Ad6LwTM",
+      "SubmissionTime": "2024-12-24T21:45:43.000+00:00",
+      "ReviewText": "Snowblower came secured in a well packed box. Quick assembly in 15 minutes. The only tools needed were a Phillips screwdriver and a socket set.  Directions weren't great but didn't need them as assembly was straight forward.  Came with a 40 volt battery that charged in maybe 45 minutes.  It is lightweight and is easy to maneuver and pick up. The discharge shoot can easily be adjusted by hand or by using the lever. It has a small light on the front of the unit that is helpful but not terribly bright. We haven't had any snow yet but anticipate that it will handle light snow well. Unsure about how it will handle heavier snow.  I think this will get used mainly for our patio and sidewalk.",
+      "Title": "Lightweight easy to assemble snow blower",
+      "UserNickname": "Sis8865",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 4,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 4,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 4,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238376457",
+      "CID": "c6d2ef7b-f926-592d-80e1-1574134d9ee0",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-12-21T14:15:13.000+00:00",
+      "LastModificationTime": "2026-01-26T20:49:17.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "AuthorId": "9ker9zxxzib4oc1v9kdnt755y",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17347883QIIIP6pyJj",
+      "SubmissionTime": "2024-12-21T13:38:45.000+00:00",
+      "ReviewText": "This review is an update to my earlier one.  We just had our first snowfall of 2-3 inches so I was able to use my Wild Badger Snow Thrower for the first time. It took care of my 90 foot double wide driveway plus our front walkway in 10 minutes flat!  Very easy to use and the snow was thrown over the driveway even when I was directly in the middle of it.  I am so happy with it!  Thanks!",
+      "Title": "Snow Thrower",
+      "UserNickname": "GaryR",
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "ContextDataValues": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "ContextDataValuesOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "238337899",
+      "CID": "d900d1e3-f2b7-56a0-803d-799883da2263",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-12-22T00:00:13.000+00:00",
+      "LastModificationTime": "2024-12-22T00:00:13.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "0574fbaa38345b4c145b7a0c7dbfb8d7",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/6940f9a4-0f3e-5616-b080-de0f342ab275"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/cae50d58-4cdd-5008-a67f-c2dad7c8c53b"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/646960ad-abd7-599a-b4ec-94cf7fdb212e"
+            }
+          },
+          "Id": "12226813",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Features on box are very detailed"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/282a536f-dead-5d9c-aa26-ac805ef2ad83"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/698f6010-d182-5171-9bf9-2861d896ce5c"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/bd363212-45d9-546a-909a-cec09f189758"
+            }
+          },
+          "Id": "12226814",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Great graphic design and easy to understand features"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/3e902977-9423-5f99-bd7a-1cfa99a6fe06"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/5afed18d-a8a0-5a54-b91f-bcaa903d0b0c"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/64540869-16b1-55d9-8e7d-69844d50a1de"
+            }
+          },
+          "Id": "12226815",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Includes the battery and charge"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/59c62459-138a-5d4a-b877-ca6d60db575e"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/2b8a0236-358b-5ae8-9082-2b7028f21ee1"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/679e8ec1-2889-5292-a939-692b3cdf0cc6"
+            }
+          },
+          "Id": "12226816",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Innovative on-board storage in case you want to store a second battery while one is being used."
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/9c61778e-0f03-50e7-bcf6-13681c48873d"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/949a2835-9e21-547a-ab3b-e263a083a18f"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/85e0b733-5d9f-5f19-8fba-8626fcad2fac"
+            }
+          },
+          "Id": "12226817",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Innovative product design for collecting the snow."
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17346448r8Vl4MrG4E",
+      "SubmissionTime": "2024-12-19T21:47:30.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "Assembles in minutes.   The battery charged to full in under an hour. Super easy controls and stout design.  I can hardly wait to try it on a snowfall over 6”!",
+      "Title": "A badger of a snow thrower",
+      "UserNickname": "Johnny Lighting",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 5,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "High quality",
+            "Durable"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "Helpfulness": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238272239",
+      "CID": "e35a8501-bfc6-5ad3-a686-6d1a5a972ad5",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-12-19T14:15:12.000+00:00",
+      "LastModificationTime": "2025-11-10T20:47:13.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "AuthorId": "3e28aa68bb16bff14d57fff639d6d50b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17345452GUD4glD0ex",
+      "SubmissionTime": "2024-12-18T18:07:28.000+00:00",
+      "ReviewText": "I live in a city/state that gets a LOT of snow. Been shoveling by hand for decades and finally decided to get a snowblower. This thing is really great quality. Feels really sturdy, unlike some other ones I've occasionally used. Incredibly easy to operate. No gas (electric), which to me is a huge plus because nearly everything I have runs on batteries, not gas. I've used it on snow that's 3-4\" deep, and it works great. Still TBD on how it works with deeper snow, but I'd definitely recommend.",
+      "Title": "Worth it? Yup",
+      "UserNickname": "Belle",
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "IsRecommended": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "ContextDataValues": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "ContextDataValuesOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "238229656",
+      "CID": "57e968f1-c958-5186-b1e5-968a12e8a92f",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-12-18T05:00:05.000+00:00",
+      "LastModificationTime": "2024-12-20T07:29:54.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "8dd522",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b0436c53-634b-58da-a020-3b178f3293eb"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/a47f3a75-0679-514c-834e-c419b6e55291"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/8da95691-d7d6-5f96-8a51-e08cd281ae43"
+            }
+          },
+          "Id": "12187843",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/87b9e48d-ef86-577b-87f8-dbf5ee63d1a6"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7ef51240-8c2a-5ee0-b151-c4bed2a3fdd8"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/13219f60-8988-5a28-a02a-7ba0e2c4eb6e"
+            }
+          },
+          "Id": "12187844",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/c1dbafe1-b5af-5ada-87ba-f7bfb8bbab00"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/3821a30b-2ed4-59e1-bc48-7943180b6a2d"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ae9a6279-882d-5873-939d-223de98d6f1b"
+            }
+          },
+          "Id": "12187845",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/45a87a51-6975-50b4-b3a9-d54d6b6fed8c"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/1c18521a-e87d-5569-9333-43f5b8e0ea56"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/54500227-b8c1-5811-b323-1ec34ae88e6d"
+            }
+          },
+          "Id": "12187846",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/312ff7e1-2842-5283-8502-f58534bc8550"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/c392ec78-e00c-5bfe-a068-e082de89cdf0"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/9fd5f22f-ef2f-52ec-9ac9-4989dd8d365e"
+            }
+          },
+          "Id": "12187847",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__173432225BJ12PuHct",
+      "SubmissionTime": "2024-12-16T04:10:56.000+00:00",
+      "ReviewText": "It was easy enough to put together, even though the directions weren’t great, and had drawings that didn’t match the product. I haven’t had snow yet to test it thoroughly, but it does seem to have good power when doing a dry test.",
+      "Title": "Seems solid",
+      "UserNickname": "Ljdhughes",
+      "SecondaryRatings": {
+        "Value": {
+          "Value": 3,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 4,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238225689",
+      "CID": "e01caba4-6478-558e-8cbe-cb8fd715b155",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-12-18T01:00:12.000+00:00",
+      "LastModificationTime": "2025-02-17T14:46:37.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "3210ae18b265ec4499ddfd5b555f8797",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/6740868e-96f9-5b2b-8e41-c6b3a3149457"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/e2dbd41f-85ef-5701-950a-e5974104f8a6"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/05f098b2-b067-51b6-8cb3-3da24fb14f31"
+            }
+          },
+          "Id": "12186070",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/8a034581-4df0-57ed-a76b-f4653d77fcc9"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/f591bcb8-db06-583f-b60f-209e37ee680c"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/4d0485dc-5422-5d6b-a08b-d6fd94e21e79"
+            }
+          },
+          "Id": "12186071",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b86743e5-ac55-5450-b56e-4f86d84e4a7c"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/1e410cf2-75d5-5f5a-9e1c-58467d825ae4"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/9ac80da7-61c7-5dda-83d8-6b397e78aa8f"
+            }
+          },
+          "Id": "12186072",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7a11659a-7ba6-5c74-8a0f-63a77ab1fd1d"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/a4fb7b91-fe6a-59b0-ac7c-081df311442d"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/f491071a-a0b4-586e-9f85-db465b2cfa22"
+            }
+          },
+          "Id": "12186073",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/e68a3d69-40fe-5b6e-aa2d-2147d61cab56"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/3058fe4d-fdbd-5f15-b5ce-a6a40c520f77"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/9a3a539b-16f9-5c8f-b94d-165701da29ca"
+            }
+          },
+          "Id": "12186074",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/a1f0c66a-6eff-5e85-934c-e9d5580c33e6"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/cfd6b202-1c3f-5835-a2f8-8a09b52c2dc5"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/363e7ad6-c18f-5cf1-9ac8-54b1561d87dc"
+            }
+          },
+          "Id": "12186075",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17343111IzwPPTqJHH",
+      "SubmissionTime": "2024-12-16T01:05:27.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "I just received the 40volt battery Wild Badger snow blower. It was much bigger than I had anticipated but not too big that I can’t handle myself. We had to assemble the handles and the blower shoot. It came with a large 40 volt battery. It charged quickly as it had come with a charge. The battery itself tells you with the push of a button how much life is left in the charge. When it was fully charged I put it into the battery compartment that sits on top of the blower. I then started it. It was so simple. Unfortunately it hasn’t snowed since I’ve received the unit. It looks promising. I can’t wait for it to snow.",
+      "Title": "Wild Badger 40v snow blower",
+      "UserNickname": "Djallio",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 5,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "High quality",
+            "Durable"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238197690",
+      "CID": "7dde74bd-1f6b-5fa6-868a-28c54f9fc064",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-12-17T07:15:08.000+00:00",
+      "LastModificationTime": "2024-12-17T07:15:08.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "f66b42",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z3dlo49d8wpepr6o9viebgj1gp",
+          "SubmissionTime": "2025-01-14T17:33:40.000+00:00"
+        },
+        {
+          "AuthorId": "zl04bx1z37c16185e8qn9minet",
+          "SubmissionTime": "2025-01-14T17:33:35.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/8b2f09fc-75ac-5023-90c1-3980a122e6f5"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ef0d117e-4d19-5a23-85b5-8165a347ef3d"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/c3d029dc-f21b-50e5-a4ff-5e59344ac664"
+            }
+          },
+          "Id": "12175709",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/502dce4c-d657-5225-a91f-82869a4d83b8"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/13369ab2-f685-5071-9787-72a7538244a8"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/6da59372-eaee-5212-b512-95f66943b892"
+            }
+          },
+          "Id": "12175710",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/60bca575-491d-57ba-89f6-fe4a5113e8d6"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/5d3818ae-419d-5e84-a5c4-46476412d9f3"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/32cb38fe-86a0-5d6a-9c65-1474e11e4d35"
+            }
+          },
+          "Id": "12175711",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/bfa5fef3-ecda-5e87-8e4b-a6904f652984"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/228b7f74-067e-568e-a872-c10f2dba01ec"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/653f55f8-0e20-5f42-96a9-c925a5125de6"
+            }
+          },
+          "Id": "12175712",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__173422863ScXQePef9",
+      "SubmissionTime": "2024-12-15T02:10:04.000+00:00",
+      "ReviewText": "This snowblower came very well packed no broken parts or any visible damage at all. It took about twenty minutes to fully charge the battery. As of now the middle December we have no snow so I really can't share it's effectiveness in snow. I will do an update after we get some snow.",
+      "Title": "Put together in less than 10 minutes.",
+      "UserNickname": "Lefty",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 4,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 4,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 4,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Pros": null,
+      "Helpfulness": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238017786",
+      "CID": "1e90df93-2731-5b77-b102-692e0a47b8f5",
+      "SourceClient": "lowes",
+      "Badges": {
+        "top25": {
+          "ContentType": "REVIEW",
+          "Id": "top25",
+          "BadgeType": "Merit"
+        },
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        },
+        "Expert": {
+          "ContentType": "REVIEW",
+          "Id": "Expert",
+          "BadgeType": "Rank"
+        }
+      },
+      "BadgesOrder": [
+        "top25",
+        "incentivizedReview",
+        "Expert"
+      ],
+      "LastModeratedTime": "2024-12-09T23:15:13.000+00:00",
+      "LastModificationTime": "2026-08-08T12:14:06.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "787220488",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/2e9d687b-55ee-5d35-b2ef-776c4fedac29"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/95d6ed13-afab-5a3f-b6ce-bccc96153303"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/43c763d6-ea07-505b-8a8a-bddfe9782e7b"
+            }
+          },
+          "Id": "12109680",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/4d582a1c-32f5-5354-9d8a-03a3c911e573"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ca3daedb-5079-5ada-a2c8-9ea3be6a6dab"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/9ed62fed-edd0-58b0-ac28-d66970b37c1c"
+            }
+          },
+          "Id": "12109681",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "broken side of cowling"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/f1a14200-23f4-54ee-8977-7f640146d779"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/c1de3352-51a0-58c4-8214-aef409753fb5"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/a77a1bd9-b45a-55de-a4e5-512a89b72c05"
+            }
+          },
+          "Id": "12109682",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "snapped off plastic to cowling"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/3331e29c-33cf-520e-bd2b-3d7a3889cc70"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7230d541-065a-55fe-a2a2-84001328547b"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/f59f7f21-c505-5604-b08e-35d3bb827746"
+            }
+          },
+          "Id": "12109683",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "led"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/bcfe17a6-fc27-5061-b30f-4f0397b991ea"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/92ddd3c3-c1e8-59e9-8ca9-d7ca97c63b22"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/25eeb2ec-a9e3-5ff3-b5fb-5a21484b57b1"
+            }
+          },
+          "Id": "12109684",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/fa98ae7b-b021-500c-826a-5de8ca093719"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/1d482743-de6b-5635-98aa-faa54f15ffdc"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/fbf37f41-8cd1-5e7d-87f6-c57e7954d3f5"
+            }
+          },
+          "Id": "12109685",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 3,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17336976cJOV7bcgKC",
+      "SubmissionTime": "2024-12-08T22:40:25.000+00:00",
+      "ReviewText": "I really want to like all battery powered tools. I even have a battery Miter Saw... But this is my third battery powered snow blower and they all lack throwing power. If you just need this to clear sidewalks, then this may be a great option. But I also have a large driveway and this unit only demonstrates a throw range of about 3 to 4 feet. My second issue is that this item arrived broken out of the box and was not due to shipping damage. The ring that directs snow up the chute was detached on one side, and as it was designed, is not reparable without a complete disassembly, so self service is not likely. If the bolt to hold the assembly was reachable from the outside, it would not have broken the way it did. It is possible it was damaged while packing as it is a likely place to want to grab the unit from the front while boxing. This unit has a single battery, but has storage for a second under the lid. It is relatively light, under 50 pounds, while still being heavy enough not to slide away easily on icy walkways and dig into the snow. The chute angle adjustment must be made at the chute, but it throws so close, that it is unlikely to make a difference other than in windy weather. As you can see in the video, it was blowing right back at the camera-person. The chute is hard to adjust at the extreme ends of the arc and I felt like I might break the gears if I pushed to hard. I suggest using a socket wrench with extension for assembly and ensure you read the directions first to know where all the pieces go. I made several mistaken assumptions my first time through until I read the manual.  The light is a nice feature, but not terribly bright. The only controls are the safety bar and the push to start button. I would much prefer an on/off switch and the safety bar so that adjusting the chute and restarting did not take so long. I'm sure this is just a safety requirement, but still slows down the process of getting the snow moved.",
+      "Title": "Battery one stage = low power, short throw",
+      "UserNickname": "cb88",
+      "Videos": [
+        {
+          "VideoId": "BwdWfDyDPog",
+          "VideoHost": "www.youtube.com",
+          "VideoThumbnailUrl": null,
+          "VideoIframeUrl": "https://www.youtube.com/embed/BwdWfDyDPog",
+          "Caption": "slides and video",
+          "VideoUrl": "https://www.youtube.com/watch?v=BwdWfDyDPog"
+        }
+      ],
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 4,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 3,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 3,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 3,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "238017760",
+      "CID": "90a91a75-0c68-566d-aa6a-d88355c3f563",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-12-09T23:15:13.000+00:00",
+      "LastModificationTime": "2024-12-11T18:33:00.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "a5697f7251a00ff86762803d30978daa",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7e74132f-b791-584b-98db-489691c19604"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ac8f8e82-d02f-58ff-bd2d-fe373f776feb"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/542b7812-bb47-5d0b-a53b-0b56cdf99cdb"
+            }
+          },
+          "Id": "12109598",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Battery and charger"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/e21f292e-05e3-530b-93a9-a32a7ee24b51"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/8a91bf2f-e505-5c38-bf7d-203761f11f0e"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ba212b0d-4a3a-581b-8442-f6204d74d2c7"
+            }
+          },
+          "Id": "12109599",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Side view"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/3e2906d6-eac5-5c08-bab9-c82d26f2dc34"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/dfbc32f4-f522-56e4-9bbe-3cd05a1e79bc"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/fb138a9b-4617-5643-adf8-9d1367b01371"
+            }
+          },
+          "Id": "12109600",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Front view"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/67bb308e-c644-593c-8ded-17ff8b76b132"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/76da5bf3-4d43-5b44-868a-0835c83b4a18"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/aee8c1c0-d68a-575a-8c95-5f7a99c2f809"
+            }
+          },
+          "Id": "12109601",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Closer front view"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/17fa710b-0ee5-562a-b553-38fcaea62c65"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/226547ed-9cfc-5c35-b913-7ccf5cc4f4c2"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/750981a9-2df4-50f1-8245-60dfacf43859"
+            }
+          },
+          "Id": "12109602",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Battery compartment- without battery"
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/47f2a798-d2bc-5b31-bd1d-cd6730c1b497"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/36edc82d-39df-5404-9858-f0f37dc17cac"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/1ba389f5-6ab6-5289-a6de-1b0b258cf478"
+            }
+          },
+          "Id": "12109603",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Battery compartment - with battery"
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__173369721Q4w4eFzSF",
+      "SubmissionTime": "2024-12-08T22:33:50.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "Full disclosure: we have not gotten hit with a ton of snow here on the west side of Ohio but I know it’s coming. It was not the easiest to assemble - the directions were not at all helpful but we used the picture on the front of the box to help guide us. It is lightweight, even with the battery in the snowblower. The wheels are big enough to be able to go over bumps smoothly but also nimble enough to make turns easily. Battery life seems to be pretty long - we left it running for over an hour without the battery dying. Again, no snow here so my review is based on the assumption of snow. Looking forward to putting this to good use in the tundra of the Ohio winters.",
+      "Title": "Lightweight Workhorse",
+      "UserNickname": "KMW",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 5,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "High quality",
+            "Durable"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "238004606",
+      "CID": "ddf05d7d-b77a-550d-b865-761b507b5023",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-12-09T23:15:14.000+00:00",
+      "LastModificationTime": "2025-02-17T14:45:59.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "d65419",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/88de91c9-7876-57bf-ade4-cfcfd1480c08"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/32f6f6a3-1992-5b4d-9303-ecfee7a56aa4"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/e580d276-d4a7-56a0-9c7e-37adda5b1291"
+            }
+          },
+          "Id": "12105034",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/a1d4bb12-3047-56d1-bcb3-dceca1d75525"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ed6dba06-3de9-56ca-8e4b-72f8804d61e7"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/45adfd8b-b0ea-5bc2-ae52-e092c190e152"
+            }
+          },
+          "Id": "12105035",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b5625f42-e9e9-5719-b121-3190c7a8a9e9"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/3ff76f0c-556c-5d8d-8549-18f133be2802"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/be4617f1-b0ab-5f9c-8a6c-0a15476aa21f"
+            }
+          },
+          "Id": "12105036",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/0791590c-fafa-5471-a637-26263a0539cd"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/a16452a1-9ce3-5119-ae13-716b544e1234"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/016a1847-01ff-5e9a-9325-bba2aa9f22be"
+            }
+          },
+          "Id": "12105037",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/1cbf9800-0cb3-5ec4-bc29-c48845b8d683"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/3854a741-d2f7-5597-8bfd-6c14e6a52a18"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d590fb1e-583c-52e4-a6c2-51296b966ee5"
+            }
+          },
+          "Id": "12105038",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/0074edfc-419e-54b1-b776-b2d37d6e363d"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/631b1452-cf15-54cb-bc57-b2da92db5614"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/31a13389-48e2-51db-b948-0a58a3187118"
+            }
+          },
+          "Id": "12105039",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17336712Y22D6cNauG",
+      "SubmissionTime": "2024-12-08T15:20:07.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "This compact 20” Wild Badger Snow Thrower for its size and power is a good investment for the money. The season has only started but my first few uses of it was impressive. I was able to use it in heavy, wet, packed snow and it was able cut right through it, at a reasonable rate. I used it to clean up what the plow pushed aside and with a little effort it was able to break through the packed snow and throw it a good fifteen feet. The size and  design of the front rotating blade will make quick work for fresh fallen snow up to eight inches or so. Easy to maneuver along driveway and walkways, light enough to carry up a few stairs to clear off your deck. The rotating blade made of rubber is ideal for protecting the deck and walkway surfaces. The discharge shoot change easily be redirected without stopping. A nice safety feature is the front facing light. Adds little value for the operator but is a great safety feature for passing plow trucks or vehicles to be aware that you’re there.  My 4 star rating is because the Snow Thrower comes with a storage space for a backup battery ( not included) and we all know we’ll want to have a second battery ready for use at all times. I would prefer the manufacturer include the second battery in the sale.  Assembly was very straightforward and took less than 10 minutes to complete. No list of tools needed was mentioned by the manufacturer but most homeowners should have a Phillips screwdriver and a adjustable wrench. I used a 3/8” long extension ratchet wrench to install the discharge shoot. Definitely would recommend the Badger Snow Thrower and get yourself an backup battery so you’ll always will have enough power to finish the job.",
+      "Title": "Badger, Versatile Compact snow thrower",
+      "UserNickname": "Mikey",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 5,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "Durable"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "AdditionalFields": {},
+      "Videos": []
+    },
+    {
+      "Id": "237982337",
+      "CID": "52d1d42f-1d49-5197-aea9-bc7a6d7b18a0",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2024-12-07T22:45:08.000+00:00",
+      "LastModificationTime": "2026-01-18T22:46:14.000+00:00",
+      "ProductId": "5014466577",
+      "OriginalProductName": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+      "CampaignId": "bvsampling_lowes_lowes_pb_wild_badger_power_lawncare_tools_nov_2024_20241122_79e8b653",
+      "ContextDataValuesOrder": [
+        "Sampling-lowes"
+      ],
+      "AuthorId": "4574fd09a055d696dde491653f1a12ed",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/97aa7674-7716-5170-95ea-fcb6bb37b8cc"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d2963993-6ef8-5c07-8e0c-777b732cf172"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/a8fcee5a-674e-55e1-b45a-718cf8b8d1f6"
+            }
+          },
+          "Id": "12097919",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/2ef75c1b-1549-59bd-9180-5a2cc1b91f52"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/760bca05-e58b-5f81-99a8-628e2351ab0a"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/75410ee1-1d31-57f9-976f-177900172f5c"
+            }
+          },
+          "Id": "12097920",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/4ef02510-bfe8-5c83-ad6c-52671283ca72"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/63f75ca2-0da2-5d2c-954e-27eda1737299"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b5e77f97-b6fa-580c-a546-c76c58c44f07"
+            }
+          },
+          "Id": "12097921",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/26ddcaed-e070-5f0f-9b02-e6fdf3660ac9"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/beb837e2-c2cd-59ac-9294-359b4b665bde"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/c3480195-4386-515a-bb25-34b41925372d"
+            }
+          },
+          "Id": "12097922",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/af9c5ca1-f05e-56dc-a12c-4b6816b6f057"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/a94527ab-6898-5f87-bc0c-36907a66c9c2"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/cdbcdcd7-2c3b-5350-a3ad-3029a538ace7"
+            }
+          },
+          "Id": "12097923",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/83495cb1-5d9d-5f0e-97b0-42a602cfe013"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/441517a7-2dda-5da3-8200-754e1208089a"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/578dd6ef-cbed-5197-9703-8872fd4bd41c"
+            }
+          },
+          "Id": "12097924",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Ease",
+        "Value",
+        "Quality",
+        "NoiseLevel"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_31__17335919Z6LZNsg9NX",
+      "SubmissionTime": "2024-12-07T17:18:32.000+00:00",
+      "TagDimensionsOrder": [
+        "Pro"
+      ],
+      "ReviewText": "The snow blower appears to be very well built and preforms very well; assembly took less than 5 minutes!  It is lightweight enough to be able to easily move it around or pick it up, but has enough weight to keep on the ground and blowing snow without having to fight it. First time out was only a few inches of snow, but did very well to clear a two car wide and long driveway and sidewalks with very little effort. \nThe only functional concerns are that the design of the slides on the bottom will allow it to catch on slightly uneven/raised concrete slabs instead of sliding over and the battery will not charge if left in a 20°-30° garage. I had to bring it into the house so it was warm enough to charge. Neither of which is enough to drop a star or a deal breaker, just a heads up! I am looking forward to trying it on deeper snow!",
+      "Title": "Well Built, Easily Maneuverable Snow Blower",
+      "UserNickname": "Mark",
+      "SecondaryRatings": {
+        "NoiseLevel": {
+          "Value": 5,
+          "Id": "NoiseLevel",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        },
+        "Ease": {
+          "Value": 5,
+          "Id": "Ease",
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null,
+          "MinLabel": null
+        }
+      },
+      "TagDimensions": {
+        "Pro": {
+          "Values": [
+            "High quality"
+          ],
+          "Id": "Pro",
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "Sampling-lowes": {
+          "Value": "True",
+          "Id": "Sampling-lowes"
+        }
+      },
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "AdditionalFields": {},
+      "Videos": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "5014466577": {
+        "FamilyIds": [
+          "5394452"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "5394452",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "32514",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "5394452",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "238",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:5394452",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "5394452",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "514604",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850046351464",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850046351464"
+        ],
+        "Name": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)",
+        "ModelNumbers": [
+          "WB40VSNOWBL"
+        ],
+        "Description": "BATTERY & CHARGER NOT INCLUDED: This package includes one WILD BADGER POWER 40V cordless snow blower only. 20-INCH CLEARING WIDTH: Clears a path up to 20 inches wide and up to 10 inches deep per pass under typical fresh and uncompacted snow conditions, helping cover residential driveways and sidewalks efficiently. BRUSHLESS CORDLESS PERFORMANCE: The high-efficiency brushless motor delivers reliable snow-clearing power with less maintenance than gas-powered equipment no gas, oil, pull starts, or extension cords required. RESIDENTIAL SNOW REMOVAL: This single-stage snow thrower is ideal for paved driveways, sidewalks, walkways, patios, and decks. EASY TO MANEUVER: The 8-inch rear wheels help users push, turn, and guide the snow blower across snow-covered residential areas and around tighter spaces. LED HEADLIGHT: The integrated LED light improves visibility when clearing snow during early mornings, late afternoons, or other low-light conditions. DURABLE RUBBER AUGER: The tough rubber auger is designed for repeated snow removal and effective contact with paved residential surfaces.",
+        "ManufacturerPartNumbers": [
+          "5394452-108792-WB40VSNOWBL"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/8b3dcdd9-fcc0-416f-81ad-df296beeec6d/91264043.jpeg",
+        "Id": "5014466577",
+        "CategoryId": "102673",
+        "BrandExternalId": "Wild Badger Power",
+        "Brand": {
+          "Id": "Wild Badger Power",
+          "Name": "Wild Badger Power"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Wild-Badger-Power-Wild-Badger-Power-40-Volt-20-inch-Snow-Blower-Includes-4-0-Ah-Battery-and-Fast-Charger/5014466577",
+        "Disabled": false,
+        "ISBNs": [],
+        "QuestionIds": [],
+        "ReviewIds": [],
+        "StoryIds": [],
+        "EANs": [],
+        "ReviewStatistics": {
+          "AverageOverallRating": 4.541666666666667,
+          "HelpfulVoteCount": 86,
+          "TotalVideoCount": 1,
+          "NotHelpfulVoteCount": 1,
+          "FirstSubmissionTime": "2024-12-07T17:18:32.000+00:00",
+          "LastSubmissionTime": "2026-02-08T14:54:33.000+00:00",
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 15
+            },
+            {
+              "RatingValue": 4,
+              "Count": 7
+            },
+            {
+              "RatingValue": 3,
+              "Count": 2
+            }
+          ],
+          "TotalPhotoCount": 92,
+          "RecommendedCount": 20,
+          "TotalReviewCount": 24,
+          "ContextDataDistributionOrder": [
+            "Sampling-lowes",
+            "VerifiedPurchaserCDV"
+          ],
+          "ContextDataDistribution": {
+            "Sampling-lowes": {
+              "Id": "Sampling-lowes",
+              "Values": [
+                {
+                  "Count": 19,
+                  "Value": "True"
+                }
+              ]
+            },
+            "VerifiedPurchaserCDV": {
+              "Id": "VerifiedPurchaserCDV",
+              "Values": [
+                {
+                  "Count": 3,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "SecondaryRatingsAveragesOrder": [
+            "Ease",
+            "Value",
+            "Quality",
+            "NoiseLevel"
+          ],
+          "SecondaryRatingsAverages": {
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 4.5,
+              "ValueRange": 5,
+              "MaxLabel": null,
+              "MinLabel": null,
+              "DisplayType": "NORMAL"
+            },
+            "NoiseLevel": {
+              "Id": "NoiseLevel",
+              "AverageRating": 4.777777777777778,
+              "ValueRange": 5,
+              "MaxLabel": null,
+              "MinLabel": null,
+              "DisplayType": "NORMAL"
+            },
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 4.578947368421052,
+              "ValueRange": 5,
+              "MaxLabel": null,
+              "MinLabel": null,
+              "DisplayType": "NORMAL"
+            },
+            "Ease": {
+              "Id": "Ease",
+              "AverageRating": 4.777777777777778,
+              "ValueRange": 5,
+              "MaxLabel": null,
+              "MinLabel": null,
+              "DisplayType": "NORMAL"
+            }
+          },
+          "FeaturedReviewCount": 0,
+          "RatingsOnlyReviewCount": 0,
+          "NotRecommendedCount": 1,
+          "TotalMediaCount": 93,
+          "OverallRatingRange": 5,
+          "TagDistribution": {},
+          "TagDistributionOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 24
+      }
+    },
+    "ProductsOrder": [
+      "5014466577"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

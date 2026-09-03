@@ -1,0 +1,1069 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 12,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "252097280",
+      "CID": "7e8d5409-9222-5efe-b349-6b30b4cb9ba9",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-06-21T12:30:13.000+00:00",
+      "LastModificationTime": "2026-06-21T12:30:13.000+00:00",
+      "ProductId": "5014467581",
+      "OriginalProductName": "9-in Push walk behind Gas Lawn Edger",
+      "CampaignId": "PPE_Sweepstakes_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "2edef155-72f2-4611-9dde-a357922c26ad",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__178204360eq0AMBA91",
+      "SubmissionTime": "2026-06-21T12:07:45.000+00:00",
+      "ReviewText": "While the price was NOT the attractiveness, the \"described\" capability was.  Now I can say that this product both lives up to its \"description\", works great and easy to operate.",
+      "Title": "GREAT WORKING PRODUCT",
+      "UserNickname": "Cookieman",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Badges": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "BadgesOrder": [],
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "249173882",
+      "CID": "fc526b1e-92bd-55b9-8449-2cdb2058afb3",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2026-04-01T02:00:14.000+00:00",
+      "LastModificationTime": "2026-08-04T15:18:56.000+00:00",
+      "ProductId": "5014467581",
+      "OriginalProductName": "9-in Push walk behind Gas Lawn Edger",
+      "CampaignId": "PPE_Sweepstakes_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "d1983aa6-27c4-4ef5-89b6-0b111f9bbcf0",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.16666699945926666,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 5,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17750085StFhILqID7",
+      "SubmissionTime": "2026-04-01T01:55:28.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": []
+    },
+    {
+      "Id": "244901851",
+      "CID": "1c2387e5-f06b-5f26-b14b-5fd0b0016863",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-09-27T04:00:02.000+00:00",
+      "LastModificationTime": "2026-04-13T23:26:25.000+00:00",
+      "ProductId": "5014467581",
+      "OriginalProductName": "9-in Push walk behind Gas Lawn Edger",
+      "CampaignId": "orderdetails_desktop",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nPlease reach out to our customer support for further assistance.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2025-11-03T15:31:16.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "pl10bbv902sgju8x365qfmuil",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zsqr4n5ak176zdh02l64x3qeia",
+          "SubmissionTime": "2026-04-13T23:25:44.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 25,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 25,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17589410LQ141qlv91",
+      "SubmissionTime": "2025-09-27T02:43:25.000+00:00",
+      "ReviewText": "I purchased this edger and something was wrong with the edger that would not allow it to lower the blade enough to edge.",
+      "Title": "Not a good edger",
+      "UserNickname": "Allen",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Badges": {},
+      "BadgesOrder": [],
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": []
+    },
+    {
+      "Id": "244207339",
+      "CID": "3b4e69db-ee06-59a7-b6f8-f9b76fcf0fce",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-08-23T00:00:09.000+00:00",
+      "LastModificationTime": "2026-04-13T23:32:01.000+00:00",
+      "ProductId": "5014467581",
+      "OriginalProductName": "9-in Push walk behind Gas Lawn Edger",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "1f7804a8-76fb-422c-a424-defd9556d93e",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17559023FaoFjKhagW",
+      "SubmissionTime": "2025-08-22T22:39:42.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Badges": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "BadgesOrder": [],
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": []
+    },
+    {
+      "Id": "243660959",
+      "CID": "615c4c1f-97db-59e5-8640-71c041baecae",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-07-30T18:30:07.000+00:00",
+      "LastModificationTime": "2026-04-13T23:26:15.000+00:00",
+      "ProductId": "5014467581",
+      "OriginalProductName": "9-in Push walk behind Gas Lawn Edger",
+      "CampaignId": "android",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nThanks for this feedback\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2025-07-31T12:15:28.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "6876nyzjljb0y6lidznm70f4z",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 5,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17538986HbKkOWMmg3",
+      "SubmissionTime": "2025-07-30T18:04:20.000+00:00",
+      "ReviewText": "after using it for close to 3 months it stopped working and Lowes has made the insurance claim so difficult 😑",
+      "Title": "don't buy",
+      "UserNickname": "mary",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Badges": {},
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": []
+    },
+    {
+      "Id": "241923778",
+      "CID": "fce755fe-d612-5345-97cc-683ae96dc4d8",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-05-14T19:45:14.000+00:00",
+      "LastModificationTime": "2026-04-13T23:31:13.000+00:00",
+      "ProductId": "5014467581",
+      "OriginalProductName": "9-in Push walk behind Gas Lawn Edger",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "2e501652-c185-4819-a20e-5567d8579e67",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.6000000238418579,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17472497yZ4JEq9bn7",
+      "SubmissionTime": "2025-05-14T19:09:15.000+00:00",
+      "ReviewText": "cant adjust wheel height",
+      "Title": "cant adjust wheel height",
+      "UserNickname": "timl",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Badges": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "BadgesOrder": [],
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": []
+    },
+    {
+      "Id": "241120548",
+      "CID": "3a8365cd-5a85-5883-b62b-8902e0a4bf06",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-04-07T01:00:09.000+00:00",
+      "LastModificationTime": "2026-04-13T23:27:07.000+00:00",
+      "ProductId": "5014467581",
+      "OriginalProductName": "9-in Push walk behind Gas Lawn Edger",
+      "CampaignId": "orderdetails_mobile",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nSir, Let’s try a few things to attempt to get you started.   Each machine is started at the factory prior to shipment to ensure that they are in working order.  <br />These steps are also in the owner’s manual for the tool.<br />Please try these steps.<br />1. Fill it with Ethonal free gas<br />2. Pump the primer bubble 10-12 times<br />3. Place the choke lever in the choke position<br />4. Pull the recoil starter until you get a choked start<br />5. Place the choke lever in the run position<br />6. Pull the recoil starter until you get a full start\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2025-04-07T13:30:53.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "e3adbdca-f817-49c7-92b9-dc360a3503e9",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.8333330154418945,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 5,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17439821ByD9efDNyu",
+      "SubmissionTime": "2025-04-06T23:29:13.000+00:00",
+      "ReviewText": "Edger would not start, after following the instructions on the card, in the instruction manual and watching a you tube video. The edger still would not work. I should have listened to the reviews better.",
+      "Title": "Edger Starting Issue",
+      "UserNickname": "Brand",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Badges": {},
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": []
+    },
+    {
+      "Id": "235156600",
+      "CID": "bad7e713-d3fb-5c4b-8680-b6bda1395f08",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-07-26T19:48:05.000+00:00",
+      "LastModificationTime": "2026-04-13T23:29:56.000+00:00",
+      "ProductId": "5014467581",
+      "OriginalProductName": "9-in Push walk behind Gas Lawn Edger",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHello. Please contact us at customersupport&#64;wild badger power.com for us to help you further\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-07-28T14:15:06.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "mgwf48dzmiqz8hn1j1kxh8x29",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z3g1cxb9itmw1un0zi72ibq1vj",
+          "SubmissionTime": "2026-08-09T04:04:17.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b68d99ad-9a79-5dc2-b169-b1ce9e6c3a95"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/3b84ca01-5bd8-5769-8397-533439ae8c49"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/dc755a74-129c-5965-8229-3e59ba7ff877"
+            }
+          },
+          "Id": "10974708",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7ac0aaf9-98e5-521a-bdf9-08554c013a75"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/c4a0ead0-09ca-5ed2-80e2-7bb1a3c8c6f2"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7c2ee3a2-1bf1-55ea-998e-385c7d39a5ac"
+            }
+          },
+          "Id": "10974709",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.9375,
+      "TotalFeedbackCount": 16,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 15,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17220207iPttnSRUH7",
+      "SubmissionTime": "2024-07-26T19:05:15.000+00:00",
+      "ReviewText": "I received this edger and it would not start.  Badger sent me a new one and that one didn't start either.  The first one I got had a crooked front wheel.  The second one I got it had a straight front wheel.  Working with Badger to see what to do.  They do not take returns and the call center has about a 10 minute wait.  Tell's you a lot about their quality.  Also, the repair shop in Grand Prairie (40 miles away) does not answer the phone nor do they return messages.  Very frustrated about this purchase since I spent $25 for non-ethanol gas for this edger and it won't start.",
+      "Title": "Brand New, Will not start",
+      "UserNickname": "NickieDallas",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Badges": {},
+      "BadgesOrder": [],
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": []
+    },
+    {
+      "Id": "234895537",
+      "CID": "04d7dd57-784f-5445-af64-6292bdcd9146",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-07-13T23:30:10.000+00:00",
+      "LastModificationTime": "2026-04-17T21:26:22.000+00:00",
+      "ProductId": "5014467581",
+      "OriginalProductName": "9-in Push walk behind Gas Lawn Edger",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHello,    If you have some issues with the performance of the Wild Badger edger,  please contact us at customersupport&#64;wildbadgerpower.com\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-07-15T02:45:06.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "5y76ahshis3rwzyvxtoyvkijo",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zbar2pjzloy8s06q9fggyzg9wu",
+          "SubmissionTime": "2025-06-21T17:23:12.000+00:00"
+        },
+        {
+          "AuthorId": "z3gr10kuwzwx1m2hy57rku2gyq",
+          "SubmissionTime": "2025-03-16T08:29:17.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.05555560067296028,
+      "TotalFeedbackCount": 18,
+      "TotalNegativeFeedbackCount": 17,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17209127yh5L2lAOQD",
+      "SubmissionTime": "2024-07-13T23:19:58.000+00:00",
+      "UserNickname": "Mickey",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Badges": {},
+      "Title": null,
+      "IsRecommended": null,
+      "BadgesOrder": [],
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": []
+    },
+    {
+      "Id": "233693364",
+      "CID": "0ce0e1cb-2af6-55af-a3b8-4233f572d366",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-05-14T10:31:56.000+00:00",
+      "LastModificationTime": "2026-04-13T23:30:56.000+00:00",
+      "ProductId": "5014467581",
+      "OriginalProductName": "9-in Push walk behind Gas Lawn Edger",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHello,   Can we help you at all with your Wild Badger Edger ?\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-05-14T12:40:24.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "86f02bb0-de93-43a9-915b-7fd6463a2719",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zdd40sf14baf35forei2jerpf8",
+          "SubmissionTime": "2025-06-14T13:44:47.000+00:00"
+        },
+        {
+          "AuthorId": "z3oc75uescte6ailruubzj656f",
+          "SubmissionTime": "2025-06-13T21:03:36.000+00:00"
+        },
+        {
+          "AuthorId": "ze5alcm31x4h4674ijm48y2fnr",
+          "SubmissionTime": "2024-06-30T20:54:40.000+00:00"
+        },
+        {
+          "AuthorId": "zhv9y7sb1lydaaaav680ghqaqq",
+          "SubmissionTime": "2024-06-17T01:32:49.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 4,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 28,
+      "TotalNegativeFeedbackCount": 28,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17156817gm6YuGtYQD",
+      "SubmissionTime": "2024-05-14T10:15:39.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Badges": {},
+      "Title": null,
+      "IsRecommended": null,
+      "BadgesOrder": [],
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": []
+    },
+    {
+      "Id": "233661581",
+      "CID": "d693d16a-812c-57c5-b217-2afab3ebea63",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-05-12T14:02:03.000+00:00",
+      "LastModificationTime": "2026-04-13T23:31:42.000+00:00",
+      "ProductId": "5014467581",
+      "OriginalProductName": "9-in Push walk behind Gas Lawn Edger",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "573688d8-ac1f-4998-827b-407336f4e782",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.2941179871559143,
+      "TotalFeedbackCount": 17,
+      "TotalNegativeFeedbackCount": 12,
+      "TotalPositiveFeedbackCount": 5,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17155214Lkbyeja8wc",
+      "SubmissionTime": "2024-05-12T13:44:13.000+00:00",
+      "ReviewText": "Easy purchase",
+      "Title": "Hopefully runs good",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Badges": {},
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": []
+    },
+    {
+      "Id": "232137933",
+      "CID": "b040875d-eeaf-5da2-b74d-8df27fd71c56",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-05-30T13:45:10.000+00:00",
+      "LastModificationTime": "2026-08-07T01:18:01.000+00:00",
+      "ProductId": "5014467581",
+      "OriginalProductName": "9-in Push walk behind Gas Lawn Edger",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nI appreciate your feedback on the Walk Behind Lawn Edger. We are pleased to hear your positive experience!\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-02-28T13:40:43.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "idwb46z640jqi3e8aifd46i5p",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zsq9h9s8g9rd5hk7a7yn1tdx19",
+          "SubmissionTime": "2026-04-13T23:33:57.000+00:00"
+        },
+        {
+          "AuthorId": "zdyivb7sibub6g54w41lv56cit",
+          "SubmissionTime": "2026-04-13T23:33:37.000+00:00"
+        },
+        {
+          "AuthorId": "zpxrw7um5exld7zyg7eoc7js3c",
+          "SubmissionTime": "2025-05-29T19:35:38.000+00:00"
+        },
+        {
+          "AuthorId": "zalnioj61p6xxf00qma3g609js",
+          "SubmissionTime": "2024-12-12T04:56:20.000+00:00"
+        },
+        {
+          "AuthorId": "z260hixnqkzatclgyh82ts75iw",
+          "SubmissionTime": "2024-06-26T23:50:22.000+00:00"
+        },
+        {
+          "AuthorId": "z2dnari6s7mfq9adh5frvujiud",
+          "SubmissionTime": "2024-06-26T23:50:19.000+00:00"
+        },
+        {
+          "AuthorId": "zeu9rdlqko8ruwd9hjqxz7v2mm",
+          "SubmissionTime": "2024-05-29T14:10:49.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 7,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.6470590233802795,
+      "TotalFeedbackCount": 51,
+      "TotalNegativeFeedbackCount": 18,
+      "TotalPositiveFeedbackCount": 33,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17089630Zppsqz7OJS",
+      "SubmissionTime": "2024-02-26T15:58:09.000+00:00",
+      "ReviewText": "Highly recommend for sidewalks or walkways. It is heavy duty but easy to push. I liked how it has different height settings for my walkway, sidewalk and the driveway curb. It easily collapses and fits right by my Badger mower in the garage.",
+      "Title": "Heavy Duty",
+      "UserNickname": "Jeff34",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Badges": {},
+      "BadgesOrder": [],
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "5014467581": {
+        "FamilyIds": [
+          "5394457"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "5394457",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "18684",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "5394457",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "239",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:5394457",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "5394457",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "510534",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850046351051",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850046351051"
+        ],
+        "Name": "9-in Push walk behind Gas Lawn Edger",
+        "ModelNumbers": [
+          "WB31CCED"
+        ],
+        "Description": "POWERFUL: Commercial grade, 31cc, full crank, 4-cycle engine tested for 100+ hours and has double the life versus half crank engines HASSLE-FREE: No hassles of mixing mix oil and gas ENGINE: Full crank engine provides increased power, reduced vibration and longer engine life EASY TO USE: Digital ignition system for ease of starting and lower fuel consumption PRECISE CUTTING: Dual sided 9-inch edger blade provides precision cutting and clean edge lines ADJUSTABLE: 5 position variable cutting depths ECO: Tool free air filter for easy maintenance",
+        "ManufacturerPartNumbers": [
+          "5394457-108792-WB31CCED"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/126210aa-b4c1-4970-bc59-19b45fae2690/70604084.jpeg",
+        "Id": "5014467581",
+        "CategoryId": "100000198277",
+        "BrandExternalId": "Wild Badger Power",
+        "Brand": {
+          "Id": "Wild Badger Power",
+          "Name": "Wild Badger Power"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Wild-Badger-Power-9-in-Push-Walk-Behind-Gas-Lawn-Edger/5014467581",
+        "Disabled": false,
+        "EANs": [],
+        "StoryIds": [],
+        "QuestionIds": [],
+        "ISBNs": [],
+        "ReviewIds": [],
+        "ReviewStatistics": {
+          "FeaturedReviewCount": 0,
+          "RatingsOnlyReviewCount": 0,
+          "NotRecommendedCount": 4,
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaserCDV"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaserCDV": {
+              "Id": "VerifiedPurchaserCDV",
+              "Values": [
+                {
+                  "Count": 8,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "AverageOverallRating": 2.6666666666666665,
+          "TotalPhotoCount": 2,
+          "HelpfulVoteCount": 93,
+          "NotHelpfulVoteCount": 86,
+          "FirstSubmissionTime": "2024-02-26T15:58:09.000+00:00",
+          "LastSubmissionTime": "2026-06-21T12:07:45.000+00:00",
+          "TotalVideoCount": 0,
+          "RatingDistribution": [
+            {
+              "RatingValue": 1,
+              "Count": 6
+            },
+            {
+              "RatingValue": 5,
+              "Count": 3
+            },
+            {
+              "RatingValue": 4,
+              "Count": 2
+            },
+            {
+              "RatingValue": 3,
+              "Count": 1
+            }
+          ],
+          "TotalReviewCount": 12,
+          "RecommendedCount": 2,
+          "TotalMediaCount": 2,
+          "TagDistribution": {},
+          "SecondaryRatingsAveragesOrder": [],
+          "SecondaryRatingsAverages": {},
+          "OverallRatingRange": 5,
+          "TagDistributionOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 12
+      }
+    },
+    "ProductsOrder": [
+      "5014467581"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

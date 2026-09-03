@@ -1,0 +1,1922 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 28,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "271269219",
+      "CID": "fc811f44-0fff-562c-b5a3-578c54f748d2",
+      "SourceClient": "lowes",
+      "Badges": {
+        "Expert": {
+          "ContentType": "REVIEW",
+          "Id": "Expert",
+          "BadgeType": "Rank"
+        }
+      },
+      "BadgesOrder": [
+        "Expert"
+      ],
+      "LastModeratedTime": "2026-08-24T18:15:14.000+00:00",
+      "LastModificationTime": "2026-08-24T18:15:14.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "orderdetails_desktop",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "36a907d5-5817-4ea0-9734-403b0f7379a2",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_1787594212VRny8uGh",
+      "SubmissionTime": "2026-08-24T17:57:18.000+00:00",
+      "ReviewText": "Supplied manual is not clear as to operation and assembly..parts are included that you don't need, in fact, detrimental to the operation of the unit if installed.  Video's on line are misleading, be careful how you assemble this unit, once put together, it runs ok.  I purchased the extended warranty but I don't see it lasting 5 years.  Time will tell.",
+      "Title": "Needs Updating",
+      "UserNickname": "MandD",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "Pros": null,
+      "Helpfulness": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "251233359",
+      "CID": "f7e8afb9-6876-53d2-9454-a3be4fb6d149",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-06-04T15:45:16.000+00:00",
+      "LastModificationTime": "2026-06-04T15:45:16.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "android",
+      "AuthorId": "kxtyxgzb2n1jvmb3jptsmicjm",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17805315HG1BQlaDaR",
+      "SubmissionTime": "2026-06-04T00:06:38.000+00:00",
+      "ReviewText": "We finally got everything put together and we were unable to start it. Several people tried so I know it wasnt a user error. it is also very awkward holding it. Customer service has been wonderful though. We were outside of the 30 day window to return it to Lowe's so we had to contact Wild Badger.",
+      "UserNickname": "AJ",
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "Helpfulness": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Title": null,
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "ContextDataValues": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "ContextDataValuesOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "244835995",
+      "CID": "4d33c75a-772d-5c8d-8cab-44290865dbbd",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-09-23T20:00:09.000+00:00",
+      "LastModificationTime": "2025-09-23T20:00:09.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "b04e893e-f383-4f56-89b0-e04d5f92e457",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17586525nkiBsILDfB",
+      "SubmissionTime": "2025-09-23T18:35:44.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "Helpfulness": null,
+      "IsRecommended": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Title": null,
+      "ReviewText": null,
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "244723019",
+      "CID": "2bee880a-f6f3-5004-8dcc-91948a1a8163",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-09-17T19:00:07.000+00:00",
+      "LastModificationTime": "2025-09-17T19:00:07.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "0dcf3911-a668-49cf-8c70-44bcd42c02aa",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17581351pcj9NVcRtq",
+      "SubmissionTime": "2025-09-17T18:52:57.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "Helpfulness": null,
+      "IsRecommended": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Title": null,
+      "ReviewText": null,
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "243357662",
+      "CID": "45f5ec3a-bc41-5643-92e0-5c37b856888a",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-07-17T20:00:12.000+00:00",
+      "LastModificationTime": "2025-07-17T20:00:12.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "d699d8df-e477-4fac-97fe-9a61106b9fd4",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17527808aiOzTtYxmx",
+      "SubmissionTime": "2025-07-17T19:34:10.000+00:00",
+      "ReviewText": "Very powerful",
+      "Title": "Powerful",
+      "UserNickname": "Greg",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "Helpfulness": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "243088942",
+      "CID": "21894214-4f42-5f12-909c-9de0dd486dd6",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-07-05T19:15:08.000+00:00",
+      "LastModificationTime": "2025-07-12T17:04:49.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "android",
+      "AuthorId": "dnd4zqohq0omsmtu4f004jdm2",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17517416Et3gXF2DUZ",
+      "SubmissionTime": "2025-07-05T18:54:58.000+00:00",
+      "ReviewText": "I have been trying for hours to start this thing and it will not start no matter what.",
+      "Title": "will not start out the box",
+      "UserNickname": "justin",
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "ContextDataValues": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "ContextDataValuesOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "242984147",
+      "CID": "485c1be1-8e06-5c05-a64c-d1eeb3e54e0e",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-06-30T19:15:13.000+00:00",
+      "LastModificationTime": "2025-09-26T14:50:38.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "5b0b37bf-78d4-4233-b032-ad943bb2fbeb",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.6666669845581055,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17513096Vv8aHZYNE2",
+      "SubmissionTime": "2025-06-30T18:54:30.000+00:00",
+      "ReviewText": "The product itself is a workhorse. But the very limited user manual and instructions that come with the trimmer are a show stopper. Very small, limited, pictures with no instructions is all your given to assenble the device and insure that it is working properly. A decent user manual that explains string, head and tool replacement would be nice",
+      "Title": "Terrible user manual makes Great machine useless",
+      "UserNickname": "Dale",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "IsRecommended": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "242100622",
+      "CID": "499ed751-2f4c-5de4-8334-e179933078f4",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-05-22T06:45:06.000+00:00",
+      "LastModificationTime": "2025-05-22T06:45:06.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "b4940094-ec9b-4cc5-b99c-88f56b519399",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zors3rwoow37j2nk19l52eav9p",
+          "SubmissionTime": "2025-11-11T19:33:23.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__1747895996JlFyYaJ9",
+      "SubmissionTime": "2025-05-22T06:38:28.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "Helpfulness": null,
+      "IsRecommended": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Title": null,
+      "ReviewText": null,
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "236902992",
+      "CID": "3305e2e1-5178-5fc5-a802-b78f09c4cead",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-10-20T22:30:04.000+00:00",
+      "LastModificationTime": "2025-07-12T17:04:57.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "AuthorId": "ixpw1sd4913bp8itltea4t5rc",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.6666669845581055,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17294624XJVN4FX81U",
+      "SubmissionTime": "2024-10-20T22:13:41.000+00:00",
+      "ReviewText": "What a waste of my valuable time with this piece of junk. Followed all the wacky instructions on the manual. The unit wont start. Check the spark plug, wire brush and still not working. Very disappointed with this product.",
+      "Title": "Brand new out of the box and it wont start",
+      "UserNickname": "Hrcweld",
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "ContextDataValues": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "ContextDataValuesOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "235238303",
+      "CID": "07167822-b572-5c96-b6b8-4796567e1d8f",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-08-02T05:30:05.000+00:00",
+      "LastModificationTime": "2025-07-12T17:04:53.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHello,    Please contact customersupport&#64;wildbadgerpower.com if we can help you with any product tool issues ont he 52cc tool.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-07-30T12:15:19.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "7417915f0e4602d97867c0e63417bf60616c65786672617573746f383840676d61696c2e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/965dd60d-57ed-5fb3-82b8-27af750d8c5b"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/424fb77d-d070-5c18-8a98-fc3fdf75efe3"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/03e24ff2-5165-50cf-95c7-090257958c10"
+            }
+          },
+          "Id": "11036738",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ab6906f4-d83e-5cc1-939d-2cb6fc9e54b1"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b54e5d4b-d010-5117-bbf9-e0eb320b4f57"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/8a5210cb-a6b2-5eec-b075-12581f5f135d"
+            }
+          },
+          "Id": "11036739",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": "Junk with poor quality control"
+        }
+      ],
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17225685KyK4byyl2Y",
+      "SubmissionTime": "2024-08-02T03:15:01.000+00:00",
+      "ReviewText": "It would NOT START. After opening the box I looked at the components and thought it was a little flimsy and cheap but it was pretty cheap. I put it all together, filled it with 50:1 motomix. I tried starting it for quite some time and checked the spark plug and realized the spark plug cable was never connected.",
+      "Title": "Save your money for something else!",
+      "UserNickname": "MTAF",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "IsRecommended": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "235161294",
+      "CID": "8733a8fd-731b-50cb-b5a4-c916949be145",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-07-26T22:18:02.000+00:00",
+      "LastModificationTime": "2025-07-12T17:05:38.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nThank you for the review. If you have any other issues or concerns, our support team is here to help. Customersupport&#64;wildbadgerpower.com\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-07-29T19:45:18.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "53cb44be-1a57-43c1-87c0-977a7c317b31",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17220309LPMo00lGGj",
+      "SubmissionTime": "2024-07-26T21:55:52.000+00:00",
+      "ReviewText": "It works great but who ever built it left a hose clamp off the gas inlet side in the gas tank. Yes it fell off n n weed eater would shutoff after it used about a 1/4 of a tank of gas. Lowes service wanted to take it n send it off to be fixed. I fixed it n have had no other problems since but ive only put 4 tanks of gas through it.",
+      "Title": "It cuts great but id upgrade to the .105 line",
+      "UserNickname": "Bobby",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "234992266",
+      "CID": "4dd28204-1074-5ee0-a635-8a39cf562379",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-07-18T23:45:09.000+00:00",
+      "LastModificationTime": "2025-07-12T17:04:37.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nContact us at customersupport&#64;wildbadgerpower.com for help and support of your new tool\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-07-19T12:30:08.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "fc7d7cee-0fe9-4cd9-b117-8a5e1154d048",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__1721345147X5OaFGro",
+      "SubmissionTime": "2024-07-18T23:26:15.000+00:00",
+      "ReviewText": "Didn’t even get to try it. After waiting for shipping once the product got here it didn’t start at all no matter what I tried.",
+      "Title": "Couldn’t tell you any info even if I wanted to.",
+      "UserNickname": "Mikey9",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "234599907",
+      "CID": "94bf317f-d169-5c81-bffb-4d8022053a68",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-06-30T23:45:06.000+00:00",
+      "LastModificationTime": "2025-06-27T10:35:33.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Store_other_Touch1_1722",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "b5ebb89d-9d46-4bac-aba1-66d8c683f51b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16__17197896t9VjIhw4wb",
+      "SubmissionTime": "2024-06-30T23:20:14.000+00:00",
+      "ReviewText": "Good product no issues",
+      "Title": "Great product highly recommend",
+      "UserNickname": "Lori",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "232341973",
+      "CID": "06a653da-80d3-50d0-a376-6563fd98d679",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-03-07T03:00:09.000+00:00",
+      "LastModificationTime": "2024-07-15T21:08:15.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "f225d62c-f42c-4a66-af68-8f09e4e1fb80",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17097749wFY6LFkMgw",
+      "SubmissionTime": "2024-03-07T01:29:14.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "IsRecommended": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Title": null,
+      "ReviewText": null,
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "230993703",
+      "CID": "0bd15d59-ad92-59bf-852b-4269f0e546ca",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-01-11T20:00:11.000+00:00",
+      "LastModificationTime": "2025-07-12T17:05:45.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHi JohnH, I am sorry to hear you had a frustrating experience, this is certainly not the level of service I expect for our customers. Our 52cc is a high-powered engine, so there will be some vibration, but based off your review, there should not be enough vibration to have pieces fall off. If you have any other questions in the future or are willing to give more information about your experience, please contact us at 704-684-5590 or customersupport&#64;wildbadgerpower.com.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-02-05T15:39:27.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "hakzdf6q221lvny6vabc9jlcp",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z7ennekrt2txh7k0g9jl7cu6ih",
+          "SubmissionTime": "2024-05-25T21:18:28.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.7777780294418335,
+      "TotalFeedbackCount": 9,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 7,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17048619oCslOtCUpJ",
+      "SubmissionTime": "2024-01-10T04:45:09.000+00:00",
+      "ReviewText": "Garbage!!!  A complete waste of time and money.  I decided to purchase this brush cutter based on price and modest reviews.  I accepted the mediocre reviews part because my needs are nominal.  I only plan to use this twice a year for moderate tasks with no substantial heavy-duty stuff involved.  \nThe brush cutter arrived and I put it together per the instructions and with tips from online videos.  As soon as I started the unit, it vibrated so violently that I could barely hold it.  I went through the assembly process again to make sure everything was correctly attached.  Still the shaking and rattling persisted.  Plastic pieces and parts were flying off the unit as soon as it started and vibrated.  I figured I must have gotten a bad one and I would give a replacement a try.  \nThe replacement lasted one pull of the starter cord which did not retract.  What a disappointment!\nI have called customer service, 1-844-786-7335, four times in the past two weeks.  The first time I left a message.  The second time I waited for about an hour before hanging up.  The third and fourth calls resulted in me taking the call back option.  I have yet to be contacted by anyone from Wild Badger.\nNeedless to say, this piece of junk is going back to the retailer, again.  As their customer service is non-existent, I will be sure to avoid any products from Wild Badger (and Sunseeker, the Chinese parent company) in the future.  \nBottom line:  This is another lesson in the value of paying more for quality and avoiding products with mediocre reviews.",
+      "Title": "Wild Badger 52cc Brush Cutter Review – Garbage!!",
+      "UserNickname": "JohnH",
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "ContextDataValues": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "ContextDataValuesOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "228490200",
+      "CID": "377d4d1f-7be0-5116-b631-2549f94eeea8",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-09-27T16:15:07.000+00:00",
+      "LastModificationTime": "2025-07-12T17:04:30.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "android",
+      "AuthorId": "2rme6i6lj2ydwncecllael04b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.5,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16958300g0w7uioIxD",
+      "SubmissionTime": "2023-09-27T15:53:51.000+00:00",
+      "ReviewText": "very heavy and the trimmer head spins to slow",
+      "Title": "Heavy and low rpm",
+      "UserNickname": "Edward",
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "ContextDataValues": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "ContextDataValuesOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "228459884",
+      "CID": "262b7858-4b8d-53dc-86b3-01bcf593016f",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-09-26T15:15:15.000+00:00",
+      "LastModificationTime": "2025-07-12T17:05:28.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_LARP_Online_Touch2_20230925",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV",
+        "ReceivedFreeProduct"
+      ],
+      "AuthorId": "fc0532b0-f2fb-4b91-9576-a2ac71c89742",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_27__16956903cXVwQ0Tpr7",
+      "SubmissionTime": "2023-09-26T01:05:15.000+00:00",
+      "ReviewText": "Runs great, lots of power, cuts locust trees up to 3” with a brush cutting carbide blade",
+      "Title": "Has plenty of power, is a bit heavy though.",
+      "UserNickname": "Moose",
+      "ContextDataValues": {
+        "ReceivedFreeProduct": {
+          "Value": "Yes",
+          "Id": "ReceivedFreeProduct"
+        },
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "227668731",
+      "CID": "c122367a-8e89-5bc7-9196-6e27bd66c751",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-08-19T19:00:10.000+00:00",
+      "LastModificationTime": "2025-07-12T17:05:09.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_App_Push_iOS",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "2926401482",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_18__16924702urlAEwVpVq",
+      "SubmissionTime": "2023-08-19T18:38:13.000+00:00",
+      "ReviewText": "Lots of power, very heavy and shoulder straps are kinda cheap made. Decent brush cutter but wouldn’t recommend as a everyday trimmer.",
+      "Title": "Decent brush cutter",
+      "UserNickname": "Jordan",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "IsRecommended": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "227084059",
+      "CID": "3b42b5b5-88c9-55c0-b73d-504efad441b7",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-07-23T06:45:05.000+00:00",
+      "LastModificationTime": "2025-05-02T01:26:07.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "33b19745-ad8e-4dfe-988a-e8154a9ffcd4",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__16900935jWYeEw6J3t",
+      "SubmissionTime": "2023-07-23T06:25:48.000+00:00",
+      "ReviewText": "Good power but handlebars needed some getting used to...",
+      "Title": "Good Power",
+      "UserNickname": "Jeff",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "226753612",
+      "CID": "918ff3de-619e-5c06-9c0f-d91154272ca3",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-07-07T21:45:09.000+00:00",
+      "LastModificationTime": "2025-07-12T17:05:59.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "orderdetails_mobile",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nOur warranty is 3 years. If you have any questions or concerns about your tool, please reach out to our support on wildbadgerpower.com\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-06-11T15:41:59.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "iuva2d8x9belmb8a8x5tbyvn9",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z9oa9hyc4w8r1elhp7cj5f8e6a",
+          "SubmissionTime": "2024-06-03T19:11:21.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.7272729873657227,
+      "TotalFeedbackCount": 11,
+      "TotalNegativeFeedbackCount": 3,
+      "TotalPositiveFeedbackCount": 8,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_1688764891mNGrG20j",
+      "SubmissionTime": "2023-07-07T21:21:07.000+00:00",
+      "ReviewText": "I purchased this weed eater on April 23, 2023 and worked ok.  I only used TruFuel and it still stopped working.  Definitely purchase extended warranty because after 30 days you can’t return it.",
+      "Title": "Under 3 months",
+      "UserNickname": "Jonny",
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "ContextDataValues": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "ContextDataValuesOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "226411376",
+      "CID": "eafbba4e-79f2-5246-b5b6-6c8de66f03df",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-06-22T22:30:14.000+00:00",
+      "LastModificationTime": "2025-07-12T17:05:21.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "a18d5e17-095b-4d1e-bfd8-4cb57822dbfe",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.33333298563957214,
+      "TotalFeedbackCount": 12,
+      "TotalNegativeFeedbackCount": 8,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__16874729O5ycv0JYkw",
+      "SubmissionTime": "2023-06-22T22:29:53.000+00:00",
+      "Title": "Piece of junk. Spool attachment flies across yard.",
+      "UserNickname": "Cork",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "ReviewText": null,
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "225977081",
+      "CID": "63c2f5e4-19cf-505f-9aa8-2865cf11f6fc",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-06-04T04:15:06.000+00:00",
+      "LastModificationTime": "2025-06-27T10:35:38.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "0a11f389-6079-4b4a-9ad1-6595f122802b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zm6dxjw38stf378vhhqqzatyy9",
+          "SubmissionTime": "2023-08-01T15:13:42.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.6000000238418579,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__16858512ySaowkYPkY",
+      "SubmissionTime": "2023-06-04T04:00:29.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "IsRecommended": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Title": null,
+      "ReviewText": null,
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "225966402",
+      "CID": "37f8f2c0-6d8f-518c-9b2a-c41e2fc498b5",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-06-03T21:30:13.000+00:00",
+      "LastModificationTime": "2024-07-15T14:19:28.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "05ecefb3-8f28-4d46-8386-cfbe07bf927b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__16858265DU4MpCWQel",
+      "SubmissionTime": "2023-06-03T21:09:21.000+00:00",
+      "ReviewText": "Adjustable fitting was very difficult.",
+      "Title": "Gas Weed Eater",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "225876246",
+      "CID": "904ff9dc-f403-5fc9-bfbd-9236a90220c1",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-05-30T21:30:12.000+00:00",
+      "LastModificationTime": "2025-06-27T10:35:41.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "9b3261f0800077e9ff1213ae93d7110f647562626c6573656540676d61696c2e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zlu5vmc683vhrfnfx2krbohcen",
+          "SubmissionTime": "2023-07-31T21:53:55.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.6000000238418579,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__16854818l0q9ii9EAu",
+      "SubmissionTime": "2023-05-30T21:24:57.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "IsRecommended": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Title": null,
+      "ReviewText": null,
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "225831965",
+      "CID": "59239076-df9f-547d-a7e7-c878d83e84ce",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-05-29T01:30:05.000+00:00",
+      "LastModificationTime": "2025-07-12T17:05:51.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "85dc5ae8da65d2107bee9f6d59f6005d7462756d676172646e6572406361726f6c696e612e72722e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 8,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 8,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__16853227cXs20uEi2i",
+      "SubmissionTime": "2023-05-29T01:12:27.000+00:00",
+      "ReviewText": "Easy to start, and cuts big stuff really well compared to a standard sized trimmer.",
+      "Title": "It's big and it's heavy.",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "225809020",
+      "CID": "cdcfc847-7f91-5bf4-8226-9eabd1e61268",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-05-28T00:15:18.000+00:00",
+      "LastModificationTime": "2025-06-27T10:35:44.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "c507ca1e-16cc-455f-9e31-d951e9306138",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.16666699945926666,
+      "TotalFeedbackCount": 12,
+      "TotalNegativeFeedbackCount": 10,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__16852315Gea0hKv3Jl",
+      "SubmissionTime": "2023-05-27T23:52:02.000+00:00",
+      "ReviewText": "Way too heavy",
+      "Title": "Hope you have muscles !!",
+      "UserNickname": "pauln",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "225475715",
+      "CID": "e914d892-d926-50f4-b8c2-22ca991b3f28",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-05-13T18:00:19.000+00:00",
+      "LastModificationTime": "2025-07-12T17:06:04.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nI am sorry to hear about your experience. We have increased our customer service since your review. If there is anything we can do in the future to help you with your tool, please let us know.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-06-11T15:56:42.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "c1ba16d1-010e-4dcb-aef7-0eb1e4126b83",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zabt70mv23604fp41bwn4hvvtf",
+          "SubmissionTime": "2025-04-18T19:18:25.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.6666669845581055,
+      "TotalFeedbackCount": 24,
+      "TotalNegativeFeedbackCount": 8,
+      "TotalPositiveFeedbackCount": 16,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__16839991Tz0BW2bUxZ",
+      "SubmissionTime": "2023-05-13T17:31:58.000+00:00",
+      "ReviewText": "DO NOT BUY!!!!   Product is a piece of JUNK.  No Customer Service from Badger at all!\nI would give it Negative Stars if I could!\nAfter I put this product together per the instruction manual.  I watched what videos were available on it.  I tried to register the product also.  I contacted/emailed Badger customer service to only receive a standard company email with a coupon on it to buy more of their products.  \nI never did have my question answered by a customer service representative.\nAlso, they recommend using pre-mixed fuel ratio 50:1.   Which I purchased.\nI filled the gas tank.  I did everything the manual said to do to start it.  After 30 minutes of pulling to start this weed eater it wouldn't start. So, I gave up and returned it to LOWES!",
+      "Title": "DO NOT BUY",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "SecondaryRatings": {}
+    },
+    {
+      "Id": "224867486",
+      "CID": "7443681b-f5ee-5e58-b5df-3551eea375c0",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-04-17T23:30:07.000+00:00",
+      "LastModificationTime": "2025-10-03T11:58:03.000+00:00",
+      "ProductId": "5014077075",
+      "OriginalProductName": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "AuthorId": "3fe44ac9-6e5d-4284-9b15-f7d3e430edf6",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.9565219879150391,
+      "TotalFeedbackCount": 23,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 22,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16817725YJQlBh62Qf",
+      "SubmissionTime": "2023-04-17T23:03:00.000+00:00",
+      "ReviewText": "Using the triangular bush cutter blade, I just fired it up and ran two full tanks of gas through it.  It performed flawlessly.  Despite reviews I've read elsewhere, nothing vibrated loose, everything worked as it should.  I was able to cut everything from raspberry vines to small saplings. Even in the thicket of vines it never once got tangled and powered through just about everything.  I am more than satisfied with this bush cutter.  Anybody in the market for a gently used DR mower?",
+      "Title": "Heavy duty",
+      "UserNickname": "AlanInVirginia",
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "RatingRange": 5,
+      "UserLocation": null,
+      "CommentIds": [],
+      "ClientResponses": [],
+      "Cons": null,
+      "IsSyndicated": false,
+      "ProductRecommendationIds": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "ContextDataValues": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFields": {},
+      "ContextDataValuesOrder": [],
+      "Videos": [],
+      "SecondaryRatings": {}
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "5014077075": {
+        "FamilyIds": [
+          "3674329"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "3674329",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "18661",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "3674329",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "239",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:3674329",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "3674329",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "510533",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00854641007665",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "854641007665"
+        ],
+        "Name": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer",
+        "ModelNumbers": [
+          "WBP52BCI"
+        ],
+        "Description": "POWERFUL: Powered by commercial grade 52cc, 2-cycle full crank gas powered engine which is environmentally friendly by reduces emissions, increasing fuel efficiency and delivering longer life 2-IN-1 MULTI-FUNCTION TOOL: Includes 52cc power head, grass trimmer attachment for detail work along borders, a brush cutter blade with a 17-inch cutting swath for heavier grasses and brush clearing and shoulder harness to relieve the strain on your arms and improve stability ENVIRONMENTALLY FRIENDLY: Full crank design delivers a fast start and smooth operation reducing emissions, increasing fuel efficiency and delivering longer run time EASY TO START AND COMFORTABLE OPERATION: Engine starts within 5 pulls, tool-free air filter and transmission is supported by a vented aluminum casing which greatly reduces vibration allowing you to work in comfort until the job is done COMFORT: Includes comfort rubber vibration dampened bicycle handle for better control and harness for extra stability SPOOL TYPE: .09-line quick feed for the twin line cutting system",
+        "ManufacturerPartNumbers": [
+          "3674329-108792-WBP52BCI"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/e87e478b-1f26-40b3-ae3d-df45ef8766de/70454343.jpeg",
+        "Id": "5014077075",
+        "CategoryId": "100741",
+        "BrandExternalId": "Wild Badger Power",
+        "Brand": {
+          "Id": "Wild Badger Power",
+          "Name": "Wild Badger Power"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Badger-Wild-Badger-52-cc-2-cycle-18-in-Straight-Shaft-Gas-Brush-Cutter/5014077075",
+        "Disabled": false,
+        "ISBNs": [],
+        "QuestionIds": [],
+        "ReviewIds": [],
+        "StoryIds": [],
+        "EANs": [],
+        "ReviewStatistics": {
+          "TotalPhotoCount": 2,
+          "TotalVideoCount": 0,
+          "HelpfulVoteCount": 104,
+          "AverageOverallRating": 2.9285714285714284,
+          "NotHelpfulVoteCount": 42,
+          "RatingDistribution": [
+            {
+              "RatingValue": 1,
+              "Count": 12
+            },
+            {
+              "RatingValue": 5,
+              "Count": 9
+            },
+            {
+              "RatingValue": 4,
+              "Count": 4
+            },
+            {
+              "RatingValue": 3,
+              "Count": 3
+            }
+          ],
+          "FirstSubmissionTime": "2023-04-17T23:03:00.000+00:00",
+          "LastSubmissionTime": "2026-08-24T17:57:18.000+00:00",
+          "FeaturedReviewCount": 0,
+          "TotalReviewCount": 28,
+          "RatingsOnlyReviewCount": 0,
+          "RecommendedCount": 9,
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaserCDV"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaserCDV": {
+              "Id": "VerifiedPurchaserCDV",
+              "Values": [
+                {
+                  "Count": 21,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "NotRecommendedCount": 10,
+          "TotalMediaCount": 2,
+          "SecondaryRatingsAveragesOrder": [],
+          "OverallRatingRange": 5,
+          "SecondaryRatingsAverages": {},
+          "TagDistribution": {},
+          "TagDistributionOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 28
+      }
+    },
+    "ProductsOrder": [
+      "5014077075"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

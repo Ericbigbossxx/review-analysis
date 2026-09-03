@@ -51,12 +51,14 @@ def build_rows(storefront: dict[str, Any], bazaarvoice: list[dict[str, Any]], pr
             bv_text_total = int((((bv or {}).get("stats") or {}).get("reviewsWithTextCount", 0)) or 0)
             bv_text_star_sum = sum(text_ratings.values())
             low_text_total = sum(text_ratings[name] for name in ("one", "two", "three"))
-            qa_passed = bool(current.get("qaPassed")) and star_sum == total
+            average_rating = current.get("averageOverallRating")
+            average_rating = float(average_rating) if average_rating is not None else None
+            qa_passed = bool(current.get("qaPassed")) and (star_sum == total or total == 0)
             stats: dict[str, Any] = {
                 "totalReviewCount": total,
                 "reviewsWithTextCount": text_total,
-                "ratingsOnlyReviewCount": total - text_total,
-                "averageOverallRating": float(current["averageOverallRating"]),
+                "ratingsOnlyReviewCount": total - text_total if total is not None else None,
+                "averageOverallRating": average_rating,
                 "ratings": ratings,
                 "textRatings": text_ratings,
                 "textRatingSource": "Walmart public Bazaarvoice auxiliary feed",
@@ -64,7 +66,7 @@ def build_rows(storefront: dict[str, Any], bazaarvoice: list[dict[str, Any]], pr
             qa = {
                 "starSum": star_sum,
                 "textStarSum": bv_text_star_sum,
-                "starSumMatchesTotal": star_sum == total,
+                "starSumMatchesTotal": star_sum == total or total == 0,
                 "textStarSumMatchesTotal": bv_text_star_sum == bv_text_total,
                 "lowStarTextTotalMatches": len(reviews) == low_text_total,
                 "storefrontTextCount": text_total,

@@ -1,0 +1,866 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 5,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "400527795",
+      "CID": "8186e848-4edb-53bc-90f2-c382b17090f7",
+      "SourceClient": "sunseeker",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-08-17T12:16:24.000+00:00",
+      "LastModificationTime": "2026-08-17T12:16:24.000+00:00",
+      "ProductId": "337020714",
+      "OriginalProductName": "Sunseeker X7 Wireless AI Robot Lawn Mower | 0.75 Acre AWD",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender"
+      ],
+      "UserLocation": "Wisconsin",
+      "AuthorId": "szkr5m13htrvj0y57peos79to",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "IsSyndicated": true,
+      "SyndicationSource": {
+        "ClientId": null,
+        "LogoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/a15a3c93-3b04-42ad-8ff8-e2595c323f1d",
+        "ContentLink": null,
+        "Name": "shopsunseekertech.com"
+      },
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c3Vuc2Vla2Vy/a4e2ca08-96c6-54c9-8654-015bf558c025"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c3Vuc2Vla2Vy/105162c8-4207-5a0e-a4e7-c1eccd967782"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c3Vuc2Vla2Vy/2bfaaa5f-6a97-5279-ae9b-0beb74ef5a45"
+            }
+          },
+          "Id": "52813770",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c3Vuc2Vla2Vy/15bff749-6840-59a9-85ce-9abb690a86b0"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c3Vuc2Vla2Vy/f441b7b3-c133-58e7-83d7-a27a700e8db9"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c3Vuc2Vla2Vy/791512b8-eedf-5389-a8ae-a7a273061944"
+            }
+          },
+          "Id": "52813771",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c3Vuc2Vla2Vy/1353acf9-919f-5db8-99fd-0a699f72ac9b"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c3Vuc2Vla2Vy/be628088-0e3f-5b3f-a779-9aaf11f13b22"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86c3Vuc2Vla2Vy/2a82e945-4dec-52f9-b9e8-2d060608b75e"
+            }
+          },
+          "Id": "52813772",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "ModerationStatus": "APPROVED",
+      "SubmissionTime": "2026-08-15T12:05:39.000+00:00",
+      "ReviewText": "Excellent mower and does everything great except I would love a trimming attachment. This is the 3rd Sunseeker I have owned.",
+      "Title": "Great mower for normal US lawns.",
+      "UserNickname": "Jerry Claybrook",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "65orOver",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        }
+      },
+      "TotalNegativeFeedbackCount": 0,
+      "CampaignId": null,
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "TotalPositiveFeedbackCount": 0,
+      "Cons": null,
+      "SecondaryRatings": {},
+      "SecondaryRatingsOrder": [],
+      "SubmissionId": null,
+      "AdditionalFieldsOrder": [],
+      "TotalFeedbackCount": 0,
+      "ClientResponses": [],
+      "Videos": [],
+      "InappropriateFeedbackList": [],
+      "ProductRecommendationIds": [],
+      "AdditionalFields": {},
+      "TagDimensionsOrder": []
+    },
+    {
+      "Id": "302750844",
+      "CID": "fb8ed3a3-c851-5576-a727-be840dd6aa76",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2026-07-22T04:15:06.000+00:00",
+      "LastModificationTime": "2026-07-22T19:15:51.000+00:00",
+      "ProductId": "337020714",
+      "OriginalProductName": "X7 Wireless 14 in. Robot Lawn Mower (0.75 Acre) with RTK Navigation, Vision AI System, Smart App Control",
+      "CampaignId": "SubmitPilot2024",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHello Larry.  I am sorry your warranty experience has not been great.  We try to give every repair the attention it needs in the order it was received.  Please email to Dan.barth&#64;sunseekertools.com your full name and serial number and I will look into this.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2026-07-22T19:15:51.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "UserLocation": "Kansas City",
+      "AuthorId": "zstwu56b8rqbggrexcnqq9rpga",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17844678dkJcVU1SH8",
+      "SubmissionTime": "2026-07-19T13:31:19.000+00:00",
+      "ReviewText": "The Good (Initial Experience):\nFor the first two months, I absolutely loved my Sunseeker X7. It performed incredibly well, and I was thrilled with the purchase.\n\nThe Problem: Everything changed when the mower suddenly started making a really loud, alarming noise. Because it was well within the two-year warranty window, I reached out to customer support right away.\n\nThe Warranty & Repair Process:\n\nThe Good: The initial intake process was actually quite smooth. Getting the instructions and mailing the unit out to their authorized repair shop was hassle-free.\n\nThe Bad: That was over four weeks ago.\n\nThe Frustrating Reality: When I recently contacted customer service for an update, I was told that they haven't even looked at it yet.\n\nFinal Verdict: I am beyond frustrated. Because of this massive service bottleneck, I am missing out on a large portion of the prime mowing season, which completely defeats the purpose of owning a robot mower.\n\nBottom Line: I would strongly advise against buying a Sunseeker at this time. Until the company hires more mechanics to handle repair backlogs, you run a serious risk of being left stranded with a broken machine and a wild lawn for months if anything goes wrong.",
+      "Title": "Great Mower at First, but Warranty Repair Wait Times Are Unacceptable",
+      "UserNickname": "Larry",
+      "Videos": [
+        {
+          "VideoCaptionUrl": "https://video.api.bazaarvoice.com/141dd2e6-ec47-422f-bfa2-0500ed3bdf36/video/movie.vtt",
+          "VideoId": "141dd2e6-ec47-422f-bfa2-0500ed3bdf36",
+          "VideoHost": "BAZAARVOICE",
+          "VideoThumbnailUrl": "https://video.api.bazaarvoice.com/141dd2e6-ec47-422f-bfa2-0500ed3bdf36/thumbnail/image-00001.png",
+          "VideoIframeUrl": null,
+          "Caption": null,
+          "VideoUrl": "https://video.api.bazaarvoice.com/141dd2e6-ec47-422f-bfa2-0500ed3bdf36/video/movie.mp4"
+        }
+      ],
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 3,
+          "Id": "Delivery",
+          "Label": null,
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null,
+          "ValueRange": 5
+        },
+        "Value": {
+          "Value": 1,
+          "Id": "Value",
+          "Label": null,
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null,
+          "ValueRange": 5
+        },
+        "CustomerService": {
+          "Value": 1,
+          "Id": "CustomerService",
+          "Label": null,
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null,
+          "ValueRange": 5
+        },
+        "Fulfillment": {
+          "Value": 4,
+          "Id": "Fulfillment",
+          "Label": null,
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null,
+          "ValueRange": 5
+        },
+        "Quality": {
+          "Value": 2,
+          "Id": "Quality",
+          "Label": null,
+          "MaxLabel": null,
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "ValueLabel": null,
+          "ValueRange": 5
+        }
+      },
+      "BadgesOrder": [],
+      "ContextDataValuesOrder": [],
+      "IsRecommended": null,
+      "IsSyndicated": false,
+      "ContextDataValues": {},
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "Cons": null,
+      "Photos": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "InappropriateFeedbackList": [],
+      "ProductRecommendationIds": [],
+      "AdditionalFields": {},
+      "TagDimensionsOrder": []
+    },
+    {
+      "Id": "397451654",
+      "CID": "c5cf53eb-838d-5277-ad61-71735e13d043",
+      "SourceClient": "sunseeker",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-07-08T22:46:07.000+00:00",
+      "LastModificationTime": "2026-07-08T22:46:07.000+00:00",
+      "ProductId": "337020714",
+      "OriginalProductName": "Sunseeker X7 Wireless AI Robot Lawn Mower | 0.75 Acre AWD",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender"
+      ],
+      "UserLocation": "Easley, SC",
+      "AuthorId": "9299429622077",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "IsSyndicated": true,
+      "SyndicationSource": {
+        "ClientId": null,
+        "LogoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/a15a3c93-3b04-42ad-8ff8-e2595c323f1d",
+        "ContentLink": null,
+        "Name": "shopsunseekertech.com"
+      },
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "ModerationStatus": "APPROVED",
+      "SubmissionTime": "2026-07-08T21:02:54.000+00:00",
+      "ReviewText": "X7 arrived the next day for me. Setup was straight forward. Setting the mowing zones with no go areas etc. was simple and quick. When it started mowing I anticipated their might be issues but the mower handled all the areas and trees that I did not mark fine. It has completed numerous complete mowings and required no assistance.  Everyone in the neighborhood slows down to watch it working. I would definitely recommend the Sunseeker to everyone.",
+      "Title": "Simple, Easy, and Awesome",
+      "UserNickname": "Adam McNine",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "55to64",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        }
+      },
+      "TotalNegativeFeedbackCount": 0,
+      "CampaignId": null,
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "TotalPositiveFeedbackCount": 0,
+      "Cons": null,
+      "SecondaryRatings": {},
+      "SecondaryRatingsOrder": [],
+      "SubmissionId": null,
+      "Photos": [],
+      "AdditionalFieldsOrder": [],
+      "TotalFeedbackCount": 0,
+      "ClientResponses": [],
+      "Videos": [],
+      "InappropriateFeedbackList": [],
+      "ProductRecommendationIds": [],
+      "AdditionalFields": {},
+      "TagDimensionsOrder": []
+    },
+    {
+      "Id": "387346212",
+      "CID": "c8eceb73-a1f2-5f7d-884f-58ac2ce49e52",
+      "SourceClient": "sunseeker",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-05-15T22:16:09.000+00:00",
+      "LastModificationTime": "2026-05-15T22:16:09.000+00:00",
+      "ProductId": "337020714",
+      "OriginalProductName": "Sunseeker X7 Wireless AI Robot Lawn Mower | 0.75 Acre AWD",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender"
+      ],
+      "UserLocation": "North Carolina",
+      "AuthorId": "27z04ucxbjk6elh85ff0o4fo6",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "IsSyndicated": true,
+      "SyndicationSource": {
+        "ClientId": null,
+        "LogoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/a15a3c93-3b04-42ad-8ff8-e2595c323f1d",
+        "ContentLink": null,
+        "Name": "shopsunseekertech.com"
+      },
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "ModerationStatus": "APPROVED",
+      "SubmissionTime": "2026-05-15T20:43:07.000+00:00",
+      "ReviewText": "Mows well but has a lot of errors and mechanical issues. Support has been mixed. The app is confusing but does decent enough once you know how to use it. It does throw a lot of errors regarding the bumper and RTK initializing. The mower does a good job for the most part though",
+      "Title": "Solid option",
+      "UserNickname": "Jake M",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "25to34",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        }
+      },
+      "IsRecommended": null,
+      "TotalNegativeFeedbackCount": 0,
+      "CampaignId": null,
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "TotalPositiveFeedbackCount": 0,
+      "Cons": null,
+      "SecondaryRatings": {},
+      "SecondaryRatingsOrder": [],
+      "SubmissionId": null,
+      "Photos": [],
+      "AdditionalFieldsOrder": [],
+      "TotalFeedbackCount": 0,
+      "ClientResponses": [],
+      "Videos": [],
+      "InappropriateFeedbackList": [],
+      "ProductRecommendationIds": [],
+      "AdditionalFields": {},
+      "TagDimensionsOrder": []
+    },
+    {
+      "Id": "385182073",
+      "CID": "41f5f459-d605-541c-8d40-6ca304d45701",
+      "SourceClient": "sunseeker",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-04-22T04:15:41.000+00:00",
+      "LastModificationTime": "2026-04-22T04:15:41.000+00:00",
+      "ProductId": "337020714",
+      "OriginalProductName": "Sunseeker X7 Wireless AI Robot Lawn Mower | 0.75 Acre AWD",
+      "ContextDataValuesOrder": [
+        "Age",
+        "Gender"
+      ],
+      "UserLocation": "Central IL",
+      "AuthorId": "1ypa7fug767crripc2vvibzyv",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "IsSyndicated": true,
+      "SyndicationSource": {
+        "ClientId": null,
+        "LogoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/a15a3c93-3b04-42ad-8ff8-e2595c323f1d",
+        "ContentLink": null,
+        "Name": "shopsunseekertech.com"
+      },
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "ModerationStatus": "APPROVED",
+      "SubmissionTime": "2026-04-22T02:22:38.000+00:00",
+      "ReviewText": "Setup was straightforward. Mowing is reliable and lawn looks great. Best lawn care purchase in years.",
+      "Title": "Love it!",
+      "UserNickname": "Midwest Lawnowner",
+      "ContextDataValues": {
+        "Age": {
+          "Value": "55to64",
+          "Id": "Age"
+        },
+        "Gender": {
+          "Value": "Male",
+          "Id": "Gender"
+        }
+      },
+      "TotalNegativeFeedbackCount": 0,
+      "CampaignId": null,
+      "Helpfulness": null,
+      "TagDimensions": {},
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "TotalPositiveFeedbackCount": 0,
+      "Cons": null,
+      "SecondaryRatings": {},
+      "SecondaryRatingsOrder": [],
+      "SubmissionId": null,
+      "Photos": [],
+      "AdditionalFieldsOrder": [],
+      "TotalFeedbackCount": 0,
+      "ClientResponses": [],
+      "Videos": [],
+      "InappropriateFeedbackList": [],
+      "ProductRecommendationIds": [],
+      "AdditionalFields": {},
+      "TagDimensionsOrder": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "337020714": {
+        "AttributesOrder": [
+          "Category",
+          "Subclass",
+          "ChildSku",
+          "GLN",
+          "THDBrowseOnlinestatus",
+          "THDOnlineStatus",
+          "Department",
+          "IDMVendorAcctName",
+          "THDSubClass_name",
+          "THDClass_name",
+          "THDSubSubClass",
+          "GTIN14",
+          "THD_SubSubClass_name",
+          "THDDept_name",
+          "THDDotComOnlinestatus",
+          "THDSubClass",
+          "HDClass",
+          "THDDept",
+          "dcs_nbr",
+          "AVAILABILITY",
+          "Class",
+          "MFGModel"
+        ],
+        "Attributes": {
+          "Category": {
+            "Id": "Category",
+            "Values": [
+              {
+                "Value": "POWER> WALKS> ROBOTIC MOWER> OTHER",
+                "Locale": null
+              }
+            ]
+          },
+          "Subclass": {
+            "Id": "Subclass",
+            "Values": [
+              {
+                "Value": "24",
+                "Locale": null
+              }
+            ]
+          },
+          "ChildSku": {
+            "Id": "ChildSku",
+            "Values": [
+              {
+                "Value": "337020714",
+                "Locale": null
+              }
+            ]
+          },
+          "GLN": {
+            "Id": "GLN",
+            "Values": [
+              {
+                "Value": "0854641007009",
+                "Locale": null
+              }
+            ]
+          },
+          "THDBrowseOnlinestatus": {
+            "Id": "THDBrowseOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDOnlineStatus": {
+            "Id": "THDOnlineStatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "Department": {
+            "Id": "Department",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "IDMVendorAcctName": {
+            "Id": "IDMVendorAcctName",
+            "Values": [
+              {
+                "Value": "SUNSEEKER US INC",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass_name": {
+            "Id": "THDSubClass_name",
+            "Values": [
+              {
+                "Value": "ROBOTIC MOWER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDClass_name": {
+            "Id": "THDClass_name",
+            "Values": [
+              {
+                "Value": "WALKS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubSubClass": {
+            "Id": "THDSubSubClass",
+            "Values": [
+              {
+                "Value": "101",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850060195105",
+                "Locale": null
+              }
+            ]
+          },
+          "THD_SubSubClass_name": {
+            "Id": "THD_SubSubClass_name",
+            "Values": [
+              {
+                "Value": "OTHER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept_name": {
+            "Id": "THDDept_name",
+            "Values": [
+              {
+                "Value": "SEASONAL/GARDEN",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDotComOnlinestatus": {
+            "Id": "THDDotComOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass": {
+            "Id": "THDSubClass",
+            "Values": [
+              {
+                "Value": "24",
+                "Locale": null
+              }
+            ]
+          },
+          "HDClass": {
+            "Id": "HDClass",
+            "Values": [
+              {
+                "Value": "35",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept": {
+            "Id": "THDDept",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "dcs_nbr": {
+            "Id": "dcs_nbr",
+            "Values": [
+              {
+                "Value": "28-35-24",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "Class": {
+            "Id": "Class",
+            "Values": [
+              {
+                "Value": "35",
+                "Locale": null
+              }
+            ]
+          },
+          "MFGModel": {
+            "Id": "MFGModel",
+            "Values": [
+              {
+                "Value": "ORIONX7",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850060195105"
+        ],
+        "Description": "The SUNSEEKER X7 is a premium AWD robot lawn mower designed for larger residential yards up to 0.75 acre, or approximately 32,000 sq. ft. Its 14 in. floating dual-blade cutting system covers more grass with each pass, while wire-free RTK, vSLAM and Vision AI navigation create systematic mowing paths across complex lawn layouts. AWD traction supports slopes up to 35° (about 70% grade) and improves control across uneven terrain. The cutting height adjusts through 9 positions from 0.8 to 4.0 in. A 20V 5Ah battery provides up to 180 minutes of runtime and recharges in about 1.5 hours. Use the SUNSEEKER app to auto-map the lawn, manage multiple zones, plan mowing paths, set schedules and adjust cutting height. Automatic recharging, rain, lift, tilt and collision sensors support autonomous operation, while quiet night mode, headlights, theft protection, smart-home integration and voice control add convenience. Backed by a 2-year manufacturer warranty.",
+        "ManufacturerPartNumbers": [
+          "ORIONX7"
+        ],
+        "ImageUrl": "https://images.thdstatic.com/productImages/d534d4ab-90df-4dfc-b9a7-ea37aa17eebf/svn/sunseeker-robotic-lawn-mowers-orionx7-64_1000.jpg",
+        "Name": "X7 Wireless 14 in. Robot Lawn Mower (0.75 Acre) with RTK Navigation, Vision AI System, Smart App Control",
+        "Id": "337020714",
+        "CategoryId": "c0031913-cc2e-4ff4-afb7-3aa61129b726",
+        "BrandExternalId": "Sunseeker",
+        "Brand": {
+          "Id": "Sunseeker",
+          "Name": "SUNSEEKER"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.homedepot.com/p/SUNSEEKER-X7-Wireless-14-in-Robot-Lawn-Mower-0-75-Acre-with-RTK-Navigation-Vision-AI-System-Smart-App-Control-ORIONX7/337020714",
+        "Disabled": false,
+        "FamilyIds": [],
+        "EANs": [],
+        "QuestionIds": [],
+        "ReviewIds": [],
+        "StoryIds": [],
+        "ISBNs": [],
+        "ModelNumbers": [],
+        "ReviewStatistics": {
+          "TotalPhotoCount": 3,
+          "RatingsOnlyReviewCount": 0,
+          "AverageOverallRating": 3.8,
+          "TotalReviewCount": 5,
+          "RecommendedCount": 3,
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 3
+            },
+            {
+              "RatingValue": 1,
+              "Count": 1
+            },
+            {
+              "RatingValue": 3,
+              "Count": 1
+            }
+          ],
+          "NotRecommendedCount": 0,
+          "FirstSubmissionTime": "2026-04-22T02:22:38.000+00:00",
+          "LastSubmissionTime": "2026-08-15T12:05:39.000+00:00",
+          "NotHelpfulVoteCount": 0,
+          "FeaturedReviewCount": 0,
+          "SecondaryRatingsAveragesOrder": [
+            "Quality",
+            "Value"
+          ],
+          "SecondaryRatingsAverages": {
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 2.0,
+              "MinLabel": null,
+              "MaxLabel": null,
+              "DisplayType": "NORMAL",
+              "ValueRange": 5
+            },
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 1.0,
+              "MinLabel": null,
+              "MaxLabel": null,
+              "DisplayType": "NORMAL",
+              "ValueRange": 5
+            }
+          },
+          "HelpfulVoteCount": 0,
+          "TotalVideoCount": 1,
+          "ContextDataDistributionOrder": [
+            "Age",
+            "Gender",
+            "VerifiedPurchaser"
+          ],
+          "ContextDataDistribution": {
+            "Age": {
+              "Id": "Age",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "25to34"
+                },
+                {
+                  "Count": 2,
+                  "Value": "55to64"
+                },
+                {
+                  "Count": 1,
+                  "Value": "65orOver"
+                }
+              ]
+            },
+            "Gender": {
+              "Id": "Gender",
+              "Values": [
+                {
+                  "Count": 4,
+                  "Value": "Male"
+                }
+              ]
+            },
+            "VerifiedPurchaser": {
+              "Id": "VerifiedPurchaser",
+              "Values": [
+                {
+                  "Count": 4,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "TotalMediaCount": 4,
+          "TagDistribution": {},
+          "OverallRatingRange": 5,
+          "TagDistributionOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 5
+      }
+    },
+    "ProductsOrder": [
+      "337020714"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

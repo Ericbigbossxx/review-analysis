@@ -1,0 +1,11 @@
+{
+  "listings": 10,
+  "collected": 10,
+  "passed": 10,
+  "failed": 0,
+  "totalReviews": 407,
+  "writtenReviews": 269,
+  "ratingsOnly": 138,
+  "output": "C:\\Users\\admin\\Documents\\Weekly review analysis\\runs\\2026-09-03-weekly-review-analysis\\walmart_bv_raw.json",
+  "failures": []
+}
