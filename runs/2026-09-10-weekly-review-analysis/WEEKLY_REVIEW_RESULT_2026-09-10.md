@@ -4,7 +4,7 @@
 **对比基线**: 成功上期 2026-09-03
 **Scope**: **30 Listings**（Walmart 10 / THD 10 / Lowe's 10）
 **scope_diff**: `CONTINUING 30 · NEW_TO_SCOPE 0 · REMOVED_FROM_SCOPE 0 · LINK_CHANGED 0 · RECORD_IDENTITY_CHANGED 0`
-**闭环位置**: **报告处停止** — 未写 DB、未提升 `outputs/latest`、未发布 Pages、未发送通知、未创建/修改调度
+**闭环位置**: **报告处停止** — 未写 DB、未提升 `outputs/latest`、未发送通知、未创建/修改调度。**已授权执行**：证据提交 master + 报告发布 GitHub Pages（见文末）。
 
 ---
 
