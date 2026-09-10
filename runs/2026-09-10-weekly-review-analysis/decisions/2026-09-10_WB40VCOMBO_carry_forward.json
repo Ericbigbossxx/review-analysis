@@ -1,0 +1,44 @@
+﻿{
+  "decisionId": "2026-09-10_WB40VCOMBO_carry_forward",
+  "decidedAt": "2026-09-10",
+  "decidedBy": "user",
+  "rulingVerbatim": "WB40VCOMBO这个sku目前listing异常，沿用上期数据就好",
+  "rulingTranslation": "SKU WB40VCOMBO: listing identity is currently abnormal — carry forward the prior period's data.",
+  "run": "runs/2026-09-10-weekly-review-analysis",
+  "sku": "WB40VCOMBO",
+  "platform": "Walmart",
+  "priorPeriod": "2026-09-03",
+  "anomaly": {
+    "type": "FROZEN_URL_REDIRECTS_TO_DIFFERENT_PRODUCT",
+    "frozenUrl": "http://www.walmart.com/ip/17598657653",
+    "frozenItemId": "17598657653",
+    "landedUrl": "https://www.walmart.com/ip/TNTANTS-Electric-Weed-Wacker-Cordless-String-Trimmer-Wheels-1Pcs-24V-Batteries-3-Types-Blades-Adjustable-Length-Eater-Grass-Trimmer-Edger-Brush-Cutte/15830216038",
+    "landedProductName": "TNTANTS Weed Wacker Cordless, 3-in-1 Lightweight Electric String Trimmer with 3 Types of Blades, Wheels, 24V Battery, Weed Eater Grass Trimmer/Edger/Brush Cutter for Lawn Yard Garden (Blue) - Walmart.com",
+    "landedPageCounts": {
+      "averageRating": 3.7,
+      "totalRatings": 983,
+      "totalReviews": 314
+    },
+    "note": "scope_diff reports LINK_CHANGED=0 because the WORKBOOK url is unchanged; the platform-side landing target moved. Values above are preserved verbatim here as evidence."
+  },
+  "action": "CARRY_FORWARD_PRIOR_PERIOD_DATA",
+  "priorValuesApplied": {
+    "productName": "Wild Badger 40V 4-in-1 Cordless Outdoor Power Tool Kit (Weed Wacker, Pole Saw, Hedge Trimmer, Brush Cutter) with 2*4 AhBatteries & Charger - Walmart.com",
+    "brand": null,
+    "category": null,
+    "url": "http://www.walmart.com/ip/17598657653",
+    "finalUrl": "https://www.walmart.com/ip/Wild-Badger-Power-40V-Cordless-Weed-Wacker-String-Trimmer-Edger-Hedge-Trimmer-Brush-Cutter-Blade-Pole-Saw-Attachment-Capable-4-in-1-Multi-Tool-Kit-2/17598657653",
+    "title": "Wild Badger 40V 4-in-1 Cordless Power Tool Kit w/ Batteries & Charger - Walmart.com",
+    "averageRating": 5,
+    "totalRatings": 3,
+    "totalReviews": 1132,
+    "totalReviewCount": 0,
+    "reviewsWithTextCount": 0,
+    "averageOverallRating": null
+  },
+  "numericImpact": "NONE - both periods report 0 reviews / 0 ratings / 0 low-star rows for this SKU, so no report total changes.",
+  "evidencePreserved": [
+    "runs/2026-09-10-weekly-review-analysis/walmart_storefront_cdp_batch*.jsonl",
+    "runs/2026-09-10-weekly-review-analysis/pre_carryforward/"
+  ]
+}

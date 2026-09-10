@@ -1,0 +1,1620 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 14,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "306504500",
+      "CID": "5b64ccaf-7f3c-5bd3-8ec2-4fc2df31bacf",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-09-09T20:30:15.000+00:00",
+      "LastModificationTime": "2026-09-09T20:30:15.000+00:00",
+      "ProductId": "335471654",
+      "OriginalProductName": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance",
+      "CampaignId": "msg_email-_-PR1_IN-_-20260909_Product_Review_4708607-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0530DA373AB618520S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17889856IaSAmUpkOY",
+      "SubmissionTime": "2026-09-09T20:28:11.000+00:00",
+      "UserNickname": "AHMAD",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 1,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        },
+        "CustomerService": {
+          "Value": 1,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "IsSyndicated": false,
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "Title": null,
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "UserLocation": null,
+      "Photos": [],
+      "ReviewText": null,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "AdditionalFieldsOrder": []
+    },
+    {
+      "Id": "306286193",
+      "CID": "4c9047a1-1437-561e-9cb6-fcc5c06873dd",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "earlyReviewerIncentive": {
+          "ContentType": "REVIEW",
+          "Id": "earlyReviewerIncentive",
+          "BadgeType": "Custom"
+        },
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "earlyReviewerIncentive",
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-09-02T14:45:35.000+00:00",
+      "LastModificationTime": "2026-09-02T14:45:35.000+00:00",
+      "ProductId": "335471654",
+      "OriginalProductName": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance",
+      "CampaignId": "msg_email-_-PR2_OUT_T2_ERP-_-20260902_Product_Review_4707618-_-Desktop-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0426E9D083C479CA0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__1788359230Q2dAgaAG",
+      "SubmissionTime": "2026-09-02T14:28:04.000+00:00",
+      "ReviewText": "The Sunseeker X5 has worked with out ant issues. (I had to make a couple of adjustments to the docking station, the actual grass cutting is fine. I have a large yard half acre and it does take a long time to do the job but since it's working well it does not need any supervision. The 21 volt battery does give the unit the power to get the job done. It does stop for a lot of recharge breaks. Since it is a reliable system it's not an issue. This is my second Robot lawn mower and it is head and shoulders above the previous unit.",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "True",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "IsSyndicated": false,
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "Title": null,
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "UserLocation": null,
+      "Photos": [],
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "AdditionalFieldsOrder": []
+    },
+    {
+      "Id": "302699814",
+      "CID": "10031727-836e-56fd-8163-f3c8428c1815",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-07-16T15:30:22.000+00:00",
+      "LastModificationTime": "2026-07-16T15:30:22.000+00:00",
+      "ProductId": "335471654",
+      "OriginalProductName": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance",
+      "CampaignId": "msg_email-_-PR2_IN_T1-_-20260715_Product_Review_4700724-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "05216CA4D178ED820S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17842151XQNTpaxKMX",
+      "SubmissionTime": "2026-07-16T15:19:33.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "IsSyndicated": false,
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "Title": null,
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "UserLocation": null,
+      "Photos": [],
+      "ReviewText": null,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "AdditionalFieldsOrder": []
+    },
+    {
+      "Id": "302648336",
+      "CID": "8cdd3a86-7dc6-54a5-a80a-a5fa310d12e1",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-07-15T14:45:46.000+00:00",
+      "LastModificationTime": "2026-07-15T14:45:46.000+00:00",
+      "ProductId": "335471654",
+      "OriginalProductName": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance",
+      "CampaignId": "msg_email-_-PR1_IN-_-20260715_Product_Review_4700724-_-Desktop-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03F3C4F00F8A73100S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17841264PaLPRjEppL",
+      "SubmissionTime": "2026-07-15T14:40:49.000+00:00",
+      "UserNickname": "LUIS E",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "IsSyndicated": false,
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "Title": null,
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "UserLocation": null,
+      "Photos": [],
+      "ReviewText": null,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "AdditionalFieldsOrder": []
+    },
+    {
+      "Id": "301750105",
+      "CID": "2ee63ba7-91f5-5745-a705-19ef861eec8a",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-06-10T22:00:16.000+00:00",
+      "LastModificationTime": "2026-06-10T22:00:16.000+00:00",
+      "ProductId": "335471654",
+      "OriginalProductName": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance",
+      "CampaignId": "msg_email-_-PR1_T2-_-20260610_Product_Review_4695776-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "042F0490F7475DFD0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17811238GGhAAAJZJr",
+      "SubmissionTime": "2026-06-10T20:37:26.000+00:00",
+      "UserNickname": "GENE",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "IsSyndicated": false,
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "Title": null,
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "UserLocation": null,
+      "Photos": [],
+      "ReviewText": null,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "AdditionalFieldsOrder": []
+    },
+    {
+      "Id": "386758829",
+      "CID": "17d2dd96-4fe6-5f5f-8fad-ee6516b033bf",
+      "SourceClient": "sunseeker",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-05-09T05:30:57.000+00:00",
+      "LastModificationTime": "2026-05-09T05:30:57.000+00:00",
+      "ProductId": "335471654",
+      "OriginalProductName": "X5 Wireless AI Robot Lawn Mower | 0.5 Acre AWD",
+      "AuthorId": "8098437267773",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "IsSyndicated": true,
+      "SyndicationSource": {
+        "ClientId": null,
+        "LogoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/a15a3c93-3b04-42ad-8ff8-e2595c323f1d",
+        "ContentLink": null,
+        "Name": "shopsunseekertech.com"
+      },
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "ModerationStatus": "APPROVED",
+      "SubmissionTime": "2026-05-09T04:03:06.000+00:00",
+      "UserNickname": null,
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "CampaignId": null,
+      "Pros": null,
+      "CommentIds": [],
+      "TotalFeedbackCount": 0,
+      "RatingRange": 5,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "SubmissionId": null,
+      "ClientResponses": [],
+      "Title": null,
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "UserLocation": null,
+      "Photos": [],
+      "ReviewText": null,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "AdditionalFieldsOrder": [],
+      "ContextDataValuesOrder": []
+    },
+    {
+      "Id": "297950550",
+      "CID": "36fb17e2-92a6-5333-a194-5a7aa36804b6",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "earlyReviewerIncentive": {
+          "ContentType": "REVIEW",
+          "Id": "earlyReviewerIncentive",
+          "BadgeType": "Custom"
+        },
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "earlyReviewerIncentive",
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-06-25T18:30:13.000+00:00",
+      "LastModificationTime": "2026-06-25T18:30:13.000+00:00",
+      "ProductId": "335471654",
+      "OriginalProductName": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance",
+      "CampaignId": "msg_email-_-PR3_IN_T2_ERP-_-20260114_Product_Review_4674747-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0625CE8B0B69B21A0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zi2om40sie338madftaxt2xkcp",
+          "SubmissionTime": "2026-06-25T10:16:50.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 2,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17684135pQfY7IZAAW",
+      "SubmissionTime": "2026-01-14T17:59:00.000+00:00",
+      "ReviewText": "Everything was easy to assemble but the phone app needed to control the sunseeker was difficult to set and understand.",
+      "UserNickname": "PETER",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "True",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "IsSyndicated": false,
+      "Videos": [],
+      "ClientResponses": [],
+      "Title": null,
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "UserLocation": null,
+      "Photos": [],
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "AdditionalFieldsOrder": []
+    },
+    {
+      "Id": "294456740",
+      "CID": "61d43772-aa7b-5fff-8a81-1ca6b581b5bc",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "earlyReviewerIncentive": {
+          "ContentType": "REVIEW",
+          "Id": "earlyReviewerIncentive",
+          "BadgeType": "Custom"
+        },
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "earlyReviewerIncentive",
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-09-17T21:15:09.000+00:00",
+      "LastModificationTime": "2025-10-28T03:01:20.000+00:00",
+      "ProductId": "335471654",
+      "OriginalProductName": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance",
+      "CampaignId": "msg_email-_-PR2_IN_T2_ERP-_-20250917_Product_Review_4657994-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03ED1C753EC9AB800S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17581435hPAGKtfFMB",
+      "SubmissionTime": "2025-09-17T21:12:50.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "True",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "IsSyndicated": false,
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "Title": null,
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "UserLocation": null,
+      "Photos": [],
+      "ReviewText": null,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "AdditionalFieldsOrder": []
+    },
+    {
+      "Id": "293721032",
+      "CID": "cb5f1e27-d8fe-5cf2-96ca-970016c8214d",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "earlyReviewerIncentive": {
+          "ContentType": "REVIEW",
+          "Id": "earlyReviewerIncentive",
+          "BadgeType": "Custom"
+        },
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "earlyReviewerIncentive",
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-08-21T16:00:08.000+00:00",
+      "LastModificationTime": "2025-10-28T03:11:36.000+00:00",
+      "ProductId": "335471654",
+      "OriginalProductName": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance",
+      "CampaignId": "msg_email-_-PR3_IN_T1_ERP-_-20250820_Product_Review_4653899-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "052BDDC74063F83B0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17557908G51wY8CwmI",
+      "SubmissionTime": "2025-08-21T15:41:28.000+00:00",
+      "ReviewText": "The product is easy to set up. It’s great but doesn’t come with a protective cover.",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "True",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "SecondaryRatings": {},
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "IsSyndicated": false,
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "Title": null,
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "UserLocation": null,
+      "Photos": [],
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "AdditionalFieldsOrder": []
+    },
+    {
+      "Id": "293145849",
+      "CID": "ea043a2a-5192-5490-8856-a06c953cb14f",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-07-31T18:00:08.000+00:00",
+      "LastModificationTime": "2025-07-31T18:00:08.000+00:00",
+      "ProductId": "335471654",
+      "OriginalProductName": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance",
+      "CampaignId": "msg_email-_-PR2_OUT_T2-_-20250730_Product_Review_4650834-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "062A73B857882CB40S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17539841pub93Fvhyd",
+      "SubmissionTime": "2025-07-31T17:49:56.000+00:00",
+      "UserNickname": "BRIAN",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 4,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "IsSyndicated": false,
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "Title": null,
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "UserLocation": null,
+      "Photos": [],
+      "ReviewText": null,
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "AdditionalFieldsOrder": []
+    },
+    {
+      "Id": "293034861",
+      "CID": "12f7d735-295f-50b3-88f7-f5a17be9ed51",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-07-28T19:45:09.000+00:00",
+      "LastModificationTime": "2025-08-11T12:07:44.000+00:00",
+      "ProductId": "335471654",
+      "OriginalProductName": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance",
+      "CampaignId": "msg_email-_-PR1_IN-_-20250723_Product_Review_4649806-_-Desktop-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0429E46CBB5138880S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17537308WAOhZU3sxE",
+      "SubmissionTime": "2025-07-28T19:27:09.000+00:00",
+      "ReviewText": "A little bit of tweaking the RTK due to the position of the sun, trees, and satellite. Having an issue with the no-go zone, trying to program it, however, we just built up the brick pavers for now since it kept going over the retaining wall, no damage done to the Sunseeker. Today, 20-days after delivery, and working out issues along with being busy and weather over 100*, I finally got it all hooked up with no issues, it mowed my lawn. So far, so good. I am not doing a scheduled cut just yet, for now, I will mow when needed and off the app until I figure out the no-go zone. Very pleased as I did not have to cut my 1/2 acre backyard in this weather and with a self propelled mower. My customer service rating is for Home Depot, not Sunseekers. Sunseekers customer service gentleman, was excellent & walked me through the PIN code issue. Final Note: Download the App first before changing the PIN code.",
+      "UserNickname": "SHARON",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        },
+        "CustomerService": {
+          "Value": 1,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "TagDimensions": {},
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "IsSyndicated": false,
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "Title": null,
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "UserLocation": null,
+      "Photos": [],
+      "IsRecommended": null,
+      "AdditionalFields": {},
+      "AdditionalFieldsOrder": []
+    },
+    {
+      "Id": "292319740",
+      "CID": "d1197853-c5d6-52f8-bced-f45d2cefd062",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2025-07-07T02:30:03.000+00:00",
+      "LastModificationTime": "2025-07-07T02:30:03.000+00:00",
+      "ProductId": "335471654",
+      "OriginalProductName": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance",
+      "CampaignId": "BV_REVIEW_DISPLAY",
+      "UserLocation": "Alexandria, VA",
+      "AuthorId": "z3fzpg6l9lks8axb28rmd3ncwq",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/dff4c56d-953d-554c-94fb-dd9de0099ee9"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/2c1bfc45-9263-5089-aebc-e56ccfc31450"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/49f62d1b-a806-53e7-92aa-c6e1415a3bf4"
+            }
+          },
+          "Id": "18446685",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/1966b59d-a236-5502-b545-f59db3402ac6"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/fa8c9eaf-adf8-51a6-bbe2-63194241044b"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/4a0b5cb1-b09f-5fa7-8027-bccba780e557"
+            }
+          },
+          "Id": "18446686",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17517424ECBNfSubuE",
+      "SubmissionTime": "2025-07-05T19:06:44.000+00:00",
+      "ReviewText": "I originally left a negative review.  The setup for this mower was painful. Took an entire day, and more modifications since. It is still missing a couple of areas for some reason. But Anne with their support has been super helpful and responsive. \n\nI was going to return the mower after day 1, but the fantastic support has changed my mind. The app is super clunky for a nearly $2000 mower and needs improvement for sure. But, that being said, I've only had to use my gas mower on that 1 small area, and around the perimeter",
+      "Title": "Great support, decent mower so far",
+      "UserNickname": "Rmva",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        },
+        "Value": {
+          "Value": 4,
+          "Id": "Value",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        },
+        "Fulfillment": {
+          "Value": 5,
+          "Id": "Fulfillment",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        }
+      },
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "IsSyndicated": false,
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "IsRecommended": null,
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "AdditionalFieldsOrder": [],
+      "ContextDataValuesOrder": []
+    },
+    {
+      "Id": "292152272",
+      "CID": "8403179c-5c74-59e8-9898-bf88d867b154",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2025-07-03T23:00:05.000+00:00",
+      "LastModificationTime": "2026-01-26T19:26:17.000+00:00",
+      "ProductId": "335471654",
+      "OriginalProductName": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance",
+      "CampaignId": "BV_REVIEW_DISPLAY",
+      "UserLocation": "Alexandria, VA",
+      "AuthorId": "zt0e154kplf4o7yuuwn7xdae2h",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zil6wedrl7oky3w933vhkejt1u",
+          "SubmissionTime": "2026-06-25T10:16:47.000+00:00"
+        },
+        {
+          "AuthorId": "ztny39cfikicxy4x049i85co46",
+          "SubmissionTime": "2025-07-03T09:39:48.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/51192ec5-b333-5454-96e0-37f591d9e175"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/9e83f082-6295-5c76-a384-891fa79be5d4"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/5c2678ec-87e9-5e9c-ae95-4eea4f0b0966"
+            }
+          },
+          "Id": "18379314",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/fa0f3914-784b-5572-bf9f-5bf0d94a06fe"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/29d54ec6-6a2f-5e48-838e-58461a0651a7"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/07a0a72e-f267-5d2c-92a3-c3cc7036d2d3"
+            }
+          },
+          "Id": "18379315",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 1,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 11,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 11,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_175123491Pr0jnVMOq",
+      "SubmissionTime": "2025-06-29T22:09:46.000+00:00",
+      "ReviewText": "I was skeptical of buying this mower since all stellar reviews are over a couple of recent days - that's a good sign of fake reviews. That being said, it arrived quickly. Set up was horrendous. The app has the worst UX since 1995 AOL. I spent the entire day trying to resolve antennae and other errors. Then, when I thought things were stable, I updated both the antennae and robot software. It went downhill from there. Took me 20 tries over 2 hours to get the antennae to bond again. Online chat with support answered 2 hours after I got it working. \n\nIt's mowing my back yard now, after 3 recharges. My entire lot is only .26 acre including house and front yard. It's been a major pain in the rear and I doubt I'll keep it based on experience so far. I have 3 robot vacs, tons of $5 LED lights that have way better apps. For a $2000 mower, they need to fire their app/ux people. It's horrible.",
+      "Title": "Reviews seem fake",
+      "UserNickname": "Ronmva",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        },
+        "Value": {
+          "Value": 1,
+          "Id": "Value",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        },
+        "CustomerService": {
+          "Value": 1,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        },
+        "Fulfillment": {
+          "Value": 1,
+          "Id": "Fulfillment",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        },
+        "Quality": {
+          "Value": 2,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        }
+      },
+      "TagDimensions": {},
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "IsSyndicated": false,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "AdditionalFieldsOrder": [],
+      "ContextDataValuesOrder": []
+    },
+    {
+      "Id": "291498082",
+      "CID": "68129fff-92e9-5325-bfb2-2bad99c59d1f",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2025-06-07T02:30:03.000+00:00",
+      "LastModificationTime": "2025-06-07T02:30:03.000+00:00",
+      "ProductId": "335471654",
+      "OriginalProductName": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance",
+      "CampaignId": "BV_REVIEW_DISPLAY",
+      "UserLocation": "Kansas",
+      "AuthorId": "zq6uszp7h6bc6dy3q1id42mu4j",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/6628e94d-e76f-514d-aa9e-cd25eb32f39c"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/1c0fd281-905f-5a7f-b5b5-31dab86845bd"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/ecc13581-bc97-5285-b0a5-7771f2cfa2e4"
+            }
+          },
+          "Id": "18069871",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17491468eOUX6vJiDk",
+      "SubmissionTime": "2025-06-05T18:08:06.000+00:00",
+      "ReviewText": "What a great surprise\nAfter doing a ton of research online on all kinds of models and trust me there seems to be a lot. The Sunseeker X series kept getting great reviews.  I dug a bit more and noticed that The Home Depot had this unit for purchase, Boom Bought it.\nI picked it up yesterday and no kidding was set-up and ready to walk my boundary and let it mow in 45 minutes (this includes my updates that it did automatically).\nIt took a bit of getting used to on my phone controlling the robot to walk the boundary but after a bit it was like a video game.\nAfter about an hour and a half I was ready to let it mow.  This thing took off and did its thing in grass that has been longer than I like, due to the rain for 2 days.  \nIt has now been cutting for just over a day now and it is cutting roughly just over a ½ acre and from what I see will have my lawn completely cut in 2 days.  This should allow me to keep my lawn cut to height even with rainy days and without me worrying about where it will be.\nWell off to boating and I will let it eat (the mower that is).\nI am so excited to learn all the things this thing can do.",
+      "Title": "What a great Surprise",
+      "UserNickname": "RickyB",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        },
+        "Fulfillment": {
+          "Value": 5,
+          "Id": "Fulfillment",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL",
+          "MaxLabel": null,
+          "MinLabel": null,
+          "Label": null
+        }
+      },
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "Pros": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "IsSyndicated": false,
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "Badges": {},
+      "BadgesOrder": [],
+      "AdditionalFields": {},
+      "AdditionalFieldsOrder": [],
+      "ContextDataValuesOrder": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "335471654": {
+        "AttributesOrder": [
+          "Category",
+          "Subclass",
+          "ChildSku",
+          "GLN",
+          "THDBrowseOnlinestatus",
+          "THDOnlineStatus",
+          "Department",
+          "IDMVendorAcctName",
+          "THDSubClass_name",
+          "THDClass_name",
+          "THDSubSubClass",
+          "GTIN14",
+          "THD_SubSubClass_name",
+          "THDDept_name",
+          "THDDotComOnlinestatus",
+          "THDSubClass",
+          "HDClass",
+          "THDDept",
+          "dcs_nbr",
+          "AVAILABILITY",
+          "Class",
+          "MFGModel"
+        ],
+        "Attributes": {
+          "Category": {
+            "Id": "Category",
+            "Values": [
+              {
+                "Value": "POWER> WALKS> ROBOTIC MOWER> OTHER",
+                "Locale": null
+              }
+            ]
+          },
+          "Subclass": {
+            "Id": "Subclass",
+            "Values": [
+              {
+                "Value": "24",
+                "Locale": null
+              }
+            ]
+          },
+          "ChildSku": {
+            "Id": "ChildSku",
+            "Values": [
+              {
+                "Value": "335471654",
+                "Locale": null
+              }
+            ]
+          },
+          "GLN": {
+            "Id": "GLN",
+            "Values": [
+              {
+                "Value": "0854641007009",
+                "Locale": null
+              }
+            ]
+          },
+          "THDBrowseOnlinestatus": {
+            "Id": "THDBrowseOnlinestatus",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "THDOnlineStatus": {
+            "Id": "THDOnlineStatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "Department": {
+            "Id": "Department",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "IDMVendorAcctName": {
+            "Id": "IDMVendorAcctName",
+            "Values": [
+              {
+                "Value": "SUNSEEKER US INC",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass_name": {
+            "Id": "THDSubClass_name",
+            "Values": [
+              {
+                "Value": "ROBOTIC MOWER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDClass_name": {
+            "Id": "THDClass_name",
+            "Values": [
+              {
+                "Value": "WALKS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubSubClass": {
+            "Id": "THDSubSubClass",
+            "Values": [
+              {
+                "Value": "101",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850060195266",
+                "Locale": null
+              }
+            ]
+          },
+          "THD_SubSubClass_name": {
+            "Id": "THD_SubSubClass_name",
+            "Values": [
+              {
+                "Value": "OTHER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept_name": {
+            "Id": "THDDept_name",
+            "Values": [
+              {
+                "Value": "SEASONAL/GARDEN",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDotComOnlinestatus": {
+            "Id": "THDDotComOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass": {
+            "Id": "THDSubClass",
+            "Values": [
+              {
+                "Value": "24",
+                "Locale": null
+              }
+            ]
+          },
+          "HDClass": {
+            "Id": "HDClass",
+            "Values": [
+              {
+                "Value": "35",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept": {
+            "Id": "THDDept",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "dcs_nbr": {
+            "Id": "dcs_nbr",
+            "Values": [
+              {
+                "Value": "28-35-24",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "Class": {
+            "Id": "Class",
+            "Values": [
+              {
+                "Value": "35",
+                "Locale": null
+              }
+            ]
+          },
+          "MFGModel": {
+            "Id": "MFGModel",
+            "Values": [
+              {
+                "Value": "SKRMX5",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850060195266"
+        ],
+        "Description": "The SUNSEEKER X5 is an AWD robot lawn mower designed to automate lawn care for yards up to 0.5 acre. Its wire-free RTK + Vision navigation eliminates the need for a traditional perimeter wire while providing intelligent positioning across complex lawn layouts. AWD traction helps the mower move confidently through uneven areas and changing terrain, while AI obstacle avoidance detects common objects in the yard and adjusts its mowing path. With an 8 in. cutting system and automated navigation, the X5 is designed for homeowners who want dependable robotic mowing for more demanding residential lawns. The X5 is also compatible with the SUNSEEKER garage, providing an optional protective solution when the mower is parked or charging.",
+        "ManufacturerPartNumbers": [
+          "SKRMX5"
+        ],
+        "ImageUrl": "https://images.thdstatic.com/productImages/16dd5680-e777-43fa-b0b1-ffdd235d1c5d/svn/sunseeker-robotic-lawn-mowers-skrmx5-64_1000.jpg",
+        "Name": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance",
+        "Id": "335471654",
+        "CategoryId": "c0031913-cc2e-4ff4-afb7-3aa61129b726",
+        "BrandExternalId": "Sunseeker",
+        "Brand": {
+          "Id": "Sunseeker",
+          "Name": "SUNSEEKER"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.homedepot.com/p/SUNSEEKER-X5-AWD-Wireless-8-in-Robot-Lawn-Mower-for-0-5-Acre-No-Boundary-Wire-RTK-Plus-Vision-AI-Obstacle-Avoidance-SKRMX5/335471654",
+        "Disabled": false,
+        "ISBNs": [],
+        "QuestionIds": [],
+        "ModelNumbers": [],
+        "StoryIds": [],
+        "ReviewIds": [],
+        "FamilyIds": [],
+        "EANs": [],
+        "ReviewStatistics": {
+          "NotHelpfulVoteCount": 0,
+          "RatingsOnlyReviewCount": 7,
+          "FirstSubmissionTime": "2025-06-05T18:08:06.000+00:00",
+          "LastSubmissionTime": "2026-09-09T20:28:11.000+00:00",
+          "NotRecommendedCount": 1,
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 9
+            },
+            {
+              "RatingValue": 1,
+              "Count": 3
+            },
+            {
+              "RatingValue": 2,
+              "Count": 1
+            },
+            {
+              "RatingValue": 4,
+              "Count": 1
+            }
+          ],
+          "AverageOverallRating": 3.857142857142857,
+          "RecommendedCount": 1,
+          "TotalReviewCount": 14,
+          "TotalVideoCount": 0,
+          "FeaturedReviewCount": 0,
+          "TotalPhotoCount": 5,
+          "SecondaryRatingsAveragesOrder": [
+            "Quality",
+            "Value"
+          ],
+          "SecondaryRatingsAverages": {
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 3.3333333333333335,
+              "MaxLabel": null,
+              "DisplayType": "NORMAL",
+              "MinLabel": null,
+              "ValueRange": 5
+            },
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 4.0,
+              "MaxLabel": null,
+              "DisplayType": "NORMAL",
+              "MinLabel": null,
+              "ValueRange": 5
+            }
+          },
+          "HelpfulVoteCount": 12,
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaser",
+            "EarlyReviewerIncentive"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaser": {
+              "Id": "VerifiedPurchaser",
+              "Values": [
+                {
+                  "Count": 11,
+                  "Value": "True"
+                }
+              ]
+            },
+            "EarlyReviewerIncentive": {
+              "Id": "EarlyReviewerIncentive",
+              "Values": [
+                {
+                  "Count": 4,
+                  "Value": "True"
+                },
+                {
+                  "Count": 6,
+                  "Value": "False"
+                }
+              ]
+            }
+          },
+          "TotalMediaCount": 5,
+          "TagDistribution": {},
+          "OverallRatingRange": 5,
+          "TagDistributionOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 14
+      }
+    },
+    "ProductsOrder": [
+      "335471654"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

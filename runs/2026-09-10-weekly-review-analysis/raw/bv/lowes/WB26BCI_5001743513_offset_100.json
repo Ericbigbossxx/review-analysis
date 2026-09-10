@@ -1,0 +1,1364 @@
+{
+  "Limit": 100,
+  "Offset": 100,
+  "TotalResults": 115,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "210583161",
+      "CID": "ddf43d3d-68fd-579b-b335-621bd4a66398",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-09-09T22:30:05.000+00:00",
+      "LastModificationTime": "2024-07-14T13:48:16.000+00:00",
+      "ProductId": "5001743513",
+      "OriginalProductName": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_online_PEN_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "e0be894d350e1f9889476c69ce1bc8dc63726169675f31393934407961686f6f2e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "5cfed308-b0f6-4472-89c1-0af63d42e507",
+          "SubmissionTime": "2022-02-19T11:50:50.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 7,
+      "TotalNegativeFeedbackCount": 7,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__16312265weLSivsPt9",
+      "SubmissionTime": "2021-09-09T22:28:22.000+00:00",
+      "UserNickname": "Pled",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "UserLocation": null,
+      "ReviewText": null,
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "Videos": [],
+      "Title": null,
+      "RatingRange": 5,
+      "Badges": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "210570114",
+      "CID": "e124848b-714a-594b-97cd-4cd76ce5d696",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-08-09T00:00:09.000+00:00",
+      "LastModificationTime": "2025-08-09T00:00:09.000+00:00",
+      "ProductId": "5001743513",
+      "OriginalProductName": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Store_other_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "ilh3qzye5uxkrv4thaa4iru1a",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zp7rusubitsm0szsxngmknp193",
+          "SubmissionTime": "2025-08-06T23:44:31.000+00:00"
+        },
+        {
+          "AuthorId": "z6f8w5rnoz3sk9v9bgt44xi9z9",
+          "SubmissionTime": "2023-08-25T11:38:29.000+00:00"
+        },
+        {
+          "AuthorId": "z64s5hx5bjdartrftxo2ozwafj",
+          "SubmissionTime": "2023-08-18T21:36:37.000+00:00"
+        },
+        {
+          "AuthorId": "zq2zeeecfxile13dosj3k24s5v",
+          "SubmissionTime": "2023-05-09T22:20:34.000+00:00"
+        },
+        {
+          "AuthorId": "z3ou7ss6pkvn2tnri22of4kn2c",
+          "SubmissionTime": "2023-05-08T01:23:29.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 5,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.8529409766197205,
+      "TotalFeedbackCount": 34,
+      "TotalNegativeFeedbackCount": 5,
+      "TotalPositiveFeedbackCount": 29,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16__16311950SgFj3CJGsD",
+      "SubmissionTime": "2021-09-09T13:44:55.000+00:00",
+      "ReviewText": "Overall this is a good piece of equipment, my only issue is that if it runs more than 5 minutes straight it shuts down",
+      "Title": "Hot shut down",
+      "UserNickname": "cea1267",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "UserLocation": null,
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "Videos": [],
+      "RatingRange": 5,
+      "Badges": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "210555562",
+      "CID": "8e480c51-e6b7-5c4a-af61-a7494e5a77a6",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-09-08T19:15:07.000+00:00",
+      "LastModificationTime": "2024-04-16T03:42:03.000+00:00",
+      "ProductId": "5001743513",
+      "OriginalProductName": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "4fbdcfb9-1235-4d9a-b3a6-0ba926a89c0f",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zq7p9u0xjf12wlqyclpe15xmus",
+          "SubmissionTime": "2023-04-19T22:07:32.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.16666699945926666,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 5,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__16311279PgFF5Dsfki",
+      "SubmissionTime": "2021-09-08T19:05:34.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "UserLocation": null,
+      "ReviewText": null,
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "Videos": [],
+      "Title": null,
+      "RatingRange": 5,
+      "Badges": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "210555445",
+      "CID": "7a8b5579-88c0-5c67-bc97-26d488293ed5",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-09-08T19:15:07.000+00:00",
+      "LastModificationTime": "2023-04-21T14:19:03.000+00:00",
+      "ProductId": "5001743513",
+      "OriginalProductName": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "0e4ab266-198e-4a54-bac7-4082f74148df",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.5,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16311277KkNAjMFLNT",
+      "SubmissionTime": "2021-09-08T19:02:20.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "UserLocation": null,
+      "ReviewText": null,
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "Videos": [],
+      "Title": null,
+      "RatingRange": 5,
+      "Badges": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "InappropriateFeedbackList": [],
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "210538969",
+      "CID": "f103aa2b-cca3-55f8-b22c-3def08f0f8e7",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-09-08T01:00:05.000+00:00",
+      "LastModificationTime": "2025-07-28T02:40:26.000+00:00",
+      "ProductId": "5001743513",
+      "OriginalProductName": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "iOS",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nThank you for your review. We have updated the design to better the usage for the end user.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-06-11T15:27:10.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "dxwrbau1slclksuvkdfngxcnr",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "7cfcc460-e486-4aaa-8373-8aa7db3e8aef",
+          "SubmissionTime": "2022-05-29T00:55:50.000+00:00"
+        },
+        {
+          "AuthorId": "zmj7ya7044h6l2nwjv9v3tfpi0",
+          "SubmissionTime": "2022-05-26T09:55:00.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 2,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.75,
+      "TotalFeedbackCount": 16,
+      "TotalNegativeFeedbackCount": 4,
+      "TotalPositiveFeedbackCount": 12,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_163106165fDiFgDSJt",
+      "SubmissionTime": "2021-09-08T00:40:36.000+00:00",
+      "ReviewText": "Had it for a month throttle body housing has 2 bolts holding it in place and both broke through the plastic that holds it . Design quality is garbage",
+      "Title": "throttle body housing is crap",
+      "UserNickname": "chris",
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "UserLocation": null,
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "Videos": [],
+      "ContextDataValuesOrder": [],
+      "RatingRange": 5,
+      "Badges": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "210411105",
+      "CID": "a7cb01cf-3560-5bc4-9b9b-15b4d81a4d49",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-03-17T04:15:08.000+00:00",
+      "LastModificationTime": "2024-09-20T13:10:33.000+00:00",
+      "ProductId": "5001743513",
+      "OriginalProductName": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "4ddd20d5-2ded-4185-a286-91a3e33feda4",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zmofvo8ysp7q93enstxlg0rp42",
+          "SubmissionTime": "2023-05-06T21:12:21.000+00:00"
+        },
+        {
+          "AuthorId": "zdu4yfplh4a1cktk49emnk6deh",
+          "SubmissionTime": "2023-03-12T22:00:06.000+00:00"
+        },
+        {
+          "AuthorId": "zevuo6s15eus56hbzr8cc9s0q6",
+          "SubmissionTime": "2022-05-25T19:13:00.000+00:00"
+        },
+        {
+          "AuthorId": "zq6xds2p7tix507j2cth64p7kl",
+          "SubmissionTime": "2022-05-15T06:23:47.000+00:00"
+        },
+        {
+          "AuthorId": "58c88285-3182-4a28-8aa1-9def107354b8",
+          "SubmissionTime": "2022-03-17T04:14:50.000+00:00"
+        },
+        {
+          "AuthorId": "z6z0uzjdulo4izjqo73qn3aovc",
+          "SubmissionTime": "2022-01-19T20:03:32.000+00:00"
+        },
+        {
+          "AuthorId": "zdgfg6f4zaopj2fj3mtv9fpou9",
+          "SubmissionTime": "2022-01-19T20:03:32.000+00:00"
+        },
+        {
+          "AuthorId": "zb2jvwgsqk8nur93snijevv3ya",
+          "SubmissionTime": "2021-10-08T17:12:17.000+00:00"
+        },
+        {
+          "AuthorId": "5616ef59-4360-4d36-b31e-3cee9b215224",
+          "SubmissionTime": "2021-09-12T21:49:16.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 9,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.14285700023174286,
+      "TotalFeedbackCount": 28,
+      "TotalNegativeFeedbackCount": 24,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16305339Rg4byL8elS",
+      "SubmissionTime": "2021-09-01T22:05:27.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "UserLocation": null,
+      "ReviewText": null,
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "Videos": [],
+      "Title": null,
+      "RatingRange": 5,
+      "Badges": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "209648530",
+      "CID": "70da0c9b-f773-57ab-85b5-1414dd0f6ca8",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-07-29T19:00:06.000+00:00",
+      "LastModificationTime": "2025-09-25T14:32:10.000+00:00",
+      "ProductId": "5001743513",
+      "OriginalProductName": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_App_iOS_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "e8c764b5-8bbc-47af-8ca2-4a195749c959",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z60qfxfi9hhpzlhko1vofz18h4",
+          "SubmissionTime": "2025-09-25T14:32:12.000+00:00"
+        },
+        {
+          "AuthorId": "zip2aot296ijap8uu2ao8vqe8d",
+          "SubmissionTime": "2022-11-14T22:19:14.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.75,
+      "TotalFeedbackCount": 16,
+      "TotalNegativeFeedbackCount": 4,
+      "TotalPositiveFeedbackCount": 12,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16275836Q4QB29oNHX",
+      "SubmissionTime": "2021-07-29T18:34:53.000+00:00",
+      "ReviewText": "The brush cutter went through brush and wood up to 3” thick with no problems.",
+      "Title": "Great brush cutter",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "UserLocation": null,
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "Videos": [],
+      "RatingRange": 5,
+      "Badges": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "209592253",
+      "CID": "e8d6f12c-984f-5846-9212-85c5a2b6ac75",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-07-27T13:15:11.000+00:00",
+      "LastModificationTime": "2025-06-25T15:13:59.000+00:00",
+      "ProductId": "5001743513",
+      "OriginalProductName": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_App_iOS_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "354a6bb6-d6ff-4a2f-9f45-f9e455e7213d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z2m6wnh3617f3r0o8i4a8rbzpd",
+          "SubmissionTime": "2024-03-19T14:13:22.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 23,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 23,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16273902c5IdPJbb1v",
+      "SubmissionTime": "2021-07-27T12:51:08.000+00:00",
+      "ReviewText": "Very sturdy, and long reach. Started on first try, used for tall grass and it did pretty good.",
+      "Title": "Good for the price",
+      "UserNickname": "Daze",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "UserLocation": null,
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "Videos": [],
+      "RatingRange": 5,
+      "Badges": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "209399236",
+      "CID": "adea218e-3149-5432-9e90-290968366424",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-07-19T03:15:05.000+00:00",
+      "LastModificationTime": "2023-04-19T22:07:24.000+00:00",
+      "ProductId": "5001743513",
+      "OriginalProductName": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_DT_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "3ff8d85a4ebc0e2394b988950b5229276a696d6765727374656c4061696d2e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "Guest",
+          "SubmissionTime": "2022-04-25T16:10:38.000+00:00"
+        },
+        {
+          "AuthorId": "z72sb3gk9xxkxcjkgo5pyug37n",
+          "SubmissionTime": "2021-08-28T18:32:10.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.10000000149011612,
+      "TotalFeedbackCount": 10,
+      "TotalNegativeFeedbackCount": 9,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16266637pfx9ng3W4Z",
+      "SubmissionTime": "2021-07-19T03:02:55.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "UserLocation": null,
+      "ReviewText": null,
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "Videos": [],
+      "Title": null,
+      "RatingRange": 5,
+      "Badges": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "209395836",
+      "CID": "d92697d7-425c-556b-b663-7035b81d5766",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-04-14T14:00:09.000+00:00",
+      "LastModificationTime": "2024-10-01T17:49:10.000+00:00",
+      "ProductId": "5001743513",
+      "OriginalProductName": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_MW_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "a3871172-7be0-48cc-8dda-6a220730ad6e",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zu6t2ehixxqt8fsihnpiu1j8ad",
+          "SubmissionTime": "2024-04-14T13:45:47.000+00:00"
+        },
+        {
+          "AuthorId": "zaid2nauteetm3hmgzmvfavapn",
+          "SubmissionTime": "2022-01-19T20:03:42.000+00:00"
+        },
+        {
+          "AuthorId": "739de15b-d77e-49e4-bd91-0e0fd8c76017",
+          "SubmissionTime": "2021-12-03T23:58:04.000+00:00"
+        },
+        {
+          "AuthorId": "zh3b4wuaxixris0jt62p44b37a",
+          "SubmissionTime": "2021-08-21T17:02:03.000+00:00"
+        },
+        {
+          "AuthorId": "zu6kzimdijsvygakgw63dti8oh",
+          "SubmissionTime": "2021-08-09T00:41:45.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 5,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 2,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 28,
+      "TotalNegativeFeedbackCount": 28,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16266507t6ySZgAtX5",
+      "SubmissionTime": "2021-07-18T23:25:30.000+00:00",
+      "UserNickname": "Eddie",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "UserLocation": null,
+      "ReviewText": null,
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "Videos": [],
+      "Title": null,
+      "RatingRange": 5,
+      "Badges": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "209108359",
+      "CID": "264220c9-1ad3-5213-bc7b-8637b26701d6",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-06-08T12:30:06.000+00:00",
+      "LastModificationTime": "2024-07-14T13:48:23.000+00:00",
+      "ProductId": "5001743513",
+      "OriginalProductName": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_MW_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "1753f24d-0e59-4927-b7b1-312013ce78b8",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zmm7lms3zf34gwse1thbkkoxd9",
+          "SubmissionTime": "2022-06-28T15:23:42.000+00:00"
+        },
+        {
+          "AuthorId": "z6exafkxs3rb5nea4brk4g7341",
+          "SubmissionTime": "2022-06-08T12:29:30.000+00:00"
+        },
+        {
+          "AuthorId": "ea8e207f-ec4a-482b-8573-11345cf83bbe",
+          "SubmissionTime": "2022-05-10T01:39:45.000+00:00"
+        },
+        {
+          "AuthorId": "zmkegtv3snghnb1b39s3k06baq",
+          "SubmissionTime": "2021-08-20T22:12:51.000+00:00"
+        },
+        {
+          "AuthorId": "z2y7rk7xg0ucuz6sm433frnwmp",
+          "SubmissionTime": "2021-08-10T19:57:24.000+00:00"
+        },
+        {
+          "AuthorId": "0dbcdae4-13f3-4fc5-948c-1665bf15768a",
+          "SubmissionTime": "2021-07-13T21:42:15.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 6,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "IsRecommended": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 13,
+      "TotalNegativeFeedbackCount": 13,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__162559687t6eKI2sPS",
+      "SubmissionTime": "2021-07-06T18:40:44.000+00:00",
+      "UserNickname": "Harry",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "UserLocation": null,
+      "ReviewText": null,
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "Videos": [],
+      "Title": null,
+      "RatingRange": 5,
+      "Badges": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "208787653",
+      "CID": "edd4727f-00ad-58e3-8829-51805f92aa90",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-06-23T21:00:08.000+00:00",
+      "LastModificationTime": "2024-07-14T13:48:25.000+00:00",
+      "ProductId": "5001743513",
+      "OriginalProductName": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_DT_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "743576f0-c90c-4f04-8da4-60605356948b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z9jin8c7szchtwt5a76shkx7qa",
+          "SubmissionTime": "2021-08-05T18:58:27.000+00:00"
+        },
+        {
+          "AuthorId": "3942b7c1-a6cd-4e81-9636-4bd13064e121",
+          "SubmissionTime": "2021-08-03T17:08:18.000+00:00"
+        },
+        {
+          "AuthorId": "zonu07beg3r0eh4etx91yla48h",
+          "SubmissionTime": "2021-07-15T15:43:28.000+00:00"
+        },
+        {
+          "AuthorId": "0dbcdae4-13f3-4fc5-948c-1665bf15768a",
+          "SubmissionTime": "2021-07-13T21:42:15.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 4,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 18,
+      "TotalNegativeFeedbackCount": 18,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16244812wkMXWR16yn",
+      "SubmissionTime": "2021-06-23T20:47:33.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "UserLocation": null,
+      "ReviewText": null,
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "Videos": [],
+      "Title": null,
+      "RatingRange": 5,
+      "Badges": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "208784077",
+      "CID": "047c4d8a-8bba-54fc-b427-9ddd5b897dfe",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-03-09T22:30:08.000+00:00",
+      "LastModificationTime": "2025-08-29T12:43:57.000+00:00",
+      "ProductId": "5001743513",
+      "OriginalProductName": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nIf there is anything we can do in the future to support your sale, please let us know. Customersupport&#64;wildbadgerpower.com.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-06-11T15:27:08.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "b841280f-fa14-44de-a256-9bb4bedb63fd",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z34fcb9tfwcc953sus334j33tz",
+          "SubmissionTime": "2024-04-28T01:18:52.000+00:00"
+        },
+        {
+          "AuthorId": "zi3jyrwzas9whjzasl7b9njwoi",
+          "SubmissionTime": "2023-11-07T01:53:34.000+00:00"
+        },
+        {
+          "AuthorId": "z7ka0m59e9hb8ic33f2hxfibsl",
+          "SubmissionTime": "2023-08-06T18:01:11.000+00:00"
+        },
+        {
+          "AuthorId": "zpy86iegcy32yylkthpxo8o5xx",
+          "SubmissionTime": "2023-05-19T22:35:32.000+00:00"
+        },
+        {
+          "AuthorId": "539a37d9-9d25-42a7-a4fc-a03537ef88e5",
+          "SubmissionTime": "2022-03-10T19:37:19.000+00:00"
+        },
+        {
+          "AuthorId": "70a08a27-7877-4716-b0e0-a0bfed2d6f12",
+          "SubmissionTime": "2022-03-09T22:01:14.000+00:00"
+        },
+        {
+          "AuthorId": "5d22d351-4140-47b6-93c6-2a45a711f425",
+          "SubmissionTime": "2021-12-12T21:24:19.000+00:00"
+        },
+        {
+          "AuthorId": "z3q7s0dvlqtr696dvrldmlpe8d",
+          "SubmissionTime": "2021-08-15T17:40:51.000+00:00"
+        },
+        {
+          "AuthorId": "zdzk8ik9ed6s0nookv0kdr1gm5",
+          "SubmissionTime": "2021-07-15T17:42:45.000+00:00"
+        },
+        {
+          "AuthorId": "0dbcdae4-13f3-4fc5-948c-1665bf15768a",
+          "SubmissionTime": "2021-07-13T21:42:18.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 10,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.642857015132904,
+      "TotalFeedbackCount": 42,
+      "TotalNegativeFeedbackCount": 15,
+      "TotalPositiveFeedbackCount": 27,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_162447446aZn1wS0TF",
+      "SubmissionTime": "2021-06-23T18:53:26.000+00:00",
+      "ReviewText": "This has warnings \"Do Not Operate In Forest\".  Because it runs so HOT!!  After about 10 minutes it got so hot it caused a vapor lock in the fuel and would not continue to run.  It is also not made for \"altitude\" apparently. Have seen this problem up here a mile high before and that's why I bought the warranty. Now I need to return it! Let the Fun Begin! Ugh!!",
+      "Title": "Run from Badger!",
+      "UserNickname": "TheHandyman",
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "UserLocation": null,
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "Videos": [],
+      "ContextDataValuesOrder": [],
+      "RatingRange": 5,
+      "Badges": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "208766526",
+      "CID": "5a863e62-3e4b-51f8-b4e4-d620e96749ab",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-08-08T20:45:05.000+00:00",
+      "LastModificationTime": "2024-08-08T01:44:39.000+00:00",
+      "ProductId": "5001743513",
+      "OriginalProductName": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_DT_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "344289e4-7231-4f08-b58b-6a63c6c5c5d8",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zavss691b26zdi3wvlsfvf1wnx",
+          "SubmissionTime": "2023-05-26T21:57:51.000+00:00"
+        },
+        {
+          "AuthorId": "ztua1jq0vp9b5vbku583dwdzsi",
+          "SubmissionTime": "2022-08-31T00:03:23.000+00:00"
+        },
+        {
+          "AuthorId": "z9ta6401j7s3k0eovtwd19h5hd",
+          "SubmissionTime": "2022-06-26T10:15:13.000+00:00"
+        },
+        {
+          "AuthorId": "zsrc2gwyra9evajxigutnufnu7",
+          "SubmissionTime": "2022-06-12T18:39:53.000+00:00"
+        },
+        {
+          "AuthorId": "zta4z48eglv9gkb2kdvdsuyu74",
+          "SubmissionTime": "2022-05-19T06:26:49.000+00:00"
+        },
+        {
+          "AuthorId": "z68r15wxfvulpmrzrza8qbyz47",
+          "SubmissionTime": "2022-05-14T01:27:32.000+00:00"
+        },
+        {
+          "AuthorId": "acc8a1bc-2c15-4a2a-af31-b8eea0ab8fe5",
+          "SubmissionTime": "2021-08-08T20:21:29.000+00:00"
+        },
+        {
+          "AuthorId": "zpugyenqay5pd2g583t716vp73",
+          "SubmissionTime": "2021-07-17T19:06:08.000+00:00"
+        },
+        {
+          "AuthorId": "0dbcdae4-13f3-4fc5-948c-1665bf15768a",
+          "SubmissionTime": "2021-07-13T21:41:55.000+00:00"
+        },
+        {
+          "AuthorId": "z37006dvumdvgx126szr754ysx",
+          "SubmissionTime": "2021-06-23T21:09:23.000+00:00"
+        },
+        {
+          "AuthorId": "zorvfi61n9eeyb0h9cjj34805o",
+          "SubmissionTime": "2021-06-23T16:55:02.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 11,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.764706015586853,
+      "TotalFeedbackCount": 17,
+      "TotalNegativeFeedbackCount": 4,
+      "TotalPositiveFeedbackCount": 13,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__162440673wv2aGqO5H",
+      "SubmissionTime": "2021-06-23T00:05:50.000+00:00",
+      "ReviewText": "Easy start runs strong Powerful only issues is line feeder comes apart requiring",
+      "Title": "N/A",
+      "UserNickname": "G1235B",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "UserLocation": null,
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "Videos": [],
+      "RatingRange": 5,
+      "Badges": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "CommentIds": []
+    },
+    {
+      "Id": "208706424",
+      "CID": "e5b183b6-20bd-5023-98c2-20210e336919",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-06-20T19:00:10.000+00:00",
+      "LastModificationTime": "2024-08-08T01:46:49.000+00:00",
+      "ProductId": "5001743513",
+      "OriginalProductName": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_MW_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "5f1c12cfe3098b9cb93494db0fcd851a686f6d65726c6962627940686f746d61696c2e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "Guest",
+          "SubmissionTime": "2022-05-09T21:30:22.000+00:00"
+        },
+        {
+          "AuthorId": "z3mrqpvivkfiruinlwdjeg56ce",
+          "SubmissionTime": "2021-10-16T17:35:06.000+00:00"
+        },
+        {
+          "AuthorId": "03ab62dd-f8cc-41a8-963c-1b670148e5f6",
+          "SubmissionTime": "2021-07-22T13:59:24.000+00:00"
+        },
+        {
+          "AuthorId": "0dbcdae4-13f3-4fc5-948c-1665bf15768a",
+          "SubmissionTime": "2021-07-13T21:41:59.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 4,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.7857139706611633,
+      "TotalFeedbackCount": 14,
+      "TotalNegativeFeedbackCount": 3,
+      "TotalPositiveFeedbackCount": 11,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16242143QBU7O2vrhl",
+      "SubmissionTime": "2021-06-20T18:39:23.000+00:00",
+      "ReviewText": "Heavy duty starts easy. Using to\ncut small brush with saw blade . Looks like good quality .",
+      "Title": "Machine is heavy but is balanced good has harness.",
+      "UserNickname": "Homie",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "AdditionalFields": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "UserLocation": null,
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "Videos": [],
+      "RatingRange": 5,
+      "Badges": {},
+      "SecondaryRatingsOrder": [],
+      "AdditionalFieldsOrder": [],
+      "SecondaryRatings": {},
+      "IsSyndicated": false,
+      "Photos": [],
+      "Pros": null,
+      "CommentIds": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "5001743513": {
+        "FamilyIds": [
+          "3674326"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "3674326",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "18661",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "3674326",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "239",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:3674326",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "3674326",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "510533",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00854641007597",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "854641007597"
+        ],
+        "Name": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+        "ModelNumbers": [
+          "WB26BCI"
+        ],
+        "Description": "POWERFUL: Powered by commercial grade 26cc, 2-cycle full crank gas powered engine which is environmentally friendly by reducing emissions, increasing fuel efficiency and delivering longer life 2-IN-1 MULTI-FUNCTION TOOL: includes 26cc power head, grass trimmer attachment for detail work along borders, a brush cutter blade with a 17-inch cutting swath for heavier grasses and brush clearing and shoulder harness to relieve the strain on your arms and improve stability. ENVIRONMENTALLY FRIENDLY: Full crank design delivers a fast start and smooth operation reducing emissions, increasing fuel efficiency and delivering longer run time EASY TO START AND COMFORTABLE OPERATION: Engine starts within 5 pulls, tool-free air filter and transmission is supported by a vented aluminum casing which greatly reduces vibration allowing you to work in comfort until the job is done COMPATIBLE WITH THE FOLLOWING: Works with most brands of attachment-capable trimmers like Sunseeker, Wild Badger Power, Ryobi, Craftsman, Troy-Bilt, Toro, Poulan, Poulan Pro, Weed Eater, Cub Cadet, MTD Pro, John Deer, Yard Machine, Yard Man, McCulloch - Note: Be sure to check your user manual before purchasing for this attachment for another brand, Female- shaft diameter 1 inch, square inner diameter .48 inch, Male- shaft diameter 1 inch, square diameter .4 inch COMFORT HANDLES: Includes comfort rubber vibration dampened handle and P-handle with foam for comfortable use",
+        "ManufacturerPartNumbers": [
+          "3674326-108792-WB26BCI"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/a636e5fc-574a-4ff1-8e69-34d7ca9c6e76/70472605.jpeg",
+        "Id": "5001743513",
+        "CategoryId": "100741",
+        "BrandExternalId": "Wild Badger Power",
+        "Brand": {
+          "Id": "Wild Badger Power",
+          "Name": "Wild Badger Power"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Badger-Badger-26-CC-2-Cycle-2-in-1-Gas-Full-Crank-Straight-Shaft-Grass-Trimmer-with-Brush-Cutter-Blade-and-Bonus-Harness/5001743513",
+        "Disabled": false,
+        "ISBNs": [],
+        "EANs": [],
+        "QuestionIds": [],
+        "ReviewIds": [],
+        "StoryIds": [],
+        "ReviewStatistics": {
+          "RecommendedCount": 54,
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaserCDV"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaserCDV": {
+              "Id": "VerifiedPurchaserCDV",
+              "Values": [
+                {
+                  "Count": 102,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "NotRecommendedCount": 16,
+          "FeaturedReviewCount": 0,
+          "AverageOverallRating": 3.8521739130434782,
+          "TotalVideoCount": 0,
+          "HelpfulVoteCount": 618,
+          "TotalPhotoCount": 7,
+          "NotHelpfulVoteCount": 338,
+          "FirstSubmissionTime": "2021-06-20T18:39:23.000+00:00",
+          "LastSubmissionTime": "2026-08-14T18:02:08.000+00:00",
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 63
+            },
+            {
+              "RatingValue": 1,
+              "Count": 21
+            },
+            {
+              "RatingValue": 4,
+              "Count": 19
+            },
+            {
+              "RatingValue": 3,
+              "Count": 7
+            },
+            {
+              "RatingValue": 2,
+              "Count": 5
+            }
+          ],
+          "RatingsOnlyReviewCount": 21,
+          "TotalReviewCount": 115,
+          "TotalMediaCount": 7,
+          "SecondaryRatingsAverages": {},
+          "SecondaryRatingsAveragesOrder": [],
+          "TagDistribution": {},
+          "TagDistributionOrder": [],
+          "OverallRatingRange": 5,
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 115
+      }
+    },
+    "ProductsOrder": [
+      "5001743513"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

@@ -1,0 +1,736 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 5,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "306371136",
+      "CID": "15ffedd9-f22a-596e-be3d-4fd29a74f888",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-09-04T20:45:12.000+00:00",
+      "LastModificationTime": "2026-09-04T20:45:12.000+00:00",
+      "ProductId": "323760890",
+      "OriginalProductName": "31cc 4-Stroke Walk Behind Edge Sidewalk Edger Lawn Tool Gas",
+      "CampaignId": "msg_email-_-PR1_T1-_-20260902_Product_Review_4707618-_-Desktop-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03ED18762801AE500S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17885538MkIAvjDeyw",
+      "SubmissionTime": "2026-09-04T20:31:06.000+00:00",
+      "UserNickname": "MARIAN",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "IsRecommended": null,
+      "Cons": null,
+      "Videos": [],
+      "AdditionalFields": {},
+      "Pros": null,
+      "ClientResponses": [],
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "AdditionalFieldsOrder": [],
+      "IsSyndicated": false,
+      "Title": null,
+      "CommentIds": [],
+      "ReviewText": null,
+      "SecondaryRatingsOrder": [],
+      "RatingRange": 5,
+      "UserLocation": null,
+      "TagDimensions": {},
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "306296427",
+      "CID": "26f0e515-0a02-5e6c-9c1a-51fa231a1a76",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-09-02T16:00:23.000+00:00",
+      "LastModificationTime": "2026-09-02T16:00:23.000+00:00",
+      "ProductId": "323760890",
+      "OriginalProductName": "31cc 4-Stroke Walk Behind Edge Sidewalk Edger Lawn Tool Gas",
+      "CampaignId": "msg_email-_-PR1_OUT-_-20260902_Product_Review_4707618-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "05272E6C0130C98A0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17883633gFhl9x6eOs",
+      "SubmissionTime": "2026-09-02T15:36:14.000+00:00",
+      "ReviewText": "This is a great machine just set the ride height and take your time.  If you never done this type of work it might take a few mins to get use to it. Starts every time in less than 3 pulls.",
+      "UserNickname": "JAMES",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "MinLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueLabel": null,
+          "Label": null
+        },
+        "CustomerService": {
+          "Value": 4,
+          "Id": "CustomerService",
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "MinLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueLabel": null,
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "IsRecommended": null,
+      "Cons": null,
+      "Videos": [],
+      "AdditionalFields": {},
+      "Pros": null,
+      "ClientResponses": [],
+      "InappropriateFeedbackList": [],
+      "AdditionalFieldsOrder": [],
+      "IsSyndicated": false,
+      "Title": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "UserLocation": null,
+      "TagDimensions": {},
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "300976901",
+      "CID": "9e507f0c-dbaf-5a71-bafa-14553ff2a1f6",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-05-13T20:15:13.000+00:00",
+      "LastModificationTime": "2026-05-13T20:15:13.000+00:00",
+      "ProductId": "323760890",
+      "OriginalProductName": "31cc 4-Stroke Walk Behind Edge Sidewalk Edger Lawn Tool Gas",
+      "CampaignId": "msg_email-_-PR2_OUT_T1-_-20260513_Product_Review_4691768-_-Mobile-_-LP-_-2",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03ED12D3798725800S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17787015fnpamoeyx6",
+      "SubmissionTime": "2026-05-13T19:45:05.000+00:00",
+      "ReviewText": "Great little work horse",
+      "UserNickname": "HomeDepotCustomer",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "MinLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueLabel": null,
+          "Label": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "MinLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueLabel": null,
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "IsRecommended": null,
+      "Cons": null,
+      "Videos": [],
+      "AdditionalFields": {},
+      "Pros": null,
+      "ClientResponses": [],
+      "InappropriateFeedbackList": [],
+      "AdditionalFieldsOrder": [],
+      "IsSyndicated": false,
+      "Title": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "UserLocation": null,
+      "TagDimensions": {},
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "300934981",
+      "CID": "8d85a300-da82-5770-a2e3-d08428c5f87d",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "earlyReviewerIncentive": {
+          "ContentType": "REVIEW",
+          "Id": "earlyReviewerIncentive",
+          "BadgeType": "Custom"
+        },
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "earlyReviewerIncentive",
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-05-13T14:01:11.000+00:00",
+      "LastModificationTime": "2026-05-13T14:01:11.000+00:00",
+      "ProductId": "323760890",
+      "OriginalProductName": "31cc 4-Stroke Walk Behind Edge Sidewalk Edger Lawn Tool Gas",
+      "CampaignId": "msg_email-_-PR2_OUT_T2_ERP-_-20260513_Product_Review_4691768-_-Desktop-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0527A0472415CAB60S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17786805TehyLdeRU1",
+      "SubmissionTime": "2026-05-13T13:56:15.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "True",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "IsRecommended": null,
+      "Cons": null,
+      "Videos": [],
+      "AdditionalFields": {},
+      "Pros": null,
+      "ClientResponses": [],
+      "InappropriateFeedbackList": [],
+      "SecondaryRatings": {},
+      "AdditionalFieldsOrder": [],
+      "IsSyndicated": false,
+      "Title": null,
+      "CommentIds": [],
+      "ReviewText": null,
+      "SecondaryRatingsOrder": [],
+      "RatingRange": 5,
+      "UserLocation": null,
+      "TagDimensions": {},
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "300788165",
+      "CID": "e85b8181-d531-5f38-adcf-7721c352c462",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-05-07T02:15:14.000+00:00",
+      "LastModificationTime": "2026-05-07T02:15:14.000+00:00",
+      "ProductId": "323760890",
+      "OriginalProductName": "31cc 4-Stroke Walk Behind Edge Sidewalk Edger Lawn Tool Gas",
+      "CampaignId": "msg_email-_-PR1_OUT-_-20260506_Product_Review_4690762-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "041C9524596D49CC0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__177811815lMk8eiNoq",
+      "SubmissionTime": "2026-05-07T01:43:04.000+00:00",
+      "ReviewText": "Great machine. Easy assembly and works as expected.",
+      "UserNickname": "ROBERT",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "MinLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueLabel": null,
+          "Label": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "MinLabel": null,
+          "DisplayType": "NORMAL",
+          "ValueLabel": null,
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "IsRecommended": null,
+      "Cons": null,
+      "Videos": [],
+      "AdditionalFields": {},
+      "Pros": null,
+      "ClientResponses": [],
+      "InappropriateFeedbackList": [],
+      "AdditionalFieldsOrder": [],
+      "IsSyndicated": false,
+      "Title": null,
+      "CommentIds": [],
+      "RatingRange": 5,
+      "UserLocation": null,
+      "TagDimensions": {},
+      "TagDimensionsOrder": [],
+      "Photos": [],
+      "ProductRecommendationIds": [],
+      "Helpfulness": null
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "323760890": {
+        "AttributesOrder": [
+          "Category",
+          "Subclass",
+          "ChildSku",
+          "GLN",
+          "THDBrowseOnlinestatus",
+          "THDOnlineStatus",
+          "Department",
+          "IDMVendorAcctName",
+          "THDSubClass_name",
+          "THDClass_name",
+          "THDSubSubClass",
+          "GTIN14",
+          "THD_SubSubClass_name",
+          "THDDept_name",
+          "THDDotComOnlinestatus",
+          "THDSubClass",
+          "HDClass",
+          "THDDept",
+          "dcs_nbr",
+          "AVAILABILITY",
+          "Class",
+          "MFGModel"
+        ],
+        "Attributes": {
+          "Category": {
+            "Id": "Category",
+            "Values": [
+              {
+                "Value": "POWER> CHORE> WHEELED EDGER/TRIMMER> OTHER",
+                "Locale": null
+              }
+            ]
+          },
+          "Subclass": {
+            "Id": "Subclass",
+            "Values": [
+              {
+                "Value": "6",
+                "Locale": null
+              }
+            ]
+          },
+          "ChildSku": {
+            "Id": "ChildSku",
+            "Values": [
+              {
+                "Value": "323760890",
+                "Locale": null
+              }
+            ]
+          },
+          "GLN": {
+            "Id": "GLN",
+            "Values": [
+              {
+                "Value": "0854641007009",
+                "Locale": null
+              }
+            ]
+          },
+          "THDBrowseOnlinestatus": {
+            "Id": "THDBrowseOnlinestatus",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "THDOnlineStatus": {
+            "Id": "THDOnlineStatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "Department": {
+            "Id": "Department",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "IDMVendorAcctName": {
+            "Id": "IDMVendorAcctName",
+            "Values": [
+              {
+                "Value": "SUNSEEKER US INC",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass_name": {
+            "Id": "THDSubClass_name",
+            "Values": [
+              {
+                "Value": "WHEELED EDGER/TRIMMER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDClass_name": {
+            "Id": "THDClass_name",
+            "Values": [
+              {
+                "Value": "CHORE",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubSubClass": {
+            "Id": "THDSubSubClass",
+            "Values": [
+              {
+                "Value": "104",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850046351051",
+                "Locale": null
+              }
+            ]
+          },
+          "THD_SubSubClass_name": {
+            "Id": "THD_SubSubClass_name",
+            "Values": [
+              {
+                "Value": "OTHER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept_name": {
+            "Id": "THDDept_name",
+            "Values": [
+              {
+                "Value": "SEASONAL/GARDEN",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDotComOnlinestatus": {
+            "Id": "THDDotComOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass": {
+            "Id": "THDSubClass",
+            "Values": [
+              {
+                "Value": "6",
+                "Locale": null
+              }
+            ]
+          },
+          "HDClass": {
+            "Id": "HDClass",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept": {
+            "Id": "THDDept",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "dcs_nbr": {
+            "Id": "dcs_nbr",
+            "Values": [
+              {
+                "Value": "28-33-6",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "Class": {
+            "Id": "Class",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "MFGModel": {
+            "Id": "MFGModel",
+            "Values": [
+              {
+                "Value": "WB31CCED",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850046351051"
+        ],
+        "Description": "The WILD BADGER POWER 31cc 4-Cycle Walk Behind Edger gives you the results you want the first time. This walk behind edger uses 9 in. dual blades that will carve perfect lines around the edges of your yard. The gas-powered engine produces over 100-hours of runtime without the hassle of mixing oil and gas. Dual layer filters ensure a cleaner and longer lifetime. Handle height can be adjusted with 3 levels. In the off season, fold the edger down for compact storage in your shed.",
+        "ManufacturerPartNumbers": [
+          "WB31CCED"
+        ],
+        "ImageUrl": "https://images.thdstatic.com/productImages/0735d98d-c4e1-4265-ae1c-a8107af3fbea/svn/wild-badger-power-gas-edgers-wb31cced-64_1000.jpg",
+        "Name": "31cc 4-Stroke Walk Behind Edge Sidewalk Edger Lawn Tool Gas",
+        "Id": "323760890",
+        "CategoryId": "2eab6fc9-dda2-426a-8f5f-6fd4d8d62b7d",
+        "BrandExternalId": "WILDBADGERPOWER",
+        "Brand": {
+          "Id": "WILDBADGERPOWER",
+          "Name": "WILD BADGER POWER"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.homedepot.com/p/WILD-BADGER-POWER-31cc-4-Stroke-Walk-Behind-Edge-Sidewalk-Edger-Lawn-Tool-Gas-WB31CCED/323760890",
+        "Disabled": false,
+        "EANs": [],
+        "QuestionIds": [],
+        "ISBNs": [],
+        "StoryIds": [],
+        "FamilyIds": [],
+        "ModelNumbers": [],
+        "ReviewIds": [],
+        "ReviewStatistics": {
+          "NotHelpfulVoteCount": 0,
+          "FirstSubmissionTime": "2026-05-07T01:43:04.000+00:00",
+          "LastSubmissionTime": "2026-09-04T20:31:06.000+00:00",
+          "AverageOverallRating": 4.0,
+          "TotalPhotoCount": 0,
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 3
+            },
+            {
+              "RatingValue": 1,
+              "Count": 1
+            },
+            {
+              "RatingValue": 4,
+              "Count": 1
+            }
+          ],
+          "HelpfulVoteCount": 0,
+          "TotalVideoCount": 0,
+          "NotRecommendedCount": 0,
+          "TotalReviewCount": 5,
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaser",
+            "EarlyReviewerIncentive"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaser": {
+              "Id": "VerifiedPurchaser",
+              "Values": [
+                {
+                  "Count": 5,
+                  "Value": "True"
+                }
+              ]
+            },
+            "EarlyReviewerIncentive": {
+              "Id": "EarlyReviewerIncentive",
+              "Values": [
+                {
+                  "Count": 1,
+                  "Value": "True"
+                },
+                {
+                  "Count": 4,
+                  "Value": "False"
+                }
+              ]
+            }
+          },
+          "FeaturedReviewCount": 0,
+          "RatingsOnlyReviewCount": 2,
+          "RecommendedCount": 0,
+          "TotalMediaCount": 0,
+          "SecondaryRatingsAverages": {},
+          "SecondaryRatingsAveragesOrder": [],
+          "TagDistributionOrder": [],
+          "TagDistribution": {},
+          "OverallRatingRange": 5,
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 5
+      }
+    },
+    "ProductsOrder": [
+      "323760890"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

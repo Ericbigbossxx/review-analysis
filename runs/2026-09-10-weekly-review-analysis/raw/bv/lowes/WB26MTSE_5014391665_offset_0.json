@@ -1,0 +1,2846 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 35,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "262105954",
+      "CID": "3ad9155b-1605-5b7c-8039-56a5b1c6f73d",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-08-12T05:20:49.000+00:00",
+      "LastModificationTime": "2026-08-19T22:55:50.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_Default_Digital_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "271f718b-2b24-4eb3-96e1-0690791bff88",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17864972JYwCeW5MtL",
+      "SubmissionTime": "2026-08-12T01:13:37.000+00:00",
+      "ReviewText": "I bought this because we need quite a few different tools for the yard. This so far has been wonderful. We have not used all the interchangeable pieces yet because we’ve only had it a few weeks. Assembly so far was simple. My son said it’s a little weighted but not too bad because He did not put the handle on when he used it. He did not complain of a lot of vibration. The cutting he did was with the weed eater and it cut well. I’m looking forward to him using the Pole Saw attachment which we bought separately to trim all the limbs that have fallen from the evening storms. \nThis tool seems to be worth the money we paid for it. If anything changes after using the other tools, I will update my review. Go get one! And it had good reviews online that I read.",
+      "Title": "Several Yard Tools in One.",
+      "UserNickname": "Libra007",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "250352174",
+      "CID": "e1f187cf-8a2b-5efe-9070-ae6effea2900",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2026-05-07T01:15:14.000+00:00",
+      "LastModificationTime": "2026-08-19T22:55:57.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_Sweepstakes_Store_other_Touch2_0599",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "c03651fb-4f08-4df7-9abf-77cf3a02491f",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17__17781154NBPZxKkjic",
+      "SubmissionTime": "2026-05-07T00:57:50.000+00:00",
+      "ReviewText": "Easy to use",
+      "Title": "Manual isn’t great",
+      "UserNickname": "Ron howle",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": []
+    },
+    {
+      "Id": "250228313",
+      "CID": "79460940-36c1-5351-95db-c05178ccafba",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2026-05-03T17:15:10.000+00:00",
+      "LastModificationTime": "2026-08-19T22:56:07.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_Sweepstakes_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "8aaeaf0d-e0a4-44fd-8e69-ba1b8905f25a",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__177782714GkDCdaomT",
+      "SubmissionTime": "2026-05-03T16:51:58.000+00:00",
+      "ReviewText": "ease of assembly, great price",
+      "Title": "Nice product",
+      "UserNickname": "Bill",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": []
+    },
+    {
+      "Id": "249755237",
+      "CID": "b3ebf3db-1307-51ce-8a36-921451bd3762",
+      "SourceClient": "lowes",
+      "Badges": {
+        "incentivizedReview": {
+          "ContentType": "REVIEW",
+          "Id": "incentivizedReview",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "incentivizedReview"
+      ],
+      "LastModeratedTime": "2026-04-21T14:00:10.000+00:00",
+      "LastModificationTime": "2026-08-19T22:56:26.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_Sweepstakes_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "9edff2be-f0bb-452f-94cb-6db0fd163f60",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17767785v49iIhkgUZ",
+      "SubmissionTime": "2026-04-21T13:35:29.000+00:00",
+      "ReviewText": "Appears to be built to last. Tools were pre assembled so no trying to put small pieces together. It is heavy which indicates, to me, that it won’t break during rough cutting. I have only used the weedeater function but plan to use the edger and hedge trimmer this week. Attachment tools are interchangeable with my old Troy Built machine which is a plus as I didn’t have to purchase a separate blower. The only tool that I have a concern with is the brush blade, you have to disassemble the weedeater stringer to attach the blade without a guard.",
+      "Title": "Finally, a tool worth the cost!",
+      "UserNickname": "Chas",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": []
+    },
+    {
+      "Id": "248195162",
+      "CID": "78afbe0a-5a74-5bc4-b009-99c0dc1d0bad",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-02-18T18:30:14.000+00:00",
+      "LastModificationTime": "2026-02-18T18:30:14.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Store_other_Touch1_0712",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "e9152060-d7ae-4219-9f39-6601d988a5c6",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16__17714387K3OlSSpkx8",
+      "SubmissionTime": "2026-02-18T18:18:30.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "ReviewText": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "246851285",
+      "CID": "f5d59327-e0ea-5a73-9d3f-ce3ae08f07ad",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-12-23T02:45:06.000+00:00",
+      "LastModificationTime": "2026-08-19T22:56:30.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "18df129e-4232-4b25-84e4-a848af0087f0",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17664566P4evceOLX6",
+      "SubmissionTime": "2025-12-23T02:24:03.000+00:00",
+      "ReviewText": "Respectable tool for the price",
+      "Title": "Easy assembly and change over, its a tad heavy",
+      "UserNickname": "Bigdaddy",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "243272980",
+      "CID": "56d7e91e-e01b-5b0e-8a00-36963af48602",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-07-14T01:15:09.000+00:00",
+      "LastModificationTime": "2026-08-19T22:56:37.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "orderhistory_desktop",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "e2da6f1c-227a-4b2e-9b0d-901e9314a645",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17524539vsYl4tX1R3",
+      "SubmissionTime": "2025-07-14T00:46:23.000+00:00",
+      "ReviewText": "Easy assembly right out of the box. I love that it has so many attachments. Works great.  Very happy with this purchase.",
+      "Title": "Works great",
+      "UserNickname": "Donna",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "243181670",
+      "CID": "7c652da1-bc3f-5ff1-9d99-86b53091ca97",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-07-10T03:00:06.000+00:00",
+      "LastModificationTime": "2026-08-19T22:56:47.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "orderhistory_mobile",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "10e89eb3-9442-4a36-9f81-8f39730cf91b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "ztws7mrwfr5asyihlyiq3d61vd",
+          "SubmissionTime": "2025-07-16T00:13:13.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/11c16127-c284-57e2-821f-bbabb51d84e3"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/904f90c4-e8be-5471-81b9-04cb308237df"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/21695771-610a-5535-8d1a-fa2775355de8"
+            }
+          },
+          "Id": "14262608",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/135b34b1-d0b8-5caa-a2fe-c39f9fd55192"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/0e54fc51-e31f-5c1d-b9de-68cd3524dfa6"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/dd84c058-380e-577d-8a50-85229d308c2d"
+            }
+          },
+          "Id": "14262609",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17520874wBz7iYow1H",
+      "SubmissionTime": "2025-07-09T18:57:34.000+00:00",
+      "ReviewText": "One engine can use multiple functions, which is very convenient to disassemble and install.",
+      "Title": "One machine for multiple uses",
+      "UserNickname": "Kyson",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {}
+    },
+    {
+      "Id": "242803517",
+      "CID": "b4775bf6-aee2-5eba-bd38-52adb70ff69f",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-06-22T22:15:10.000+00:00",
+      "LastModificationTime": "2026-08-19T22:57:22.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "WriteAReview_PDP_MOW",
+      "AuthorId": "b1c0610e-1d42-4580-a1c4-b71ca5bdb00d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/be007276-236e-5941-b7f9-9805d7076912"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ad67ecc3-ce8e-5827-a28b-69e76f0fdf56"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ff4155f1-260e-5eb8-afb7-b21edb1121fc"
+            }
+          },
+          "Id": "14123751",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17505971hieBWvdpQf",
+      "SubmissionTime": "2025-06-22T12:59:23.000+00:00",
+      "ReviewText": "With this unit, I'm replacing a battery powered string trimmer, and an electric hedge clipper with cord. I'm also gaining an edger, and  brush cutter (which I don't think I'll ever use.) What sold me was the hedge clipper. With my old device, I had to get up in the bush to trim. This device gives me plenty of length so I can see what I'm doing in real time, instead of stopping after a few passes to see how my work is looking. And it's adjustable, from straight to 90 degrees. So far, it's started after 1 to 2 pulls. The weight is evenly distributed and the shoulder strap makes it that much easier to handle. The construction and materials are top notch and I can see this device lasting several seasons.",
+      "Title": "Everything I need in one device",
+      "UserNickname": "Yardboy",
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "ContextDataValuesOrder": [],
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {}
+    },
+    {
+      "Id": "242289151",
+      "CID": "373018f0-49df-59f6-8330-d91394fd8d58",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-05-30T23:00:12.000+00:00",
+      "LastModificationTime": "2026-08-19T22:57:38.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "orderhistory_mobile",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "a57c8f4f-f90a-4cf3-a748-5d0b23d02827",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/912b2edd-562f-545e-b595-181b740721a5"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d39792bd-50d5-5c85-a5c4-c4a60f654e14"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ab53bd41-01aa-5ee2-8c3d-c4fd97087b1b"
+            }
+          },
+          "Id": "13892615",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7fb51190-14f1-5379-97eb-f05a37fdd6eb"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/a0749b2e-8387-5e92-97a3-f0203a439c18"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b54b8070-b71d-5819-81ee-5fc921162a58"
+            }
+          },
+          "Id": "13892616",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17486197H6Ny0WcoyP",
+      "SubmissionTime": "2025-05-30T15:41:49.000+00:00",
+      "ReviewText": "Reviewed in the United States on March 20, 2025\nPowerful and starts easily! It’s a bit heavy, but the included shoulder harness does a great job of distributing the weight, making it much more comfortable to use. A great tool for tackling tough weeds!",
+      "Title": "Work Great",
+      "UserNickname": "Hans",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {}
+    },
+    {
+      "Id": "242048718",
+      "CID": "1bd91449-ccaa-5ae0-bcf3-553de0f56108",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-05-22T01:15:10.000+00:00",
+      "LastModificationTime": "2025-05-22T01:15:10.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "41a7bc6b-4d8a-4fb2-ac82-2d6753a4585c",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/9fede5ce-8599-53e8-b61b-7844a022b15f"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/fe61512d-764f-53c0-8ce1-2c236bc7f0c1"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d5632bd7-1a98-57c0-815e-72af3d61269d"
+            }
+          },
+          "Id": "13790025",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/33ba4def-8a59-5a32-b77a-4ff7b6641f8c"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/4942f074-fbc0-58bb-ac04-890d3a5f49e6"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b54b345f-0c53-5501-9bc5-9a84650ea589"
+            }
+          },
+          "Id": "13790026",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/3d737a30-d113-55a4-8a65-013c252e7cf8"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/ba941ccc-bcba-50a1-b531-23e9b6ab8d83"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/4560bfa8-cef0-552d-bc3c-d475148086b4"
+            }
+          },
+          "Id": "13790027",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7f43ca05-25a7-5012-8328-8285156a4b0d"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/59b2abb1-ea6b-58e9-b9f7-99fd7dadc808"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/3758acfb-4861-576b-b96a-d30e19f5a1a5"
+            }
+          },
+          "Id": "13790028",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17477513qepvrPmO6M",
+      "SubmissionTime": "2025-05-20T14:28:40.000+00:00",
+      "ReviewText": "This lawn trimmer is quick and easy to install, simple to use, has a clear and easy-to-understand operating guide, and has different function options. It is worth having",
+      "Title": "nice to have it",
+      "UserNickname": "mia131415",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {}
+    },
+    {
+      "Id": "241871256",
+      "CID": "839efe12-9508-58ac-83f1-cd5f1d306dd2",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-05-12T14:45:08.000+00:00",
+      "LastModificationTime": "2025-08-12T03:13:56.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "orderhistory_mobile",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "2d2d5734-57e4-43b5-a3f2-ec2e4725fa3e",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/b782b3cf-d1ff-5185-af83-1803ea3e9f8b"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/9d1d32f3-495c-535f-890c-93c9fa78339e"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/e204c76f-5dee-5d04-a4fd-60e199e2ec51"
+            }
+          },
+          "Id": "13697692",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7162beaf-bf88-544c-b275-9e4d14bc82d0"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/cca0319c-0464-5dee-ac19-11c61e4d7306"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/bb9827df-8d42-5138-a453-c31245166490"
+            }
+          },
+          "Id": "13697693",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 2,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17470231ZL9GJjjtMD",
+      "SubmissionTime": "2025-05-12T04:13:18.000+00:00",
+      "ReviewText": "The 4-in-1 multi-purpose tool air column trimmer is ingeniously designed, integrating cutting, trimming, inflation, and cleaning functions into one, suitable for various scenarios such as daily household use, gardening operations, and industrial maintenance. It solves diversified operations with portability and efficiency, greatly reducing tool switching costs. It is a practical choice for users with limited space.",
+      "Title": "4 in 1 multil tool Gas String trimmer",
+      "UserNickname": "tony",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {}
+    },
+    {
+      "Id": "241783874",
+      "CID": "3a2f8122-09e0-5bd4-a836-b66c95b51ffb",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-05-07T19:00:17.000+00:00",
+      "LastModificationTime": "2025-05-07T19:00:17.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "c77bd26e7583f1ef80eac5892b1ed8f06372797374616c40687763742e6f7267",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17466437fNlTc0hcpR",
+      "SubmissionTime": "2025-05-07T18:48:48.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "ReviewText": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "241731842",
+      "CID": "75f1db6e-ca25-539d-8b0a-da041bf1a6c0",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2025-05-05T18:45:11.000+00:00",
+      "LastModificationTime": "2025-06-02T01:04:33.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "WriteAReview_PDP_MOW",
+      "AuthorId": "ca98d242-7898-4a9b-9306-601d9ea1868e",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/213aae73-d060-5abc-913b-4574a45e46f7"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d36d4eb6-00dc-5049-b4bd-b6919dedced5"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/fe7f5744-7f42-59dc-8d98-60779acd4c20"
+            }
+          },
+          "Id": "13618650",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/7d836c2d-2c63-5a1f-925d-55e32474d654"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/36a874a4-84a6-5b2f-8028-51502822bf99"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/8b0efe57-60e8-53cc-9829-379f81a84425"
+            }
+          },
+          "Id": "13618651",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/fdfa2b03-0713-5214-9967-ef452d4ff5ac"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/501f70f5-fcf1-5c8f-87cc-4ca948d6c550"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/9bb6dbb2-d177-59e5-bab8-244c914c6165"
+            }
+          },
+          "Id": "13618652",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/84c57337-a4fc-59b1-80c7-56d7197ae20d"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/5399ede9-0b3a-5f47-856c-859d7720823b"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/43151aa8-06a8-5e2a-9633-a8402c909e72"
+            }
+          },
+          "Id": "13618653",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/53817823-3423-5975-87d0-2cfe85a82cd3"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/3fad737f-a8bb-5b5a-ac9c-48ed5220dcd4"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/2052cfe9-25db-5bea-98b1-10e05d450082"
+            }
+          },
+          "Id": "13618654",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17464071B1t8tGudRk",
+      "SubmissionTime": "2025-05-05T01:06:19.000+00:00",
+      "ReviewText": "I’ve been using the Wild Badger Power 4-in-1 Multi Tool for a few months now, and I’m thoroughly impressed with its performance and versatility. The 26cc 2-cycle engine starts up quickly and delivers plenty of power to handle even the toughest overgrowth in my yard. I especially love the straight shaft design—it makes trimming around trees, fences, and flower beds much easier.\n\nWhat really sets this tool apart is the multi-tool functionality. The attachments are easy to switch out and include everything I need: a string trimmer, brush cutter, pole saw, and hedge trimmer. Each one works great and saves me from having to buy separate tools. It’s well-balanced, not too heavy, and feels sturdy in my hands.\n\nIf you’re looking for a reliable, powerful yard tool that can do it all without breaking the bank, this is it. Highly recommended!",
+      "Title": "Excellent Power and Versatility in One Tool!",
+      "UserNickname": "ZoeY",
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "ContextDataValuesOrder": [],
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {}
+    },
+    {
+      "Id": "237543078",
+      "CID": "05a38f23-79e2-5fc5-aac6-21d519253587",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-11-18T17:00:12.000+00:00",
+      "LastModificationTime": "2024-11-18T17:00:12.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "c643d923-0acb-46a9-8996-4e2e987860de",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17319435OCn187QxeQ",
+      "SubmissionTime": "2024-11-18T15:25:44.000+00:00",
+      "ReviewText": "Only used once but quality product it seem except for string",
+      "Title": "Sturdy",
+      "UserNickname": "George",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "Helpfulness": null,
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "235792073",
+      "CID": "8755faca-2ba0-5ad5-8756-86091fd265ca",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-08-27T10:15:07.000+00:00",
+      "LastModificationTime": "2024-09-18T12:48:18.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Store_other_Touch2_1105",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "c77d2cb0-813f-416d-b5f2-04964b975a08",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17__17247049fVtWbtIaee",
+      "SubmissionTime": "2024-08-26T20:43:15.000+00:00",
+      "ReviewText": "Cost",
+      "Title": "Runs well",
+      "UserNickname": "Mjoh",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "235744528",
+      "CID": "e792c5d7-bd10-55e6-945e-e20166f79a93",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-08-24T22:45:05.000+00:00",
+      "LastModificationTime": "2025-07-09T17:14:36.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Store_other_Touch1_1988",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "cdc2a7ab-b6a2-4feb-af68-b3dce90430a7",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/d2296977-71fb-5a4b-9933-73d834e6da4e"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/133f7f4a-5cb8-5c96-9102-73ba99dabb26"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/af762c6d-68ff-5c3c-90ff-214cd0f96d7c"
+            }
+          },
+          "Id": "11239719",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/6353a1dd-82fe-5d16-a38e-4909597737b3"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/5dc76505-bab3-5e9a-afd1-368ccb71fed6"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/c7a5902d-5f71-5dee-be95-9c3a10a88e40"
+            }
+          },
+          "Id": "11239720",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16__17245271AnXHfPXOP3",
+      "SubmissionTime": "2024-08-24T19:19:16.000+00:00",
+      "ReviewText": "Like the multiple tools.",
+      "Title": "The attachments are a huge advantage.",
+      "UserNickname": "DLP3",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {}
+    },
+    {
+      "Id": "235434489",
+      "CID": "1bcf039e-3f4d-5d7f-837f-0544e25ce3ff",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-08-10T01:00:06.000+00:00",
+      "LastModificationTime": "2025-05-20T00:52:07.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "android",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHello,  If you have just recently purchased this tool,  we direct you to return the tool for a exhange or refund.<br />If need here is a Wild Badger return authorization code. WBPCS-0120\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-08-12T13:00:29.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "le6hjdkstj06crg3h5vilxgyt",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.800000011920929,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17232503HouPpWVawS",
+      "SubmissionTime": "2024-08-10T00:39:50.000+00:00",
+      "ReviewText": "The build and materials were good and had high hopes for this trimmer, but overheated and wouldn't crank after 30 minutes of use.",
+      "Title": "Overheated after 30 minutes",
+      "UserNickname": "B",
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "ContextDataValuesOrder": [],
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "235172752",
+      "CID": "c55c5496-21de-5997-a0fc-f60708c7a761",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-07-27T14:45:10.000+00:00",
+      "LastModificationTime": "2026-04-16T18:57:06.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Store_other_Touch1_2224",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHi Hoppy, if you need any assistance with your tool, please contact customersupport&#64;wildbadgerpower.com.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-07-29T19:45:18.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "4da589b6-9c0e-4b59-b606-1037bd2c95cb",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.5714290142059326,
+      "TotalFeedbackCount": 7,
+      "TotalNegativeFeedbackCount": 3,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16__17220849vHIYef8bYG",
+      "SubmissionTime": "2024-07-27T12:55:48.000+00:00",
+      "ReviewText": "Very heavy and engine gets hot enough to burn your arm while using",
+      "Title": "Heavy",
+      "UserNickname": "Hoppy",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "234749283",
+      "CID": "a2303f3c-f900-5888-b0bd-c5cb08fe0e29",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-07-07T17:00:10.000+00:00",
+      "LastModificationTime": "2024-10-02T21:17:09.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "5f31d297-fc0d-4b5c-83b9-bca7fb71357e",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 2,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17203713YJnQ07fmqV",
+      "SubmissionTime": "2024-07-07T16:56:20.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "ReviewText": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "234620614",
+      "CID": "a2eb4439-4448-572f-8c47-1043bef5a70f",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-07-01T22:15:11.000+00:00",
+      "LastModificationTime": "2025-08-16T00:30:29.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "WriteAReview_PDP_MOW",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHi Jessica, please email customersupport&#64;wildbadgerpower.com and we will help you troubleshoot your issue. We look forward to your email.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-07-03T14:57:15.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "pny7mwhdwnt1b82acl7ldoz2t",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 13,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 13,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_171987074KdX3H63qa",
+      "SubmissionTime": "2024-07-01T21:53:18.000+00:00",
+      "ReviewText": "I bought this weed eater in November 2023 and it was working fine to begin with. Now when I use it it randomly shuts off in the middle of a project, plenty of gas in the tank. Once it shuts off I can't restart it right away either, I have to wait hours. I called customer service for badger and was told it was outside the 90 day warranty and there was nothing they could do. The person I spoke to clearly had no mechanical experience and could give me no advice at all over the phone. Very disappointed.",
+      "Title": "Stopped working after 8 months",
+      "UserNickname": "Jessica",
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "ContextDataValuesOrder": [],
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "234516589",
+      "CID": "7780a9fd-12a6-5693-83d4-eac401a432f2",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-06-27T17:15:11.000+00:00",
+      "LastModificationTime": "2025-05-20T00:51:40.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "android",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHi Jaybird, thank you for your feedback. The images have been updated to reflect a single strap harness.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-06-27T19:42:03.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "70sti4r5fz9a98yrynwx119hq",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/aa925a62-e75e-53b1-8b25-0935495dbe58"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/de9c1c59-15b5-502f-b6da-3591a304f9e4"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bG93ZXM/52b3ee09-94eb-5554-878f-0cfd75a586a1"
+            }
+          },
+          "Id": "10709309",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 8,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 8,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17194200P0xAoF9JTE",
+      "SubmissionTime": "2024-06-26T16:40:36.000+00:00",
+      "ReviewText": "I bought this weedeater and was amazed at the price and the attachments. when I recieved it I noticed a problem. lowes page shows it comes with a double strap for comfort but when I recieved it it was just a single strap. the brush cutter and the edger came with dull blades never sharpened other than that it is an ok trimmer.",
+      "Title": "did not come with everything",
+      "UserNickname": "jaybird",
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "ContextDataValuesOrder": [],
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Badges": {}
+    },
+    {
+      "Id": "234500284",
+      "CID": "d1bda0eb-669f-5eba-8380-c097f5efbcea",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-06-26T00:30:09.000+00:00",
+      "LastModificationTime": "2025-05-20T00:52:11.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Store_other_Touch1_0044",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "b3f3810b550e1558c08eb6a9038cbf256e656d393438407961686f6f2e636f6d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.6000000238418579,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16__17193608Tg1dVS7TbJ",
+      "SubmissionTime": "2024-06-26T00:14:23.000+00:00",
+      "ReviewText": "price and perfomance",
+      "Title": "best all around",
+      "UserNickname": "nick",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "234108246",
+      "CID": "a090fb08-0c93-52ee-b041-071c238ed6fe",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-06-08T15:45:10.000+00:00",
+      "LastModificationTime": "2024-10-02T21:17:05.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Store_other_Touch1_2361",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nIf there is something customer support can help you with,  please contact us at customersupport&#64;wildbadgerpower.com\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-06-09T15:26:44.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "1191962981",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z2vb30sv3dtawtjfgnc12tqz4j",
+          "SubmissionTime": "2024-07-27T19:00:43.000+00:00"
+        },
+        {
+          "AuthorId": "z2q0u4taobfy1mejftgm8am08a",
+          "SubmissionTime": "2024-06-11T18:51:54.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 9,
+      "TotalNegativeFeedbackCount": 9,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16__1717860772rPuNdgHA",
+      "SubmissionTime": "2024-06-08T15:33:11.000+00:00",
+      "UserNickname": "yardguy",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "IsRecommended": null,
+      "Videos": [],
+      "BadgesOrder": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "ReviewText": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "233944016",
+      "CID": "1cc757e5-d296-5f8b-b3cc-7a870444cafb",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-05-29T20:18:45.000+00:00",
+      "LastModificationTime": "2025-05-20T00:52:16.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Online_App_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "b08b88ab-d47d-43fa-ba71-e7a4de973b7d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z7jlbn6xah11nkak91s8ujoraa",
+          "SubmissionTime": "2025-06-17T19:13:31.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.6000000238418579,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 2,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__17170104uEMSnGpBgx",
+      "SubmissionTime": "2024-05-29T19:20:08.000+00:00",
+      "ReviewText": "Very well all",
+      "Title": "Very good tool as describes in the app",
+      "UserNickname": "Shela",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "IsRecommended": null,
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "233911351",
+      "CID": "62d7756d-78a4-50e0-8f7f-958050318c45",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-05-27T21:18:37.000+00:00",
+      "LastModificationTime": "2024-10-02T21:17:01.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "bb1e3163-d38a-432d-a927-3a54cb3643ed",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 4,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__17168436ng6naNMCBR",
+      "SubmissionTime": "2024-05-27T21:00:26.000+00:00",
+      "UserNickname": "Mike1877",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "ReviewText": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "233720397",
+      "CID": "ff41eafb-6aab-559a-81e8-d65736a09215",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-05-15T21:46:40.000+00:00",
+      "LastModificationTime": "2025-05-20T00:52:19.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "orderdetails_mobile",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHello,   Please let us know your address and contact details and we will send you a new recoil starter for the model  tool you have<br />customersupport&#64;wildbadgerpower.com\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-05-16T14:41:32.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "lgbyx2mj4e8ovxhxmi1llijl5",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zhidmma6lpd1nypdl0gt6f6oyo",
+          "SubmissionTime": "2024-06-04T16:51:46.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.800000011920929,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 4,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_17158080jlDDO4UzOS",
+      "SubmissionTime": "2024-05-15T21:20:41.000+00:00",
+      "ReviewText": "After using it the first day and starting it a few time the cord broke and seized up. Now it is unusable.",
+      "Title": "The Cord seized up",
+      "UserNickname": "Kitty",
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "ContextDataValuesOrder": [],
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "BadgesOrder": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ContextDataValues": {},
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "230316377",
+      "CID": "e066a68e-ec46-5b75-a230-9369d94187b6",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-12-18T20:45:12.000+00:00",
+      "LastModificationTime": "2024-10-02T21:17:00.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Store_other_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "e62c2fa0-ce0e-4e93-a125-144f04421954",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zltgk3sa7cj9hav1ahy5zaus5h",
+          "SubmissionTime": "2024-07-18T00:33:43.000+00:00"
+        },
+        {
+          "AuthorId": "zdaek1q0e8wj8wy8pvrybm46k2",
+          "SubmissionTime": "2024-07-18T00:33:42.000+00:00"
+        },
+        {
+          "AuthorId": "zeh2cu00397rj74wtfuj4awbcz",
+          "SubmissionTime": "2024-07-18T00:33:39.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 3,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 21,
+      "TotalNegativeFeedbackCount": 21,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16__17029319iBuhkbHNCd",
+      "SubmissionTime": "2023-12-18T20:39:47.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "IsRecommended": null,
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "ReviewText": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "228705749",
+      "CID": "209ca35f-9b73-5125-a261-8d3b4e9b3650",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-10-07T19:15:09.000+00:00",
+      "LastModificationTime": "2025-05-06T15:29:18.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_LARP_Online_Touch2_20231007",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV",
+        "ReceivedFreeProduct"
+      ],
+      "AuthorId": "1148965636",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.8999999761581421,
+      "TotalFeedbackCount": 10,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 9,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_27__169670455D1H9TMctV",
+      "SubmissionTime": "2023-10-07T18:49:49.000+00:00",
+      "ReviewText": "I was able to get rid of of few tools. This is a nice all in one tool.",
+      "Title": "Quality at a good price!",
+      "UserNickname": "Kip B",
+      "ContextDataValues": {
+        "ReceivedFreeProduct": {
+          "Value": "Yes",
+          "Id": "ReceivedFreeProduct"
+        },
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "227226170",
+      "CID": "06d54220-4d9e-51a6-a50b-3f8f869194d4",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-07-29T19:45:10.000+00:00",
+      "LastModificationTime": "2025-07-19T17:23:45.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "dc51268b-d302-4b42-a998-e9d3d3915e4b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zsm5ytjg27ek2nmadzdi4d2j1t",
+          "SubmissionTime": "2023-08-23T15:27:15.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 33,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 33,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__169065823xnwKVTFho",
+      "SubmissionTime": "2023-07-29T19:18:07.000+00:00",
+      "ReviewText": "I have had the wild Badger a couple of weeks now. Changing the tool from the brush cutter to the string trimmer is a simple task. The tools needed to do this are provided. I have not used the other attachment yet. It is a very powerful trimmer and it eats the weeds quickly. It is a heaver cutter so if using for a large area the harness provided should be used. My Cons: The first start of the motor required twice as many primmer pumps than outlined in the manual. The string on the trimmer head stopped feeding shortly after starting which required disassembly. The string was either too tight or too much was installed. I installed approx. eight foot of string and it worked very well",
+      "Title": "My Pros & Cons:",
+      "UserNickname": "SkipJ",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "IsRecommended": null,
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "226979447",
+      "CID": "b48a82f9-be54-52bf-afef-02de0124b213",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-03-23T01:15:06.000+00:00",
+      "LastModificationTime": "2025-05-20T00:51:45.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Store_other_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "3543adbd-b9f6-4516-a37c-4001ba1334cc",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zh4frm3l3u178g9p3vvol8s6mw",
+          "SubmissionTime": "2024-05-09T18:15:10.000+00:00"
+        },
+        {
+          "AuthorId": "zq2jx8eeum9rhw4pverhw5d46f",
+          "SubmissionTime": "2024-05-09T18:15:07.000+00:00"
+        },
+        {
+          "AuthorId": "z610hc6xc3t2cy6gkzl8u04n2n",
+          "SubmissionTime": "2024-05-07T02:15:50.000+00:00"
+        },
+        {
+          "AuthorId": "ztlz0l2lmp5smnoeqh08zvl4bm",
+          "SubmissionTime": "2024-04-20T18:12:33.000+00:00"
+        },
+        {
+          "AuthorId": "zpb0uflyo24ciyxxfhn9wsnxyn",
+          "SubmissionTime": "2024-03-23T01:15:04.000+00:00"
+        },
+        {
+          "AuthorId": "zpc2unopo5ppph048nkymer4u6",
+          "SubmissionTime": "2024-03-23T01:14:59.000+00:00"
+        },
+        {
+          "AuthorId": "zewuh7i60kkgm7ayvdyfwf4ynz",
+          "SubmissionTime": "2023-10-17T16:33:06.000+00:00"
+        },
+        {
+          "AuthorId": "z3m9jx2pg9pcs3nh177add7i9a",
+          "SubmissionTime": "2023-09-27T15:26:46.000+00:00"
+        },
+        {
+          "AuthorId": "z5wa30botkq9ukhq4ziu1gowyc",
+          "SubmissionTime": "2023-09-19T19:19:55.000+00:00"
+        },
+        {
+          "AuthorId": "zt76yvo736jo0ue6f7yall5wpm",
+          "SubmissionTime": "2023-08-16T14:42:24.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 10,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.1702129989862442,
+      "TotalFeedbackCount": 47,
+      "TotalNegativeFeedbackCount": 39,
+      "TotalPositiveFeedbackCount": 8,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16__16896951qGr8qydCCi",
+      "SubmissionTime": "2023-07-18T15:45:59.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "IsRecommended": null,
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "ReviewText": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "226878498",
+      "CID": "e8ea930c-3e78-52ce-bdcf-ec65d0ba4655",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-07-13T14:30:09.000+00:00",
+      "LastModificationTime": "2025-03-25T06:27:53.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "0cc3cb84-ac14-4384-9baf-3bebbd6109d0",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zdscuvs8hlo2upyjzl8ifk68qf",
+          "SubmissionTime": "2024-06-01T16:19:44.000+00:00"
+        },
+        {
+          "AuthorId": "z22t47h6nhxuedif1tjxgvufw3",
+          "SubmissionTime": "2024-05-05T12:34:41.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.1851850003004074,
+      "TotalFeedbackCount": 27,
+      "TotalNegativeFeedbackCount": 22,
+      "TotalPositiveFeedbackCount": 5,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__16892583Ep6S9rp8ib",
+      "SubmissionTime": "2023-07-13T14:26:25.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "IsRecommended": null,
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "ReviewText": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "226809523",
+      "CID": "1319f44c-fec6-5b80-9ff9-b9c5990ec282",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-07-27T19:15:12.000+00:00",
+      "LastModificationTime": "2025-05-20T00:52:25.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "7def9ce7-90ad-473b-b1e7-53224b7a67a4",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zhvomxukqujjwncy1jsedkdfb0",
+          "SubmissionTime": "2024-07-27T19:01:22.000+00:00"
+        },
+        {
+          "AuthorId": "zaxztlj8wxfw3340q5309ufx8y",
+          "SubmissionTime": "2024-07-27T19:01:09.000+00:00"
+        },
+        {
+          "AuthorId": "zto205mog7ybbgdna663a38qsp",
+          "SubmissionTime": "2024-04-19T15:14:46.000+00:00"
+        },
+        {
+          "AuthorId": "zezrr33bvun46xgn2gqezzmlwp",
+          "SubmissionTime": "2023-09-27T15:26:48.000+00:00"
+        },
+        {
+          "AuthorId": "zt94cltuudtvgze50kpphttvvl",
+          "SubmissionTime": "2023-09-19T02:09:26.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 5,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "Helpfulness": 0.07142859697341919,
+      "TotalFeedbackCount": 42,
+      "TotalNegativeFeedbackCount": 39,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__16889856YOEK01LBFX",
+      "SubmissionTime": "2023-07-10T10:41:01.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "IsRecommended": null,
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "Title": null,
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "ReviewText": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "226008607",
+      "CID": "8e8766a5-69c7-557b-87f7-a65cad0354c6",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-07-14T18:45:10.000+00:00",
+      "LastModificationTime": "2025-07-27T06:09:44.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Store_other_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "21a0f42d-5a37-4ee5-831f-d65c905a8b40",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z2vtso2j2iio39ti7fus713ene",
+          "SubmissionTime": "2024-07-12T21:57:35.000+00:00"
+        },
+        {
+          "AuthorId": "zsnra060hjttj55xb2azzr331n",
+          "SubmissionTime": "2024-04-10T13:05:25.000+00:00"
+        },
+        {
+          "AuthorId": "zdx0pj15fsda41trttnstulvm0",
+          "SubmissionTime": "2023-09-08T07:09:42.000+00:00"
+        },
+        {
+          "AuthorId": "z5pufe4n68yqbxe4v9nbptmyk8",
+          "SubmissionTime": "2023-07-16T03:12:16.000+00:00"
+        },
+        {
+          "AuthorId": "zsteohakgzce9hc3oz68q79ydm",
+          "SubmissionTime": "2023-06-25T19:02:57.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 5,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.3428570032119751,
+      "TotalFeedbackCount": 35,
+      "TotalNegativeFeedbackCount": 23,
+      "TotalPositiveFeedbackCount": 12,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16__16859804Zu3yPAqqBr",
+      "SubmissionTime": "2023-06-05T15:53:49.000+00:00",
+      "ReviewText": "The packaged was opened and taped up. The product was broken/faulty.",
+      "Title": "Waste of time and money",
+      "UserNickname": "Jackie",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    },
+    {
+      "Id": "225462543",
+      "CID": "d843b8c1-2efb-55bc-a1ee-5c8e478a521b",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2023-05-24T19:45:14.000+00:00",
+      "LastModificationTime": "2025-05-10T13:21:31.000+00:00",
+      "ProductId": "5014391665",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "41430346-8cee-4f6d-9560-6adf9b7ec726",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.9545450210571289,
+      "TotalFeedbackCount": 22,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 21,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_21__16849558sO7jIRLkED",
+      "SubmissionTime": "2023-05-24T19:16:46.000+00:00",
+      "ReviewText": "It was easy to put together. Started up with no problems. The only reason I didn't give 5 stars is the handle that you hold that's soft and black has a couple of small rips in it. Not sure how that happen other than the box was bagged up really bad. Over all I used it for the edging of my lawn and it did a great job.",
+      "Title": "Wild Badger Power Gas 4-Piece.",
+      "UserNickname": "Rick55",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "CommentIds": [],
+      "UserLocation": null,
+      "TagDimensionsOrder": [],
+      "AdditionalFields": {},
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "BadgesOrder": [],
+      "ClientResponses": [],
+      "SecondaryRatings": {},
+      "RatingRange": 5,
+      "ProductRecommendationIds": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Pros": null,
+      "SecondaryRatingsOrder": [],
+      "Photos": [],
+      "Badges": {}
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "5014391665": {
+        "FamilyIds": [
+          "5377439"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "5377439",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "21242",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "33",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "5377439",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "239",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:5377439",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "5377439",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "514102",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850046351129",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850046351129"
+        ],
+        "Name": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable",
+        "ModelNumbers": [
+          "WB26MTSE"
+        ],
+        "Description": "4-IN-1 MULTIFUNCTION YARD TOOLS: Includes 26cc engine power head, brush string trimmer attachment, brush cutter blade, edger attachment, bump feed Twist-N-Load string trimmer spool and double shoulder harness POWERFUL ENGINE AND HIGH AIRFLOW: Gas full crank shaft design reduces exhaust and increases fuel efficiency CUTTING SWATH: 17-inch cutting path to cover more ground in less time NOTES ABOUT THIS PRODUCT: This machine takes a mix of both gasoline and oil (50:1, sold separately) ANTI-VIBRATION: Engine transmission is supported by an aluminum support which greatly reduces vibration, use the harness for more control EASY TO ASSEMBLE AND START: It is very easy to assemble and remove, changing from one attachment to the other requires no tools COMPATIBLE WITH THE FOLLOWING: Works with most brands of attachment-capable trimmers like Sunseeker, Wild Badger Power, Ryobi, Craftsman, Troy-Bilt, Toro, Poulan, Poulan Pro, Weed Eater, Cub Cadet, MTD Pro, John Deer, Yard Machine, Yard Man, McCulloch - Note: Be sure to check your user manual before purchasing for this attachment for another brand, Female- shaft diameter 1 inch, square inner diameter .48 inch, Male- shaft diameter 1 inch, square diameter .4 inch",
+        "ManufacturerPartNumbers": [
+          "5377439-108792-WB26MTSE"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/43808238-5117-4f73-b8da-c6c96fcf9708/70453540.jpeg",
+        "Id": "5014391665",
+        "CategoryId": "100741",
+        "BrandExternalId": "Wild Badger Power",
+        "Brand": {
+          "Id": "Wild Badger Power",
+          "Name": "Wild Badger Power"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Wild-Badger-Power-Gas-4-Piece-Cordless-Power-Equipment-Combo-Kit/5014391665",
+        "Disabled": false,
+        "StoryIds": [],
+        "QuestionIds": [],
+        "ISBNs": [],
+        "ReviewIds": [],
+        "EANs": [],
+        "ReviewStatistics": {
+          "TotalReviewCount": 35,
+          "RecommendedCount": 16,
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaserCDV"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaserCDV": {
+              "Id": "VerifiedPurchaserCDV",
+              "Values": [
+                {
+                  "Count": 29,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "NotRecommendedCount": 6,
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 24
+            },
+            {
+              "RatingValue": 1,
+              "Count": 7
+            },
+            {
+              "RatingValue": 3,
+              "Count": 2
+            },
+            {
+              "RatingValue": 4,
+              "Count": 2
+            }
+          ],
+          "AverageOverallRating": 4.0285714285714285,
+          "HelpfulVoteCount": 149,
+          "TotalVideoCount": 0,
+          "TotalPhotoCount": 19,
+          "NotHelpfulVoteCount": 171,
+          "FirstSubmissionTime": "2023-05-24T19:16:46.000+00:00",
+          "LastSubmissionTime": "2026-08-12T01:13:37.000+00:00",
+          "FeaturedReviewCount": 0,
+          "RatingsOnlyReviewCount": 0,
+          "TotalMediaCount": 19,
+          "OverallRatingRange": 5,
+          "TagDistribution": {},
+          "SecondaryRatingsAveragesOrder": [],
+          "SecondaryRatingsAverages": {},
+          "TagDistributionOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 35
+      }
+    },
+    "ProductsOrder": [
+      "5014391665"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

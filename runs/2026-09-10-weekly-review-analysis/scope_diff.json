@@ -1,0 +1,767 @@
+{
+  "summary": {
+    "CONTINUING": 30,
+    "NEW_TO_SCOPE": 0,
+    "REMOVED_FROM_SCOPE": 0,
+    "LINK_CHANGED": 0,
+    "RECORD_IDENTITY_CHANGED": 0
+  },
+  "categories": {
+    "CONTINUING": [
+      {
+        "record_id": "LOWES_MFT26I-HEDGE-A",
+        "previous": {
+          "record_id": "LOWES_MFT26I-HEDGE-A",
+          "platform_code": "LOWES",
+          "internal_sku": "MFT26I-HEDGE-A",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Badger-Dual-Action-15-Inch-Hedge-Trimmer-Attachment-Fits-Universal-System-Attachment-Capable-Trimmers/5001889721?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5001889721",
+          "brand": "LinkOn",
+          "product_line": "Hedge Trimmer",
+          "product_name": "LinkOn Hedge trimmer attachment"
+        },
+        "current": {
+          "record_id": "LOWES_MFT26I-HEDGE-A",
+          "platform_code": "LOWES",
+          "internal_sku": "MFT26I-HEDGE-A",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Badger-Dual-Action-15-Inch-Hedge-Trimmer-Attachment-Fits-Universal-System-Attachment-Capable-Trimmers/5001889721?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5001889721",
+          "brand": "LinkOn",
+          "product_line": "Hedge Trimmer",
+          "product_name": "LinkOn Hedge trimmer attachment"
+        }
+      },
+      {
+        "record_id": "LOWES_WB20VTRSBL",
+        "previous": {
+          "record_id": "LOWES_WB20VTRSBL",
+          "platform_code": "LOWES",
+          "internal_sku": "WB20VTRSBL",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-20-Volt-2-Piece-20-volt-Cordless-Power-Equipment-Combo-Kit/5014472275?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5014472275",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Leaf Blower",
+          "product_name": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)"
+        },
+        "current": {
+          "record_id": "LOWES_WB20VTRSBL",
+          "platform_code": "LOWES",
+          "internal_sku": "WB20VTRSBL",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-20-Volt-2-Piece-20-volt-Cordless-Power-Equipment-Combo-Kit/5014472275?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5014472275",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Leaf Blower",
+          "product_name": "20 Volt 20-volt Cordless Battery String Trimmer and Leaf Blower and Combo Kit 2 Ah (Battery Included) (Charger Included)"
+        }
+      },
+      {
+        "record_id": "LOWES_WB26BCI",
+        "previous": {
+          "record_id": "LOWES_WB26BCI",
+          "platform_code": "LOWES",
+          "internal_sku": "WB26BCI",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Badger-Badger-26-CC-2-Cycle-2-in-1-Gas-Full-Crank-Straight-Shaft-Grass-Trimmer-with-Brush-Cutter-Blade-and-Bonus-Harness/5001743513?msockid=2a7fc018fe3f6272209bd76cffd16389",
+          "platform_item_id": "5001743513",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer"
+        },
+        "current": {
+          "record_id": "LOWES_WB26BCI",
+          "platform_code": "LOWES",
+          "internal_sku": "WB26BCI",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Badger-Badger-26-CC-2-Cycle-2-in-1-Gas-Full-Crank-Straight-Shaft-Grass-Trimmer-with-Brush-Cutter-Blade-and-Bonus-Harness/5001743513?msockid=2a7fc018fe3f6272209bd76cffd16389",
+          "platform_item_id": "5001743513",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "Gas 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer"
+        }
+      },
+      {
+        "record_id": "LOWES_WB26MTSE",
+        "previous": {
+          "record_id": "LOWES_WB26MTSE",
+          "platform_code": "LOWES",
+          "internal_sku": "WB26MTSE",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-Gas-4-Piece-Cordless-Power-Equipment-Combo-Kit/5014391665",
+          "platform_item_id": "5014391665",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Edger",
+          "product_name": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable"
+        },
+        "current": {
+          "record_id": "LOWES_WB26MTSE",
+          "platform_code": "LOWES",
+          "internal_sku": "WB26MTSE",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-Gas-4-Piece-Cordless-Power-Equipment-Combo-Kit/5014391665",
+          "platform_item_id": "5014391665",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Edger",
+          "product_name": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer Edger Conversion Capable"
+        }
+      },
+      {
+        "record_id": "LOWES_WB31CCED",
+        "previous": {
+          "record_id": "LOWES_WB31CCED",
+          "platform_code": "LOWES",
+          "internal_sku": "WB31CCED",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-9-in-Push-Walk-Behind-Gas-Lawn-Edger/5014467581",
+          "platform_item_id": "5014467581",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Edger",
+          "product_name": "9-in Push walk behind Gas Lawn Edger"
+        },
+        "current": {
+          "record_id": "LOWES_WB31CCED",
+          "platform_code": "LOWES",
+          "internal_sku": "WB31CCED",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-9-in-Push-Walk-Behind-Gas-Lawn-Edger/5014467581",
+          "platform_item_id": "5014467581",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Edger",
+          "product_name": "9-in Push walk behind Gas Lawn Edger"
+        }
+      },
+      {
+        "record_id": "LOWES_WB40V18PLM",
+        "previous": {
+          "record_id": "LOWES_WB40V18PLM",
+          "platform_code": "LOWES",
+          "internal_sku": "WB40V18PLM",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-40-Volt-40-volt-18-in-Push-Cordless-Lawn-Mower-4-Ah-Battery-Charger-Included/5014466573?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5014466573",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Lawn Mower",
+          "product_name": "Brushless 40-volt, 18-in Push Battery Walk Mower with (1) 4 Ah Battery Included"
+        },
+        "current": {
+          "record_id": "LOWES_WB40V18PLM",
+          "platform_code": "LOWES",
+          "internal_sku": "WB40V18PLM",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-40-Volt-40-volt-18-in-Push-Cordless-Lawn-Mower-4-Ah-Battery-Charger-Included/5014466573?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5014466573",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Lawn Mower",
+          "product_name": "Brushless 40-volt, 18-in Push Battery Walk Mower with (1) 4 Ah Battery Included"
+        }
+      },
+      {
+        "record_id": "LOWES_WB40VSNBL2",
+        "previous": {
+          "record_id": "LOWES_WB40VSNBL2",
+          "platform_code": "LOWES",
+          "internal_sku": "WB40VSNBL2",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-Cordless-40-volt-20-in-Single-stage-Push-Battery-Snow-Blower-4-Ah-Battery-and-Charger-Included/5015737225?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5015737225",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Snow Blower",
+          "product_name": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Included) (Charger Included)"
+        },
+        "current": {
+          "record_id": "LOWES_WB40VSNBL2",
+          "platform_code": "LOWES",
+          "internal_sku": "WB40VSNBL2",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-Cordless-40-volt-20-in-Single-stage-Push-Battery-Snow-Blower-4-Ah-Battery-and-Charger-Included/5015737225?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5015737225",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Snow Blower",
+          "product_name": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Included) (Charger Included)"
+        }
+      },
+      {
+        "record_id": "LOWES_WB40VSNOWBL",
+        "previous": {
+          "record_id": "LOWES_WB40VSNOWBL",
+          "platform_code": "LOWES",
+          "internal_sku": "WB40VSNOWBL",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-Wild-Badger-Power-40-Volt-20-inch-Snow-Blower-Includes-4-0-Ah-Battery-and-Fast-Charger/5014466577?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5014466577",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Snow Blower",
+          "product_name": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)"
+        },
+        "current": {
+          "record_id": "LOWES_WB40VSNOWBL",
+          "platform_code": "LOWES",
+          "internal_sku": "WB40VSNOWBL",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-Wild-Badger-Power-40-Volt-20-inch-Snow-Blower-Includes-4-0-Ah-Battery-and-Fast-Charger/5014466577?idProductFound=false&idExtracted=true",
+          "platform_item_id": "5014466577",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Snow Blower",
+          "product_name": "Cordless 40-volt 20-in Single-stage Push Battery Snow Blower (Battery Not Included) (Charger Included)"
+        }
+      },
+      {
+        "record_id": "LOWES_WBP52BCI",
+        "previous": {
+          "record_id": "LOWES_WBP52BCI",
+          "platform_code": "LOWES",
+          "internal_sku": "WBP52BCI",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Badger-Wild-Badger-52-cc-2-cycle-18-in-Straight-Shaft-Gas-Brush-Cutter/5014077075",
+          "platform_item_id": "5014077075",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer"
+        },
+        "current": {
+          "record_id": "LOWES_WBP52BCI",
+          "platform_code": "LOWES",
+          "internal_sku": "WBP52BCI",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Badger-Wild-Badger-52-cc-2-cycle-18-in-Straight-Shaft-Gas-Brush-Cutter/5014077075",
+          "platform_item_id": "5014077075",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "Gas 52-cc 2-cycle 17-in Straight Shaft Gas String Trimmer"
+        }
+      },
+      {
+        "record_id": "LOWES_WBPMT26P",
+        "previous": {
+          "record_id": "LOWES_WBPMT26P",
+          "platform_code": "LOWES",
+          "internal_sku": "WBPMT26P",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-Gas-26-cc-2-cycle-17-in-Straight-Shaft-Gas-Brush-Cutter-with-Attachment-Capable-and-Edger-Capable/5014463151",
+          "platform_item_id": "5014463151",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer"
+        },
+        "current": {
+          "record_id": "LOWES_WBPMT26P",
+          "platform_code": "LOWES",
+          "internal_sku": "WBPMT26P",
+          "model": "",
+          "listing_url": "https://www.lowes.com/pd/Wild-Badger-Power-Gas-26-cc-2-cycle-17-in-Straight-Shaft-Gas-Brush-Cutter-with-Attachment-Capable-and-Edger-Capable/5014463151",
+          "platform_item_id": "5014463151",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer"
+        }
+      },
+      {
+        "record_id": "THD_ORIONX7",
+        "previous": {
+          "record_id": "THD_ORIONX7",
+          "platform_code": "THD",
+          "internal_sku": "ORIONX7",
+          "model": "X7",
+          "listing_url": "https://www.homedepot.com/p/337020714",
+          "platform_item_id": "337020714",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Robotic Lawn Mower",
+          "product_name": "X7 Wireless 14 in. Robot Lawn Mower (0.75 Acre) with RTK Navigation, Vision AI System, Smart App Control"
+        },
+        "current": {
+          "record_id": "THD_ORIONX7",
+          "platform_code": "THD",
+          "internal_sku": "ORIONX7",
+          "model": "X7",
+          "listing_url": "https://www.homedepot.com/p/337020714",
+          "platform_item_id": "337020714",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Robotic Lawn Mower",
+          "product_name": "X7 Wireless 14 in. Robot Lawn Mower (0.75 Acre) with RTK Navigation, Vision AI System, Smart App Control"
+        }
+      },
+      {
+        "record_id": "THD_SKRMS4",
+        "previous": {
+          "record_id": "THD_SKRMS4",
+          "platform_code": "THD",
+          "internal_sku": "SKRMS4",
+          "model": "S4",
+          "listing_url": "https://www.homedepot.com/p/343186124",
+          "platform_item_id": "343186124",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Robotic Lawn Mower",
+          "product_name": "S4 LiDAR 7 in. Robot Lawn Mower for 0.25 Acre, Vision AI + 3D LiDAR Navigation, Wire-Free Boundary, App Control"
+        },
+        "current": {
+          "record_id": "THD_SKRMS4",
+          "platform_code": "THD",
+          "internal_sku": "SKRMS4",
+          "model": "S4",
+          "listing_url": "https://www.homedepot.com/p/343186124",
+          "platform_item_id": "343186124",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Robotic Lawn Mower",
+          "product_name": "S4 LiDAR 7 in. Robot Lawn Mower for 0.25 Acre, Vision AI + 3D LiDAR Navigation, Wire-Free Boundary, App Control"
+        }
+      },
+      {
+        "record_id": "THD_SKRMX3PLUS",
+        "previous": {
+          "record_id": "THD_SKRMX3PLUS",
+          "platform_code": "THD",
+          "internal_sku": "SKRMX3PLUS",
+          "model": "X3PLUS",
+          "listing_url": "https://www.homedepot.com/p/336272752",
+          "platform_item_id": "336272752",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Robotic Lawn Mower",
+          "product_name": "X3 Plus Wireless 8 in. Robot Lawn Mower (0.3 Acre) with RTK Navigation, AI Obstacle Avoidance, App Control"
+        },
+        "current": {
+          "record_id": "THD_SKRMX3PLUS",
+          "platform_code": "THD",
+          "internal_sku": "SKRMX3PLUS",
+          "model": "X3PLUS",
+          "listing_url": "https://www.homedepot.com/p/336272752",
+          "platform_item_id": "336272752",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Robotic Lawn Mower",
+          "product_name": "X3 Plus Wireless 8 in. Robot Lawn Mower (0.3 Acre) with RTK Navigation, AI Obstacle Avoidance, App Control"
+        }
+      },
+      {
+        "record_id": "THD_SKRMX5",
+        "previous": {
+          "record_id": "THD_SKRMX5",
+          "platform_code": "THD",
+          "internal_sku": "SKRMX5",
+          "model": "X5",
+          "listing_url": "https://www.homedepot.com/p/335471654",
+          "platform_item_id": "335471654",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Robotic Lawn Mower",
+          "product_name": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance"
+        },
+        "current": {
+          "record_id": "THD_SKRMX5",
+          "platform_code": "THD",
+          "internal_sku": "SKRMX5",
+          "model": "X5",
+          "listing_url": "https://www.homedepot.com/p/335471654",
+          "platform_item_id": "335471654",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Robotic Lawn Mower",
+          "product_name": "X5 AWD Wireless 8 in. Robot Lawn Mower for 0.5 Acre, No Boundary Wire, RTK Plus Vision, AI Obstacle Avoidance"
+        }
+      },
+      {
+        "record_id": "THD_WB26BCI",
+        "previous": {
+          "record_id": "THD_WB26BCI",
+          "platform_code": "THD",
+          "internal_sku": "WB26BCI",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/309475184",
+          "platform_item_id": "309475184",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Edger",
+          "product_name": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap"
+        },
+        "current": {
+          "record_id": "THD_WB26BCI",
+          "platform_code": "THD",
+          "internal_sku": "WB26BCI",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/309475184",
+          "platform_item_id": "309475184",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Edger",
+          "product_name": "26cc Weed Wacker Gas 3 in. 1 String Trimmer/Edger 17 in. with 10 in. Brush Cutter, Rubber Handle and Shoulder Strap"
+        }
+      },
+      {
+        "record_id": "THD_WB26MTSE",
+        "previous": {
+          "record_id": "THD_WB26MTSE",
+          "platform_code": "THD",
+          "internal_sku": "WB26MTSE",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/325371505",
+          "platform_item_id": "325371505",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Hedge Trimmer",
+          "product_name": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)"
+        },
+        "current": {
+          "record_id": "THD_WB26MTSE",
+          "platform_code": "THD",
+          "internal_sku": "WB26MTSE",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/325371505",
+          "platform_item_id": "325371505",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Hedge Trimmer",
+          "product_name": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)"
+        }
+      },
+      {
+        "record_id": "THD_WB31CCED",
+        "previous": {
+          "record_id": "THD_WB31CCED",
+          "platform_code": "THD",
+          "internal_sku": "WB31CCED",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/323760890",
+          "platform_item_id": "323760890",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Edger",
+          "product_name": "31cc 4-Stroke Walk Behind Edge Sidewalk Edger Lawn Tool Gas"
+        },
+        "current": {
+          "record_id": "THD_WB31CCED",
+          "platform_code": "THD",
+          "internal_sku": "WB31CCED",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/323760890",
+          "platform_item_id": "323760890",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Edger",
+          "product_name": "31cc 4-Stroke Walk Behind Edge Sidewalk Edger Lawn Tool Gas"
+        }
+      },
+      {
+        "record_id": "THD_WBP52BCI",
+        "previous": {
+          "record_id": "THD_WBP52BCI",
+          "platform_code": "THD",
+          "internal_sku": "WBP52BCI",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/311424784",
+          "platform_item_id": "311424784",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "52 cc Gas 2-Stroke 2-in-1 Brush Cutter and String Hand Held Trimmer"
+        },
+        "current": {
+          "record_id": "THD_WBP52BCI",
+          "platform_code": "THD",
+          "internal_sku": "WBP52BCI",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/311424784",
+          "platform_item_id": "311424784",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "52 cc Gas 2-Stroke 2-in-1 Brush Cutter and String Hand Held Trimmer"
+        }
+      },
+      {
+        "record_id": "THD_WBP52TS",
+        "previous": {
+          "record_id": "THD_WBP52TS",
+          "platform_code": "THD",
+          "internal_sku": "WBP52TS",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/342971888",
+          "platform_item_id": "342971888",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "52cc 2-in-1 2-Stroke Gas Straight Shaft Brush Cutter and String Hand Held Trimmer with Extra Spool"
+        },
+        "current": {
+          "record_id": "THD_WBP52TS",
+          "platform_code": "THD",
+          "internal_sku": "WBP52TS",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/342971888",
+          "platform_item_id": "342971888",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "52cc 2-in-1 2-Stroke Gas Straight Shaft Brush Cutter and String Hand Held Trimmer with Extra Spool"
+        }
+      },
+      {
+        "record_id": "THD_WBPMT26TS",
+        "previous": {
+          "record_id": "THD_WBPMT26TS",
+          "platform_code": "THD",
+          "internal_sku": "WBPMT26TS",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/342972128",
+          "platform_item_id": "342972128",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Pole Saw",
+          "product_name": "26cc 4-in-1 Full Crank 2-Stroke Gas Straight Shaft Multi-Function String Trimmer with Pole Saw Attachment and Spool"
+        },
+        "current": {
+          "record_id": "THD_WBPMT26TS",
+          "platform_code": "THD",
+          "internal_sku": "WBPMT26TS",
+          "model": "",
+          "listing_url": "https://www.homedepot.com/p/342972128",
+          "platform_item_id": "342972128",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Pole Saw",
+          "product_name": "26cc 4-in-1 Full Crank 2-Stroke Gas Straight Shaft Multi-Function String Trimmer with Pole Saw Attachment and Spool"
+        }
+      },
+      {
+        "record_id": "WALMART_WB20V16LM",
+        "previous": {
+          "record_id": "WALMART_WB20V16LM",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20V16LM",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/13660751856",
+          "platform_item_id": "13660751856",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Lawn Mower",
+          "product_name": "Wild Badger Power 40V 16″ Cordless Lawn Mower Brushless, 1,900 sq ft/0.044 ac,1×4.0Ah Battery & Fast Charger,  5-Position Height,for Small Residential Lawns"
+        },
+        "current": {
+          "record_id": "WALMART_WB20V16LM",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20V16LM",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/13660751856",
+          "platform_item_id": "13660751856",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Lawn Mower",
+          "product_name": "Wild Badger Power 40V 16″ Cordless Lawn Mower Brushless, 1,900 sq ft/0.044 ac,1×4.0Ah Battery & Fast Charger,  5-Position Height,for Small Residential Lawns"
+        }
+      },
+      {
+        "record_id": "WALMART_WB20VCOMBODP",
+        "previous": {
+          "record_id": "WALMART_WB20VCOMBODP",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20VCOMBODP",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/16104323450",
+          "platform_item_id": "16104323450",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Hedge Trimmer",
+          "product_name": "Wild Badger 40V Cordless String Trimmer with Pole Saw, Hedge Trimmer & Brush Cutter Attachments, 4-Tool Kit, 2 Batteries & Charger Included"
+        },
+        "current": {
+          "record_id": "WALMART_WB20VCOMBODP",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20VCOMBODP",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/16104323450",
+          "platform_item_id": "16104323450",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Hedge Trimmer",
+          "product_name": "Wild Badger 40V Cordless String Trimmer with Pole Saw, Hedge Trimmer & Brush Cutter Attachments, 4-Tool Kit, 2 Batteries & Charger Included"
+        }
+      },
+      {
+        "record_id": "WALMART_WB20VTAB",
+        "previous": {
+          "record_id": "WALMART_WB20VTAB",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20VTAB",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/864525478",
+          "platform_item_id": "864525478",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "Wild Badger Power 20V Weed Eater & Trimmer Set, 2×2.0Ah Batteries, Cordless Lightweight Grass Trimmer for Small Yards, Fence Lines & Easy Lawn Care"
+        },
+        "current": {
+          "record_id": "WALMART_WB20VTAB",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20VTAB",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/864525478",
+          "platform_item_id": "864525478",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "Wild Badger Power 20V Weed Eater & Trimmer Set, 2×2.0Ah Batteries, Cordless Lightweight Grass Trimmer for Small Yards, Fence Lines & Easy Lawn Care"
+        }
+      },
+      {
+        "record_id": "WALMART_WB20VTRSBL",
+        "previous": {
+          "record_id": "WALMART_WB20VTRSBL",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20VTRSBL",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/5629858326",
+          "platform_item_id": "5629858326",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "WILD BADGER POWER 20V Cordless String Trimmer with Sweeper Combo, 2*2Ah Battery & Charger"
+        },
+        "current": {
+          "record_id": "WALMART_WB20VTRSBL",
+          "platform_code": "WALMART",
+          "internal_sku": "WB20VTRSBL",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/5629858326",
+          "platform_item_id": "5629858326",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "WILD BADGER POWER 20V Cordless String Trimmer with Sweeper Combo, 2*2Ah Battery & Charger"
+        }
+      },
+      {
+        "record_id": "WALMART_WB40V18PLM",
+        "previous": {
+          "record_id": "WALMART_WB40V18PLM",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40V18PLM",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/5319348630",
+          "platform_item_id": "5319348630",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Lawn Mower",
+          "product_name": "Wild Badger Power 40V 18″ Cordless Lawn Mower Brushless , 2,100 sq ft/0.048 ac, 1×4.0Ah Battery & Fast Charger, 5-Position Height ,for Small-to-Medium Lawns"
+        },
+        "current": {
+          "record_id": "WALMART_WB40V18PLM",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40V18PLM",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/5319348630",
+          "platform_item_id": "5319348630",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Lawn Mower",
+          "product_name": "Wild Badger Power 40V 18″ Cordless Lawn Mower Brushless , 2,100 sq ft/0.048 ac, 1×4.0Ah Battery & Fast Charger, 5-Position Height ,for Small-to-Medium Lawns"
+        }
+      },
+      {
+        "record_id": "WALMART_WB40VCOMBO",
+        "previous": {
+          "record_id": "WALMART_WB40VCOMBO",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40VCOMBO",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/17598657653",
+          "platform_item_id": "17598657653",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Hedge Trimmer",
+          "product_name": "Wild Badger 40V 4-in-1 Cordless Outdoor Power Tool Kit (Weed Wacker, Pole Saw, Hedge Trimmer, Brush Cutter) with 2*4 AhBatteries & Charger"
+        },
+        "current": {
+          "record_id": "WALMART_WB40VCOMBO",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40VCOMBO",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/17598657653",
+          "platform_item_id": "17598657653",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Hedge Trimmer",
+          "product_name": "Wild Badger 40V 4-in-1 Cordless Outdoor Power Tool Kit (Weed Wacker, Pole Saw, Hedge Trimmer, Brush Cutter) with 2*4 AhBatteries & Charger"
+        }
+      },
+      {
+        "record_id": "WALMART_WB40VTBCC",
+        "previous": {
+          "record_id": "WALMART_WB40VTBCC",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40VTBCC",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/3962878922",
+          "platform_item_id": "3962878922",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Edger",
+          "product_name": "WILD BADGER POWER 40V Weed Wacker & Leaf Blower, Wheeled Edger Kit Electric with 2Ah Battery & Charger, String Trimmer"
+        },
+        "current": {
+          "record_id": "WALMART_WB40VTBCC",
+          "platform_code": "WALMART",
+          "internal_sku": "WB40VTBCC",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/3962878922",
+          "platform_item_id": "3962878922",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Edger",
+          "product_name": "WILD BADGER POWER 40V Weed Wacker & Leaf Blower, Wheeled Edger Kit Electric with 2Ah Battery & Charger, String Trimmer"
+        }
+      },
+      {
+        "record_id": "WALMART_WB52CCBPB",
+        "previous": {
+          "record_id": "WALMART_WB52CCBPB",
+          "platform_code": "WALMART",
+          "internal_sku": "WB52CCBPB",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/1770380088",
+          "platform_item_id": "1770380088",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Snow Blower",
+          "product_name": "WILD BADGER POWER 53cc Backpack Leaf Blower, 853CFM 174MPH Gas Powered, Lightweight 19.6lbs for Leaf, Debris, Snow Cleanup"
+        },
+        "current": {
+          "record_id": "WALMART_WB52CCBPB",
+          "platform_code": "WALMART",
+          "internal_sku": "WB52CCBPB",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/1770380088",
+          "platform_item_id": "1770380088",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Snow Blower",
+          "product_name": "WILD BADGER POWER 53cc Backpack Leaf Blower, 853CFM 174MPH Gas Powered, Lightweight 19.6lbs for Leaf, Debris, Snow Cleanup"
+        }
+      },
+      {
+        "record_id": "WALMART_WB52CCEA",
+        "previous": {
+          "record_id": "WALMART_WB52CCEA",
+          "platform_code": "WALMART",
+          "internal_sku": "WB52CCEA",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/2166947342",
+          "platform_item_id": "2166947342",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Auger",
+          "product_name": "Wild Badger Power Auger Post Hole Digger 2.6HP 1.9KW Strong 53cc Gas Powered 8\", Blue"
+        },
+        "current": {
+          "record_id": "WALMART_WB52CCEA",
+          "platform_code": "WALMART",
+          "internal_sku": "WB52CCEA",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/2166947342",
+          "platform_item_id": "2166947342",
+          "brand": "WILD BADGER POWER",
+          "product_line": "Auger",
+          "product_name": "Wild Badger Power Auger Post Hole Digger 2.6HP 1.9KW Strong 53cc Gas Powered 8\", Blue"
+        }
+      },
+      {
+        "record_id": "WALMART_WBP31TS",
+        "previous": {
+          "record_id": "WALMART_WBP31TS",
+          "platform_code": "WALMART",
+          "internal_sku": "WBP31TS",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/20525672189",
+          "platform_item_id": "20525672189",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "Wild Badger Power Gen2 31cc 4-Cycle Gas Powered Weed Wacker, 2-in-1 String Trimmer & Brush Cutter, No Mixing Required, Extra Trimmer Line Included, Straight Shaft with Shoulder Harness"
+        },
+        "current": {
+          "record_id": "WALMART_WBP31TS",
+          "platform_code": "WALMART",
+          "internal_sku": "WBP31TS",
+          "model": "",
+          "listing_url": "http://www.walmart.com/ip/20525672189",
+          "platform_item_id": "20525672189",
+          "brand": "WILD BADGER POWER",
+          "product_line": "String Trimmer",
+          "product_name": "Wild Badger Power Gen2 31cc 4-Cycle Gas Powered Weed Wacker, 2-in-1 String Trimmer & Brush Cutter, No Mixing Required, Extra Trimmer Line Included, Straight Shaft with Shoulder Harness"
+        }
+      }
+    ],
+    "NEW_TO_SCOPE": [],
+    "REMOVED_FROM_SCOPE": [],
+    "LINK_CHANGED": [],
+    "RECORD_IDENTITY_CHANGED": []
+  }
+}
