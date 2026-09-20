@@ -2,7 +2,7 @@
 
 **Run:** `runs/2026-09-20-weekly-review-analysis/`
 **Prior successful run:** `2026-09-10` (30-listing scope)
-**Mode:** `MANUAL_WEEKLY_OPERATION` — collection + analysis only. No DB write, no `outputs/latest` promotion, no archive/publish, no notification, no scheduler change.
+**Mode:** `MANUAL_WEEKLY_OPERATION` — collection + analysis only. No DB write, no `outputs/latest` promotion, no notification, no scheduler change. **Authorized after the run:** evidence committed to `master` + report published to GitHub Pages (see §9).
 
 ---
 
@@ -118,6 +118,8 @@ Under this ruling the workbook URL is **not** changed and neither listing is mar
 | `runtime/review_tracker.lock`, `data/run.lock` | absent | **absent** |
 
 The run wrote no formal History, promoted nothing to `outputs/latest`, and touched no scheduler or external system.
+
+**Authorized publication (after the run, on explicit user approval):** evidence committed to `master` (`4a919d9`) and the report published to GitHub Pages (`76ede39` on `origin/main`). This publication does not alter the analysis or the DB state in §9, and still implies no notification, no `outputs/latest` promotion, and no scheduler change — those remain unauthorized and unbuilt (see §10).
 
 ## 10. Follow-up
 
