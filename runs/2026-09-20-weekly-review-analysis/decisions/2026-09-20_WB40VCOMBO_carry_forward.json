@@ -1,0 +1,63 @@
+{
+  "decisionId": "2026-09-20_WB40VCOMBO_carry_forward",
+  "decidedAt": "2026-09-20",
+  "decidedBy": "user",
+  "rulingVerbatim": "那个Walmart的问题，沿用上一期的数据就行，现在是产品unpublish了，所以被重新定位。",
+  "rulingTranslation": "For that Walmart problem: carry forward the prior period's data. The product is now unpublished, so it has been re-positioned/redirected.",
+  "run": "runs/2026-09-20-weekly-review-analysis",
+  "sku": "WB40VCOMBO",
+  "recordId": "WALMART_WB40VCOMBO",
+  "platform": "Walmart",
+  "priorPeriod": "2026-09-10",
+  "anomaly": {
+    "type": "FROZEN_URL_REDIRECTS_TO_DIFFERENT_BRAND",
+    "frozenUrl": "http://www.walmart.com/ip/17598657653",
+    "frozenItemId": "17598657653",
+    "landedUrl": "https://www.walmart.com/ip/TNTANTS-Electric-Weed-Wacker-Cordless-String-Trimmer-Wheels-1Pcs-24V-Batteries-3-Types-Blades-Adjustable-Length-Eater-Grass-Trimmer-Edger-Brush-Cutte/15830216038",
+    "landedItemId": "15830216038",
+    "landedProductName": "TNTANTS Weed Wacker Cordless, 3-in-1 Lightweight Electric String Trimmer with 3 Types of Blades, Wheels, 24V Battery, Weed Eater Grass Trimmer/Edger/Brush Cutter for Lawn Yard Garden (Blue) - Walmart.com",
+    "landedPageCounts": {
+      "averageRating": 3.7,
+      "totalRatings": 1029,
+      "totalReviews": 336
+    },
+    "firstObserved": "2026-09-10 (same redirect); recurring this run",
+    "recurring": "2nd consecutive run. Landed page grew from 983 ratings/314 reviews (2026-09-10) to 1029/336 (2026-09-20) — a live foreign listing, not a stale copy.",
+    "note": "scope_diff reports LINK_CHANGED=0 because the WORKBOOK url is unchanged; the platform-side landing target moved. The TNTANTS brand never appears in any output (grep -c TNTANTS -> 0)."
+  },
+  "action": "CARRY_FORWARD_PRIOR_PERIOD_DATA",
+  "priorValuesApplied": {
+    "productName": "Wild Badger 40V 4-in-1 Cordless Outdoor Power Tool Kit (Weed Wacker, Pole Saw, Hedge Trimmer, Brush Cutter) with 2*4 AhBatteries & Charger - Walmart.com",
+    "brand": null,
+    "url": "http://www.walmart.com/ip/17598657653",
+    "finalUrl": "https://www.walmart.com/ip/Wild-Badger-Power-40V-Cordless-Weed-Wacker-String-Trimmer-Edger-Hedge-Trimmer-Brush-Cutter-Blade-Pole-Saw-Attachment-Capable-4-in-1-Multi-Tool-Kit-2/17598657653",
+    "title": "Wild Badger 40V 4-in-1 Cordless Power Tool Kit w/ Batteries & Charger - Walmart.com",
+    "averageRating": 5,
+    "totalRatings": 3,
+    "totalReviews": 1132,
+    "pageTotalRatings": null,
+    "pageTotalReviews": null,
+    "pageAverageRating": null,
+    "totalReviewCount": 0,
+    "reviewsWithTextCount": 0,
+    "averageOverallRating": null,
+    "ratings": {"one": 0, "two": 0, "three": 0, "four": 0, "five": 0}
+  },
+  "continuity": {
+    "priorDecision": "runs/2026-09-10-weekly-review-analysis/decisions/2026-09-10_WB40VCOMBO_carry_forward.json",
+    "priorPriorPeriod": "2026-09-03",
+    "note": "The 2026-09-10 ruling carried forward 2026-09-03 values; this ruling carries forward the 2026-09-10 values, so the values remain the 2026-09-03 baseline unchanged. The listing has now failed identity verification for two consecutive runs."
+  },
+  "supersededObservationFromThisRun": {
+    "totalReviewCount": 0,
+    "averageOverallRating": null,
+    "ratings": {"one": 0, "two": 0, "three": 0, "four": 0, "five": 0},
+    "note": "This run's BV auxiliary feed reports the listing live but with zero reviews. Discarded in favour of the prior period under the user's ruling. Numerically identical, so no report total moves."
+  },
+  "numericImpact": "NONE - both periods report 0 reviews / 0 ratings / 0 low-star rows for this SKU, so no report total changes.",
+  "evidencePreserved": [
+    "runs/2026-09-20-weekly-review-analysis/walmart_storefront_cdp_batch6.jsonl",
+    "runs/2026-09-20-weekly-review-analysis/pre_carryforward/",
+    "runs/2026-09-20-weekly-review-analysis/pre_carryforward/carry_forward_applied.json"
+  ]
+}

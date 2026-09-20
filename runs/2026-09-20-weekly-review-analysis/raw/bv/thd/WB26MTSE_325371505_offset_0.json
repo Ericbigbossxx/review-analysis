@@ -1,0 +1,3503 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 37,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "306480825",
+      "CID": "166457cb-d566-5bee-9761-a664bf04035d",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-09-09T16:00:35.000+00:00",
+      "LastModificationTime": "2026-09-09T16:00:35.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR2_IN_T1-_-20260909_Product_Review_4708607-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "041A1682FB70A4DD0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17889678JIsko8A3d9",
+      "SubmissionTime": "2026-09-09T15:30:49.000+00:00",
+      "ReviewText": "Pro is I needed to get new house ing for trimmmer cause it broke first day!!!!",
+      "UserNickname": "HomeDepotCustomer",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 1,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 1,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "306030811",
+      "CID": "11e9edf3-ce16-51f9-846d-0216e5810b89",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-08-26T01:00:06.000+00:00",
+      "LastModificationTime": "2026-08-26T01:00:06.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_IN-_-20260819_Product_Review_4705644-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "042344F99668C47B0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17877044QzuqwJQDJz",
+      "SubmissionTime": "2026-08-26T00:33:39.000+00:00",
+      "ReviewText": "The wire or string for trimming breaks often , but the machine is very powerful and durable.",
+      "UserNickname": "Moe",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "305842676",
+      "CID": "40c80735-d305-5ced-b8c8-bb29bc8ccb72",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "earlyReviewerIncentive": {
+          "ContentType": "REVIEW",
+          "Id": "earlyReviewerIncentive",
+          "BadgeType": "Custom"
+        },
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "earlyReviewerIncentive",
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-08-19T14:30:52.000+00:00",
+      "LastModificationTime": "2026-08-19T14:30:52.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR3_IN_T1_ERP-_-20260819_Product_Review_4705644-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0422C715FE59E3BF0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__178714812UwLB9EgB3",
+      "SubmissionTime": "2026-08-19T14:02:14.000+00:00",
+      "ReviewText": "It seems decent. A little to powerful for a smaller person to handle with horsepower.",
+      "UserNickname": "TM6973",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "True",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "305266999",
+      "CID": "95b9ff6c-e6ad-5d9d-98e2-6f049653975c",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-08-05T14:45:52.000+00:00",
+      "LastModificationTime": "2026-08-05T14:45:52.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_IN-_-20260805_Product_Review_4703675-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "06309C5AA968956C0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17859393u5PeyGeCSv",
+      "SubmissionTime": "2026-08-05T14:16:13.000+00:00",
+      "ReviewText": "Did not care for the edger very difficult to use and attach",
+      "UserNickname": "GREGORY",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 3,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 3,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "305201970",
+      "CID": "09ad7e8f-a85f-5d07-9570-a099dd9a8823",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-08-04T02:30:07.000+00:00",
+      "LastModificationTime": "2026-08-04T02:30:07.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_IN-_-20260527_Product_Review_4693769-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03ED08256F5F28001S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17858099RevwDorkVU",
+      "SubmissionTime": "2026-08-04T02:18:47.000+00:00",
+      "UserNickname": "YOLANDA",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "303530289",
+      "CID": "63dddd18-c43e-5578-b660-46ace5f30495",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-07-29T14:16:05.000+00:00",
+      "LastModificationTime": "2026-07-29T14:16:05.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR2_IN_T1-_-20260729_Product_Review_4702696-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "05174817DA84755B0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17853341IxKe07iRnY",
+      "SubmissionTime": "2026-07-29T14:09:07.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "303522013",
+      "CID": "80a565db-ba42-5201-8a06-7a919b3dcd72",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-07-29T14:02:01.000+00:00",
+      "LastModificationTime": "2026-07-29T14:02:01.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_IN-_-20260729_Product_Review_4702696-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "05268DAF52880C400S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17853325X9jxDTBpjw",
+      "SubmissionTime": "2026-07-29T13:42:17.000+00:00",
+      "ReviewText": "Great product! Great Price and everything was included!!",
+      "UserNickname": "FREDDIE",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "301561781",
+      "CID": "d1640675-3053-5adc-a161-49700cbee03f",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "earlyReviewerIncentive": {
+          "ContentType": "REVIEW",
+          "Id": "earlyReviewerIncentive",
+          "BadgeType": "Custom"
+        },
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "earlyReviewerIncentive",
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-06-04T13:00:18.000+00:00",
+      "LastModificationTime": "2026-06-04T13:00:18.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR3_IN_T2_ERP-_-20260603_Product_Review_4694769-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0516ADD3ED9821F10S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17805764PN4zqF8pyn",
+      "SubmissionTime": "2026-06-04T12:34:58.000+00:00",
+      "ReviewText": "Great product for the price",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "True",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "301142353",
+      "CID": "4189ff00-5eef-5a6a-8c57-9d53fb938bc7",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-05-20T15:45:34.000+00:00",
+      "LastModificationTime": "2026-05-20T15:45:34.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR2_IN_T1-_-20260520_Product_Review_4692769-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "04230F94207AAB2C0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__177929188yYf1AyWSJ",
+      "SubmissionTime": "2026-05-20T15:44:11.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "301117923",
+      "CID": "55147f71-5fe1-5aed-8454-97d4f6f83e5e",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-05-20T14:15:43.000+00:00",
+      "LastModificationTime": "2026-05-20T14:15:43.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_OUT-_-20260520_Product_Review_4692769-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "208921225",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17792847emfT9HZwtP",
+      "SubmissionTime": "2026-05-20T13:46:18.000+00:00",
+      "ReviewText": "Still new, but cranked on 3rd pull, weed eater worked well, edger worked well. Pleased after a couple of uses. Price was good.",
+      "UserNickname": "BILL",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "297527289",
+      "CID": "d757ccaf-eba9-5882-9e01-425951928e41",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-12-31T17:45:22.000+00:00",
+      "LastModificationTime": "2025-12-31T17:45:22.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_T3-_-20251231_Product_Review_4672918-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "04266241EBD031FA0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17672028X4AWI8VQ4D",
+      "SubmissionTime": "2025-12-31T17:40:30.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "297301777",
+      "CID": "24e4b223-859b-5b83-9029-df698195d0bc",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-12-25T03:00:09.000+00:00",
+      "LastModificationTime": "2025-12-25T03:00:09.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_IN-_-20251224_Product_Review_4672082-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "042C74CF37331E3E0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17666305MdV8JtNHpF",
+      "SubmissionTime": "2025-12-25T02:42:29.000+00:00",
+      "ReviewText": "Only thing easy was putting it together and starting it. Then it wouldn’t staying going. I called support who couldn’t help but say in order to make a claim had to go through a dozen hoops. I would not recommend this product. I was glad Home Depot allowed me to return it for a refund.",
+      "UserNickname": "NANCY",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 1,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "296409903",
+      "CID": "a138c08b-363f-5c4e-901b-51a94dbe216e",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "earlyReviewerIncentive": {
+          "ContentType": "REVIEW",
+          "Id": "earlyReviewerIncentive",
+          "BadgeType": "Custom"
+        },
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "earlyReviewerIncentive",
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-11-29T22:15:05.000+00:00",
+      "LastModificationTime": "2025-11-29T22:15:05.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR2_OUT_T2_ERP-_-20251126_Product_Review_4668150-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "041DE8D2771309220S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17644501TAiWCEaC1b",
+      "SubmissionTime": "2025-11-29T21:01:47.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "True",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "294204360",
+      "CID": "9c1796a4-d14a-592c-87fb-8f49300fbb26",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-09-08T23:45:05.000+00:00",
+      "LastModificationTime": "2025-09-08T23:45:05.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_IN-_-20250903_Product_Review_4655954-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03ED094782E1AE300S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17573745TB2AjP6b5z",
+      "SubmissionTime": "2025-09-08T23:35:05.000+00:00",
+      "UserNickname": "MJ26",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 4,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 4,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "293932729",
+      "CID": "eced6527-2406-5b0b-80f3-5ac9c3b0f81a",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-08-28T20:45:05.000+00:00",
+      "LastModificationTime": "2025-08-28T20:45:05.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_IN-_-20250827_Product_Review_4654944-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0416BB1FD0ACC17B0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17564136CBXwwuU8QY",
+      "SubmissionTime": "2025-08-28T20:40:29.000+00:00",
+      "UserNickname": "STEVEN",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "293881347",
+      "CID": "af53638e-d1e3-5130-ab12-dc69253b43d7",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-08-27T15:30:20.000+00:00",
+      "LastModificationTime": "2025-08-27T15:30:20.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_OUT-_-20250827_Product_Review_4654944-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "052AE7B564F470200S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17563070DJcJrVNBO6",
+      "SubmissionTime": "2025-08-27T15:03:48.000+00:00",
+      "ReviewText": "Wasn’t fully greased, had to buy a grease gun and grease fittings",
+      "UserNickname": "TROY",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 4,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "293861387",
+      "CID": "e90fad3f-7670-52a4-bb06-7d98eefcefff",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-08-27T13:15:24.000+00:00",
+      "LastModificationTime": "2025-08-27T13:15:24.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_T3-_-20250827_Product_Review_4654944-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "062E37FEB7865B700S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17563002bQnN5b1lmL",
+      "SubmissionTime": "2025-08-27T13:11:21.000+00:00",
+      "UserNickname": "MARK",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "293769410",
+      "CID": "199f6c68-2058-5a01-9dd9-f1d9833183b8",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2025-08-22T21:45:05.000+00:00",
+      "LastModificationTime": "2025-10-13T22:46:02.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "BV_REVIEW_DISPLAY",
+      "UserLocation": "Savannah, GA",
+      "AuthorId": "z9m3nnrdtw17523e33a3jyi2fc",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17558975pJYa7xi5Po",
+      "SubmissionTime": "2025-08-22T21:19:50.000+00:00",
+      "ReviewText": "I bought this because it was inexpensive, had multiple attachments, and figured I could get a season or two out of it. I've gotten 3 uses out of it. I cannot stress how bad a mistake it was to buy this. This isn't even a case of \"you get what you pay for\" because I thought I was paying for something that would at least run, this is nothing more than a couple hundred dollars of cheap garbage. DO NOT BUY!!",
+      "Title": "Zero Stars Wasn't an Option",
+      "UserNickname": "Nickname",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 2,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Value": {
+          "Value": 1,
+          "Id": "Value",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 1,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Fulfillment": {
+          "Value": 1,
+          "Id": "Fulfillment",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Quality": {
+          "Value": 1,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "AdditionalFields": {
+        "ZipCode": {
+          "Value": "31324",
+          "Id": "ZipCode"
+        },
+        "State": {
+          "Value": "GA",
+          "Id": "State"
+        }
+      },
+      "AdditionalFieldsOrder": [
+        "State",
+        "ZipCode"
+      ],
+      "ProductRecommendationIds": [],
+      "Badges": {},
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false
+    },
+    {
+      "Id": "293704865",
+      "CID": "d0e88b81-effb-5c62-adf0-341d7e7a5f3a",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "earlyReviewerIncentive": {
+          "ContentType": "REVIEW",
+          "Id": "earlyReviewerIncentive",
+          "BadgeType": "Custom"
+        },
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "earlyReviewerIncentive",
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-08-21T17:45:11.000+00:00",
+      "LastModificationTime": "2025-10-28T03:11:52.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR3_IN_T1_ERP-_-20250820_Product_Review_4653899-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "042CAF576F7587910S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/54d3fb29-2b1e-5527-8a69-0a64dc9f8ec4"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/2c75acab-5091-5baa-b0f4-428700fcaff9"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/ef366629-6722-54e5-87ad-f79d4cd3eb7b"
+            }
+          },
+          "Id": "19027292",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17557359MkYHFwt9L2",
+      "SubmissionTime": "2025-08-21T00:26:29.000+00:00",
+      "ReviewText": "This combo set is great. The price was exactly what I was looking for and the multi attachment is easy to transport from job to job. I am happy with my purchase so far! The only thing I have a concern about it it does get hotter than most but I have had no issues with its performance.",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "True",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "293664030",
+      "CID": "b000e3a6-c14a-5926-a71e-46d4af6cafae",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-08-20T14:15:21.000+00:00",
+      "LastModificationTime": "2025-08-20T14:15:21.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR2_OUT_T1-_-20250820_Product_Review_4653899-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "062E1CB605D6C4A80S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17556984rEau9iDpy7",
+      "SubmissionTime": "2025-08-20T14:01:10.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "293540393",
+      "CID": "5fa0b7d1-0bb1-5c02-a510-99f8cde38897",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-08-14T20:45:05.000+00:00",
+      "LastModificationTime": "2025-08-14T20:45:05.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_IN-_-20250813_Product_Review_4652875-_-Desktop-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "031095104D2203510S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17552029ijjUJWFuQB",
+      "SubmissionTime": "2025-08-14T20:23:17.000+00:00",
+      "ReviewText": "Works great! Have switched between the edger and trimmer numerous times.  Cuts a clean edge and is easy to use.  Looking forward using the hedge trimmer attachment.",
+      "UserNickname": "ERIC",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "293311427",
+      "CID": "739c5f38-1b43-5aef-b1ff-c4628f727ba7",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-08-06T18:45:08.000+00:00",
+      "LastModificationTime": "2025-08-06T18:45:08.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR2_IN_T1-_-20250806_Product_Review_4651849-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03ED1782C8B9AE500S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17545052gEVhDQiRSp",
+      "SubmissionTime": "2025-08-06T18:34:02.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "293273359",
+      "CID": "c3700635-1f4a-53ea-9727-6b6922d7fd9d",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "earlyReviewerIncentive": {
+          "ContentType": "REVIEW",
+          "Id": "earlyReviewerIncentive",
+          "BadgeType": "Custom"
+        },
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "earlyReviewerIncentive",
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-08-06T13:30:28.000+00:00",
+      "LastModificationTime": "2025-10-28T03:19:53.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR2_IN_T2_ERP-_-20250806_Product_Review_4651849-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "042E013059B1D0C40S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17544860lfHJa6pnkM",
+      "SubmissionTime": "2025-08-06T13:13:58.000+00:00",
+      "ReviewText": "Instructions on assembly were not as clear as they could be but the equipment itself works terrific and does exactly what I need",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "True",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "293132968",
+      "CID": "9700cff8-f181-55ff-b503-7e277920e698",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-07-31T05:45:03.000+00:00",
+      "LastModificationTime": "2025-07-31T05:45:03.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR2_IN_T2-_-20250730_Product_Review_4650834-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0428DA7097A627B40S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17539400l4DuS5H2MK",
+      "SubmissionTime": "2025-07-31T05:33:37.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "293113145",
+      "CID": "c18262c8-138a-5197-87bb-ee5d388da090",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-07-30T19:00:09.000+00:00",
+      "LastModificationTime": "2025-07-30T19:00:09.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_IN-_-20250730_Product_Review_4650834-_-Desktop-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "031275336C8327C90S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__175390113D2UPdevdg",
+      "SubmissionTime": "2025-07-30T18:46:19.000+00:00",
+      "UserNickname": "MIKE",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "293082048",
+      "CID": "6dbc1bd6-d1d5-5c0f-b0ff-308e080e601f",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-07-30T14:00:22.000+00:00",
+      "LastModificationTime": "2025-07-30T14:00:22.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_T1-_-20250730_Product_Review_4650834-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "04257078B68E3FBF0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17538836UtMRPYgkzN",
+      "SubmissionTime": "2025-07-30T13:53:40.000+00:00",
+      "UserNickname": "CURTIS",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "292982669",
+      "CID": "56fb47cb-7c0f-539e-b96a-0b05d140c780",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-07-26T02:15:03.000+00:00",
+      "LastModificationTime": "2025-07-26T02:15:03.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_IN-_-20250723_Product_Review_4649806-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03ED0BD5E29F28000S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17534954zzd81Epxp6",
+      "SubmissionTime": "2025-07-26T02:04:10.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "292918877",
+      "CID": "94035311-8973-5f96-9582-cd0ad6f8d211",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-07-23T22:30:09.000+00:00",
+      "LastModificationTime": "2025-07-23T22:30:09.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_OUT-_-20250723_Product_Review_4649806-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "062D9C792B2C1EFD0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17533083Lz3dfQxdzA",
+      "SubmissionTime": "2025-07-23T22:06:11.000+00:00",
+      "ReviewText": "Great so far for the price. I've only had it for a month, but have used all attachments and all work as advertised.",
+      "UserNickname": "BENNY RAY",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "292738708",
+      "CID": "e1b6463e-1bbf-5fba-9418-c030e963f1aa",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-07-17T10:15:04.000+00:00",
+      "LastModificationTime": "2025-07-17T10:15:04.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_IN-_-20250716_Product_Review_4648787-_-Desktop-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "041484D07A49F4900S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17527469j309KqZTmE",
+      "SubmissionTime": "2025-07-17T10:09:09.000+00:00",
+      "UserNickname": "LEONARD",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "292712561",
+      "CID": "642d0117-217d-5d56-a642-3f42100c7808",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-07-16T17:45:08.000+00:00",
+      "LastModificationTime": "2025-07-16T17:45:08.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_IN-_-20250716_Product_Review_4648787-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0311F46AA3971AAC0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Delivery"
+      ],
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__175268720Bk3KD59YY",
+      "SubmissionTime": "2025-07-16T17:34:12.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "292549110",
+      "CID": "4b3410ec-f5c5-5123-8201-4695c9da2adb",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2025-07-11T07:15:02.000+00:00",
+      "LastModificationTime": "2025-08-23T17:01:22.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "BV_MOBILE_REVIEW_DISPLAY",
+      "AuthorId": "zl8oz2znd9hz01k3o1eh4uyemy",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17522166WLVg8RIWy7",
+      "SubmissionTime": "2025-07-11T06:51:06.000+00:00",
+      "ReviewText": "Junk will not start.i will be returning this product tomorrow.",
+      "Title": "a terrible product",
+      "UserNickname": "Smitty",
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Badges": {},
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": []
+    },
+    {
+      "Id": "292410023",
+      "CID": "2cac9884-6886-5b3d-8b4d-17dcc00a6255",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-07-09T14:30:25.000+00:00",
+      "LastModificationTime": "2025-07-09T14:30:25.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR2_IN_T2-_-20250709_Product_Review_4647770-_-Desktop-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "061F09134146D6CC0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17520691f9U5prdQRL",
+      "SubmissionTime": "2025-07-09T13:52:39.000+00:00",
+      "ReviewText": "Perfect for my needs.",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "SecondaryRatings": {
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "292158639",
+      "CID": "a74fa6aa-e248-5968-91d9-c22c44610709",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2025-06-30T19:30:07.000+00:00",
+      "LastModificationTime": "2025-06-30T19:30:07.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "BV_MOBILE_REVIEW_DISPLAY",
+      "UserLocation": "Maryland",
+      "AuthorId": "zl4ykui86bs5t3k6ygdnx59clj",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/c50c706d-f989-5fe5-81b0-e7466a2cb616"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/1e359aaa-c430-5c29-bc2d-1545bdf9373b"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/9cee808f-7d19-5db6-97d1-81d9ffc8a48c"
+            }
+          },
+          "Id": "18384530",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/4e2bc972-ff02-54a0-9f33-8c19db211f17"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/6c673d67-8417-539d-8cb4-5dd79f694fe7"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/9942524d-39f7-5dab-bf81-7897c5b8efb6"
+            }
+          },
+          "Id": "18384531",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/64b6647e-97cf-52c8-a100-f62477875ed2"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/860729df-27b7-59d7-b34b-6bda840aa8f8"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/95d6eb81-a823-554b-83c4-c0bfbf5dfead"
+            }
+          },
+          "Id": "18384532",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/aa916fe6-4d3a-5e84-abe2-fb8953963b69"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/af88a081-e857-5f69-b2d0-c216cab4819d"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/fcbf2491-3142-5fce-ad50-06251332f428"
+            }
+          },
+          "Id": "18384533",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17512826ZsGoT942cV",
+      "SubmissionTime": "2025-06-30T11:23:53.000+00:00",
+      "ReviewText": "I bought this multi-tool mainly to help shape and clean up the trees and bushes in my yard without having to pay someone every time. It comes with 4 different attachments string trimmer, edger, hedge trimmer, and a brush cutter so I can switch between tasks easily depending on what I need that day. I mostly use the hedge trimmer to shape my trees, and it works surprisingly well. It’s powerful enough to handle thick branches but still gives me control for more detailed shaping. I was originally just looking to save some money on yard work, but now I kind of enjoy doing it myself. Overall, really happy with this tool, feels sturdy, does the job, and gives me multiple tools in one without having to buy everything separately. Definitely worth it if you want to take care of your yard yourself and save on professional landscaping costs.",
+      "Title": "To save money",
+      "UserNickname": "Michelle",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Fulfillment": {
+          "Value": 5,
+          "Id": "Fulfillment",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "AdditionalFields": {
+        "ZipCode": {
+          "Value": "20878",
+          "Id": "ZipCode"
+        },
+        "State": {
+          "Value": "maryland",
+          "Id": "State"
+        }
+      },
+      "AdditionalFieldsOrder": [
+        "State",
+        "ZipCode"
+      ],
+      "ProductRecommendationIds": [],
+      "Badges": {},
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "BadgesOrder": [],
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "RatingRange": 5,
+      "Cons": null,
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "291865863",
+      "CID": "4948948f-4b39-5d22-a277-f67a3ae555b2",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-06-18T21:15:15.000+00:00",
+      "LastModificationTime": "2025-06-18T21:15:15.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR1_OUT-_-20250618_Product_Review_4644749-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "551007577",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17502807SLJo8FLXFJ",
+      "SubmissionTime": "2025-06-18T21:05:21.000+00:00",
+      "UserNickname": "LINDA",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 3,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 3,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "291777456",
+      "CID": "70b870af-7c21-5a9f-87d8-91247fffcdb7",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2025-06-16T23:30:05.000+00:00",
+      "LastModificationTime": "2025-06-16T23:30:05.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "BV_MOBILE_REVIEW_DISPLAY",
+      "UserLocation": "NY",
+      "AuthorId": "zts7mzr4oaevux7wufkc5d8v0k",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/7deae829-bf43-5bfd-86cd-b3e9ecbbcaa7"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/26ae0000-525f-5ab9-8eff-38e0f737deb3"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/a21aae52-b3eb-5d81-a645-c8f6aff4cba4"
+            }
+          },
+          "Id": "18186542",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        },
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/0df2bf7b-4f4d-51c6-98b0-075442010f8b"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/77d04e63-4e4e-529b-9b03-5fcdd8d8dea5"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/8348e843-d493-53cb-a89f-51ab37d2a525"
+            }
+          },
+          "Id": "18186543",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17500956IL2s6g3KzF",
+      "SubmissionTime": "2025-06-16T17:41:13.000+00:00",
+      "ReviewText": "Perfect for homeowners who need a space-saving, all-in-one yard tool. The 4 attachments handle trimming, edging, hedge shaping, and brush cutting efficiently. Easy to start and switch tools. Compact design fits neatly in the shed, making it a great solution for regular yard care.",
+      "Title": "Great Multi-Tool for Homeowners",
+      "UserNickname": "Bosco",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Fulfillment": {
+          "Value": 5,
+          "Id": "Fulfillment",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ProductRecommendationIds": [],
+      "Badges": {},
+      "InappropriateFeedbackList": [],
+      "BadgesOrder": [],
+      "Pros": null,
+      "ContextDataValuesOrder": [],
+      "ContextDataValues": {},
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    },
+    {
+      "Id": "291700653",
+      "CID": "d0b5341a-ad8d-56fc-9da2-6ef6856df22d",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-06-12T21:15:04.000+00:00",
+      "LastModificationTime": "2025-06-12T21:15:04.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR2_IN_T1-_-20250611_Product_Review_4643731-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "04299E908C9A00120S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17497625Q9oF0yQ8Dv",
+      "SubmissionTime": "2025-06-12T21:08:56.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "SecondaryRatings": {},
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "ReviewText": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "SecondaryRatingsOrder": [],
+      "Helpfulness": null
+    },
+    {
+      "Id": "291640580",
+      "CID": "08db4321-5ef9-546a-b687-763d3164ef20",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-06-11T15:30:20.000+00:00",
+      "LastModificationTime": "2025-06-11T15:30:20.000+00:00",
+      "ProductId": "325371505",
+      "OriginalProductName": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+      "CampaignId": "msg_email-_-PR2_IN_T1-_-20250611_Product_Review_4643731-_-Desktop-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "031357A1BB4783600S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "SecondaryRatingsOrder": [
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17496532JReGH0Kjtj",
+      "SubmissionTime": "2025-06-11T14:48:04.000+00:00",
+      "ReviewText": "Multi tool great for all around maintenence  only dissapointment is the hedge trimmer is so small I had to go back to my electric trimmer to get the job done faster other than that is is great",
+      "UserNickname": "jerryo",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 4,
+          "Id": "Delivery",
+          "ValueRange": 5,
+          "Label": null,
+          "MaxLabel": null,
+          "MinLabel": null,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "UserLocation": null,
+      "ProductRecommendationIds": [],
+      "Title": null,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "Pros": null,
+      "TagDimensions": {},
+      "CommentIds": [],
+      "ClientResponses": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "Photos": [],
+      "Cons": null,
+      "AdditionalFieldsOrder": [],
+      "Videos": [],
+      "TagDimensionsOrder": [],
+      "IsSyndicated": false,
+      "Helpfulness": null
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "325371505": {
+        "AttributesOrder": [
+          "Category",
+          "Subclass",
+          "ChildSku",
+          "GLN",
+          "THDBrowseOnlinestatus",
+          "THDOnlineStatus",
+          "Department",
+          "IDMVendorAcctName",
+          "THDSubClass_name",
+          "THDClass_name",
+          "THDSubSubClass",
+          "GTIN14",
+          "THD_SubSubClass_name",
+          "THDDept_name",
+          "THDDotComOnlinestatus",
+          "THDSubClass",
+          "HDClass",
+          "THDDept",
+          "dcs_nbr",
+          "AVAILABILITY",
+          "Class",
+          "MFGModel"
+        ],
+        "Attributes": {
+          "Category": {
+            "Id": "Category",
+            "Values": [
+              {
+                "Value": "POWER> HANDHELD POWER> OTHER TRIMMERS> GAS TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "Subclass": {
+            "Id": "Subclass",
+            "Values": [
+              {
+                "Value": "19",
+                "Locale": null
+              }
+            ]
+          },
+          "ChildSku": {
+            "Id": "ChildSku",
+            "Values": [
+              {
+                "Value": "325371505",
+                "Locale": null
+              }
+            ]
+          },
+          "GLN": {
+            "Id": "GLN",
+            "Values": [
+              {
+                "Value": "0854641007009",
+                "Locale": null
+              }
+            ]
+          },
+          "THDBrowseOnlinestatus": {
+            "Id": "THDBrowseOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDOnlineStatus": {
+            "Id": "THDOnlineStatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "Department": {
+            "Id": "Department",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "IDMVendorAcctName": {
+            "Id": "IDMVendorAcctName",
+            "Values": [
+              {
+                "Value": "SUNSEEKER US INC",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass_name": {
+            "Id": "THDSubClass_name",
+            "Values": [
+              {
+                "Value": "OTHER TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDClass_name": {
+            "Id": "THDClass_name",
+            "Values": [
+              {
+                "Value": "HANDHELD POWER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubSubClass": {
+            "Id": "THDSubSubClass",
+            "Values": [
+              {
+                "Value": "102",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850046351129",
+                "Locale": null
+              }
+            ]
+          },
+          "THD_SubSubClass_name": {
+            "Id": "THD_SubSubClass_name",
+            "Values": [
+              {
+                "Value": "GAS TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept_name": {
+            "Id": "THDDept_name",
+            "Values": [
+              {
+                "Value": "SEASONAL/GARDEN",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDotComOnlinestatus": {
+            "Id": "THDDotComOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass": {
+            "Id": "THDSubClass",
+            "Values": [
+              {
+                "Value": "19",
+                "Locale": null
+              }
+            ]
+          },
+          "HDClass": {
+            "Id": "HDClass",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept": {
+            "Id": "THDDept",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "dcs_nbr": {
+            "Id": "dcs_nbr",
+            "Values": [
+              {
+                "Value": "28-32-19",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "Class": {
+            "Id": "Class",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "MFGModel": {
+            "Id": "MFGModel",
+            "Values": [
+              {
+                "Value": "WB26MTSE",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850046351129"
+        ],
+        "Description": "The 26cc 4-in-1 Multi-Tool with LinkOn attachments is a versatile tool. With attachments such as a string trimmer, edger, brush cutter blade, and articulating hedge trimmer, this kit serves many of your lawn needs. Add a pole saw to your combo for a complete multi-tool that does it all (pole saw attachment sold separately). This landscaping, tool-free, LinkOn attachment system is essential to your shed and saves space where it counts. Powered by a 26CC, 2-cycle, full-crank engine, the multi-tool is designed for reliability. The full crankshaft engine starts easily and runs smooth, reducing emissions, increasing fuel efficiency, and delivering longer life. The transmission is supported by a vented aluminum casing which greatly increases engine life and reduces vibration allowing you to work in comfort until the job is done. This tool includes a support harness to increase control and stability. Notes about the product: This machine takes a mix of both gasoline and oil (sold separately).",
+        "ManufacturerPartNumbers": [
+          "WB26MTSE"
+        ],
+        "ImageUrl": "https://images.thdstatic.com/productImages/69519222-be32-4d3c-9d41-a8de14823a6d/svn/wild-badger-power-outdoor-power-combo-kits-wb26mtse-64_1000.jpg",
+        "Name": "26cc 2-Cycle Gas Engine Multi-Tool with String Trimmer/Edger, Hedge Trimmer and Brush Cutter Blade Combo Kit (4-Tools)",
+        "Id": "325371505",
+        "CategoryId": "67583e53-e849-49e6-97e2-d787cfa83aa6",
+        "BrandExternalId": "WILDBADGERPOWER",
+        "Brand": {
+          "Id": "WILDBADGERPOWER",
+          "Name": "WILD BADGER POWER"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.homedepot.com/p/WILD-BADGER-POWER-26cc-2-Cycle-Gas-Engine-Multi-Tool-with-String-Trimmer-Edger-Hedge-Trimmer-and-Brush-Cutter-Blade-Combo-Kit-4-Tools-WB26MTSE/325371505",
+        "Disabled": false,
+        "EANs": [],
+        "StoryIds": [],
+        "FamilyIds": [],
+        "QuestionIds": [],
+        "ISBNs": [],
+        "ReviewIds": [],
+        "ModelNumbers": [],
+        "ReviewStatistics": {
+          "SecondaryRatingsAveragesOrder": [
+            "Quality",
+            "Value"
+          ],
+          "SecondaryRatingsAverages": {
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 3.6666666666666665,
+              "MaxLabel": null,
+              "DisplayType": "NORMAL",
+              "ValueRange": 5,
+              "MinLabel": null
+            },
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 3.6666666666666665,
+              "MaxLabel": null,
+              "DisplayType": "NORMAL",
+              "ValueRange": 5,
+              "MinLabel": null
+            }
+          },
+          "NotRecommendedCount": 2,
+          "FeaturedReviewCount": 0,
+          "RatingsOnlyReviewCount": 18,
+          "TotalReviewCount": 37,
+          "TotalPhotoCount": 7,
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 21
+            },
+            {
+              "RatingValue": 4,
+              "Count": 11
+            },
+            {
+              "RatingValue": 1,
+              "Count": 3
+            },
+            {
+              "RatingValue": 3,
+              "Count": 2
+            }
+          ],
+          "AverageOverallRating": 4.27027027027027,
+          "NotHelpfulVoteCount": 0,
+          "FirstSubmissionTime": "2025-06-11T14:48:04.000+00:00",
+          "LastSubmissionTime": "2026-09-09T15:30:49.000+00:00",
+          "HelpfulVoteCount": 2,
+          "TotalVideoCount": 0,
+          "RecommendedCount": 1,
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaser",
+            "EarlyReviewerIncentive"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaser": {
+              "Id": "VerifiedPurchaser",
+              "Values": [
+                {
+                  "Count": 33,
+                  "Value": "True"
+                }
+              ]
+            },
+            "EarlyReviewerIncentive": {
+              "Id": "EarlyReviewerIncentive",
+              "Values": [
+                {
+                  "Count": 5,
+                  "Value": "True"
+                },
+                {
+                  "Count": 28,
+                  "Value": "False"
+                }
+              ]
+            }
+          },
+          "TotalMediaCount": 7,
+          "TagDistribution": {},
+          "OverallRatingRange": 5,
+          "TagDistributionOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 37
+      }
+    },
+    "ProductsOrder": [
+      "325371505"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

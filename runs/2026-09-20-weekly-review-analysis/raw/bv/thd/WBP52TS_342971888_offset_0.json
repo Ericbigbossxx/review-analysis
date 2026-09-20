@@ -1,0 +1,1325 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 11,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "306506301",
+      "CID": "9193cd18-73de-5cc4-b822-dd026cc6a78e",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-09-09T21:30:16.000+00:00",
+      "LastModificationTime": "2026-09-09T21:30:16.000+00:00",
+      "ProductId": "342971888",
+      "OriginalProductName": "52 cc 2-in-1 2-Stroke Gas Straight Shaft Brush Cutter and String Hand Held Trimmer with Extra Spool",
+      "CampaignId": "msg_email-_-PR2_IN_T1-_-20260909_Product_Review_4708607-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "04280C330E99EE210S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17889880jjQLEd3AvF",
+      "SubmissionTime": "2026-09-09T21:06:57.000+00:00",
+      "ReviewText": "Nice unit especially for the price",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Title": null,
+      "Videos": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "CommentIds": [],
+      "TagDimensions": {},
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Pros": null,
+      "Photos": [],
+      "AdditionalFieldsOrder": [],
+      "IsSyndicated": false,
+      "ClientResponses": [],
+      "IsRecommended": null,
+      "SecondaryRatings": {},
+      "UserLocation": null
+    },
+    {
+      "Id": "306470613",
+      "CID": "f0ed2941-c913-5c6a-a934-22384e9c6f84",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "earlyReviewerIncentive": {
+          "ContentType": "REVIEW",
+          "Id": "earlyReviewerIncentive",
+          "BadgeType": "Custom"
+        },
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "earlyReviewerIncentive",
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-09-09T14:30:32.000+00:00",
+      "LastModificationTime": "2026-09-09T14:30:32.000+00:00",
+      "ProductId": "342971888",
+      "OriginalProductName": "52 cc 2-in-1 2-Stroke Gas Straight Shaft Brush Cutter and String Hand Held Trimmer with Extra Spool",
+      "CampaignId": "msg_email-_-PR3_IN_T1_ERP-_-20260909_Product_Review_4708607-_-Desktop-_-EMLP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0516C28C4283561D0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17889632KPh85GB6s9",
+      "SubmissionTime": "2026-09-09T14:13:50.000+00:00",
+      "ReviewText": "Good product. Well built. I use a saw blade style cutter.",
+      "UserNickname": "cdcrimsonlake",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "True",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Title": null,
+      "Videos": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "CommentIds": [],
+      "TagDimensions": {},
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Pros": null,
+      "Photos": [],
+      "AdditionalFieldsOrder": [],
+      "IsSyndicated": false,
+      "ClientResponses": [],
+      "IsRecommended": null,
+      "SecondaryRatings": {},
+      "UserLocation": null
+    },
+    {
+      "Id": "306316775",
+      "CID": "184d90d8-46f8-5353-9e48-46ab47ebd97e",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-09-02T21:30:13.000+00:00",
+      "LastModificationTime": "2026-09-02T21:30:13.000+00:00",
+      "ProductId": "342971888",
+      "OriginalProductName": "52 cc 2-in-1 2-Stroke Gas Straight Shaft Brush Cutter and String Hand Held Trimmer with Extra Spool",
+      "CampaignId": "msg_email-_-PR1_T1-_-20260902_Product_Review_4707618-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03EEF4F09D6F28E00S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17883842WGjrUBZimH",
+      "SubmissionTime": "2026-09-02T21:24:36.000+00:00",
+      "UserNickname": "KEVIN",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Title": null,
+      "Videos": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "CommentIds": [],
+      "TagDimensions": {},
+      "ReviewText": null,
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Pros": null,
+      "Photos": [],
+      "AdditionalFieldsOrder": [],
+      "IsSyndicated": false,
+      "ClientResponses": [],
+      "IsRecommended": null,
+      "SecondaryRatings": {},
+      "UserLocation": null
+    },
+    {
+      "Id": "306189679",
+      "CID": "fba8fc23-5a3d-555f-aaa3-03368b65ed3d",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2026-08-31T16:30:12.000+00:00",
+      "LastModificationTime": "2026-09-01T16:01:12.000+00:00",
+      "ProductId": "342971888",
+      "OriginalProductName": "52 cc 2-in-1 2-Stroke Gas Straight Shaft Brush Cutter and String Hand Held Trimmer with Extra Spool",
+      "CampaignId": "SubmitPilot2024",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nFor assistance please contact:<br />customerus&#64;wildbadgerpower.com <br /><br />1 (833) 822-0145\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2026-09-01T16:01:12.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "zkuch32ya50o6scp1cxqr829ju",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_1788022533WddQY4B6",
+      "SubmissionTime": "2026-08-29T16:55:07.000+00:00",
+      "ReviewText": "All in the very first minutes of use - the gasket on the top of the tank is completely shot along with the gasket for carb lines. I lose all the fuel in my tank within the amount of time it takes for me to swap the blade for the string. \nThe self feed string won’t self feed. Warranty says until the engine is shot there’s nothing they can do. Complete rip off.",
+      "Title": "Absolute garbage",
+      "UserNickname": "Logan",
+      "SecondaryRatings": {
+        "Value": {
+          "Value": 1,
+          "Id": "Value",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "Fulfillment": {
+          "Value": 1,
+          "Id": "Fulfillment",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "Quality": {
+          "Value": 1,
+          "Id": "Quality",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        }
+      },
+      "AdditionalFields": {
+        "State": {
+          "Value": "Tennessee",
+          "Id": "State"
+        }
+      },
+      "AdditionalFieldsOrder": [
+        "State"
+      ],
+      "Videos": [],
+      "Cons": null,
+      "ContextDataValues": {},
+      "ContextDataValuesOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "CommentIds": [],
+      "TagDimensions": {},
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Pros": null,
+      "Photos": [],
+      "IsSyndicated": false,
+      "Badges": {},
+      "BadgesOrder": [],
+      "UserLocation": null
+    },
+    {
+      "Id": "306089246",
+      "CID": "9f582581-d6d7-5cb7-a31c-e86136343127",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-08-27T01:00:10.000+00:00",
+      "LastModificationTime": "2026-08-27T01:00:10.000+00:00",
+      "ProductId": "342971888",
+      "OriginalProductName": "52 cc 2-in-1 2-Stroke Gas Straight Shaft Brush Cutter and String Hand Held Trimmer with Extra Spool",
+      "CampaignId": "msg_email-_-PR2_IN_T1-_-20260826_Product_Review_4706629-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "042F4FB7BDB6B2550S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17877917YScNLOAJw9",
+      "SubmissionTime": "2026-08-27T00:49:47.000+00:00",
+      "UserNickname": "Angel",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Title": null,
+      "Videos": [],
+      "Cons": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "CommentIds": [],
+      "TagDimensions": {},
+      "ReviewText": null,
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Pros": null,
+      "Photos": [],
+      "AdditionalFieldsOrder": [],
+      "IsSyndicated": false,
+      "ClientResponses": [],
+      "IsRecommended": null,
+      "UserLocation": null
+    },
+    {
+      "Id": "306048753",
+      "CID": "c5157d05-1cdb-5f4b-af71-519da1a88650",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "earlyReviewerIncentive": {
+          "ContentType": "REVIEW",
+          "Id": "earlyReviewerIncentive",
+          "BadgeType": "Custom"
+        },
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "earlyReviewerIncentive",
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-08-26T14:30:47.000+00:00",
+      "LastModificationTime": "2026-08-26T18:01:21.000+00:00",
+      "ProductId": "342971888",
+      "OriginalProductName": "52 cc 2-in-1 2-Stroke Gas Straight Shaft Brush Cutter and String Hand Held Trimmer with Extra Spool",
+      "CampaignId": "msg_email-_-PR2_OUT_T2_ERP-_-20260826_Product_Review_4706629-_-Mobile-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nFor assistance please contact:<br />customerus&#64;wildbadgerpower.com <br /><br />1-844-786-7336<br /><br />Let them know and we&#39;ll ship another one out.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2026-08-26T18:01:21.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "114102180",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 2,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17877536p50nMn0PfU",
+      "SubmissionTime": "2026-08-26T14:13:58.000+00:00",
+      "ReviewText": "Was to come with extra spool, mine did not.",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "True",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Title": null,
+      "Videos": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "CommentIds": [],
+      "TagDimensions": {},
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Pros": null,
+      "Photos": [],
+      "AdditionalFieldsOrder": [],
+      "IsSyndicated": false,
+      "IsRecommended": null,
+      "SecondaryRatings": {},
+      "UserLocation": null
+    },
+    {
+      "Id": "305591869",
+      "CID": "672dcf65-982a-5b88-a7cf-c9e203ee85e7",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2026-08-10T19:45:12.000+00:00",
+      "LastModificationTime": "2026-08-11T18:31:02.000+00:00",
+      "ProductId": "342971888",
+      "OriginalProductName": "52 cc 2-in-1 2-Stroke Gas Straight Shaft Brush Cutter and String Hand Held Trimmer with Extra Spool",
+      "CampaignId": "SubmitPilot2024",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nFor assistance please contact:<br />customerus&#64;wildbadgerpower.com\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2026-08-11T18:31:02.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "zf0w2pjn9e9y2477l0n22m03ru",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17863893Mig1b1T1M0",
+      "SubmissionTime": "2026-08-10T19:16:21.000+00:00",
+      "ReviewText": "Worked great for a few months and just like all power tools these days. No spark after 6 months piece of junk. They all are. Don't waste your time. Go electric.",
+      "Title": "No spark after 6 months of use",
+      "UserNickname": "Kenny B",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 1,
+          "Id": "Delivery",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "Value": {
+          "Value": 1,
+          "Id": "Value",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "CustomerService": {
+          "Value": 1,
+          "Id": "CustomerService",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "Fulfillment": {
+          "Value": 1,
+          "Id": "Fulfillment",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "Quality": {
+          "Value": 3,
+          "Id": "Quality",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        }
+      },
+      "Videos": [],
+      "Cons": null,
+      "ContextDataValues": {},
+      "ContextDataValuesOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "CommentIds": [],
+      "TagDimensions": {},
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Pros": null,
+      "Photos": [],
+      "AdditionalFieldsOrder": [],
+      "IsSyndicated": false,
+      "Badges": {},
+      "BadgesOrder": [],
+      "UserLocation": null
+    },
+    {
+      "Id": "304845279",
+      "CID": "42b55952-8333-5002-847f-83082d1bb0a0",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2026-08-02T00:45:06.000+00:00",
+      "LastModificationTime": "2026-08-02T00:45:06.000+00:00",
+      "ProductId": "342971888",
+      "OriginalProductName": "52 cc 2-in-1 2-Stroke Gas Straight Shaft Brush Cutter and String Hand Held Trimmer with Extra Spool",
+      "CampaignId": "SubmitPilot2024",
+      "UserLocation": "Pennsylvania",
+      "AuthorId": "z2meucebmbrvbp167t1qz4k6q2",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17856299YZucresPL4",
+      "SubmissionTime": "2026-08-02T00:19:38.000+00:00",
+      "ReviewText": "I did my homework before purchasing the Wild Badger. I needed power to cut through tough brush growth and this brush cutter was the right price and features that I was looking for. I was hesitant for the price that this would stand up to the reviews but it was even more powerful then the reviews said. I even upgraded to a mulching blade and it never hesitated to clear the brush. I've used many other brush cutters but the Wild Badger 52cc in my experience for the price and power out performs the rest. It is a beast!",
+      "Title": "More power then the rest",
+      "UserNickname": "Gary",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "Fulfillment": {
+          "Value": 5,
+          "Id": "Fulfillment",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        }
+      },
+      "AdditionalFields": {
+        "State": {
+          "Value": "Pennsylvania",
+          "Id": "State"
+        }
+      },
+      "AdditionalFieldsOrder": [
+        "State"
+      ],
+      "Videos": [],
+      "Cons": null,
+      "ContextDataValues": {},
+      "ContextDataValuesOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "CommentIds": [],
+      "TagDimensions": {},
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Pros": null,
+      "Photos": [],
+      "IsSyndicated": false,
+      "ClientResponses": [],
+      "Badges": {},
+      "BadgesOrder": []
+    },
+    {
+      "Id": "302515271",
+      "CID": "7d9aeec1-39db-5e1c-9cbb-47a53a565687",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-07-09T14:00:11.000+00:00",
+      "LastModificationTime": "2026-07-09T14:00:11.000+00:00",
+      "ProductId": "342971888",
+      "OriginalProductName": "52 cc 2-in-1 2-Stroke Gas Straight Shaft Brush Cutter and String Hand Held Trimmer with Extra Spool",
+      "CampaignId": "msg_email-_-PR2_IN_T1-_-20260708_Product_Review_4699740-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "041D16EC49F0C7330S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17836039rApo9p1AGN",
+      "SubmissionTime": "2026-07-09T13:32:54.000+00:00",
+      "ReviewText": "Great price. Works great. Starts up with no problem. I was going to pay someone to wack the brush but instead I decided to do it myself. At the price point, it made sense. Used it several times so I got my payback. I would recommend this. The others are so expensive.",
+      "UserNickname": "HomeDepotCustomer",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Title": null,
+      "Videos": [],
+      "Cons": null,
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "CommentIds": [],
+      "TagDimensions": {},
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Pros": null,
+      "Photos": [],
+      "AdditionalFieldsOrder": [],
+      "IsSyndicated": false,
+      "ClientResponses": [],
+      "IsRecommended": null,
+      "UserLocation": null
+    },
+    {
+      "Id": "302470491",
+      "CID": "a34244fb-988d-588e-928f-52fa0f55e0c1",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "earlyReviewerIncentive": {
+          "ContentType": "REVIEW",
+          "Id": "earlyReviewerIncentive",
+          "BadgeType": "Custom"
+        },
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "earlyReviewerIncentive",
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-07-08T16:00:26.000+00:00",
+      "LastModificationTime": "2026-07-08T16:00:26.000+00:00",
+      "ProductId": "342971888",
+      "OriginalProductName": "52 cc 2-in-1 2-Stroke Gas Straight Shaft Brush Cutter and String Hand Held Trimmer with Extra Spool",
+      "CampaignId": "msg_email-_-PR3_IN_T1_ERP-_-20260701_Product_Review_4698756-_-Desktop-_-EM-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0310DB3ECDDB728E0S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17835250h9SyEZPyLw",
+      "SubmissionTime": "2026-07-08T15:37:25.000+00:00",
+      "ReviewText": "purchase this for a friend for a housewarming gift and he likes it. He likes that it has a lot of attachments that can be used for different uses, and it was delivered and pkg",
+      "UserNickname": "Tory",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "True",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Title": null,
+      "Videos": [],
+      "Cons": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "AdditionalFields": {},
+      "RatingRange": 5,
+      "CommentIds": [],
+      "TagDimensions": {},
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Pros": null,
+      "Photos": [],
+      "AdditionalFieldsOrder": [],
+      "IsSyndicated": false,
+      "ClientResponses": [],
+      "IsRecommended": null,
+      "SecondaryRatings": {},
+      "UserLocation": null
+    },
+    {
+      "Id": "302370300",
+      "CID": "1eb05924-62f4-5b73-83ff-a82a347182ef",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2026-07-03T18:30:15.000+00:00",
+      "LastModificationTime": "2026-07-03T18:30:15.000+00:00",
+      "ProductId": "342971888",
+      "OriginalProductName": "52 cc 2-in-1 2-Stroke Gas Straight Shaft Brush Cutter and String Hand Held Trimmer with Extra Spool",
+      "CampaignId": "SubmitPilot2024",
+      "UserLocation": "Indiana",
+      "AuthorId": "zedwzz2k189206aig9ifks2cv3",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17831016c2xO6svBcD",
+      "SubmissionTime": "2026-07-03T18:00:22.000+00:00",
+      "ReviewText": "I bought this for my backyard.  No grass just weeds, burdock , spiny lettuce,  big stuff that grows fast . Some four feet high ..the brush head works on this. Not super fast . But does cut it down .  Careful with privacy fence,  it will cut it .",
+      "Title": "Good brush cutter",
+      "UserNickname": "Chris",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "Value": {
+          "Value": 5,
+          "Id": "Value",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "Fulfillment": {
+          "Value": 5,
+          "Id": "Fulfillment",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        },
+        "Quality": {
+          "Value": 5,
+          "Id": "Quality",
+          "DisplayType": "NORMAL",
+          "MinLabel": null,
+          "MaxLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "Label": null
+        }
+      },
+      "AdditionalFields": {
+        "State": {
+          "Value": "Indiana",
+          "Id": "State"
+        }
+      },
+      "AdditionalFieldsOrder": [
+        "State"
+      ],
+      "Videos": [],
+      "Cons": null,
+      "ContextDataValues": {},
+      "ContextDataValuesOrder": [],
+      "ProductRecommendationIds": [],
+      "InappropriateFeedbackList": [],
+      "RatingRange": 5,
+      "CommentIds": [],
+      "TagDimensions": {},
+      "TagDimensionsOrder": [],
+      "Helpfulness": null,
+      "Pros": null,
+      "Photos": [],
+      "IsSyndicated": false,
+      "ClientResponses": [],
+      "Badges": {},
+      "BadgesOrder": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "342971888": {
+        "AttributesOrder": [
+          "Category",
+          "Subclass",
+          "ChildSku",
+          "GLN",
+          "THDBrowseOnlinestatus",
+          "THDOnlineStatus",
+          "Department",
+          "IDMVendorAcctName",
+          "THDSubClass_name",
+          "THDClass_name",
+          "THDSubSubClass",
+          "GTIN14",
+          "THD_SubSubClass_name",
+          "THDDept_name",
+          "THDDotComOnlinestatus",
+          "THDSubClass",
+          "HDClass",
+          "THDDept",
+          "dcs_nbr",
+          "AVAILABILITY",
+          "Class",
+          "MFGModel"
+        ],
+        "Attributes": {
+          "Category": {
+            "Id": "Category",
+            "Values": [
+              {
+                "Value": "POWER> HANDHELD POWER> OTHER TRIMMERS> GAS TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "Subclass": {
+            "Id": "Subclass",
+            "Values": [
+              {
+                "Value": "19",
+                "Locale": null
+              }
+            ]
+          },
+          "ChildSku": {
+            "Id": "ChildSku",
+            "Values": [
+              {
+                "Value": "342971888",
+                "Locale": null
+              }
+            ]
+          },
+          "GLN": {
+            "Id": "GLN",
+            "Values": [
+              {
+                "Value": "0854641007009",
+                "Locale": null
+              }
+            ]
+          },
+          "THDBrowseOnlinestatus": {
+            "Id": "THDBrowseOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDOnlineStatus": {
+            "Id": "THDOnlineStatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "Department": {
+            "Id": "Department",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "IDMVendorAcctName": {
+            "Id": "IDMVendorAcctName",
+            "Values": [
+              {
+                "Value": "SUNSEEKER US INC",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass_name": {
+            "Id": "THDSubClass_name",
+            "Values": [
+              {
+                "Value": "OTHER TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDClass_name": {
+            "Id": "THDClass_name",
+            "Values": [
+              {
+                "Value": "HANDHELD POWER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubSubClass": {
+            "Id": "THDSubSubClass",
+            "Values": [
+              {
+                "Value": "102",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850060195822",
+                "Locale": null
+              }
+            ]
+          },
+          "THD_SubSubClass_name": {
+            "Id": "THD_SubSubClass_name",
+            "Values": [
+              {
+                "Value": "GAS TRIMMERS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept_name": {
+            "Id": "THDDept_name",
+            "Values": [
+              {
+                "Value": "SEASONAL/GARDEN",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDotComOnlinestatus": {
+            "Id": "THDDotComOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass": {
+            "Id": "THDSubClass",
+            "Values": [
+              {
+                "Value": "19",
+                "Locale": null
+              }
+            ]
+          },
+          "HDClass": {
+            "Id": "HDClass",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept": {
+            "Id": "THDDept",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "dcs_nbr": {
+            "Id": "dcs_nbr",
+            "Values": [
+              {
+                "Value": "28-32-19",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "Class": {
+            "Id": "Class",
+            "Values": [
+              {
+                "Value": "32",
+                "Locale": null
+              }
+            ]
+          },
+          "MFGModel": {
+            "Id": "MFGModel",
+            "Values": [
+              {
+                "Value": "WBP52TS",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850060195822"
+        ],
+        "Description": "The WILD BADGER POWER 2-in-1 Straight Shaft Grass String Trimmer and Brush Cutter is a versatile, powerful tool. This multi-tool has a grass trimmer spool for detail work along fence lines and borders, as well as a brush cutter blade to tackle heavier grasses and thick brush. It also includes a harness coupled with ergonomic bicycle-style handles to relieve the strain on your arms and provide stability. Powered by a 52 cc, 2-cycle, full-crank engine, your trimmer has plenty of power and is designed for reliability. The full crank design provides a smooth start and operation to reduce emissions, increase fuel efficiency and provide longer life. The transmission is supported by an aluminum casing which greatly reduces vibration allowing you to work in comfort until the job is done. The straight shaft is built with a robust aluminum tube which is lightweight and durable for added comfort and convenience. The tap-and-go trimmer head allows for quick line feed for the twin line cutting system. Replacing the line will no longer eat up precious daylight and will give you more time to get your lawns and landscaping looking clean. Notes about the product: This machine takes a mix of both gasoline and oil, other attachments and accessories not included.",
+        "ManufacturerPartNumbers": [
+          "WBP52TS"
+        ],
+        "ImageUrl": "https://images.thdstatic.com/productImages/c01cea64-446e-4dca-89f6-098b38a2e036/svn/wild-badger-power-gas-string-trimmers-wbp52ts-64_1000.jpg",
+        "Name": "52 cc 2-in-1 2-Stroke Gas Straight Shaft Brush Cutter and String Hand Held Trimmer with Extra Spool",
+        "Id": "342971888",
+        "CategoryId": "7651c252-aec3-4d90-88e2-6f4fe31d6a1d",
+        "BrandExternalId": "WILDBADGERPOWER",
+        "Brand": {
+          "Id": "WILDBADGERPOWER",
+          "Name": "WILD BADGER POWER"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.homedepot.com/p/WILD-BADGER-POWER-52-cc-2-in-1-2-Stroke-Gas-Straight-Shaft-Brush-Cutter-and-String-Hand-Held-Trimmer-with-Extra-Spool-WBP52TS/342971888",
+        "Disabled": false,
+        "ISBNs": [],
+        "ReviewIds": [],
+        "FamilyIds": [],
+        "ModelNumbers": [],
+        "EANs": [],
+        "QuestionIds": [],
+        "StoryIds": [],
+        "ReviewStatistics": {
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaser",
+            "EarlyReviewerIncentive"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaser": {
+              "Id": "VerifiedPurchaser",
+              "Values": [
+                {
+                  "Count": 7,
+                  "Value": "True"
+                }
+              ]
+            },
+            "EarlyReviewerIncentive": {
+              "Id": "EarlyReviewerIncentive",
+              "Values": [
+                {
+                  "Count": 3,
+                  "Value": "True"
+                },
+                {
+                  "Count": 4,
+                  "Value": "False"
+                }
+              ]
+            }
+          },
+          "FeaturedReviewCount": 0,
+          "TotalReviewCount": 11,
+          "RecommendedCount": 2,
+          "FirstSubmissionTime": "2026-07-03T18:00:22.000+00:00",
+          "LastSubmissionTime": "2026-09-09T21:06:57.000+00:00",
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 8
+            },
+            {
+              "RatingValue": 1,
+              "Count": 2
+            },
+            {
+              "RatingValue": 2,
+              "Count": 1
+            }
+          ],
+          "TotalVideoCount": 0,
+          "AverageOverallRating": 4.0,
+          "NotHelpfulVoteCount": 0,
+          "TotalPhotoCount": 0,
+          "HelpfulVoteCount": 0,
+          "RatingsOnlyReviewCount": 2,
+          "SecondaryRatingsAveragesOrder": [
+            "Quality",
+            "Value"
+          ],
+          "SecondaryRatingsAverages": {
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 3.5,
+              "MaxLabel": null,
+              "ValueRange": 5,
+              "DisplayType": "NORMAL",
+              "MinLabel": null
+            },
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 3.0,
+              "MaxLabel": null,
+              "ValueRange": 5,
+              "DisplayType": "NORMAL",
+              "MinLabel": null
+            }
+          },
+          "NotRecommendedCount": 2,
+          "TotalMediaCount": 0,
+          "OverallRatingRange": 5,
+          "TagDistributionOrder": [],
+          "TagDistribution": {},
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 11
+      }
+    },
+    "ProductsOrder": [
+      "342971888"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

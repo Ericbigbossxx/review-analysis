@@ -1,0 +1,82 @@
+{
+  "WB20VTRSBL": {
+    "priorValuesApplied": {
+      "finalUrl": "https://www.walmart.com/ip/WILD-BADGER-POWER-20V-Cordless-String-Trimmer-With-Sweeper-Combo-2-2Ah-Battery-Charger/5629858326",
+      "title": "WILD BADGER POWER, Cordless String Trimmer and Sweeper Combo, Blue - Walmart.com",
+      "productName": "WILD BADGER POWER 20V Cordless String Trimmer with Sweeper Combo, 2*2Ah Battery & Charger - Walmart.com",
+      "averageRating": 4.1,
+      "totalRatings": 101,
+      "totalReviews": 264,
+      "ratingsDistribution": null,
+      "pageTotalRatings": 101,
+      "pageTotalReviews": 264,
+      "pageAverageRating": 4.1,
+      "totalReviewCount": 59,
+      "reviewsWithTextCount": 43,
+      "averageOverallRating": 4.1,
+      "ratings": {
+        "one": 6,
+        "two": 5,
+        "three": 2,
+        "four": 10,
+        "five": 36
+      },
+      "qaPassed": true,
+      "qaWarnings": []
+    },
+    "priorSummaryTotalReviews": 59,
+    "priorSummaryLowStar": 13,
+    "supersededObservationFromThisRun": {
+      "totalReviewCount": 62,
+      "averageOverallRating": 4.1,
+      "ratings": {
+        "one": 6,
+        "two": 5,
+        "three": 2,
+        "four": 10,
+        "five": 39
+      },
+      "note": "this run's aux-feed values, discarded in favour of the prior period"
+    }
+  },
+  "WB40VCOMBO": {
+    "priorValuesApplied": {
+      "finalUrl": "https://www.walmart.com/ip/Wild-Badger-Power-40V-Cordless-Weed-Wacker-String-Trimmer-Edger-Hedge-Trimmer-Brush-Cutter-Blade-Pole-Saw-Attachment-Capable-4-in-1-Multi-Tool-Kit-2/17598657653",
+      "title": "Wild Badger 40V 4-in-1 Cordless Power Tool Kit w/ Batteries & Charger - Walmart.com",
+      "productName": "Wild Badger 40V 4-in-1 Cordless Outdoor Power Tool Kit (Weed Wacker, Pole Saw, Hedge Trimmer, Brush Cutter) with 2*4 AhBatteries & Charger - Walmart.com",
+      "averageRating": 5,
+      "totalRatings": 3,
+      "totalReviews": 1132,
+      "ratingsDistribution": null,
+      "pageTotalRatings": null,
+      "pageTotalReviews": null,
+      "pageAverageRating": null,
+      "totalReviewCount": 0,
+      "reviewsWithTextCount": 0,
+      "averageOverallRating": null,
+      "ratings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      },
+      "qaPassed": true,
+      "qaWarnings": []
+    },
+    "priorSummaryTotalReviews": 0,
+    "priorSummaryLowStar": 0,
+    "supersededObservationFromThisRun": {
+      "totalReviewCount": 0,
+      "averageOverallRating": null,
+      "ratings": {
+        "one": 0,
+        "two": 0,
+        "three": 0,
+        "four": 0,
+        "five": 0
+      },
+      "note": "this run's aux-feed values, discarded in favour of the prior period"
+    }
+  }
+}

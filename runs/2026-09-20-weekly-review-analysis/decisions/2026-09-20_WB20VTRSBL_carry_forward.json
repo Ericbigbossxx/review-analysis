@@ -1,0 +1,60 @@
+{
+  "decisionId": "2026-09-20_WB20VTRSBL_carry_forward",
+  "decidedAt": "2026-09-20",
+  "decidedBy": "user",
+  "rulingVerbatim": "那个Walmart的问题，沿用上一期的数据就行，现在是产品unpublish了，所以被重新定位。",
+  "rulingTranslation": "For that Walmart problem: carry forward the prior period's data. The product is now unpublished, so it has been re-positioned/redirected.",
+  "run": "runs/2026-09-20-weekly-review-analysis",
+  "sku": "WB20VTRSBL",
+  "recordId": "WALMART_WB20VTRSBL",
+  "platform": "Walmart",
+  "priorPeriod": "2026-09-10",
+  "anomaly": {
+    "type": "FROZEN_URL_REDIRECTS_TO_ANOTHER_MONITORED_SKU",
+    "frozenUrl": "http://www.walmart.com/ip/5629858326",
+    "frozenItemId": "5629858326",
+    "landedUrl": "https://www.walmart.com/ip/WILD-BADGER-POWER-20V-Cordless-String-Trimmer-With-blower-Combo-Set-Weed-Eater-Leaf-Blower/864525478",
+    "landedItemId": "864525478",
+    "landedItemIdBelongsTo": "WALMART_WB20VTAB (its own frozen itemId in the 2026-09-20 scope)",
+    "landedProductName": "Wild Badger Power 20V Weed Eater & Trimmer Set, 2×2.0Ah Batteries, Cordless Lightweight Grass Trimmer for Small Yards, Fence Lines & Easy Lawn Care - Walmart.com",
+    "landedPageCounts": {
+      "averageRating": 4.2,
+      "totalRatings": 335,
+      "totalReviews": 118
+    },
+    "firstObservedThisRun": "2026-09-20T08:54:13.751Z",
+    "reproduced": "Landed on itemId 864525478 in two independent worker runs 20 minutes apart; the same frozen URL resolved correctly on 2026-09-03 and 2026-09-10.",
+    "note": "scope_diff reports LINK_CHANGED=0 because the WORKBOOK url is unchanged; the platform-side landing target moved, so the diff cannot catch this. WB20VTAB itself verified normally under its own itemId — the two SKUs' data are deliberately NOT merged."
+  },
+  "action": "CARRY_FORWARD_PRIOR_PERIOD_DATA",
+  "priorValuesApplied": {
+    "productName": "WILD BADGER POWER 20V Cordless String Trimmer with Sweeper Combo, 2*2Ah Battery & Charger - Walmart.com",
+    "brand": null,
+    "url": "http://www.walmart.com/ip/5629858326",
+    "finalUrl": "https://www.walmart.com/ip/WILD-BADGER-POWER-20V-Cordless-String-Trimmer-With-Sweeper-Combo-2-2Ah-Battery-Charger/5629858326",
+    "title": "WILD BADGER POWER, Cordless String Trimmer and Sweeper Combo, Blue - Walmart.com",
+    "averageRating": 4.1,
+    "totalRatings": 101,
+    "totalReviews": 264,
+    "pageTotalRatings": 101,
+    "pageTotalReviews": 264,
+    "pageAverageRating": 4.1,
+    "totalReviewCount": 59,
+    "reviewsWithTextCount": 43,
+    "averageOverallRating": 4.1,
+    "ratings": {"one": 6, "two": 5, "three": 2, "four": 10, "five": 36}
+  },
+  "supersededObservationFromThisRun": {
+    "totalReviewCount": 62,
+    "averageOverallRating": 4.1,
+    "ratings": {"one": 6, "two": 5, "three": 2, "four": 10, "five": 39},
+    "note": "This run's BV auxiliary feed values (62 ratings). Discarded in favour of the prior period under the user's ruling; retained here as evidence of what the live feed reported."
+  },
+  "numericImpact": "Total ratings 1982 -> 1979 (-3) and low-star unchanged (this SKU contributes 13 low-star in both periods). No low-star cluster, theme count, or new-review count changes.",
+  "evidencePreserved": [
+    "runs/2026-09-20-weekly-review-analysis/walmart_storefront_cdp_batch4.jsonl",
+    "runs/2026-09-20-weekly-review-analysis/walmart_storefront_cdp_batch4_retry.jsonl",
+    "runs/2026-09-20-weekly-review-analysis/pre_carryforward/",
+    "runs/2026-09-20-weekly-review-analysis/pre_carryforward/carry_forward_applied.json"
+  ]
+}

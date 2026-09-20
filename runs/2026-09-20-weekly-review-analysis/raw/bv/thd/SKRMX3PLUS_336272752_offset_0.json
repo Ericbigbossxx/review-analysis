@@ -1,0 +1,873 @@
+{
+  "Limit": 100,
+  "Offset": 0,
+  "TotalResults": 6,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "398379011",
+      "CID": "2bd28145-392b-5c95-95af-e1c0a36595ce",
+      "SourceClient": "sunseeker",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-07-20T07:15:27.000+00:00",
+      "LastModificationTime": "2026-07-20T07:15:27.000+00:00",
+      "ProductId": "336272752",
+      "OriginalProductName": "Sunseeker X3 Plus Wireless AI Robot Lawn Mower | 0.3 Acre",
+      "AuthorId": "10322654626109",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "IsSyndicated": true,
+      "SyndicationSource": {
+        "ClientId": null,
+        "LogoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/a15a3c93-3b04-42ad-8ff8-e2595c323f1d",
+        "ContentLink": null,
+        "Name": "shopsunseekertech.com"
+      },
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": true,
+      "ModerationStatus": "APPROVED",
+      "SubmissionTime": "2026-07-20T07:07:42.000+00:00",
+      "UserNickname": null,
+      "TotalFeedbackCount": 0,
+      "SubmissionId": null,
+      "Pros": null,
+      "ReviewText": null,
+      "TotalPositiveFeedbackCount": 0,
+      "CampaignId": null,
+      "InappropriateFeedbackList": [],
+      "Videos": [],
+      "Helpfulness": null,
+      "SecondaryRatingsOrder": [],
+      "Title": null,
+      "TotalNegativeFeedbackCount": 0,
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "ContextDataValues": {},
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "ContextDataValuesOrder": [],
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "ClientResponses": [],
+      "UserLocation": null,
+      "CommentIds": [],
+      "SecondaryRatings": {},
+      "ProductRecommendationIds": [],
+      "Photos": []
+    },
+    {
+      "Id": "301204772",
+      "CID": "2f423768-a755-52c2-a9a6-ff19442a69a1",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2026-06-25T20:15:13.000+00:00",
+      "LastModificationTime": "2026-07-22T14:51:40.000+00:00",
+      "ProductId": "336272752",
+      "OriginalProductName": "X3 Plus Wireless 8 in. Robot Lawn Mower (0.3 Acre) with RTK Navigation, AI Obstacle Avoidance, App Control",
+      "CampaignId": "SubmitPilot2024",
+      "UserLocation": "Erie pa",
+      "AuthorId": "z5p4ka28eifg7obweiei0tylux",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zl4vkc8nb0ytubqqm0x1dhwje2",
+          "SubmissionTime": "2026-08-21T01:54:47.000+00:00"
+        },
+        {
+          "AuthorId": "z9i47wi3558vum8xxa4u1gbdym",
+          "SubmissionTime": "2026-06-25T01:41:13.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Photos": [
+        {
+          "Sizes": {
+            "normal": {
+              "Id": "normal",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/361fa240-81ef-5840-91e4-d3dc6a76d6cf"
+            },
+            "thumbnail": {
+              "Id": "thumbnail",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/8df6ca7f-2e26-5d4a-8141-6543c3a61b55"
+            },
+            "large": {
+              "Id": "large",
+              "Url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86aG9tZWRlcG90/14e7eca7-7f68-540c-afdc-a6d6fba2d1d3"
+            }
+          },
+          "Id": "23106009",
+          "SizesOrder": [
+            "normal",
+            "thumbnail",
+            "large"
+          ],
+          "Caption": null
+        }
+      ],
+      "Rating": 1,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Value",
+        "Fulfillment",
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17794225liWfLfUcn6",
+      "SubmissionTime": "2026-05-22T04:03:08.000+00:00",
+      "ReviewText": "Don't get if you have .3 acres or tough grass like clover it's front lip is too low and keeps going around frass thinking it's an obstacle. Had an old worx that has no vision or anything could keep the grass perfect randomly mowing. This one is so inefficient with it patterns and gets behind the can't even mow 4 inch tall grass keeps leaving large patches.",
+      "Title": "Thinks grass is an obstacle",
+      "UserNickname": "Dustand",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 1,
+          "Id": "Delivery",
+          "MaxLabel": null,
+          "Label": null,
+          "MinLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Value": {
+          "Value": 1,
+          "Id": "Value",
+          "MaxLabel": null,
+          "Label": null,
+          "MinLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 1,
+          "Id": "CustomerService",
+          "MaxLabel": null,
+          "Label": null,
+          "MinLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Fulfillment": {
+          "Value": 1,
+          "Id": "Fulfillment",
+          "MaxLabel": null,
+          "Label": null,
+          "MinLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Quality": {
+          "Value": 1,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "Label": null,
+          "MinLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "AdditionalFields": {
+        "State": {
+          "Value": "Pa",
+          "Id": "State"
+        }
+      },
+      "AdditionalFieldsOrder": [
+        "State"
+      ],
+      "Pros": null,
+      "IsSyndicated": false,
+      "Videos": [],
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "ContextDataValues": {},
+      "Badges": {},
+      "TagDimensions": {},
+      "ContextDataValuesOrder": [],
+      "RatingRange": 5,
+      "ClientResponses": [],
+      "CommentIds": [],
+      "ProductRecommendationIds": []
+    },
+    {
+      "Id": "300939902",
+      "CID": "ed9b2891-42b5-570d-8fc4-9280a90d4626",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2026-08-21T02:00:12.000+00:00",
+      "LastModificationTime": "2026-08-21T02:00:12.000+00:00",
+      "ProductId": "336272752",
+      "OriginalProductName": "X3 Plus Wireless 8 in. Robot Lawn Mower (0.3 Acre) with RTK Navigation, AI Obstacle Avoidance, App Control",
+      "CampaignId": "msg_email-_-PR2_OUT_T1-_-20260513_Product_Review_4691768-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "0522274FE58501970S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z3l5l76s5wyqpa1uto0uqgtmcf",
+          "SubmissionTime": "2026-08-21T01:54:49.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17786815l33Mlb0lZW",
+      "SubmissionTime": "2026-05-13T14:11:50.000+00:00",
+      "UserNickname": "HomeDepotCustomer",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Pros": null,
+      "ReviewText": null,
+      "IsSyndicated": false,
+      "Videos": [],
+      "Helpfulness": null,
+      "SecondaryRatingsOrder": [],
+      "Title": null,
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "ClientResponses": [],
+      "UserLocation": null,
+      "CommentIds": [],
+      "SecondaryRatings": {},
+      "ProductRecommendationIds": [],
+      "Photos": []
+    },
+    {
+      "Id": "297255426",
+      "CID": "658c52df-72ae-510f-bc36-45adbbc360a1",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-12-24T16:15:49.000+00:00",
+      "LastModificationTime": "2026-01-08T06:41:58.000+00:00",
+      "ProductId": "336272752",
+      "OriginalProductName": "X3 Plus Wireless 8 in. Robot Lawn Mower (0.3 Acre) with RTK Navigation, AI Obstacle Avoidance, App Control",
+      "CampaignId": "msg_email-_-PR1_T3-_-20251224_Product_Review_4672082-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "051DD414B17960400S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "SecondaryRatingsOrder": [
+        "CustomerService",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 1,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17665864hd35MRawqx",
+      "SubmissionTime": "2025-12-24T14:28:14.000+00:00",
+      "ReviewText": "The Ai created the perimeter. The app is easy to use. I slowly lowered the mowing level each time it mowed to a height I like. Overall, I like it and would recommend it.",
+      "UserNickname": "HomeDepotCustomer",
+      "SecondaryRatings": {
+        "Delivery": {
+          "Value": 5,
+          "Id": "Delivery",
+          "MaxLabel": null,
+          "Label": null,
+          "MinLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "CustomerService": {
+          "Value": 5,
+          "Id": "CustomerService",
+          "MaxLabel": null,
+          "Label": null,
+          "MinLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Pros": null,
+      "InappropriateFeedbackList": [],
+      "IsSyndicated": false,
+      "Videos": [],
+      "Title": null,
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "ClientResponses": [],
+      "UserLocation": null,
+      "CommentIds": [],
+      "ProductRecommendationIds": [],
+      "Photos": []
+    },
+    {
+      "Id": "294414739",
+      "CID": "ae8dfa1d-313e-5d7a-bf9e-2242ed7bd66b",
+      "SourceClient": "homedepot",
+      "Badges": {
+        "verifiedPurchaser": {
+          "ContentType": "REVIEW",
+          "Id": "verifiedPurchaser",
+          "BadgeType": "Custom"
+        }
+      },
+      "BadgesOrder": [
+        "verifiedPurchaser"
+      ],
+      "LastModeratedTime": "2025-09-17T13:15:15.000+00:00",
+      "LastModificationTime": "2025-09-17T13:15:15.000+00:00",
+      "ProductId": "336272752",
+      "OriginalProductName": "X3 Plus Wireless 8 in. Robot Lawn Mower (0.3 Acre) with RTK Navigation, AI Obstacle Avoidance, App Control",
+      "CampaignId": "msg_email-_-PR1_T2-_-20250917_Product_Review_4657994-_-Mobile-_-LP-_-1",
+      "ContextDataValuesOrder": [
+        "EarlyReviewerIncentive"
+      ],
+      "AuthorId": "03ED1CCA60E728D00S",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": true,
+      "TotalFeedbackCount": 0,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999-en__17581148qxibILMv3j",
+      "SubmissionTime": "2025-09-17T13:13:20.000+00:00",
+      "UserNickname": "CINDY",
+      "ContextDataValues": {
+        "EarlyReviewerIncentive": {
+          "Value": "False",
+          "Id": "EarlyReviewerIncentive"
+        }
+      },
+      "Pros": null,
+      "ReviewText": null,
+      "InappropriateFeedbackList": [],
+      "IsSyndicated": false,
+      "Videos": [],
+      "Helpfulness": null,
+      "SecondaryRatingsOrder": [],
+      "Title": null,
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "TagDimensions": {},
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "ClientResponses": [],
+      "UserLocation": null,
+      "CommentIds": [],
+      "SecondaryRatings": {},
+      "ProductRecommendationIds": [],
+      "Photos": []
+    },
+    {
+      "Id": "292113576",
+      "CID": "cd876689-a106-5984-82fb-60929907fb7b",
+      "SourceClient": "homedepot",
+      "LastModeratedTime": "2025-06-27T23:00:04.000+00:00",
+      "LastModificationTime": "2026-07-22T14:51:35.000+00:00",
+      "ProductId": "336272752",
+      "OriginalProductName": "X3 Plus Wireless 8 in. Robot Lawn Mower (0.3 Acre) with RTK Navigation, AI Obstacle Avoidance, App Control",
+      "CampaignId": "BV_MOBILE_REVIEW_DISPLAY",
+      "AuthorId": "zecyugobnenl7btztxxbkb5x38",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "SecondaryRatingsOrder": [
+        "Quality",
+        "Fulfillment",
+        "Delivery"
+      ],
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r11999_7_0_17510636Q2FSTQZPkJ",
+      "SubmissionTime": "2025-06-27T22:33:51.000+00:00",
+      "ReviewText": "Do not waste your time. This is really a cruel experiment to play on consumers.  Would move 5 feet, stop and say it was completed. And the amount of grass cut in that 5 feet was not noticeable.",
+      "Title": "Horrible.",
+      "UserNickname": "Ted",
+      "SecondaryRatings": {
+        "Quality": {
+          "Value": 1,
+          "Id": "Quality",
+          "MaxLabel": null,
+          "Label": null,
+          "MinLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Delivery": {
+          "Value": 4,
+          "Id": "Delivery",
+          "MaxLabel": null,
+          "Label": null,
+          "MinLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        },
+        "Fulfillment": {
+          "Value": 1,
+          "Id": "Fulfillment",
+          "MaxLabel": null,
+          "Label": null,
+          "MinLabel": null,
+          "ValueRange": 5,
+          "ValueLabel": null,
+          "DisplayType": "NORMAL"
+        }
+      },
+      "Pros": null,
+      "InappropriateFeedbackList": [],
+      "IsSyndicated": false,
+      "Videos": [],
+      "BadgesOrder": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "ContextDataValues": {},
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "TagDimensions": {},
+      "ContextDataValuesOrder": [],
+      "RatingRange": 5,
+      "AdditionalFields": {},
+      "ClientResponses": [],
+      "UserLocation": null,
+      "CommentIds": [],
+      "ProductRecommendationIds": [],
+      "Photos": []
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "336272752": {
+        "AttributesOrder": [
+          "Category",
+          "Subclass",
+          "ChildSku",
+          "GLN",
+          "THDBrowseOnlinestatus",
+          "THDOnlineStatus",
+          "Department",
+          "IDMVendorAcctName",
+          "THDSubClass_name",
+          "THDClass_name",
+          "THDSubSubClass",
+          "GTIN14",
+          "THD_SubSubClass_name",
+          "THDDept_name",
+          "THDDotComOnlinestatus",
+          "THDSubClass",
+          "HDClass",
+          "THDDept",
+          "dcs_nbr",
+          "AVAILABILITY",
+          "Class",
+          "MFGModel"
+        ],
+        "Attributes": {
+          "Category": {
+            "Id": "Category",
+            "Values": [
+              {
+                "Value": "POWER> WALKS> ROBOTIC MOWER> OTHER",
+                "Locale": null
+              }
+            ]
+          },
+          "Subclass": {
+            "Id": "Subclass",
+            "Values": [
+              {
+                "Value": "24",
+                "Locale": null
+              }
+            ]
+          },
+          "ChildSku": {
+            "Id": "ChildSku",
+            "Values": [
+              {
+                "Value": "336272752",
+                "Locale": null
+              }
+            ]
+          },
+          "GLN": {
+            "Id": "GLN",
+            "Values": [
+              {
+                "Value": "0854641007009",
+                "Locale": null
+              }
+            ]
+          },
+          "THDBrowseOnlinestatus": {
+            "Id": "THDBrowseOnlinestatus",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "THDOnlineStatus": {
+            "Id": "THDOnlineStatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "Department": {
+            "Id": "Department",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "IDMVendorAcctName": {
+            "Id": "IDMVendorAcctName",
+            "Values": [
+              {
+                "Value": "SUNSEEKER US INC",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass_name": {
+            "Id": "THDSubClass_name",
+            "Values": [
+              {
+                "Value": "ROBOTIC MOWER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDClass_name": {
+            "Id": "THDClass_name",
+            "Values": [
+              {
+                "Value": "WALKS",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubSubClass": {
+            "Id": "THDSubSubClass",
+            "Values": [
+              {
+                "Value": "101",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00850060195280",
+                "Locale": null
+              }
+            ]
+          },
+          "THD_SubSubClass_name": {
+            "Id": "THD_SubSubClass_name",
+            "Values": [
+              {
+                "Value": "OTHER",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept_name": {
+            "Id": "THDDept_name",
+            "Values": [
+              {
+                "Value": "SEASONAL/GARDEN",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDotComOnlinestatus": {
+            "Id": "THDDotComOnlinestatus",
+            "Values": [
+              {
+                "Value": "true",
+                "Locale": null
+              }
+            ]
+          },
+          "THDSubClass": {
+            "Id": "THDSubClass",
+            "Values": [
+              {
+                "Value": "24",
+                "Locale": null
+              }
+            ]
+          },
+          "HDClass": {
+            "Id": "HDClass",
+            "Values": [
+              {
+                "Value": "35",
+                "Locale": null
+              }
+            ]
+          },
+          "THDDept": {
+            "Id": "THDDept",
+            "Values": [
+              {
+                "Value": "28",
+                "Locale": null
+              }
+            ]
+          },
+          "dcs_nbr": {
+            "Id": "dcs_nbr",
+            "Values": [
+              {
+                "Value": "28-35-24",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "Class": {
+            "Id": "Class",
+            "Values": [
+              {
+                "Value": "35",
+                "Locale": null
+              }
+            ]
+          },
+          "MFGModel": {
+            "Id": "MFGModel",
+            "Values": [
+              {
+                "Value": "SKRMX3PLUS",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "850060195280"
+        ],
+        "Description": "The SUNSEEKER X3 Plus is a wireless robot lawn mower designed for residential lawns up to 0.3 acre, or approximately 13,000 sq. ft. RTK, vSLAM and Vision AI navigation support repeatable, systematic mowing without daily manual control, while AI obstacle avoidance helps the mower respond to common objects and changing yard conditions. X3 Plus handles slopes up to 17° (about 31% grade) and uses an 8 in. cutting system with 9 height settings from 1.6 to 3.2 in. A 20V 5Ah battery provides up to 168 minutes of runtime and recharges in about 1.5 hours. Through the SUNSEEKER app, homeowners can create multiple lawn zones, auto-map areas, set mowing schedules and select pattern-cutting plans for front yards, back yards and other separated spaces. Automatic recharging, rain, lift, tilt and collision sensors support autonomous operation, while edge cutting, headlights, theft protection, smart-home integration and voice control add convenience. Backed by a 2-year manufacturer warranty.",
+        "ManufacturerPartNumbers": [
+          "SKRMX3PLUS"
+        ],
+        "ImageUrl": "https://images.thdstatic.com/productImages/67312491-38f8-4ea3-bbe6-2f6c94b4b179/svn/sunseeker-robotic-lawn-mowers-skrmx3plus-64_1000.jpg",
+        "Name": "X3 Plus Wireless 8 in. Robot Lawn Mower (0.3 Acre) with RTK Navigation, AI Obstacle Avoidance, App Control",
+        "Id": "336272752",
+        "CategoryId": "c0031913-cc2e-4ff4-afb7-3aa61129b726",
+        "BrandExternalId": "Sunseeker",
+        "Brand": {
+          "Id": "Sunseeker",
+          "Name": "SUNSEEKER"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.homedepot.com/p/SUNSEEKER-X3-Plus-Wireless-8-in-Robot-Lawn-Mower-0-3-Acre-with-RTK-Navigation-AI-Obstacle-Avoidance-App-Control-SKRMX3PLUS/336272752",
+        "Disabled": false,
+        "QuestionIds": [],
+        "ISBNs": [],
+        "ReviewIds": [],
+        "ModelNumbers": [],
+        "StoryIds": [],
+        "EANs": [],
+        "FamilyIds": [],
+        "ReviewStatistics": {
+          "TotalVideoCount": 0,
+          "SecondaryRatingsAveragesOrder": [
+            "Quality",
+            "Value"
+          ],
+          "SecondaryRatingsAverages": {
+            "Value": {
+              "Id": "Value",
+              "AverageRating": 1.0,
+              "ValueRange": 5,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null
+            },
+            "Quality": {
+              "Id": "Quality",
+              "AverageRating": 1.0,
+              "ValueRange": 5,
+              "DisplayType": "NORMAL",
+              "MaxLabel": null,
+              "MinLabel": null
+            }
+          },
+          "TotalPhotoCount": 1,
+          "RatingsOnlyReviewCount": 3,
+          "NotHelpfulVoteCount": 0,
+          "RatingDistribution": [
+            {
+              "RatingValue": 1,
+              "Count": 3
+            },
+            {
+              "RatingValue": 3,
+              "Count": 1
+            },
+            {
+              "RatingValue": 4,
+              "Count": 1
+            },
+            {
+              "RatingValue": 5,
+              "Count": 1
+            }
+          ],
+          "NotRecommendedCount": 2,
+          "FirstSubmissionTime": "2025-06-27T22:33:51.000+00:00",
+          "LastSubmissionTime": "2026-07-20T07:07:42.000+00:00",
+          "AverageOverallRating": 2.5,
+          "TotalReviewCount": 6,
+          "RecommendedCount": 0,
+          "FeaturedReviewCount": 0,
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaser",
+            "EarlyReviewerIncentive"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaser": {
+              "Id": "VerifiedPurchaser",
+              "Values": [
+                {
+                  "Count": 4,
+                  "Value": "True"
+                }
+              ]
+            },
+            "EarlyReviewerIncentive": {
+              "Id": "EarlyReviewerIncentive",
+              "Values": [
+                {
+                  "Count": 3,
+                  "Value": "False"
+                }
+              ]
+            }
+          },
+          "HelpfulVoteCount": 5,
+          "TotalMediaCount": 1,
+          "TagDistributionOrder": [],
+          "OverallRatingRange": 5,
+          "TagDistribution": {},
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 6
+      }
+    },
+    "ProductsOrder": [
+      "336272752"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}

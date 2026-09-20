@@ -1,0 +1,2363 @@
+{
+  "Limit": 100,
+  "Offset": 100,
+  "TotalResults": 134,
+  "Locale": "en_US",
+  "Results": [
+    {
+      "Id": "214196513",
+      "CID": "94ef0e12-cad1-5ce9-9a53-89b3c344630f",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2022-01-20T02:45:05.000+00:00",
+      "LastModificationTime": "2023-08-10T09:47:03.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_App_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "5cd7a452-a3c0-4da1-b076-57269f3f7f19",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 4,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__16426459bJKx383QOH",
+      "SubmissionTime": "2022-01-20T02:32:01.000+00:00",
+      "UserNickname": "Handyman",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "214185503",
+      "CID": "bb01eaeb-4b71-5b33-87a3-26b2c40cdb6a",
+      "SourceClient": "lowes",
+      "Badges": {
+        "Expert": {
+          "ContentType": "REVIEW",
+          "Id": "Expert",
+          "BadgeType": "Rank"
+        }
+      },
+      "BadgesOrder": [
+        "Expert"
+      ],
+      "LastModeratedTime": "2022-01-19T20:00:07.000+00:00",
+      "LastModificationTime": "2023-10-15T13:57:08.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "50df4e3e-0f45-4523-ac0d-010936d54e6b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.16666699945926666,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 5,
+      "TotalPositiveFeedbackCount": 1,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__16426207M58mSQzCRo",
+      "SubmissionTime": "2022-01-19T19:33:06.000+00:00",
+      "ReviewText": "It was a little challenging to put together, but can't wait to use when weather is warmer.",
+      "Title": "All in one yard tool",
+      "UserNickname": "Mechi",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "AdditionalFieldsOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "213375982",
+      "CID": "06f6da65-c47c-5188-aa7b-882f848442cc",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-12-29T00:30:08.000+00:00",
+      "LastModificationTime": "2025-08-23T18:46:06.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "orderhistory_desktop",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nIf there is anything we can do to support your tool, please let us know. Customersupport&#64;wildbadgerpower.com.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-06-11T15:41:35.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "snwpd2xfcyb0tin5mvd9mziss",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zenlz66ajm1t832qo5yta56o13",
+          "SubmissionTime": "2022-04-29T18:44:35.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.7619050145149231,
+      "TotalFeedbackCount": 21,
+      "TotalNegativeFeedbackCount": 5,
+      "TotalPositiveFeedbackCount": 16,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16407364b6qZL0fMQF",
+      "SubmissionTime": "2021-12-29T00:08:16.000+00:00",
+      "ReviewText": "Bought this brush cutter combo in October and the engine failed after about 3 hours run time",
+      "Title": "Junk",
+      "UserNickname": "Disappointed",
+      "ContextDataValues": {},
+      "RatingRange": 5,
+      "ContextDataValuesOrder": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "211299896",
+      "CID": "102f727a-0020-5353-a74e-6868100d273d",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-10-13T19:15:06.000+00:00",
+      "LastModificationTime": "2024-04-02T21:53:21.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "d7433154-e836-4d35-83bc-f06a6d0e6d4b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "ztcr7pga6uwgqnyijl3zubdy9o",
+          "SubmissionTime": "2022-05-25T14:34:40.000+00:00"
+        },
+        {
+          "AuthorId": "e81e39b6-8171-482c-bbb4-c0f1993b88b7",
+          "SubmissionTime": "2021-11-21T03:51:25.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 6,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16341470Lr0mfq8o2F",
+      "SubmissionTime": "2021-10-13T17:44:12.000+00:00",
+      "ReviewText": "Starts up right away - the weed line and the hedge trimmer work excellent - the brush metal cutter (instead of the weed line) works good but the full trimmer shakes a lot and its tiring after a while. I have not tried the chain saw adaptor it came with",
+      "Title": "a good product with fair price for all attachments",
+      "UserNickname": "MiltC",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "211295998",
+      "CID": "8e761522-182a-5e35-ad24-14297dacf060",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-10-13T14:45:06.000+00:00",
+      "LastModificationTime": "2023-08-10T09:48:49.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "b2a57d53-fbd7-4a34-98d7-b2177bcfe57d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "9d82dd78-b5ea-425a-933f-218e45ca77f5",
+          "SubmissionTime": "2022-05-01T20:59:41.000+00:00"
+        },
+        {
+          "AuthorId": "b8f30a21-59ac-4309-8689-d09061a6d417",
+          "SubmissionTime": "2022-03-03T21:29:35.000+00:00"
+        },
+        {
+          "AuthorId": "ab78d4de-5939-49c1-b363-b831d10a2279",
+          "SubmissionTime": "2022-01-17T20:13:51.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 3,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "IsRecommended": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 5,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16341359Bu52ys7AZh",
+      "SubmissionTime": "2021-10-13T14:38:33.000+00:00",
+      "UserNickname": "jean",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "211083127",
+      "CID": "69321c64-5fa4-5655-b45c-383a7afb3dbc",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-10-03T00:30:04.000+00:00",
+      "LastModificationTime": "2024-04-20T20:07:13.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "7a2315ac-50d0-4fd9-88c8-f7e31f77dfca",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 9,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 9,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__16332199IuHS2LzGxO",
+      "SubmissionTime": "2021-10-03T00:12:27.000+00:00",
+      "ReviewText": "Good choice for the price - lots of attachments  - much better than the battery style trimmer.",
+      "Title": "Multi tool",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "210917153",
+      "CID": "de65b2bb-5da4-5a5e-a42e-22138c5d89b9",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-09-25T18:45:06.000+00:00",
+      "LastModificationTime": "2023-08-25T14:30:08.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "de687bb3-c721-4d39-b566-5a61c1898cb8",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 6,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16325951L8fMKigGyE",
+      "SubmissionTime": "2021-09-25T18:39:32.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "210873520",
+      "CID": "02d66f38-2323-5ced-bb49-3239d25cdbec",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-09-23T17:00:07.000+00:00",
+      "LastModificationTime": "2024-09-04T17:36:15.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "f1c8468b-69e8-45c8-b43d-7d3098cc82e3",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "f4f839ea-0307-464c-8219-612cc7a9847b",
+          "SubmissionTime": "2021-11-29T00:10:19.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 3,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.8888890147209167,
+      "TotalFeedbackCount": 9,
+      "TotalNegativeFeedbackCount": 1,
+      "TotalPositiveFeedbackCount": 8,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__16324152xf3TFthHbG",
+      "SubmissionTime": "2021-09-23T16:41:33.000+00:00",
+      "ReviewText": "Changing attachments is a pain, very hard to put in or take out attachments, will need to Dremel out piece where attachments slide into place. Other than. That, works great, decent power.",
+      "Title": "Good Value",
+      "UserNickname": "RJL1983",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "210812578",
+      "CID": "99c8bdc5-1188-5009-9017-bffff2e8213d",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-09-21T00:00:05.000+00:00",
+      "LastModificationTime": "2025-08-23T18:45:59.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "AuthorId": "eiw5uyr97esoxwpxo00aem5fy",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 13,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 13,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16321813pZBqYfBzpJ",
+      "SubmissionTime": "2021-09-20T23:41:54.000+00:00",
+      "ReviewText": "I love this thing. I also got the pole-saw attachment. I've use this a lot this summer, and am on my 3rd chain for the saw. Clearing out weeds & brush, cutting down trees, and trimming shrubs, this tool does it all. Easy to change attachments, which I do often. You need to read the instructions and maintain it like the book says. I've cleaned the filter & keep it oiled. I've put it to the test, and it works great for the price. Not commercial grade, but for the home-owner, it's been perfect for me. No complaints.",
+      "Title": "Great, highly versatile, home-owner multi-tool!",
+      "UserNickname": "GaryEE",
+      "ContextDataValues": {},
+      "RatingRange": 5,
+      "ContextDataValuesOrder": [],
+      "InappropriateFeedbackList": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "210517869",
+      "CID": "eb512b31-f488-5008-9f0f-d9b563cad545",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-09-07T05:15:03.000+00:00",
+      "LastModificationTime": "2023-08-10T09:51:22.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "d82aad02-965d-4a46-b0b9-c5f58398bbe5",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z9zwudrqjd31eed9c14wl32nty",
+          "SubmissionTime": "2021-09-15T18:53:35.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 4,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__163099088uG7PfrRfn",
+      "SubmissionTime": "2021-09-07T05:01:27.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "210499624",
+      "CID": "354ccaec-7f69-5958-82c5-d873cbb9bf3e",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-09-06T15:15:08.000+00:00",
+      "LastModificationTime": "2023-10-15T13:57:05.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Store_other_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "059eadfb-c788-4cdb-b644-cc67c12e07ff",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 5,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16__16309398GDhNVFmLOT",
+      "SubmissionTime": "2021-09-06T14:51:05.000+00:00",
+      "ReviewText": "Great price, works well.  Not as heavy to use as some so that is a plus too.",
+      "Title": "Good value.",
+      "UserNickname": "DebN",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "210469482",
+      "CID": "7b020f40-c1e0-5c33-87fb-ddf958d8744d",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-09-04T20:00:08.000+00:00",
+      "LastModificationTime": "2025-08-23T18:42:55.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "WriteAReview_PDP_MOW",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nHi Trae, If this is still an issue, please email us at customersupport&#64;wildbadgerpower.com for assistance. We warranty all wearable parts including carb adjustment tools.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-02-12T19:24:49.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "dgctc8p6ax3ikcewpsprlk0dy",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zm1888uff66cp18jriz71r6ve5",
+          "SubmissionTime": "2024-04-18T19:50:58.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.7837839722633362,
+      "TotalFeedbackCount": 37,
+      "TotalNegativeFeedbackCount": 8,
+      "TotalPositiveFeedbackCount": 29,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16307842Ch6EWPhb70",
+      "SubmissionTime": "2021-09-04T19:37:04.000+00:00",
+      "ReviewText": "I have the 4 in 1 trimmer and it’s been one thing after another first off the Warranty does not cover carb adjustments and you need a special tool for that which you can not purchase anywhere so you either have to make a tool or pay a shop to do it and when I got it it needed carb adjusted. Within 1 month the fuel lines were already breaking down and had to replace them. Now it’s barely running and I’ve only had this thing 4 months now. There’s only been a couple times that I’ve used it that it hasn’t given me some kind of problem. I wish that I had never bought it And they have now blocked me on facebook",
+      "Title": "Constant problems",
+      "UserNickname": "Trae311",
+      "ContextDataValues": {},
+      "RatingRange": 5,
+      "ContextDataValuesOrder": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "210450866",
+      "CID": "03eb8f3a-6402-57de-a003-005511dd4ccb",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-09-03T19:00:08.000+00:00",
+      "LastModificationTime": "2023-08-10T09:53:10.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "52b9d66f-0040-45c8-bf36-267550ea8bb7",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z5wyaybn8eifwq1u0me90mguyu",
+          "SubmissionTime": "2021-09-15T18:53:27.000+00:00"
+        },
+        {
+          "AuthorId": "za9xfbhfs3stx4nmesudbscupn",
+          "SubmissionTime": "2021-09-08T23:47:46.000+00:00"
+        },
+        {
+          "AuthorId": "0ae34744-a442-4c35-b5f4-b5e5a1dbfbc9",
+          "SubmissionTime": "2021-09-08T10:50:18.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 3,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 4,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16306952zvalRJxMXJ",
+      "SubmissionTime": "2021-09-03T18:53:48.000+00:00",
+      "UserNickname": "Big Gee",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "210180002",
+      "CID": "8a71c3b0-c04e-5b17-aead-c2f9d3f141e4",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-08-23T14:15:13.000+00:00",
+      "LastModificationTime": "2024-04-20T20:12:09.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_App_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "4baf68eb-e661-4afa-b1f2-4c6d911b3697",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.4285709857940674,
+      "TotalFeedbackCount": 7,
+      "TotalNegativeFeedbackCount": 4,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__16297264SuuahvqXsm",
+      "SubmissionTime": "2021-08-23T13:48:14.000+00:00",
+      "ReviewText": "Loved the multi tool capabilities of this unit and how inexpensive it was. I noticed tue the chain on the pole saw does need adjusting often and the brush blade will bend easily. Overall great product.",
+      "Title": "Best deal for the money",
+      "UserNickname": "Rich",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "210135548",
+      "CID": "cbc1f3a3-e8d9-5b3f-aab6-c4c103831a3b",
+      "SourceClient": "lowes",
+      "Badges": {
+        "Expert": {
+          "ContentType": "REVIEW",
+          "Id": "Expert",
+          "BadgeType": "Rank"
+        }
+      },
+      "BadgesOrder": [
+        "Expert"
+      ],
+      "LastModeratedTime": "2021-08-20T23:45:03.000+00:00",
+      "LastModificationTime": "2023-08-25T14:30:10.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "9ee0b1c0-3dfc-4abe-aaac-b12ad5b6499f",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zpamsw7ziz3x5nd5vqqadl4vis",
+          "SubmissionTime": "2023-11-16T01:13:19.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 6,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16295026B0No27LrFi",
+      "SubmissionTime": "2021-08-20T23:37:53.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "210119298",
+      "CID": "110b6db6-2bb6-5b4f-a688-70e7b8506066",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-08-20T11:45:13.000+00:00",
+      "LastModificationTime": "2023-08-10T09:54:42.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "9debe544-7e47-45be-b301-072eab0aa7a9",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "IsRecommended": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 4,
+      "TotalNegativeFeedbackCount": 4,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16294598swSoUvVqg9",
+      "SubmissionTime": "2021-08-20T11:44:48.000+00:00",
+      "UserNickname": "Adrien",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "210038960",
+      "CID": "939e42d4-6b66-5665-89ea-76fa1572d83b",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-08-16T23:15:05.000+00:00",
+      "LastModificationTime": "2024-04-20T20:06:56.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "2d9a5dc0-5c27-407d-9ba3-f0ce97aa1d0d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z7gk8ld2mrtx82jplsijl52i19",
+          "SubmissionTime": "2022-05-17T02:54:42.000+00:00"
+        },
+        {
+          "AuthorId": "e7201414-1e06-4f8a-9a9e-3c5f65ab86d0",
+          "SubmissionTime": "2021-08-31T18:39:54.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 2,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 10,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 10,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__162915405gk6nYXw8K",
+      "SubmissionTime": "2021-08-16T22:47:57.000+00:00",
+      "ReviewText": "A great product. Woods to the rear of my property have overgrown 10+ Feet of my previous lawn area. I have been able to remove large vegetation with chain saw attachment. Chop down heavy covering of weeds and vines with brush hog attachment and cut remaining weeds and vegetation down to dirt level preparing ground for return of lawn covering.",
+      "Title": "Cost of tool far less than comparable name brand m",
+      "UserNickname": "John Sr",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "209960661",
+      "CID": "7c2e5a2f-0dad-5c1a-b133-e0fdfa9c918c",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-08-13T10:30:04.000+00:00",
+      "LastModificationTime": "2023-08-25T14:30:12.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_App_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "428d3320-f696-4a47-9a00-1e81f47e7c9b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z5owvtu3qje2uhuyxxwfx9to9o",
+          "SubmissionTime": "2021-09-04T16:04:35.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 6,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16288497UKlRGgWy37",
+      "SubmissionTime": "2021-08-13T10:15:29.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "209950434",
+      "CID": "bdf9e8e0-1c79-54c1-a9bd-6e9a538f08d9",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-08-12T18:30:05.000+00:00",
+      "LastModificationTime": "2024-04-17T01:33:14.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_Online_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "409da16d-02af-4235-8e46-80d9ecce034d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "a9a796c9-b9db-4f8b-b5c7-abcab04f1d11",
+          "SubmissionTime": "2022-04-26T19:23:49.000+00:00"
+        },
+        {
+          "AuthorId": "74260bb1-f4e8-4b40-8086-6443a802e98b",
+          "SubmissionTime": "2021-09-09T10:32:13.000+00:00"
+        },
+        {
+          "AuthorId": "z2lqqm5xdkmflj0149oeiswg4v",
+          "SubmissionTime": "2021-09-08T17:22:58.000+00:00"
+        },
+        {
+          "AuthorId": "de87e8a6-371a-42b1-a54a-8de87a209b7c",
+          "SubmissionTime": "2021-08-31T18:49:24.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 4,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 19,
+      "TotalNegativeFeedbackCount": 19,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16287928b8zRAA8ZWf",
+      "SubmissionTime": "2021-08-12T18:26:45.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "209678387",
+      "CID": "e1456090-c415-5941-a13d-27680107a3a7",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-07-31T00:15:04.000+00:00",
+      "LastModificationTime": "2023-08-10T09:55:54.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_App_Android_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "e07c07c5-286a-4b54-a0e1-725fc501142d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 6,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__16276899leagADF6hf",
+      "SubmissionTime": "2021-07-31T00:05:14.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "209588651",
+      "CID": "dd8ad4ed-e5f0-5e95-9e05-c31b29cd80d6",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-07-27T04:45:04.000+00:00",
+      "LastModificationTime": "2023-08-10T09:55:58.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_DT_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "4b046850-04bb-44e9-a7ef-6f51b3d5b119",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 5,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16273603SUjR6Sohkd",
+      "SubmissionTime": "2021-07-27T04:32:22.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "209483156",
+      "CID": "013d8586-29d3-5dc0-af0a-7043a26c4875",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-07-22T13:15:17.000+00:00",
+      "LastModificationTime": "2023-08-10T09:56:16.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_DT_Touch2",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "639a7e72-b831-427b-a76f-7f6f97040c5c",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "IsRecommended": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 6,
+      "TotalNegativeFeedbackCount": 6,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_13__162695943BNHnPeewX",
+      "SubmissionTime": "2021-07-22T13:10:29.000+00:00",
+      "UserNickname": "johns",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "209234608",
+      "CID": "ca4429df-137b-553b-9246-e43440a5bb32",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-07-11T23:45:04.000+00:00",
+      "LastModificationTime": "2023-07-31T14:25:15.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "iOS",
+      "AuthorId": "u5eop5loch7dw5km4btzsmp8z",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zl6hawm4zhvuwefsl5g5pswv9y",
+          "SubmissionTime": "2022-04-10T15:21:58.000+00:00"
+        },
+        {
+          "AuthorId": "51ec7c6b-e11b-4883-8a8e-ebc01ce142a0",
+          "SubmissionTime": "2021-08-15T15:33:59.000+00:00"
+        },
+        {
+          "AuthorId": "556fd020-152e-41dd-b3a7-7f8467421896",
+          "SubmissionTime": "2021-07-16T14:30:34.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 3,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 3,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 3,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_162604552c3w3pS530",
+      "SubmissionTime": "2021-07-11T23:18:57.000+00:00",
+      "ReviewText": "Runs great, easy to assemble. Best value on the market.",
+      "Title": "Outstanding Product",
+      "UserNickname": "MGDIi",
+      "ContextDataValues": {},
+      "RatingRange": 5,
+      "ContextDataValuesOrder": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "209220161",
+      "CID": "49759377-ca8b-5f0f-b67e-6db631bb1ca9",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-07-11T10:45:09.000+00:00",
+      "LastModificationTime": "2023-07-31T14:25:17.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_DT_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "17e1b8fe-dd00-456c-b1d1-6e2e3d078e3d",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "IsRecommended": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 5,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__162599986gBu0uNFnH",
+      "SubmissionTime": "2021-07-11T10:37:33.000+00:00",
+      "UserNickname": "bill",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "208798105",
+      "CID": "8341033f-9095-55e2-a855-8f0eea002828",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-06-24T04:15:03.000+00:00",
+      "LastModificationTime": "2025-08-23T18:46:38.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "WriteAReview_PDP_MOW",
+      "AuthorId": "b1d12eusqvdzswsjr8q5uiupf",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "358bd119-3001-4f0e-8e26-54fde99beb03",
+          "SubmissionTime": "2022-03-27T05:02:39.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.5,
+      "TotalFeedbackCount": 22,
+      "TotalNegativeFeedbackCount": 11,
+      "TotalPositiveFeedbackCount": 11,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16245063Nm2vlJby9j",
+      "SubmissionTime": "2021-06-24T03:46:18.000+00:00",
+      "ReviewText": "Less than an hour out of the box, would not stay cranked, the chain kept popping off on the pole saw, the Bush cutter was working ok if it would have stayed cranked long enough to do more than a small patch. Then the pull string locked up around minute 50. Terrible product, dont waste your money or time.",
+      "Title": "DO NOT BUY!!!",
+      "UserNickname": "Thebeardedbard",
+      "ContextDataValues": {},
+      "RatingRange": 5,
+      "ContextDataValuesOrder": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "208738514",
+      "CID": "6e4f974b-1299-5290-bdbf-0f0147e61a6d",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2024-04-19T05:45:07.000+00:00",
+      "LastModificationTime": "2025-05-19T16:25:26.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "WriteAReview_PDP_MOW",
+      "AuthorId": "hly8twvbji9bvndf14m2oanwc",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zdk33rkca3kqt2atm2ltt9dg5u",
+          "SubmissionTime": "2024-08-12T00:54:11.000+00:00"
+        },
+        {
+          "AuthorId": "zt0gj2xarbhykpy92gtl8ddvul",
+          "SubmissionTime": "2024-05-02T21:15:19.000+00:00"
+        },
+        {
+          "AuthorId": "z7gqfla1rzijanort3sighasrk",
+          "SubmissionTime": "2024-04-17T03:41:16.000+00:00"
+        },
+        {
+          "AuthorId": "zpcu1rgupqvslwbc0misobyl4y",
+          "SubmissionTime": "2023-05-29T23:15:26.000+00:00"
+        },
+        {
+          "AuthorId": "z7hp33rd86i0qxrqy5dvft67ge",
+          "SubmissionTime": "2022-05-05T07:36:39.000+00:00"
+        },
+        {
+          "AuthorId": "zi9bsceljk4axxk1vkixjqk2s3",
+          "SubmissionTime": "2022-04-29T18:43:49.000+00:00"
+        },
+        {
+          "AuthorId": "358bd119-3001-4f0e-8e26-54fde99beb03",
+          "SubmissionTime": "2022-03-27T05:02:42.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 7,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.6097559928894043,
+      "TotalFeedbackCount": 41,
+      "TotalNegativeFeedbackCount": 16,
+      "TotalPositiveFeedbackCount": 25,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_162431389jtLwn4LUp",
+      "SubmissionTime": "2021-06-21T22:17:42.000+00:00",
+      "ReviewText": "My husband bought this for our small yard. He was able to get it started once, but when he turned it off to change attachments, he couldn’t get it running again. I’ve tried many times, instructions in hand, to get this thing running, and it’s like it has been designed to be impossible. Pull start, choke that you have to switch while it’s just turned over to “run” then another switch to flip or the thing stops running after a minute anyway. I wish I could return it but it’s out of warranty because we assumed it was human error that was the problem, which is a pretty good racket if you like fleecing people with motor technology that was outdated in the 1990s.",
+      "Title": "Start and run problems",
+      "UserNickname": "Lauren",
+      "ContextDataValues": {},
+      "RatingRange": 5,
+      "ContextDataValuesOrder": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "208705885",
+      "CID": "0638edad-8dcc-5ef0-991c-654d0e8c84bb",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-06-20T18:30:06.000+00:00",
+      "LastModificationTime": "2023-08-10T09:58:55.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_MW_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "e464fb53-ac47-49a0-8a9c-60d2465d0a73",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 5,
+      "TotalNegativeFeedbackCount": 5,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16242132cYqtOnA5CI",
+      "SubmissionTime": "2021-06-20T18:20:22.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "208695673",
+      "CID": "fddf1026-7e27-503c-9a6f-c87dfb19b1f4",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-06-20T03:45:07.000+00:00",
+      "LastModificationTime": "2023-10-15T13:54:43.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_MW_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "c5fccc5e-2ff1-409d-bf71-6f7b009c39cd",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 8,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 8,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16241589bNJd2u8sCg",
+      "SubmissionTime": "2021-06-20T03:16:27.000+00:00",
+      "ReviewText": "So far, I have only assembled and did one test run with string trimmer head, so no long term experience. BUT, I am impressed with all the components, powerhead, chainsaw trimmer and headge trimmer attachements. They are well designed and sturdy, especially for the price. I am looking forward to putting them to use around the property. Seems to ve a very good value.",
+      "Title": "Better than expected",
+      "UserNickname": "Glennv",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "InappropriateFeedbackList": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "208634612",
+      "CID": "b2b8f861-fd0e-5248-9461-230e89991b95",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-06-17T17:30:12.000+00:00",
+      "LastModificationTime": "2024-08-09T15:21:39.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_DT_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "d36e8c67-8eaa-4b88-b1ba-3d157ad1acc8",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z21q8f3rvuk1q1h6mdyi9ezb3x",
+          "SubmissionTime": "2024-04-03T10:41:49.000+00:00"
+        },
+        {
+          "AuthorId": "z28718pvs0by516qdvps22v8ye",
+          "SubmissionTime": "2022-05-09T00:29:55.000+00:00"
+        },
+        {
+          "AuthorId": "z24ieedlt3gooswkshhbgjtf3n",
+          "SubmissionTime": "2021-08-11T19:13:24.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 3,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 1.0,
+      "TotalFeedbackCount": 18,
+      "TotalNegativeFeedbackCount": 0,
+      "TotalPositiveFeedbackCount": 18,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16239496GWYb8qBgmn",
+      "SubmissionTime": "2021-06-17T17:07:55.000+00:00",
+      "ReviewText": "I bought this product to trim trees and bush.  Although I am unable to use, because it is much to heavy for me, my son hasn't stopped using it since it arrived.  It does an excellent job and the attachments work great.  My neighbor even asked me where I got it and the name of it.  He was quite impressed.",
+      "Title": "Excellent product!",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "208625895",
+      "CID": "46b923af-913b-53c8-aa7e-61dc9ae23924",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-06-17T10:00:09.000+00:00",
+      "LastModificationTime": "2023-08-10T10:00:16.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_MW_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "3592fd16-ede7-400c-aae9-3498d446c34b",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zt63s7xgc1ffzd46myyecwye0n",
+          "SubmissionTime": "2021-07-15T03:19:38.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 1,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 15,
+      "TotalNegativeFeedbackCount": 15,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16239238YyL5hWzNvs",
+      "SubmissionTime": "2021-06-17T09:58:09.000+00:00",
+      "UserNickname": null,
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "IsRecommended": null,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "208518592",
+      "CID": "eed8bf19-231d-5e13-b6ac-876ffe333d0f",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-06-13T19:15:06.000+00:00",
+      "LastModificationTime": "2023-08-10T10:00:20.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "PPE_MPS_online_DT_Touch1",
+      "ContextDataValuesOrder": [
+        "VerifiedPurchaserCDV"
+      ],
+      "AuthorId": "f1043a64-c7be-4bdc-91ca-b97302d66126",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zhusocyiq4j9ki9ax76imrkl1p",
+          "SubmissionTime": "2021-10-20T08:35:50.000+00:00"
+        },
+        {
+          "AuthorId": "zprji7eeoollariez0dj3puo5d",
+          "SubmissionTime": "2021-09-15T18:53:52.000+00:00"
+        },
+        {
+          "AuthorId": "zordcixox0g172i4uslgxsgjde",
+          "SubmissionTime": "2021-06-17T21:42:30.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 3,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 5,
+      "IsRatingsOnly": true,
+      "IsRecommended": true,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 11,
+      "TotalNegativeFeedbackCount": 11,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_12__16236113g2cmbEEgxj",
+      "SubmissionTime": "2021-06-13T19:09:58.000+00:00",
+      "UserNickname": "Blaseek",
+      "ContextDataValues": {
+        "VerifiedPurchaserCDV": {
+          "Value": "True",
+          "Id": "VerifiedPurchaserCDV"
+        }
+      },
+      "RatingRange": 5,
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "208298946",
+      "CID": "0bf96c71-2815-51d2-8b84-53bb97349e9f",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-06-06T00:30:05.000+00:00",
+      "LastModificationTime": "2024-04-17T01:33:17.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "WriteAReview_PDP_MOW",
+      "AuthorId": "alvkxkzmvka25xqh6sh6by8h8",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "z7kn6i9w5tmq6jchoh6kfvl0qm",
+          "SubmissionTime": "2021-08-30T18:20:06.000+00:00"
+        },
+        {
+          "AuthorId": "ztmvvkuj7rkiq5j2u109xfi8hj",
+          "SubmissionTime": "2021-06-20T20:33:55.000+00:00"
+        },
+        {
+          "AuthorId": "ztz6pwvcsupf3gp9yns9xubiqy",
+          "SubmissionTime": "2021-06-19T00:32:44.000+00:00"
+        },
+        {
+          "AuthorId": "zicwd349uvmjt6z36h4igqszkf",
+          "SubmissionTime": "2021-06-11T18:26:48.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 4,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": true,
+      "IsRecommended": false,
+      "Helpfulness": 0.0,
+      "TotalFeedbackCount": 25,
+      "TotalNegativeFeedbackCount": 25,
+      "TotalPositiveFeedbackCount": 0,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16229386OfIzm5PNrJ",
+      "SubmissionTime": "2021-06-06T00:17:07.000+00:00",
+      "UserNickname": "Renee",
+      "ContextDataValues": {},
+      "RatingRange": 5,
+      "ContextDataValuesOrder": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "ReviewText": null,
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Title": null,
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "207946090",
+      "CID": "3279deee-f75f-5565-b7d8-4c9315bed8be",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2026-04-06T03:45:04.000+00:00",
+      "LastModificationTime": "2026-04-06T03:45:04.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "ClientResponses": [
+        {
+          "Department": "Customer Care",
+          "Response": "\nIf there is anything we can do in the future to support your sale, please let us know. Customersupport&#64;wildbadgerpower.com.\n    <img src=\"https://s3.amazonaws.com/stratos-logos/logos/Sunseeker.jpg\" alt=\"Sunseeker\" title=\"Sunseeker\" style=\"display: block !important; margin-top: 2em !important; border: 1px solid #ccc !important; padding: 2px !important; background-color: white !important;\" />\n<!--[if ReviewResponse]><![endif]-->",
+          "ResponseSource": "Review Response",
+          "Date": "2024-06-11T15:27:07.000+00:00",
+          "SourceClientName": null
+        }
+      ],
+      "AuthorId": "7cflv01m7zhacijcymiskwkft",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "InappropriateFeedbackList": [
+        {
+          "AuthorId": "zkug7vkuu3ndmyd5nzy64ax6g5",
+          "SubmissionTime": "2026-04-04T02:25:08.000+00:00"
+        },
+        {
+          "AuthorId": "Guest",
+          "SubmissionTime": "2022-03-21T18:09:43.000+00:00"
+        },
+        {
+          "AuthorId": "zecl3o4r27ko3ng8c3e0rnogp3",
+          "SubmissionTime": "2021-06-17T21:42:26.000+00:00"
+        },
+        {
+          "AuthorId": "ziftwrhsjq0tbnzxtc5alokeos",
+          "SubmissionTime": "2021-06-11T18:26:43.000+00:00"
+        },
+        {
+          "AuthorId": "faf24e48-7650-4e0d-b081-f8385c2ca01a",
+          "SubmissionTime": "2021-06-09T14:30:33.000+00:00"
+        }
+      ],
+      "TotalInappropriateFeedbackCount": 5,
+      "TotalClientResponseCount": 1,
+      "TotalCommentCount": 0,
+      "Rating": 1,
+      "IsRatingsOnly": false,
+      "IsRecommended": false,
+      "Helpfulness": 0.5714290142059326,
+      "TotalFeedbackCount": 28,
+      "TotalNegativeFeedbackCount": 12,
+      "TotalPositiveFeedbackCount": 16,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16218884QNm44wlw5U",
+      "SubmissionTime": "2021-05-24T20:34:29.000+00:00",
+      "ReviewText": "Terrible product.  Directions are awful.  Used it for about 10 minutes when all of a sudden it mysteriously stopped running and wouldn't restart.  Never could get it to start again. Returning it tomorrow for a full refund.",
+      "Title": "Won't start",
+      "UserNickname": "Aaaaa",
+      "ContextDataValues": {},
+      "RatingRange": 5,
+      "ContextDataValuesOrder": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    },
+    {
+      "Id": "207850805",
+      "CID": "35a29abe-eabd-5b22-8e19-de6c27766c47",
+      "SourceClient": "lowes",
+      "LastModeratedTime": "2021-05-21T17:30:27.000+00:00",
+      "LastModificationTime": "2025-03-07T12:39:13.000+00:00",
+      "ProductId": "5014463151",
+      "OriginalProductName": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+      "CampaignId": "WriteAReview_PDP_DT",
+      "AuthorId": "bai8s6wop1jmpkcthwbw8g8i1",
+      "ContentLocale": "en_US",
+      "IsFeatured": false,
+      "TotalInappropriateFeedbackCount": 0,
+      "TotalClientResponseCount": 0,
+      "TotalCommentCount": 0,
+      "Rating": 4,
+      "IsRatingsOnly": false,
+      "IsRecommended": true,
+      "Helpfulness": 0.7777780294418335,
+      "TotalFeedbackCount": 27,
+      "TotalNegativeFeedbackCount": 6,
+      "TotalPositiveFeedbackCount": 21,
+      "ModerationStatus": "APPROVED",
+      "SubmissionId": "r10534_16216166JCCBmroH3R",
+      "SubmissionTime": "2021-05-21T17:04:09.000+00:00",
+      "ReviewText": "tried mine out today and I'am well pleased with it,,have not tried the pole saw or hedge trimmer or brush blade yet,,but it seems well built and 6 year warranty shows they put care in the product and build them to last",
+      "Title": "it should have a list of whats in the box,",
+      "UserNickname": "retired",
+      "ContextDataValues": {},
+      "RatingRange": 5,
+      "ContextDataValuesOrder": [],
+      "InappropriateFeedbackList": [],
+      "AdditionalFieldsOrder": [],
+      "Badges": {},
+      "BadgesOrder": [],
+      "CommentIds": [],
+      "UserLocation": null,
+      "SecondaryRatingsOrder": [],
+      "ProductRecommendationIds": [],
+      "Photos": [],
+      "TagDimensionsOrder": [],
+      "Cons": null,
+      "SecondaryRatings": {},
+      "Pros": null,
+      "Videos": [],
+      "ClientResponses": [],
+      "TagDimensions": {},
+      "IsSyndicated": false,
+      "AdditionalFields": {}
+    }
+  ],
+  "Includes": {
+    "Products": {
+      "5014463151": {
+        "FamilyIds": [
+          "3674328"
+        ],
+        "AttributesOrder": [
+          "itemNumber",
+          "marketplace",
+          "AssortmentNumber",
+          "MerchandisingDivisionNumber",
+          "BusinessAreaNumber",
+          "lin",
+          "MerchandisingSubdivisionNumber",
+          "AVAILABILITY",
+          "BV_FE_EXPAND",
+          "vendorNumber",
+          "BV_FE_FAMILY",
+          "ProductGroupNumber",
+          "GTIN14"
+        ],
+        "Attributes": {
+          "itemNumber": {
+            "Id": "itemNumber",
+            "Values": [
+              {
+                "Value": "3674328",
+                "Locale": null
+              }
+            ]
+          },
+          "marketplace": {
+            "Id": "marketplace",
+            "Values": [
+              {
+                "Value": "false",
+                "Locale": null
+              }
+            ]
+          },
+          "AssortmentNumber": {
+            "Id": "AssortmentNumber",
+            "Values": [
+              {
+                "Value": "18661",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingDivisionNumber": {
+            "Id": "MerchandisingDivisionNumber",
+            "Values": [
+              {
+                "Value": "21",
+                "Locale": null
+              }
+            ]
+          },
+          "BusinessAreaNumber": {
+            "Id": "BusinessAreaNumber",
+            "Values": [
+              {
+                "Value": "8",
+                "Locale": null
+              }
+            ]
+          },
+          "lin": {
+            "Id": "lin",
+            "Values": [
+              {
+                "Value": "3674328",
+                "Locale": null
+              }
+            ]
+          },
+          "MerchandisingSubdivisionNumber": {
+            "Id": "MerchandisingSubdivisionNumber",
+            "Values": [
+              {
+                "Value": "239",
+                "Locale": null
+              }
+            ]
+          },
+          "AVAILABILITY": {
+            "Id": "AVAILABILITY",
+            "Values": [
+              {
+                "Value": "True",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_EXPAND": {
+            "Id": "BV_FE_EXPAND",
+            "Values": [
+              {
+                "Value": "BV_FE_FAMILY:3674328",
+                "Locale": null
+              }
+            ]
+          },
+          "vendorNumber": {
+            "Id": "vendorNumber",
+            "Values": [
+              {
+                "Value": "108792",
+                "Locale": null
+              }
+            ]
+          },
+          "BV_FE_FAMILY": {
+            "Id": "BV_FE_FAMILY",
+            "Values": [
+              {
+                "Value": "3674328",
+                "Locale": null
+              }
+            ]
+          },
+          "ProductGroupNumber": {
+            "Id": "ProductGroupNumber",
+            "Values": [
+              {
+                "Value": "510533",
+                "Locale": null
+              }
+            ]
+          },
+          "GTIN14": {
+            "Id": "GTIN14",
+            "Values": [
+              {
+                "Value": "00854641007641",
+                "Locale": null
+              }
+            ]
+          }
+        },
+        "UPCs": [
+          "854641007641"
+        ],
+        "Name": "4 In 1 Multi Tool 26-cc 2-cycle 17-in Straight Shaft Attachment Capable Gas String Trimmer",
+        "ModelNumbers": [
+          "WBPMT26P"
+        ],
+        "Description": "POWERFUL ENGINE AND HIGH AIRFLOW: Gas full crank shaft design reduces exhaust and increases fuel efficiency 4-IN-1 MULTI-FUNCTION: Includes 26cc engine, string trimmer, brush cutter blade, hedge trimmer, pole saw, and double harness CUTTING SWATH: 17-inch cutting path to cover more ground in less time NOTES ABOUT THIS PRODUCT: This machine takes a mix of both gasoline and oil (not included) ANTI-VIBRATION: Engine transmission is supported by an aluminum support which greatly reduces vibration, use the harness for more control EASY TO ASSEMBLE AND START: It is very easy to assemble and remove, changing from one attachment to the other requires no tools COMPATIBLE WITH THE FOLLOWING: Works with most brands of attachment-capable trimmers like Sunseeker, Wild Badger Power, Ryobi, Craftsman, Troy-Bilt, Toro, Poulan, Poulan Pro, Weed Eater, Cub Cadet, MTD Pro, John Deer, Yard Machine, Yard Man, McCulloch - Note: Be sure to check your user manual before purchasing for this attachment for another brand, Female- shaft diameter 1 inch, square inner diameter .48 inch, Male- shaft diameter 1 inch, square diameter .4 inch",
+        "ManufacturerPartNumbers": [
+          "3674328-108792-WBPMT26P"
+        ],
+        "ImageUrl": "https://mobileimages.lowes.com/productimages/18694efa-9a3d-421f-986a-94ce4071b8f9/70453451.jpeg",
+        "Id": "5014463151",
+        "CategoryId": "100741",
+        "BrandExternalId": "Wild Badger Power",
+        "Brand": {
+          "Id": "Wild Badger Power",
+          "Name": "Wild Badger Power"
+        },
+        "Active": true,
+        "ProductPageUrl": "https://www.lowes.com/pd/Wild-Badger-Power-Gas-26-cc-2-cycle-17-in-Straight-Shaft-Gas-Brush-Cutter-with-Attachment-Capable-and-Edger-Capable/5014463151",
+        "Disabled": false,
+        "EANs": [],
+        "QuestionIds": [],
+        "StoryIds": [],
+        "ReviewIds": [],
+        "ISBNs": [],
+        "ReviewStatistics": {
+          "RatingsOnlyReviewCount": 29,
+          "NotRecommendedCount": 27,
+          "ContextDataDistributionOrder": [
+            "VerifiedPurchaserCDV"
+          ],
+          "ContextDataDistribution": {
+            "VerifiedPurchaserCDV": {
+              "Id": "VerifiedPurchaserCDV",
+              "Values": [
+                {
+                  "Count": 109,
+                  "Value": "True"
+                }
+              ]
+            }
+          },
+          "NotHelpfulVoteCount": 354,
+          "RatingDistribution": [
+            {
+              "RatingValue": 5,
+              "Count": 79
+            },
+            {
+              "RatingValue": 1,
+              "Count": 28
+            },
+            {
+              "RatingValue": 4,
+              "Count": 19
+            },
+            {
+              "RatingValue": 2,
+              "Count": 5
+            },
+            {
+              "RatingValue": 3,
+              "Count": 3
+            }
+          ],
+          "FirstSubmissionTime": "2021-05-21T17:04:09.000+00:00",
+          "LastSubmissionTime": "2026-03-23T00:45:37.000+00:00",
+          "TotalPhotoCount": 1,
+          "HelpfulVoteCount": 396,
+          "TotalVideoCount": 0,
+          "AverageOverallRating": 3.8656716417910446,
+          "TotalReviewCount": 134,
+          "FeaturedReviewCount": 0,
+          "RecommendedCount": 54,
+          "TotalMediaCount": 1,
+          "SecondaryRatingsAverages": {},
+          "SecondaryRatingsAveragesOrder": [],
+          "TagDistribution": {},
+          "OverallRatingRange": 5,
+          "TagDistributionOrder": [],
+          "IntelligentTrustMarkDisplayEligible": true
+        },
+        "TotalReviewCount": 134
+      }
+    },
+    "ProductsOrder": [
+      "5014463151"
+    ]
+  },
+  "HasErrors": false,
+  "Errors": []
+}
